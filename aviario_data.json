@@ -1,0 +1,1012 @@
+{
+  "meta": {
+    "version": "0.3",
+    "descripcion": "Aviario Bonaerense — base de datos de aves de Buenos Aires y CABA",
+    "convenciones_sprites": {
+      "D": "default / no reproductivo",
+      "R": "reproductivo",
+      "M": "macho",
+      "F": "hembra",
+      "J": "juvenil",
+      "V": "vuelo",
+      "formato": "Genus_species_X.png",
+      "tamanio_default": "128x128 px, fondo blanco",
+      "tamanio_vuelo": "192x128 px, fondo blanco",
+      "direccion": "facing left (beak pointing left), excepto estrigidos facing forward"
+    },
+    "habitats": [
+      "urbano",
+      "pastizal",
+      "humedal",
+      "ribereño",
+      "costa",
+      "monte",
+      "bosque",
+      "agrícola",
+      "marino",
+      "aéreo"
+    ],
+    "tamanios": {
+      "chico": "hasta 20 cm",
+      "mediano": "21 a 60 cm",
+      "grande": "más de 60 cm"
+    },
+    "residencia": [
+      "permanente",
+      "estival",
+      "invernal",
+      "migratorio de paso"
+    ],
+    "marcos_descripcion": [
+      "1. Tamaño relativo (solo si aporta)",
+      "2. Cabeza (corona, cresta, cara, pico, ojo) — usar 'ceja' no 'supercilio'",
+      "3. Partes superiores (dorso, alas, cola)",
+      "4. Partes inferiores (garganta, pecho, vientre)",
+      "5. Patas",
+      "6. Nota de sexos si difieren"
+    ],
+    "tono": "Accesible, ciencia ciudadana, sin tecnicismos. No usar 'supercilio' (usar 'ceja'), no usar 'fuscous', 'vinaceous' etc."
+  },
+  "pendientes_tecnicos": [
+    "Normalización de escala entre variantes de misma especie (bounding box script)",
+    "Script generación automática con Gemini API",
+    "Selector de orden ya implementado en HTML (num, nombre, científico)",
+    "Regenerar sprites que miran a la derecha: hornero, cotorra, tordo M/F, golondrina M/F",
+    "Corregir 'grisáceas' encoding en hornero y cotorra en JSON",
+    "Automatizar provincias via GBIF API",
+    "Automatizar estado conservación via IUCN API",
+    "Automatizar audio_ebird_code via eBird API",
+    "Revisar numeración según orden taxonómico de guías aviares"
+  ],
+  "especies_pendientes_mvp": [
+    {
+      "num": "#004",
+      "nombre_comun": "Paloma doméstica",
+      "nombre_cientifico": "Columba livia",
+      "nota": "muchas variantes de color, pendiente"
+    },
+    {
+      "num": "#007",
+      "nombre_comun": "Gorrión",
+      "nombre_cientifico": "Passer domesticus",
+      "nota": "pendiente"
+    },
+    {
+      "num": "#018",
+      "nombre_comun": "Pato maicero",
+      "nombre_cientifico": "Anas georgica",
+      "nota": "pendiente"
+    },
+    {
+      "num": "#019",
+      "nombre_comun": "Jacana",
+      "nombre_cientifico": "Jacana jacana",
+      "nota": "pendiente"
+    },
+    {
+      "num": "#020",
+      "nombre_comun": "Garza bruja",
+      "nombre_cientifico": "Nycticorax nycticorax",
+      "nota": "pendiente"
+    },
+    {
+      "num": "#022",
+      "nombre_comun": "Chimango",
+      "nombre_cientifico": "Milvago chimango",
+      "nota": "pendiente"
+    },
+    {
+      "num": "#023",
+      "nombre_comun": "Gavilán mixto",
+      "nombre_cientifico": "Parabuteo unicinctus",
+      "nota": "pendiente"
+    },
+    {
+      "num": "#024",
+      "nombre_comun": "Halconcito colorado",
+      "nombre_cientifico": "Falco sparverius",
+      "nota": "pendiente"
+    },
+    {
+      "num": "#025",
+      "nombre_comun": "Flamenco austral",
+      "nombre_cientifico": "Phoenicopterus chilensis",
+      "nota": "pendiente"
+    },
+    {
+      "num": "#026",
+      "nombre_comun": "Torcaza",
+      "nombre_cientifico": "Zenaida auriculata",
+      "nota": "pendiente"
+    },
+    {
+      "num": "#027",
+      "nombre_comun": "Chiflón",
+      "nombre_cientifico": "Syrigma sibilatrix",
+      "nota": "pendiente"
+    },
+    {
+      "num": "#028",
+      "nombre_comun": "Lechucita de las vizcacheras",
+      "nombre_cientifico": "Athene cunicularia",
+      "nota": "estrigido — sprite facing forward"
+    },
+    {
+      "num": "#029",
+      "nombre_comun": "Gaviota capucho café",
+      "nombre_cientifico": "Chroicocephalus maculipennis",
+      "nota": "pendiente"
+    },
+    {
+      "num": "#030",
+      "nombre_comun": "Gaviota cocinera",
+      "nombre_cientifico": "Larus dominicanus",
+      "nota": "pendiente"
+    }
+  ],
+  "especies": [
+    {
+      "id": 1,
+      "num": "#001",
+      "nombre_comun": "Hornero",
+      "nombre_cientifico": "Furnarius rufus",
+      "familia": "Furnariidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "adulto": "Ave mediana y robusta. Cabeza parda con una ceja más clara. Dorso, alas y nuca pardo-rojizos. Cola y rabadilla de un rufo intenso y brillante. Garganta blancuzca que se funde con un pecho y vientre color ante pálido. Flancos algo más oscuros. Pico mediano casi recto. Patas grisáceas."
+      },
+      "habitat": [
+        "urbano",
+        "pastizal",
+        "agrícola",
+        "ribereño"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": 19,
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "La Pampa",
+        "Mendoza",
+        "San Luis",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Catamarca",
+        "La Rioja",
+        "San Juan",
+        "Neuquén",
+        "Río Negro"
+      ],
+      "curiosidades": "Ave nacional argentina. Construye nidos de barro y paja con forma de horno de entre 20 y 30 cm de diámetro. La pareja casi nunca reutiliza el mismo nido, dejándolo disponible como refugio para otras aves y animales. Se alimenta principalmente de insectos que recoge caminando por el suelo.",
+      "sprites": {
+        "D": "furnarius_rufus_D.png"
+      },
+      "sprites_extras": {
+        "nido": "furnarius_rufus_nido.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing left, beak pointing left, standing on ground, white background, 128x128 pixels, bird filling 65% of canvas height, medium-sized ovenbird, rufous-brown upperparts, rufous tail and rump, pale buff whitish throat and belly, light rufous supercilium, nearly straight medium bill, greyish legs, detailed feather texture with dithering, clean outline, no shadow, no text"
+      },
+      "prompts_pixelart_extras": {
+        "nido": "pixel art sprite, side view, white background, 128x128 pixels, hornero mud nest, round domed clay nest with lateral entrance hole, rough textured mud surface with visible cracks and straw, warm ochre-brown tones, perched on tree branch, detailed texture with dithering, clean outline, no shadow, no text"
+      },
+      "audio_ebird_code": "rufhor2",
+      "nota_sprites": "mira a la derecha — pendiente regenerar"
+    },
+    {
+      "id": 2,
+      "num": "#002",
+      "nombre_comun": "Tero",
+      "nombre_cientifico": "Vanellus chilensis",
+      "familia": "Charadriidae",
+      "orden": "Charadriiformes",
+      "descripcion": {
+        "adulto": "Ave mediana y llamativa. Cabeza gris con frente negra y una cresta fina y negra que cae hacia atrás. Banda ancha negra en el pecho. Dorso y alas pardo-grisáceos con un brillo bronceado y reflejos violáceos. Vientre blanco. Pico rojo-anaranjado con punta negra. Ojo rojo intenso con cera roja. Patas rojo oscuras. Posee espolones en las alas."
+      },
+      "habitat": [
+        "pastizal",
+        "urbano",
+        "agrícola",
+        "ribereño",
+        "costa",
+        "humedal"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": 33,
+      "envergadura_cm": 75,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "La Pampa",
+        "Mendoza",
+        "San Luis",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Catamarca",
+        "La Rioja",
+        "San Juan",
+        "Neuquén",
+        "Río Negro",
+        "Chubut",
+        "Santa Cruz",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "Uno de los pájaros más territoriales y ruidosos de la región. Defiende su nido con vuelos rasantes y llamadas estridentes contra cualquier intruso. Posee espolones en las alas que usa como arma. Se ha adaptado muy bien a ambientes urbanos.",
+      "sprites": {
+        "D": "vanellus_chilensis_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing left, beak pointing left, standing on ground, white background, 128x128 pixels, bird filling 70% of canvas height, large plover, grey head with black forehead, thin black filamentous crest, broad black breast band, grey-brown upperparts with bronze and violet iridescent sheen on wing coverts, white belly, short rounded tail folded closed along body dark with white tips, dark red-orange bill with black tip, bright red eye with red wattle, dark red legs, detailed feather texture with dithering, clean outline, no shadow, no text"
+      },
+      "audio_ebird_code": "soulap1"
+    },
+    {
+      "id": 3,
+      "num": "#003",
+      "nombre_comun": "Cotorra",
+      "nombre_cientifico": "Myiopsitta monachus",
+      "familia": "Psittacidae",
+      "orden": "Psittaciformes",
+      "descripcion": {
+        "adulto": "Ave mediana y compacta. Frente, cara, garganta y pecho gris claro. Corona, dorso, rabadilla y cola verdes. Alas verde opaco con primarias y secundarias azules llamativas. Cola larga y escalonada. Pico grueso y redondeado, amarillo-marrón. Ojo pardo oscuro. Patas grisáceas. Sexos similares."
+      },
+      "habitat": [
+        "urbano",
+        "pastizal",
+        "agrícola",
+        "monte",
+        "bosque"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": 29,
+      "envergadura_cm": 53,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "La Pampa",
+        "Mendoza",
+        "San Luis",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Catamarca",
+        "La Rioja",
+        "San Juan",
+        "Neuquén",
+        "Río Negro"
+      ],
+      "curiosidades": "Es el único loro del mundo que construye nidos comunales de palitos, a veces enormes, que comparte con toda la colonia durante todo el año. Se ha naturalizado en numerosas ciudades de Europa y América del Norte gracias al comercio de mascotas.",
+      "sprites": {
+        "D": "myiopsitta_monachus_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing left, beak pointing left, perched on branch, white background, 128x128 pixels, bird filling 65% of canvas height, medium compact parrot, grey forehead face throat and breast, bright green back rump and crown, dull green wings with vivid blue primaries and secondaries, long graduated green tail, thick rounded yellowish-brown bill, dark brown eye, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text"
+      },
+      "audio_ebird_code": "monpar",
+      "nota_sprites": "mira a la derecha — pendiente regenerar"
+    },
+    {
+      "id": 5,
+      "num": "#005",
+      "nombre_comun": "Tordo renegrido",
+      "nombre_cientifico": "Molothrus bonariensis",
+      "familia": "Icteridae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "M": "Ave mediana. Plumaje enteramente negro azulado con brillo iridiscente azul-violáceo intenso. Pico corto y cónico oscuro. Ojo oscuro. Patas gris pálido. Cola larga.",
+        "F": "Plumaje pardo-grisáceo uniforme, ligeramente más pálido en las partes inferiores. Pico corto y cónico oscuro. Ojo oscuro. Patas gris pálido. Cola larga."
+      },
+      "habitat": [
+        "urbano",
+        "pastizal",
+        "agrícola",
+        "ribereño"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": 19,
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "La Pampa",
+        "Mendoza",
+        "San Luis",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Catamarca",
+        "La Rioja",
+        "San Juan",
+        "Neuquén",
+        "Río Negro"
+      ],
+      "curiosidades": "Es un pájaro parásito de nidada: pone sus huevos en los nidos de otras especies para que las críen. No construye nido propio. Una hembra puede poner hasta 40 huevos por temporada en distintos nidos.",
+      "sprites": {
+        "M": "Molothrus_bonariensis_M.png",
+        "F": "Molothrus_bonariensis_F.png"
+      },
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing left, beak pointing left, standing, white background, 128x128 pixels, bird filling 65% of canvas height, medium-sized cowbird, entirely glossy blue-black plumage with strong iridescent blue-purple sheen, black face, short conical dark bill, dark eye, pale grey legs, long tail, detailed feather texture with dithering, clean outline, no shadow, no text",
+        "F": "pixel art bird sprite, side profile, bird facing left, beak pointing left, standing, white background, 128x128 pixels, bird filling 65% of canvas height, same scale as male, medium-sized cowbird, entirely dull grey-brown plumage, slightly paler underparts, short conical dark bill, dark eye, pale grey legs, long tail, detailed feather texture with dithering, clean outline, no shadow, no text"
+      },
+      "audio_ebird_code": "shicow",
+      "nota_sprites": "M y F miran a la derecha — pendiente regenerar"
+    },
+    {
+      "id": 6,
+      "num": "#006",
+      "nombre_comun": "Zorzal colorado",
+      "nombre_cientifico": "Turdus rufiventris",
+      "familia": "Turdidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Ave mediana y robusta. Cabeza, dorso y alas pardo oliva oscuro uniforme. Pecho y vientre naranja-rufo brillante y llamativo. Cola parda larga. Pico amarillo-anaranjado. Anillo ocular amarillo pálido. Patas oscuras."
+      },
+      "habitat": [
+        "urbano",
+        "bosque",
+        "monte",
+        "pastizal"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": 25,
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "La Pampa",
+        "Mendoza",
+        "San Luis",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Catamarca",
+        "La Rioja",
+        "San Juan",
+        "Neuquén",
+        "Río Negro"
+      ],
+      "curiosidades": "Canta especialmente al amanecer y al atardecer con un silbido melodioso y variado. Se alimenta de frutos, lombrices e insectos que busca en el suelo entre hojas caídas. Es muy común en parques y jardines urbanos.",
+      "sprites": {
+        "D": "Turdus_rufiventris_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing left, beak pointing left, standing, white background, 128x128 pixels, bird filling 65% of canvas height, medium thrush, dark olive-brown upperparts head and wings, bright orange-rufous breast and belly, long medium-width tail dark brown, yellow-orange bill, pale yellow eye ring, dark legs, detailed feather texture with dithering, clean outline, no shadow, no text"
+      },
+      "audio_ebird_code": "rufbel1"
+    },
+    {
+      "id": 8,
+      "num": "#008",
+      "nombre_comun": "Benteveo",
+      "nombre_cientifico": "Pitangus sulphuratus",
+      "familia": "Tyrannidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Ave mediana y llamativa. Corona negra con una mancha amarilla central oculta que se muestra cuando se excita. Ceja blanca ancha y máscara facial negra muy contrastante. Garganta blanca. Partes inferiores amarillo brillante. Dorso y alas pardo-rufo con bordes claros en las plumas. Cola parda con bordes rufos. Pico largo y robusto, negro. Patas oscuras."
+      },
+      "habitat": [
+        "urbano",
+        "ribereño",
+        "humedal",
+        "pastizal",
+        "bosque"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": 24,
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "La Pampa",
+        "Mendoza",
+        "San Luis",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Catamarca",
+        "La Rioja",
+        "San Juan",
+        "Neuquén",
+        "Río Negro"
+      ],
+      "curiosidades": "Su nombre imita su canto característico. Es uno de los tiránidos más grandes y agresivos, capaz de atacar aves mucho más grandes para defender su territorio. Se alimenta de insectos, frutos, pequeños peces y hasta carroña.",
+      "sprites": {
+        "D": "Pitangus_sulphuratus_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing left, beak pointing left, standing, white background, 128x128 pixels, bird filling 65% of canvas height, medium flycatcher, black crown with hidden yellow central patch, broad white supercilium, black face mask, white throat, bright yellow underparts and belly, brown-rufous wings and back with rufous feather edgings, brown tail with rufous edges, long strong black bill, dark legs, detailed feather texture with dithering, clean outline, no shadow, no text"
+      },
+      "audio_ebird_code": "grbkis1"
+    },
+    {
+      "id": 9,
+      "num": "#009",
+      "nombre_comun": "Calandria",
+      "nombre_cientifico": "Mimus saturninus",
+      "familia": "Mimidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Ave mediana y esbelta de postura erguida. Ceja blanca bien marcada sobre una línea ocular oscura. Corona y partes superiores pardo-grisáceas. Alas con dos barras blancas visibles y bordes claros en las plumas secundarias. Cola larga con plumas externas de puntas blancas. Partes inferiores blanco-ante pálido, más cálido en el pecho y flancos. Pico mediano, fino y levemente curvado, oscuro. Patas largas y grises."
+      },
+      "habitat": [
+        "urbano",
+        "pastizal",
+        "agrícola",
+        "monte"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": 25,
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "La Pampa",
+        "Mendoza",
+        "San Luis",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Catamarca",
+        "La Rioja",
+        "San Juan",
+        "Neuquén",
+        "Río Negro"
+      ],
+      "curiosidades": "Es uno de los mejores imitadores de cantos del país, capaz de reproducir los sonidos de docenas de otras especies. Canta con persistencia durante casi todo el año, incluso de noche. Suele cantar desde lo alto de un arbusto o poste.",
+      "sprites": {
+        "D": "Mimus_saturninus_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing left, beak pointing left, standing on ground, white background, 160x128 pixels, bird filling 80% of canvas width, medium-sized mockingbird, prominent white supercilium over dark eye stripe, grey-brown crown and upperparts, wings with two white wingbars and pale feather edging on secondaries, long tail with white-tipped outer feathers held slightly raised, pale buff-white underparts warmer on breast and flanks, thin slightly curved dark bill, long grey legs, detailed feather texture with dithering, clean outline, no shadow, no text"
+      },
+      "audio_ebird_code": "chamon1"
+    },
+    {
+      "id": 10,
+      "num": "#010",
+      "nombre_comun": "Golondrina doméstica",
+      "nombre_cientifico": "Progne chalybea",
+      "familia": "Hirundinidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "M": "Ave mediana y aerodinámica. Partes superiores, corona y cara azul-púrpura oscuro con brillo iridiscente intenso. Partes inferiores blanco limpio. Cola corta y levemente ahorquillada. Pico corto y ancho. Ojo oscuro.",
+        "F": "Similar al macho pero con las partes superiores azul-gris apagado y tono parduzco en la cabeza y cara. Partes inferiores gris-blancuzco con leve estriado en el pecho."
+      },
+      "habitat": [
+        "aéreo",
+        "urbano",
+        "ribereño",
+        "humedal"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "chico",
+      "largo_cm": 18,
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "La Pampa",
+        "Mendoza",
+        "San Luis",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Catamarca",
+        "La Rioja",
+        "San Juan",
+        "Neuquén",
+        "Río Negro",
+        "Chubut"
+      ],
+      "curiosidades": "Migra desde América del Norte cada año para pasar el verano austral en Argentina. Pasa la mayor parte de su vida en vuelo cazando insectos. Suele anidar en colonias bajo aleros y puentes.",
+      "sprites": {
+        "M": "Progne_chalybea_M.png",
+        "F": "Progne_chalybea_F.png",
+        "V": "Progne_chalybea_V.png"
+      },
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing left, beak pointing left, perched on branch, white background, 128x128 pixels, bird filling 65% of canvas height, medium swallow, deep glossy blue-purple upperparts and wings, dark blue crown and face, clean white underparts, short forked tail, short pointed bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text",
+        "F": "pixel art bird sprite, side profile, bird facing left, beak pointing left, perched on branch, white background, 128x128 pixels, bird filling 65% of canvas height, medium swallow, dull blue-grey upperparts and wings, brownish-grey head and face, pale grey-white underparts with faint streaking on breast, short forked tail, short pointed bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text",
+        "V": "pixel art bird sprite, bottom-side profile, flying overhead, white background, 192x128 pixels, medium swallow, wings fully spread, deep glossy blue-purple upperparts visible from below, clean white underparts and belly, short forked tail spread open, short pointed bill, detailed feather texture with dithering, clean outline, no shadow, no text"
+      },
+      "audio_ebird_code": "grpmar2",
+      "nota_sprites": "M y F miran a la derecha — pendiente regenerar"
+    },
+    {
+      "id": 11,
+      "num": "#011",
+      "nombre_comun": "Garza blanca",
+      "nombre_cientifico": "Ardea alba",
+      "familia": "Ardeidae",
+      "orden": "Pelecaniformes",
+      "descripcion": {
+        "D": "Ave alta y esbelta, enteramente blanca. Pico largo y amarillo, patas largas y negras. En vuelo el cuello se recoge en forma de S y las patas sobrepasan la cola. Alas anchas y vuelo lento y pausado.",
+        "R": "Igual que el plumaje anterior pero con la región alrededor del ojo de color verde brillante y largas plumas ornamentales sobre el dorso."
+      },
+      "habitat": [
+        "humedal",
+        "ribereño",
+        "costa",
+        "pastizal",
+        "agrícola"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "grande",
+      "largo_cm": 95,
+      "envergadura_cm": 150,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Córdoba",
+        "La Pampa",
+        "Mendoza",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Neuquén",
+        "Río Negro",
+        "Chubut",
+        "Santa Cruz"
+      ],
+      "curiosidades": "Es una de las aves acuáticas más distribuidas del mundo. A fines del siglo XIX estuvo al borde de la extinción por la caza masiva de sus plumas nupciales. Caza inmóvil, esperando que el pez se acerque antes de asestar un golpe de pico fulminante.",
+      "sprites": {
+        "D": "Ardea_alba_D.png",
+        "R": "Ardea_alba_R.png",
+        "V": "Ardea_alba_V.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing left, beak pointing left, standing, white background, 128x128 pixels, large white heron, entirely white plumage, long yellow straight beak, long black legs, long sinuous neck, tall and elegant posture, detailed feather texture with dithering, clean outline, no shadow, no text",
+        "R": "pixel art bird sprite, side profile, bird facing left, beak pointing left, standing in shallow water, white background, 128x128 pixels, large white heron, entirely white plumage, yellow straight beak, long black legs, long ornamental scapular plumes extending beyond tail, bright green loral region near eye, detailed feather texture with dithering, clean outline, no shadow, no text",
+        "V": "pixel art bird sprite, side profile, bird facing left, beak pointing left, flying, white background, 192x128 pixels, large white heron, entirely white plumage, yellow straight beak pointing forward, neck tucked in S-shape, long black legs trailing behind tail, wings spread mid-flap, detailed feather texture with dithering, clean outline, no shadow, no text"
+      },
+      "audio_ebird_code": "greegr"
+    },
+    {
+      "id": 12,
+      "num": "#012",
+      "nombre_comun": "Garza mora",
+      "nombre_cientifico": "Ardea cocoi",
+      "familia": "Ardeidae",
+      "orden": "Pelecaniformes",
+      "descripcion": {
+        "D": "Ave muy alta y esbelta. Corona gris-azulada oscura, cara y cuello blancos. Cuello blanco con estriado negro fino en la parte delantera. Pico largo amarillo uniforme. Ojo amarillo. Dorso y alas azul-gris uniforme. Gran mancha negra en el flanco. Patas gris-verdoso oscuro.",
+        "R": "Similar al no reproductivo pero con corona negra bien definida, dos largas plumas negras cayendo de la nuca, pico naranja-rosado intenso, penacho escapular negro visible sobre el hombro, plumas ornamentales blancas en el pecho y patas rosado-salmón."
+      },
+      "habitat": [
+        "humedal",
+        "ribereño",
+        "costa",
+        "pastizal"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "grande",
+      "largo_cm": 110,
+      "envergadura_cm": 180,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "La Pampa",
+        "Mendoza",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Neuquén",
+        "Río Negro",
+        "Chubut"
+      ],
+      "curiosidades": "Es la garza más grande de Sudamérica. Caza solitaria, generalmente inmóvil a la orilla del agua esperando que el pez se acerque. A pesar de su gran tamaño es un volador elegante con el cuello recogido en S característico de las garzas.",
+      "sprites": {
+        "D": "Ardea_cocoi_D.png",
+        "R": "Ardea_cocoi_R.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, bird facing left, beak pointing left, side profile, standing, white background, 128x128 pixels, bird filling 75% of canvas height, very large heron, black crown, short dark grey occipital crest, white face and neck with fine black streaking on front, uniform yellow bill, pale greenish lores, blue-grey back and wings, large black flank patch, dark grey-green legs, tall elegant posture, neck held in S-curve, detailed feather texture with dithering, clean outline, no shadow, no text",
+        "R": "pixel art bird sprite, bird facing left, beak pointing left, side profile, standing, white background, 128x128 pixels, bird filling 75% of canvas height, very large heron, black cap, two long thin black plumes drooping from nape, white face and neck, bright orange-pink bill, blue-grey back and wings with no orange tones, distinct black scapular patch over shoulder, long white ornamental breast plumes proportional to body, large black flank patch, pink-salmon legs, detailed feather texture with dithering, clean outline, no shadow, no text"
+      },
+      "audio_ebird_code": "cocher1"
+    },
+    {
+      "id": 13,
+      "num": "#013",
+      "nombre_comun": "Martín pescador",
+      "nombre_cientifico": "Megaceryle torquata",
+      "familia": "Alcedinidae",
+      "orden": "Coraciiformes",
+      "descripcion": {
+        "M": "Ave grande y robusta con cresta erizada azul-grisácea muy llamativa. Partes superiores azul-gris con manchas blancas dispersas. Collar blanco en la garganta. Pecho y vientre castaño-rufo intenso sin interrupción. Pico largo, robusto y oscuro con base amarillenta. Ojo pardo.",
+        "F": "Similar al macho pero con una banda pectoral azul-grisácea que separa la garganta blanca del vientre rufo."
+      },
+      "habitat": [
+        "ribereño",
+        "humedal",
+        "costa"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": 40,
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "La Pampa",
+        "Mendoza",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Neuquén",
+        "Río Negro",
+        "Chubut"
+      ],
+      "curiosidades": "Caza en picada desde una percha elevada sobre el agua, sumergiéndose completamente para atrapar peces. Su vuelo es rápido y directo, con aleteos rápidos alternados con planeos breves. Es el martín pescador más grande de Argentina.",
+      "sprites": {
+        "M": "Megaceryle_torquata_M.png",
+        "F": "Megaceryle_torquata_F.png"
+      },
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing left, beak pointing left, perched on branch, white background, 128x128 pixels, bird filling 70% of canvas height, large kingfisher, spiky blue-grey crest, blue-grey upperparts and wings spangled with white spots, white throat and collar, entirely plain rufous-chestnut breast and belly with no white band, long heavy dark bill with yellowish base, brown eye, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text",
+        "F": "pixel art bird sprite, side profile, bird facing left, beak pointing left, perched on branch, white background, 128x128 pixels, bird filling 70% of canvas height, same scale as male, large kingfisher, spiky blue-grey crest, blue-grey upperparts with white spotting, white throat and collar, blue-grey pectoral band across chest, rufous-chestnut belly, long heavy dark bill with yellowish base, brown eye, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text"
+      },
+      "audio_ebird_code": "rinkif1"
+    },
+    {
+      "id": 14,
+      "num": "#014",
+      "nombre_comun": "Macá común",
+      "nombre_cientifico": "Rollandia rolland",
+      "familia": "Podicipedidae",
+      "orden": "Podicipediformes",
+      "descripcion": {
+        "D": "Ave acuática pequeña y rechoncha. Cabeza y cuello negro brillante con llamativo penacho facial blanco estriado a los lados de la cara. Ojo rojo intenso. Pico corto y recto oscuro. Dorso pardo oscuro, flancos y parte del vientre canela-anaranjado cálido con escamado oscuro. Nada con el cuerpo muy bajo en el agua. Los pies lobulados son visibles bajo la superficie."
+      },
+      "habitat": [
+        "humedal",
+        "ribereño",
+        "laguna"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": 28,
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Chaco",
+        "Formosa",
+        "Córdoba",
+        "La Pampa",
+        "Mendoza",
+        "San Luis",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Neuquén",
+        "Río Negro",
+        "Chubut",
+        "Santa Cruz",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "Endémica de Sudamérica. Raramente vuela y prefiere escapar zambulléndose. Sus patas están tan hacia atrás del cuerpo que casi no puede caminar en tierra. Los polluelos nacen cubiertos de plumón y los padres los llevan sobre el lomo.",
+      "sprites": {
+        "D": "Rollandia_rolland_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing left, beak pointing left, floating on water, white background, 128x128 pixels, bird filling 65% of canvas height, small compact grebe, black head and neck, white streaked facial plume on cheeks, bright red eye, short straight dark bill, dark black-brown back, rufous-chestnut flanks with dark scalloping, body low in water, lobed grey feet visible just below water surface, detailed feather texture with dithering, clean outline, no shadow, no text"
+      },
+      "audio_ebird_code": "whtteg1"
+    },
+    {
+      "id": 15,
+      "num": "#015",
+      "nombre_comun": "Biguá",
+      "nombre_cientifico": "Nannopterum brasilianus",
+      "familia": "Phalacrocoracidae",
+      "orden": "Suliformes",
+      "descripcion": {
+        "D": "Ave grande y oscura. Plumaje negro con brillo azulado y patrón escamado sutil en alas y dorso. Piel facial desnuda naranja-amarilla en la base del pico. Ojo verde-turquesa. Pico largo y ganchudo oscuro. Cuello largo sostenido en curva característica. Cola larga y redondeada. Patas y pies palmeados negros."
+      },
+      "habitat": [
+        "humedal",
+        "ribereño",
+        "costa"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "grande",
+      "largo_cm": 70,
+      "envergadura_cm": 110,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "La Pampa",
+        "Mendoza",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Neuquén",
+        "Río Negro",
+        "Chubut",
+        "Santa Cruz",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "A diferencia de la mayoría de las aves acuáticas sus plumas no son impermeables, por lo que debe secar las alas al sol con los brazos abiertos luego de bucear. Es un buceador experto que puede alcanzar varios metros de profundidad para atrapar peces.",
+      "sprites": {
+        "D": "Nannopterum_brasilianus_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing left, beak pointing left, standing, white background, 128x128 pixels, bird filling 70% of canvas height, large cormorant, entirely glossy black plumage with subtle scaly pattern on back and wings, orange-yellow bare facial skin patch at base of bill, turquoise-green eye, long hooked dark bill, long neck held in S-curve, long rounded dark tail, black legs and black webbed feet, detailed feather texture with dithering, clean outline, no shadow, no text"
+      },
+      "audio_ebird_code": "neocor2"
+    },
+    {
+      "id": 16,
+      "num": "#016",
+      "nombre_comun": "Gallareta ligas rojas",
+      "nombre_cientifico": "Fulica armillata",
+      "familia": "Rallidae",
+      "orden": "Gruiformes",
+      "descripcion": {
+        "D": "Ave acuática grande y rechoncha. Cuerpo pizarra oscuro, cabeza y cuello negros. Pico amarillo brillante con escudo frontal rojo en la base. Ojo rojo. Patas largas amarillo-anaranjadas con dedos lobulados grises. Pequeña mancha blanca bajo la cola."
+      },
+      "habitat": [
+        "humedal",
+        "laguna",
+        "ribereño"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": 43,
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Chaco",
+        "Córdoba",
+        "La Pampa",
+        "Mendoza",
+        "San Luis",
+        "Tucumán",
+        "Salta",
+        "Neuquén",
+        "Río Negro",
+        "Chubut",
+        "Santa Cruz",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "Su nombre viene de los anillos rojos en la articulación de las patas, visibles de cerca. Es territorial y agresiva, persigue a otras aves en el agua. Puede correr sobre la superficie del agua batiendo las alas antes de levantar vuelo.",
+      "sprites": {
+        "D": "Fulica_armillata_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing left, beak pointing left, standing, white background, 128x128 pixels, bird filling 70% of canvas height, large coot, dark slate-grey body and wings, black head and neck, bright yellow bill with red base and red frontal shield, red eye, long yellow-orange legs with lobed grey toes, short rounded tail with white undertail patch, plump rounded body, detailed feather texture with dithering, clean outline, no shadow, no text"
+      },
+      "audio_ebird_code": "rbnco1"
+    },
+    {
+      "id": 17,
+      "num": "#017",
+      "nombre_comun": "Chajá",
+      "nombre_cientifico": "Chauna torquata",
+      "familia": "Anhimidae",
+      "orden": "Anseriformes",
+      "descripcion": {
+        "D": "Ave grande y robusta. Cabeza gris pálido con cresta gris desgreñada. Pico pequeño rojo-anaranjado. Ojo rojo con anillo ocular rojo. Fino collar blanco sobre collar negro angosto alrededor del cuello. Cuerpo y alas azul-gris con escamado pálido en el pecho. Partes inferiores gris-blancuzco. Patas largas salmón-rosadas con uñas negras."
+      },
+      "habitat": [
+        "humedal",
+        "pastizal",
+        "ribereño"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "grande",
+      "largo_cm": 85,
+      "envergadura_cm": 170,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "La Pampa",
+        "Tucumán",
+        "Salta",
+        "Jujuy"
+      ],
+      "curiosidades": "Tiene un llamado muy potente que puede escucharse a varios kilómetros. A pesar de su tamaño es un gran volador y puede planear durante horas en corrientes de aire. Posee dos espolones óseos en cada ala que usa para defenderse.",
+      "sprites": {
+        "D": "Chauna_torquata_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, bird facing left, beak pointing left, side profile, standing, white background, 128x128 pixels, bird filling 75% of canvas height, large screamer, pale grey head with shaggy grey crest, small red-orange bill, red eye with red eye ring, single black collar around neck with thin white border on top edge only, blue-grey body and wings with pale scalloping on breast, pale grey-white underparts, long salmon-pink legs with black claws, plump heavy body, detailed feather texture with dithering, clean outline, no shadow, no text"
+      },
+      "audio_ebird_code": "sousc1"
+    },
+    {
+      "id": 21,
+      "num": "#021",
+      "nombre_comun": "Carancho",
+      "nombre_cientifico": "Caracara plancus",
+      "familia": "Falconidae",
+      "orden": "Falconiformes",
+      "descripcion": {
+        "D": "Ave grande y robusta. Corona negra con cresta achatada característica. Cara y cera rosada a anaranjada muy llamativa. Nuca y garganta color crema. Pecho y manto finamente barrado en negro y blanco. Alas y vientre pardo oscuro. Cola blanca con banda terminal negra. Patas amarillas. Pico gris-azulado con cera rosada-anaranjada.",
+        "J": "Corona marrón. Pecho y manto superior estriados de color ante sobre marrón. Alas y vientre de un marrón más pálido que el adulto."
+      },
+      "habitat": [
+        "pastizal",
+        "agrícola",
+        "urbano",
+        "ribereño",
+        "monte"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "grande",
+      "largo_cm": 60,
+      "envergadura_cm": 120,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "La Pampa",
+        "Mendoza",
+        "San Luis",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Neuquén",
+        "Río Negro",
+        "Chubut",
+        "Santa Cruz",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "Aunque se alimenta principalmente de carroña, también es capaz de atacar y matar presas de buen tamaño. Es común verlo caminando por el suelo en rutas y campos. Suele robar presas a otras aves rapaces.",
+      "sprites": {
+        "D": "Caracara_plancus_D.png",
+        "J": "Caracara_plancus_J.png",
+        "V": "Caracara_plancus_V.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing left, beak pointing left, perched on wooden post, white background, 128x128 pixels, bird filling 75% of canvas height, large raptor, black flat crest, creamy white nape and throat, finely black and white barred breast and upper mantle, dark brown wings and belly, large hooked grey-blue bill with pink-orange cere, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text",
+        "J": "pixel art bird sprite, side profile, bird facing left, beak pointing left, perched on wooden post, white background, 128x128 pixels, bird filling 75% of canvas height, same scale as adult, large raptor, short dark brown flat crest, creamy buff face and throat, brown streaked breast and upper mantle, dark brown wings, pale brown belly, large hooked grey-blue bill with pink cere, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text",
+        "V": "pixel art bird sprite, bottom-side profile, flying overhead, white background, 192x128 pixels, large raptor, wings fully spread, mostly white primaries visible from below, white tail with black terminal band, dark brown wings and body, long neck extended forward, black cap, creamy white throat and chest barred black and white, pink-orange cere, detailed feather texture with dithering, clean outline, no shadow, no text"
+      },
+      "audio_ebird_code": "crecha"
+    }
+  ]
+}
