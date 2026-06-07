@@ -184,7 +184,7 @@ def _bytes_to_canvas(data: bytes, variant: str) -> Image.Image:
 
     scale = min(max_w / img.width, max_h / img.height)
     nw, nh = round(img.width * scale), round(img.height * scale)
-    img = img.resize((nw, nh), Image.LANCZOS)
+    img = img.resize((nw, nh), Image.NEAREST)
 
     canvas = Image.new("RGB", (ow, oh), (255, 255, 255))
     ox = (ow - nw) // 2
@@ -246,7 +246,7 @@ def normalize_scale(paths: list[Path]) -> None:
                 new_w = canvas_sz[0]
                 new_h = round(bb_h * scale)
 
-            content = img.crop((bx0, by0, bx1, by1)).resize((new_w, new_h), Image.LANCZOS)
+            content = img.crop((bx0, by0, bx1, by1)).resize((new_w, new_h), Image.NEAREST)
             canvas = Image.new("RGB", canvas_sz, (255, 255, 255))
             cx = (canvas_sz[0] - new_w) // 2
             cy = max(0, (canvas_sz[1] - new_h) // 2)
