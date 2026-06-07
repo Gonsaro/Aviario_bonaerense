@@ -1,6 +1,6 @@
 {
   "meta": {
-    "version": "0.3",
+    "version": "0.4",
     "descripcion": "Aviario Bonaerense — base de datos de aves de Buenos Aires y CABA",
     "convenciones_sprites": {
       "D": "default / no reproductivo",
@@ -58,92 +58,7 @@
     "Automatizar audio_ebird_code via eBird API",
     "Revisar numeración según orden taxonómico de guías aviares"
   ],
-  "especies_pendientes_mvp": [
-    {
-      "num": "#004",
-      "nombre_comun": "Paloma doméstica",
-      "nombre_cientifico": "Columba livia",
-      "nota": "muchas variantes de color, pendiente"
-    },
-    {
-      "num": "#007",
-      "nombre_comun": "Gorrión",
-      "nombre_cientifico": "Passer domesticus",
-      "nota": "pendiente"
-    },
-    {
-      "num": "#018",
-      "nombre_comun": "Pato maicero",
-      "nombre_cientifico": "Anas georgica",
-      "nota": "pendiente"
-    },
-    {
-      "num": "#019",
-      "nombre_comun": "Jacana",
-      "nombre_cientifico": "Jacana jacana",
-      "nota": "pendiente"
-    },
-    {
-      "num": "#020",
-      "nombre_comun": "Garza bruja",
-      "nombre_cientifico": "Nycticorax nycticorax",
-      "nota": "pendiente"
-    },
-    {
-      "num": "#022",
-      "nombre_comun": "Chimango",
-      "nombre_cientifico": "Milvago chimango",
-      "nota": "pendiente"
-    },
-    {
-      "num": "#023",
-      "nombre_comun": "Gavilán mixto",
-      "nombre_cientifico": "Parabuteo unicinctus",
-      "nota": "pendiente"
-    },
-    {
-      "num": "#024",
-      "nombre_comun": "Halconcito colorado",
-      "nombre_cientifico": "Falco sparverius",
-      "nota": "pendiente"
-    },
-    {
-      "num": "#025",
-      "nombre_comun": "Flamenco austral",
-      "nombre_cientifico": "Phoenicopterus chilensis",
-      "nota": "pendiente"
-    },
-    {
-      "num": "#026",
-      "nombre_comun": "Torcaza",
-      "nombre_cientifico": "Zenaida auriculata",
-      "nota": "pendiente"
-    },
-    {
-      "num": "#027",
-      "nombre_comun": "Chiflón",
-      "nombre_cientifico": "Syrigma sibilatrix",
-      "nota": "pendiente"
-    },
-    {
-      "num": "#028",
-      "nombre_comun": "Lechucita de las vizcacheras",
-      "nombre_cientifico": "Athene cunicularia",
-      "nota": "estrigido — sprite facing forward"
-    },
-    {
-      "num": "#029",
-      "nombre_comun": "Gaviota capucho café",
-      "nombre_cientifico": "Chroicocephalus maculipennis",
-      "nota": "pendiente"
-    },
-    {
-      "num": "#030",
-      "nombre_comun": "Gaviota cocinera",
-      "nombre_cientifico": "Larus dominicanus",
-      "nota": "pendiente"
-    }
-  ],
+  "especies_pendientes_mvp": [],
   "especies": [
     {
       "id": 1,
@@ -197,7 +112,7 @@
         "nido": "furnarius_rufus_nido.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing left, beak pointing left, standing on ground, white background, 128x128 pixels, bird filling 65% of canvas height, medium-sized ovenbird, rufous-brown upperparts, rufous tail and rump, pale buff whitish throat and belly, light rufous supercilium, nearly straight medium bill, greyish legs, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing on ground, white background, 128x128 pixels, bird filling 65% of canvas height, medium-sized ovenbird, rufous-brown upperparts, rufous tail and rump, pale buff whitish throat and belly, light rufous supercilium, nearly straight medium bill, greyish legs, detailed feather texture with dithering, clean outline, no shadow, no text"
       },
       "prompts_pixelart_extras": {
         "nido": "pixel art sprite, side view, white background, 128x128 pixels, hornero mud nest, round domed clay nest with lateral entrance hole, rough textured mud surface with visible cracks and straw, warm ochre-brown tones, perched on tree branch, detailed texture with dithering, clean outline, no shadow, no text"
@@ -259,7 +174,7 @@
         "D": "vanellus_chilensis_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing left, beak pointing left, standing on ground, white background, 128x128 pixels, bird filling 70% of canvas height, large plover, grey head with black forehead, thin black filamentous crest, broad black breast band, grey-brown upperparts with bronze and violet iridescent sheen on wing coverts, white belly, short rounded tail folded closed along body dark with white tips, dark red-orange bill with black tip, bright red eye with red wattle, dark red legs, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing on ground, white background, 128x128 pixels, bird filling 70% of canvas height, large plover, grey head with black forehead, thin black filamentous crest, broad black breast band, grey-brown upperparts with bronze and violet iridescent sheen on wing coverts, white belly, short rounded tail folded closed along body dark with white tips, dark red-orange bill with black tip, bright red eye with red wattle, dark red legs, detailed feather texture with dithering, clean outline, no shadow, no text"
       },
       "audio_ebird_code": "soulap1"
     },
@@ -313,10 +228,62 @@
         "D": "myiopsitta_monachus_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing left, beak pointing left, perched on branch, white background, 128x128 pixels, bird filling 65% of canvas height, medium compact parrot, grey forehead face throat and breast, bright green back rump and crown, dull green wings with vivid blue primaries and secondaries, long graduated green tail, thick rounded yellowish-brown bill, dark brown eye, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, perched on branch, white background, 128x128 pixels, bird filling 65% of canvas height, medium compact parrot, grey forehead face throat and breast, bright green back rump and crown, dull green wings with vivid blue primaries and secondaries, long graduated green tail, thick rounded yellowish-brown bill, dark brown eye, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text"
       },
       "audio_ebird_code": "monpar",
       "nota_sprites": "mira a la derecha — pendiente regenerar"
+    },
+    {
+      "id": 4,
+      "num": "#004",
+      "nombre_comun": "Paloma doméstica",
+      "nombre_cientifico": "Columba livia",
+      "familia": "Columbidae",
+      "orden": "Columbiformes",
+      "descripcion": {
+        "D": "Ave mediana y robusta de silueta compacta. Cabeza pequeña gris azulada con irisaciones verdes y violáceas en el cuello. Dorso gris con dos barras alares negras bien visibles. Pecho gris con irisaciones. Vientre gris pálido. Cola gris con banda terminal negra. Pico fino, gris con cera blanca en la base. Patas rojas. El plumaje es muy variable en poblaciones ferales: existen individuos blancos, negros, pardos y mezclados."
+      },
+      "habitat": [
+        "urbano",
+        "agrícola"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": 32,
+      "envergadura_cm": 64,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "La Pampa",
+        "Mendoza",
+        "San Luis",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Catamarca",
+        "La Rioja",
+        "San Juan",
+        "Neuquén",
+        "Río Negro"
+      ],
+      "curiosidades": "Especie introducida, descendiente de la paloma bravía doméstica. Vive en ciudades de todo el mundo y puede orientarse usando el campo magnético terrestre y referencias visuales. Fue la primera ave domesticada por el ser humano, hace más de 5.000 años.",
+      "sprites": {
+        "D": "Columba_livia_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on ground, white background, 128x128 pixels, bird filling 65% of canvas height, medium compact pigeon, blue-grey head and body, green and violet iridescent neck patch, grey back with two black wing bars, pale grey underparts, grey tail with black terminal band, thin grey bill with white cere, red legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "rocpig",
+      "nota_sprites": ""
     },
     {
       "id": 5,
@@ -369,8 +336,8 @@
         "F": "Molothrus_bonariensis_F.png"
       },
       "prompts_pixelart": {
-        "M": "pixel art bird sprite, side profile, bird facing left, beak pointing left, standing, white background, 128x128 pixels, bird filling 65% of canvas height, medium-sized cowbird, entirely glossy blue-black plumage with strong iridescent blue-purple sheen, black face, short conical dark bill, dark eye, pale grey legs, long tail, detailed feather texture with dithering, clean outline, no shadow, no text",
-        "F": "pixel art bird sprite, side profile, bird facing left, beak pointing left, standing, white background, 128x128 pixels, bird filling 65% of canvas height, same scale as male, medium-sized cowbird, entirely dull grey-brown plumage, slightly paler underparts, short conical dark bill, dark eye, pale grey legs, long tail, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "M": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 128x128 pixels, bird filling 65% of canvas height, medium-sized cowbird, entirely glossy blue-black plumage with strong iridescent blue-purple sheen, black face, short conical dark bill, dark eye, pale grey legs, long tail, detailed feather texture with dithering, clean outline, no shadow, no text",
+        "F": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 128x128 pixels, bird filling 65% of canvas height, same scale as male, medium-sized cowbird, entirely dull grey-brown plumage, slightly paler underparts, short conical dark bill, dark eye, pale grey legs, long tail, detailed feather texture with dithering, clean outline, no shadow, no text"
       },
       "audio_ebird_code": "shicow",
       "nota_sprites": "M y F miran a la derecha — pendiente regenerar"
@@ -424,9 +391,64 @@
         "D": "Turdus_rufiventris_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing left, beak pointing left, standing, white background, 128x128 pixels, bird filling 65% of canvas height, medium thrush, dark olive-brown upperparts head and wings, bright orange-rufous breast and belly, long medium-width tail dark brown, yellow-orange bill, pale yellow eye ring, dark legs, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 128x128 pixels, bird filling 65% of canvas height, medium thrush, dark olive-brown upperparts head and wings, bright orange-rufous breast and belly, long medium-width tail dark brown, yellow-orange bill, pale yellow eye ring, dark legs, detailed feather texture with dithering, clean outline, no shadow, no text"
       },
       "audio_ebird_code": "rufbel1"
+    },
+    {
+      "id": 7,
+      "num": "#007",
+      "nombre_comun": "Gorrión",
+      "nombre_cientifico": "Passer domesticus",
+      "familia": "Passeridae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "M": "Ave chica y rechoncha. Corona gris con franjas castaño-rojizas en los lados. Cara gris con una mancha negra en la garganta y pecho que varía según la estación. Dorso castaño con rayas negras. Alas pardas con una barra alar blanca. Vientre gris pálido. Pico corto y cónico, oscuro en época reproductiva y más claro fuera de ella. Patas rosadas.",
+        "F": "Más apagada. Sin el negro en la garganta. Ceja ante pálida bien marcada. Dorso pardo rayado. Pico más claro. Patas rosadas."
+      },
+      "habitat": [
+        "urbano",
+        "agrícola"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": 15,
+      "envergadura_cm": 24,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "La Pampa",
+        "Mendoza",
+        "San Luis",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Catamarca",
+        "La Rioja",
+        "San Juan",
+        "Neuquén",
+        "Río Negro"
+      ],
+      "curiosidades": "Especie introducida desde Europa en el siglo XIX. Es una de las aves más distribuidas del mundo gracias a su asociación con los asentamientos humanos. Los machos con mayor mancha negra en el pecho tienen mayor éxito reproductivo.",
+      "sprites": {
+        "M": "Passer_domesticus_M.png",
+        "F": "Passer_domesticus_F.png"
+      },
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 128x128 pixels, bird filling 65% of canvas height, small stocky sparrow, grey crown with chestnut-brown lateral stripes, grey face, black bib on throat and breast, brown-streaked back with black streaks, brown wings with single white wing bar, pale grey underparts, short conical dark bill, pinkish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 128x128 pixels, bird filling 65% of canvas height, small stocky sparrow, plain brown-grey head, prominent pale buff supercilium, no black bib, streaked brown back, brown wings, pale grey-buff underparts, short conical pale bill, pinkish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "houspa",
+      "nota_sprites": ""
     },
     {
       "id": 8,
@@ -478,7 +500,7 @@
         "D": "Pitangus_sulphuratus_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing left, beak pointing left, standing, white background, 128x128 pixels, bird filling 65% of canvas height, medium flycatcher, black crown with hidden yellow central patch, broad white supercilium, black face mask, white throat, bright yellow underparts and belly, brown-rufous wings and back with rufous feather edgings, brown tail with rufous edges, long strong black bill, dark legs, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 128x128 pixels, bird filling 65% of canvas height, medium flycatcher, black crown with hidden yellow central patch, broad white supercilium, black face mask, white throat, bright yellow underparts and belly, brown-rufous wings and back with rufous feather edgings, brown tail with rufous edges, long strong black bill, dark legs, detailed feather texture with dithering, clean outline, no shadow, no text"
       },
       "audio_ebird_code": "grbkis1"
     },
@@ -530,7 +552,7 @@
         "D": "Mimus_saturninus_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing left, beak pointing left, standing on ground, white background, 160x128 pixels, bird filling 80% of canvas width, medium-sized mockingbird, prominent white supercilium over dark eye stripe, grey-brown crown and upperparts, wings with two white wingbars and pale feather edging on secondaries, long tail with white-tipped outer feathers held slightly raised, pale buff-white underparts warmer on breast and flanks, thin slightly curved dark bill, long grey legs, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing on ground, white background, 160x128 pixels, bird filling 80% of canvas width, medium-sized mockingbird, prominent white supercilium over dark eye stripe, grey-brown crown and upperparts, wings with two white wingbars and pale feather edging on secondaries, long tail with white-tipped outer feathers held slightly raised, pale buff-white underparts warmer on breast and flanks, thin slightly curved dark bill, long grey legs, detailed feather texture with dithering, clean outline, no shadow, no text"
       },
       "audio_ebird_code": "chamon1"
     },
@@ -587,8 +609,8 @@
         "V": "Progne_chalybea_V.png"
       },
       "prompts_pixelart": {
-        "M": "pixel art bird sprite, side profile, bird facing left, beak pointing left, perched on branch, white background, 128x128 pixels, bird filling 65% of canvas height, medium swallow, deep glossy blue-purple upperparts and wings, dark blue crown and face, clean white underparts, short forked tail, short pointed bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text",
-        "F": "pixel art bird sprite, side profile, bird facing left, beak pointing left, perched on branch, white background, 128x128 pixels, bird filling 65% of canvas height, medium swallow, dull blue-grey upperparts and wings, brownish-grey head and face, pale grey-white underparts with faint streaking on breast, short forked tail, short pointed bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text",
+        "M": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, perched on branch, white background, 128x128 pixels, bird filling 65% of canvas height, medium swallow, deep glossy blue-purple upperparts and wings, dark blue crown and face, clean white underparts, short forked tail, short pointed bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text",
+        "F": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, perched on branch, white background, 128x128 pixels, bird filling 65% of canvas height, medium swallow, dull blue-grey upperparts and wings, brownish-grey head and face, pale grey-white underparts with faint streaking on breast, short forked tail, short pointed bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text",
         "V": "pixel art bird sprite, bottom-side profile, flying overhead, white background, 192x128 pixels, medium swallow, wings fully spread, deep glossy blue-purple upperparts visible from below, clean white underparts and belly, short forked tail spread open, short pointed bill, detailed feather texture with dithering, clean outline, no shadow, no text"
       },
       "audio_ebird_code": "grpmar2",
@@ -644,9 +666,9 @@
         "V": "Ardea_alba_V.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing left, beak pointing left, standing, white background, 128x128 pixels, large white heron, entirely white plumage, long yellow straight beak, long black legs, long sinuous neck, tall and elegant posture, detailed feather texture with dithering, clean outline, no shadow, no text",
-        "R": "pixel art bird sprite, side profile, bird facing left, beak pointing left, standing in shallow water, white background, 128x128 pixels, large white heron, entirely white plumage, yellow straight beak, long black legs, long ornamental scapular plumes extending beyond tail, bright green loral region near eye, detailed feather texture with dithering, clean outline, no shadow, no text",
-        "V": "pixel art bird sprite, side profile, bird facing left, beak pointing left, flying, white background, 192x128 pixels, large white heron, entirely white plumage, yellow straight beak pointing forward, neck tucked in S-shape, long black legs trailing behind tail, wings spread mid-flap, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 128x128 pixels, large white heron, entirely white plumage, long yellow straight beak, long black legs, long sinuous neck, tall and elegant posture, detailed feather texture with dithering, clean outline, no shadow, no text",
+        "R": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing in shallow water, white background, 128x128 pixels, large white heron, entirely white plumage, yellow straight beak, long black legs, long ornamental scapular plumes extending beyond tail, bright green loral region near eye, detailed feather texture with dithering, clean outline, no shadow, no text",
+        "V": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, flying, white background, 192x128 pixels, large white heron, entirely white plumage, yellow straight beak pointing forward, neck tucked in S-shape, long black legs trailing behind tail, wings spread mid-flap, detailed feather texture with dithering, clean outline, no shadow, no text"
       },
       "audio_ebird_code": "greegr"
     },
@@ -698,8 +720,8 @@
         "R": "Ardea_cocoi_R.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, bird facing left, beak pointing left, side profile, standing, white background, 128x128 pixels, bird filling 75% of canvas height, very large heron, black crown, short dark grey occipital crest, white face and neck with fine black streaking on front, uniform yellow bill, pale greenish lores, blue-grey back and wings, large black flank patch, dark grey-green legs, tall elegant posture, neck held in S-curve, detailed feather texture with dithering, clean outline, no shadow, no text",
-        "R": "pixel art bird sprite, bird facing left, beak pointing left, side profile, standing, white background, 128x128 pixels, bird filling 75% of canvas height, very large heron, black cap, two long thin black plumes drooping from nape, white face and neck, bright orange-pink bill, blue-grey back and wings with no orange tones, distinct black scapular patch over shoulder, long white ornamental breast plumes proportional to body, large black flank patch, pink-salmon legs, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 128x128 pixels, bird filling 75% of canvas height, very large heron, black crown, short dark grey occipital crest, white face and neck with fine black streaking on front, uniform yellow bill, pale greenish lores, blue-grey back and wings, large black flank patch, dark grey-green legs, tall elegant posture, neck held in S-curve, detailed feather texture with dithering, clean outline, no shadow, no text",
+        "R": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 128x128 pixels, bird filling 75% of canvas height, very large heron, black cap, two long thin black plumes drooping from nape, white face and neck, bright orange-pink bill, blue-grey back and wings with no orange tones, distinct black scapular patch over shoulder, long white ornamental breast plumes proportional to body, large black flank patch, pink-salmon legs, detailed feather texture with dithering, clean outline, no shadow, no text"
       },
       "audio_ebird_code": "cocher1"
     },
@@ -750,8 +772,8 @@
         "F": "Megaceryle_torquata_F.png"
       },
       "prompts_pixelart": {
-        "M": "pixel art bird sprite, side profile, bird facing left, beak pointing left, perched on branch, white background, 128x128 pixels, bird filling 70% of canvas height, large kingfisher, spiky blue-grey crest, blue-grey upperparts and wings spangled with white spots, white throat and collar, entirely plain rufous-chestnut breast and belly with no white band, long heavy dark bill with yellowish base, brown eye, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text",
-        "F": "pixel art bird sprite, side profile, bird facing left, beak pointing left, perched on branch, white background, 128x128 pixels, bird filling 70% of canvas height, same scale as male, large kingfisher, spiky blue-grey crest, blue-grey upperparts with white spotting, white throat and collar, blue-grey pectoral band across chest, rufous-chestnut belly, long heavy dark bill with yellowish base, brown eye, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "M": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, perched on branch, white background, 128x128 pixels, bird filling 70% of canvas height, large kingfisher, spiky blue-grey crest, blue-grey upperparts and wings spangled with white spots, white throat and collar, entirely plain rufous-chestnut breast and belly with no white band, long heavy dark bill with yellowish base, brown eye, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text",
+        "F": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, perched on branch, white background, 128x128 pixels, bird filling 70% of canvas height, same scale as male, large kingfisher, spiky blue-grey crest, blue-grey upperparts with white spotting, white throat and collar, blue-grey pectoral band across chest, rufous-chestnut belly, long heavy dark bill with yellowish base, brown eye, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text"
       },
       "audio_ebird_code": "rinkif1"
     },
@@ -801,7 +823,7 @@
         "D": "Rollandia_rolland_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing left, beak pointing left, floating on water, white background, 128x128 pixels, bird filling 65% of canvas height, small compact grebe, black head and neck, white streaked facial plume on cheeks, bright red eye, short straight dark bill, dark black-brown back, rufous-chestnut flanks with dark scalloping, body low in water, lobed grey feet visible just below water surface, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, floating on water, white background, 128x128 pixels, bird filling 65% of canvas height, small compact grebe, black head and neck, white streaked facial plume on cheeks, bright red eye, short straight dark bill, dark black-brown back, rufous-chestnut flanks with dark scalloping, body low in water, lobed grey feet visible just below water surface, detailed feather texture with dithering, clean outline, no shadow, no text"
       },
       "audio_ebird_code": "whtteg1"
     },
@@ -852,7 +874,7 @@
         "D": "Nannopterum_brasilianus_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing left, beak pointing left, standing, white background, 128x128 pixels, bird filling 70% of canvas height, large cormorant, entirely glossy black plumage with subtle scaly pattern on back and wings, orange-yellow bare facial skin patch at base of bill, turquoise-green eye, long hooked dark bill, long neck held in S-curve, long rounded dark tail, black legs and black webbed feet, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 128x128 pixels, bird filling 70% of canvas height, large cormorant, entirely glossy black plumage with subtle scaly pattern on back and wings, orange-yellow bare facial skin patch at base of bill, turquoise-green eye, long hooked dark bill, long neck held in S-curve, long rounded dark tail, black legs and black webbed feet, detailed feather texture with dithering, clean outline, no shadow, no text"
       },
       "audio_ebird_code": "neocor2"
     },
@@ -900,7 +922,7 @@
         "D": "Fulica_armillata_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing left, beak pointing left, standing, white background, 128x128 pixels, bird filling 70% of canvas height, large coot, dark slate-grey body and wings, black head and neck, bright yellow bill with red base and red frontal shield, red eye, long yellow-orange legs with lobed grey toes, short rounded tail with white undertail patch, plump rounded body, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 128x128 pixels, bird filling 70% of canvas height, large coot, dark slate-grey body and wings, black head and neck, bright yellow bill with red base and red frontal shield, red eye, long yellow-orange legs with lobed grey toes, short rounded tail with white undertail patch, plump rounded body, detailed feather texture with dithering, clean outline, no shadow, no text"
       },
       "audio_ebird_code": "rbnco1"
     },
@@ -945,9 +967,158 @@
         "D": "Chauna_torquata_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, bird facing left, beak pointing left, side profile, standing, white background, 128x128 pixels, bird filling 75% of canvas height, large screamer, pale grey head with shaggy grey crest, small red-orange bill, red eye with red eye ring, single black collar around neck with thin white border on top edge only, blue-grey body and wings with pale scalloping on breast, pale grey-white underparts, long salmon-pink legs with black claws, plump heavy body, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 128x128 pixels, bird filling 75% of canvas height, large screamer, pale grey head with shaggy grey crest, small red-orange bill, red eye with red eye ring, single black collar around neck with thin white border on top edge only, blue-grey body and wings with pale scalloping on breast, pale grey-white underparts, long salmon-pink legs with black claws, plump heavy body, detailed feather texture with dithering, clean outline, no shadow, no text"
       },
       "audio_ebird_code": "sousc1"
+    },
+    {
+      "id": 18,
+      "num": "#018",
+      "nombre_comun": "Pato maicero",
+      "nombre_cientifico": "Anas georgica",
+      "familia": "Anatidae",
+      "orden": "Anseriformes",
+      "descripcion": {
+        "D": "Pato mediano de aspecto esbelto. Cabeza parda con corona oscura y una ceja pálida apenas insinuada. Cuello largo y fino. Cuerpo pardo claro con escamado oscuro en el dorso y los flancos. Especulum alar negro con borde posterior blanco visible en vuelo. Vientre ante pálido. Pico largo, negro con franja amarilla lateral característica. Patas grises. Sexos similares."
+      },
+      "habitat": [
+        "humedal",
+        "laguna",
+        "ribereño",
+        "agrícola"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": 55,
+      "envergadura_cm": 85,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "La Pampa",
+        "Mendoza",
+        "San Luis",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Catamarca",
+        "La Rioja",
+        "San Juan",
+        "Neuquén",
+        "Río Negro"
+      ],
+      "curiosidades": "Es uno de los patos más comunes de la región pampeana. Se alimenta de semillas, gramíneas y granos en campos agrícolas, de ahí su nombre. Forma grandes bandadas fuera de la época reproductiva.",
+      "sprites": {
+        "D": "Anas_georgica_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing near water, white background, 128x128 pixels, bird filling 65% of canvas height, medium dabbling duck, brown head with dark crown, long slender neck, brown body with dark scalloping on back and flanks, pale buff underparts, long black bill with distinctive yellow lateral stripe, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "yebpin",
+      "nota_sprites": ""
+    },
+    {
+      "id": 19,
+      "num": "#019",
+      "nombre_comun": "Jacana",
+      "nombre_cientifico": "Jacana jacana",
+      "familia": "Jacanidae",
+      "orden": "Charadriiformes",
+      "descripcion": {
+        "D": "Ave mediana inconfundible. Cabeza y cuello negros. Cuerpo castaño-rojizo intenso. Frente con un escudo frontal amarillo-anaranjado brillante muy llamativo. Alas con puntas amarillas visibles en vuelo. Pico amarillo con escudo frontal del mismo color. Patas y dedos extremadamente largos y delgados, grises, que le permiten caminar sobre la vegetación flotante."
+      },
+      "habitat": [
+        "humedal",
+        "laguna"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": 23,
+      "envergadura_cm": 40,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa"
+      ],
+      "curiosidades": "Camina sobre hojas de plantas flotantes gracias a sus dedos excepcionalmente largos que distribuyen su peso. Es una especie poliándrica — la hembra mantiene un territorio con varios machos que se encargan de incubar los huevos y cuidar los pichones.",
+      "sprites": {
+        "D": "Jacana_jacana_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on lily pad, white background, 128x128 pixels, bird filling 65% of canvas height, medium wading bird, black head and neck, rich chestnut-red body and wings, bright yellow-orange frontal shield on forehead, yellow bill, extremely long thin grey toes and legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "wattan1",
+      "nota_sprites": ""
+    },
+    {
+      "id": 20,
+      "num": "#020",
+      "nombre_comun": "Garza bruja",
+      "nombre_cientifico": "Nycticorax nycticorax",
+      "familia": "Ardeidae",
+      "orden": "Pelecaniformes",
+      "descripcion": {
+        "D": "Garza mediana y robusta de aspecto compacto. Corona y dorso negro-verdosos brillantes. Alas y cola grises. Cara y partes inferiores blancas o gris muy pálido. Dos o tres plumas blancas largas y finas cuelgan de la nuca en época reproductiva. Ojo rojo vivo y llamativo. Pico robusto y negro. Patas amarillo-verdosas. En juvenil el plumaje es pardo rayado con manchas blancas.",
+        "J": "Plumaje pardo con manchas y rayas blancas en dorso y alas. Partes inferiores blancuzcas con rayas pardas. Ojo amarillo."
+      },
+      "habitat": [
+        "humedal",
+        "ribereño",
+        "laguna"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": 60,
+      "envergadura_cm": 112,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "La Pampa",
+        "Mendoza",
+        "San Luis",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Catamarca",
+        "La Rioja",
+        "San Juan",
+        "Neuquén",
+        "Río Negro"
+      ],
+      "curiosidades": "De hábitos principalmente nocturnos y crepusculares, de ahí su nombre. Durante el día descansa en grupos en árboles sobre el agua. Su canto es un 'quack' ronco que se escucha al anochecer. El juvenil es tan diferente del adulto que durante mucho tiempo se lo describió como una especie separada.",
+      "sprites": {
+        "D": "Nycticorax_nycticorax_D.png",
+        "J": "Nycticorax_nycticorax_J.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 128x128 pixels, bird filling 65% of canvas height, medium stocky heron, glossy black-green crown and back, grey wings and tail, white face and underparts, two long thin white nape plumes, vivid red eye, thick black bill, yellow-green legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "J": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 128x128 pixels, bird filling 65% of canvas height, medium stocky heron juvenile, brown upperparts with white spots and streaks on back and wings, white-streaked buff underparts, yellow eye, dark bill with pale base, yellow-green legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "blcnig",
+      "nota_sprites": ""
     },
     {
       "id": 21,
@@ -1002,11 +1173,454 @@
         "V": "Caracara_plancus_V.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing left, beak pointing left, perched on wooden post, white background, 128x128 pixels, bird filling 75% of canvas height, large raptor, black flat crest, creamy white nape and throat, finely black and white barred breast and upper mantle, dark brown wings and belly, large hooked grey-blue bill with pink-orange cere, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text",
-        "J": "pixel art bird sprite, side profile, bird facing left, beak pointing left, perched on wooden post, white background, 128x128 pixels, bird filling 75% of canvas height, same scale as adult, large raptor, short dark brown flat crest, creamy buff face and throat, brown streaked breast and upper mantle, dark brown wings, pale brown belly, large hooked grey-blue bill with pink cere, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text",
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, perched on wooden post, white background, 128x128 pixels, bird filling 75% of canvas height, large raptor, black flat crest, creamy white nape and throat, finely black and white barred breast and upper mantle, dark brown wings and belly, large hooked grey-blue bill with pink-orange cere, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text",
+        "J": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, perched on wooden post, white background, 128x128 pixels, bird filling 75% of canvas height, same scale as adult, large raptor, short dark brown flat crest, creamy buff face and throat, brown streaked breast and upper mantle, dark brown wings, pale brown belly, large hooked grey-blue bill with pink cere, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text",
         "V": "pixel art bird sprite, bottom-side profile, flying overhead, white background, 192x128 pixels, large raptor, wings fully spread, mostly white primaries visible from below, white tail with black terminal band, dark brown wings and body, long neck extended forward, black cap, creamy white throat and chest barred black and white, pink-orange cere, detailed feather texture with dithering, clean outline, no shadow, no text"
       },
       "audio_ebird_code": "crecha"
+    },
+    {
+      "id": 22,
+      "num": "#022",
+      "nombre_comun": "Chimango",
+      "nombre_cientifico": "Daptrius chimango",
+      "familia": "Falconidae",
+      "orden": "Falconiformes",
+      "descripcion": {
+        "D": "Rapaz chica y esbelta. Plumaje pardo con variaciones. Partes superiores pardo oscuro con manchas más claras. Partes inferiores ante pálido con estrías pardas en el pecho. Cola barrada con banda subterminal oscura y punta blancuzca. Base de las primarias blancuzca visible en vuelo. Pico gris con cera amarilla. Patas amarillas. Juvenil más oscuro y rayado."
+      },
+      "habitat": [
+        "pastizal",
+        "agrícola",
+        "urbano",
+        "ribereño"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": 38,
+      "envergadura_cm": 76,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "La Pampa",
+        "Mendoza",
+        "San Luis",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Catamarca",
+        "La Rioja",
+        "San Juan",
+        "Neuquén",
+        "Río Negro"
+      ],
+      "curiosidades": "El carroñero más común de la pampa. Oportunista por excelencia: come carroña, insectos, frutos, huevos y cualquier resto disponible. Es frecuente verlo caminando por el suelo en campos y basurales. A diferencia del carancho, rara vez caza presas vivas.",
+      "sprites": {
+        "D": "Milvago_chimango_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 128x128 pixels, bird filling 65% of canvas height, small slender falcon, brown upperparts with pale mottling, pale buff underparts with brown streaks on breast, barred tail with dark subterminal band and whitish tip, whitish primary base patch, grey hooked bill with yellow cere, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "chiman1",
+      "nota_sprites": ""
+    },
+    {
+      "id": 23,
+      "num": "#023",
+      "nombre_comun": "Gavilán mixto",
+      "nombre_cientifico": "Parabuteo unicinctus",
+      "familia": "Accipitridae",
+      "orden": "Accipitriformes",
+      "descripcion": {
+        "D": "Rapaz grande y robusta. Plumaje principalmente negro oscuro. Hombros y muslos de un castaño-rojizo intenso y llamativo. Base y punta de la cola blancas, con el resto negro. En vuelo se aprecia claramente esta combinación de negro, castaño y blanco. Pico negro con cera amarilla. Patas amarillas fuertes. La hembra es notablemente más grande que el macho."
+      },
+      "habitat": [
+        "pastizal",
+        "monte",
+        "agrícola"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "grande",
+      "largo_cm": 56,
+      "envergadura_cm": 113,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "La Pampa",
+        "Mendoza",
+        "San Luis",
+        "Tucumán",
+        "Salta",
+        "Jujuy"
+      ],
+      "curiosidades": "Caza en grupos cooperativos de dos o más individuos, coordinando el ataque para acorralar a presas grandes como liebres o ñandúes jóvenes. Esta conducta es inusual entre las rapaces y lo convierte en uno de los pocos halconiformes con caza social.",
+      "sprites": {
+        "D": "Parabuteo_unicinctus_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 128x128 pixels, bird filling 65% of canvas height, large robust hawk, dark blackish-brown body, rich chestnut-rufous shoulder patches and thighs, white tail base and white tail tip with broad black central band, black hooked bill with yellow cere, strong yellow legs and talons, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "hrihaw",
+      "nota_sprites": ""
+    },
+    {
+      "id": 24,
+      "num": "#024",
+      "nombre_comun": "Halconcito colorado",
+      "nombre_cientifico": "Falco sparverius",
+      "familia": "Falconidae",
+      "orden": "Falconiformes",
+      "descripcion": {
+        "M": "El halcón más chico de la región. Macho muy colorido. Corona azul-grisácea con mancha central rufa. Cara blanca con dos bigoteras negras características. Dorso rufo con barras negras. Alas azul-grises. Cola rufa con banda subterminal negra y punta blanca. Pecho y vientre ante con manchas negras redondas. Pico gris con cera amarilla. Patas amarillas.",
+        "F": "Dorso rufo con barras negras al igual que el macho. Alas pardas barradas. Sin el azul-gris del macho. Partes inferiores ante con rayas pardas. Cola rufa barrada."
+      },
+      "habitat": [
+        "pastizal",
+        "agrícola",
+        "urbano",
+        "monte"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": 27,
+      "envergadura_cm": 55,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "La Pampa",
+        "Mendoza",
+        "San Luis",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Catamarca",
+        "La Rioja",
+        "San Juan",
+        "Neuquén",
+        "Río Negro"
+      ],
+      "curiosidades": "Caza desde perchas elevadas o en vuelo cernido, detectando insectos y pequeños vertebrados. Es capaz de ver en el ultravioleta, lo que le permite seguir los rastros de orina de roedores. El macho y la hembra difieren notablemente en plumaje, siendo el macho mucho más colorido.",
+      "sprites": {
+        "M": "Falco_sparverius_M.png",
+        "F": "Falco_sparverius_F.png"
+      },
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on post, white background, 128x128 pixels, bird filling 65% of canvas height, small falcon, blue-grey crown with rufous central patch, white face with two black moustache stripes, rufous back with black bars, blue-grey wings, rufous tail with black subterminal band and white tip, buff underparts with round black spots, grey hooked bill with yellow cere, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on post, white background, 128x128 pixels, bird filling 65% of canvas height, small falcon female, rufous-brown crown, white face with two black moustache stripes, rufous back with black bars, wings with blue-grey tones mixed with brown bars (female kestrels have blue-grey wing coverts, not purely brown), rufous barred tail, buff underparts with brown streaks, grey hooked bill with yellow cere, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "amekes",
+      "nota_sprites": ""
+    },
+    {
+      "id": 25,
+      "num": "#025",
+      "nombre_comun": "Flamenco austral",
+      "nombre_cientifico": "Phoenicopterus chilensis",
+      "familia": "Phoenicopteridae",
+      "orden": "Phoenicopteriformes",
+      "descripcion": {
+        "D": "Ave grande e inconfundible. Plumaje rosado pálido con las alas rosado-rojo intenso y negro en las primarias. Cuello muy largo y flexible. Pico abultado y curvado hacia abajo, de color rosado con la mitad distal negra. Patas largas grisáceas con articulaciones rosadas. Los juveniles son grises parduzcos. La coloración rosada proviene de los pigmentos de los crustáceos que consume."
+      },
+      "habitat": [
+        "laguna",
+        "costa",
+        "humedal"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "grande",
+      "largo_cm": 110,
+      "envergadura_cm": 145,
+      "estado_conservacion": "NT",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "La Pampa",
+        "Mendoza",
+        "San Luis",
+        "Neuquén",
+        "Río Negro",
+        "Chubut",
+        "Santa Cruz"
+      ],
+      "curiosidades": "Se alimenta filtrando agua con el pico invertido, atrapando algas y pequeños crustáceos. Forma colonias reproductivas en salares y lagunas saladas. Su color rosado depende directamente de la dieta — en cautiverio sin carotenoides en la comida se vuelve blanco.",
+      "sprites": {
+        "D": "Phoenicopterus_chilensis_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing in shallow water, white background, 128x128 pixels, bird filling 85% of canvas height, very tall wading bird flamingo, pale pink body and neck, deep rose-red wing coverts, black primary feathers, very long sinuous neck, distinctive downcurved kinked pink bill with black tip, long grey legs with pink joints, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "chifl1",
+      "nota_sprites": ""
+    },
+    {
+      "id": 26,
+      "num": "#026",
+      "nombre_comun": "Torcaza",
+      "nombre_cientifico": "Zenaida auriculata",
+      "familia": "Columbidae",
+      "orden": "Columbiformes",
+      "descripcion": {
+        "D": "Paloma mediana y esbelta. Cabeza gris azulada con dos manchas negras en la cara — una debajo del ojo y otra en la mejilla. Cuello con irisaciones rosado-violáceas. Dorso pardo-grisáceo. Alas con manchas negras dispersas. Pecho rosado que se funde con el vientre más pálido. Cola larga y graduada, gris con bordes blancos en las plumas externas. Pico oscuro. Patas rojas."
+      },
+      "habitat": [
+        "pastizal",
+        "agrícola",
+        "urbano",
+        "monte"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": 28,
+      "envergadura_cm": 45,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "La Pampa",
+        "Mendoza",
+        "San Luis",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Catamarca",
+        "La Rioja",
+        "San Juan",
+        "Neuquén",
+        "Río Negro"
+      ],
+      "curiosidades": "Una de las aves más abundantes de la región pampeana. Forma bandadas enormes — a veces de miles de individuos — en campos agrícolas donde puede causar daños en cultivos de girasol y sorgo. Es una especie cinegética muy cazada en Argentina.",
+      "sprites": {
+        "D": "Zenaida_auriculata_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 128x128 pixels, bird filling 65% of canvas height, medium slender dove, blue-grey head, two black facial spots (below eye and on cheek), pinkish-violet neck iridescence, greyish-brown back and wings with scattered black spots, pinkish breast fading to pale belly, long graduated grey tail with white outer feather tips, dark bill, red legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "eardov",
+      "nota_sprites": ""
+    },
+    {
+      "id": 27,
+      "num": "#027",
+      "nombre_comun": "Chiflón",
+      "nombre_cientifico": "Syrigma sibilatrix",
+      "familia": "Ardeidae",
+      "orden": "Pelecaniformes",
+      "descripcion": {
+        "D": "Garza mediana de aspecto elegante. Cabeza con corona y cresta negras bien definidas. Cara azul celeste desnuda y brillante en época reproductiva. Cuello rufo-canela intenso. Dorso y alas gris perla. Partes inferiores blancas o ante muy pálido. Pico largo y recto, amarillo con punta oscura. Patas amarillas. Emite un silbido agudo y penetrante característico."
+      },
+      "habitat": [
+        "pastizal",
+        "agrícola",
+        "humedal"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": 53,
+      "envergadura_cm": 95,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "La Pampa",
+        "Tucumán",
+        "Salta",
+        "Jujuy"
+      ],
+      "curiosidades": "A diferencia de la mayoría de las garzas, prefiere los pastizales secos y campos abiertos al borde del agua. Su canto es un silbido muy agudo y fuerte, escuchable a gran distancia, que da origen a su nombre vulgar.",
+      "sprites": {
+        "D": "Syrigma_sibilatrix_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing in grass, white background, 128x128 pixels, bird filling 75% of canvas height, medium heron, black crown and crest, bare bright blue facial skin, rich rufous-cinnamon neck, pearl-grey back and wings, white underparts, long straight yellow bill with dark tip, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "whiher1",
+      "nota_sprites": ""
+    },
+    {
+      "id": 28,
+      "num": "#028",
+      "nombre_comun": "Lechucita de las vizcacheras",
+      "nombre_cientifico": "Athene cunicularia",
+      "familia": "Strigidae",
+      "orden": "Strigiformes",
+      "descripcion": {
+        "D": "Lechuza chica y terrícola. Cara redonda sin discos faciales marcados. Partes superiores pardo con manchas y barras blancas. Partes inferiores blancuzcas con barras pardas en el pecho. Ceja blanca. Ojos amarillos grandes y expresivos orientados hacia adelante. Patas largas para un estrigido, pardas con algo de plumaje en la base. Pico gris amarillento. Frecuentemente vista de día parada en el suelo o en postes."
+      },
+      "habitat": [
+        "pastizal",
+        "agrícola",
+        "urbano"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": 23,
+      "envergadura_cm": 54,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "La Pampa",
+        "Mendoza",
+        "San Luis",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Catamarca",
+        "La Rioja",
+        "San Juan",
+        "Neuquén",
+        "Río Negro"
+      ],
+      "curiosidades": "Nidifica en cuevas en el suelo, generalmente en vizcacheras abandonadas o túneles que excava ella misma. Es de actividad diurna y crepuscular, a diferencia de la mayoría de las lechuzas. Cuando se siente amenazada hace una reverencia repetida muy característica.",
+      "sprites": {
+        "D": "Athene_cunicularia_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, facing FORWARD (front view, body facing the viewer), standing on ground, white background, 128x128 pixels, bird filling 65% of canvas height, small burrowing owl, round face without prominent facial disc, brown upperparts with white spots and bars, whitish underparts with brown barring on breast, white supercilium, large round yellow eyes facing forward, long bare brown legs, yellowish-grey bill, detailed feather texture with dithering, clean outline, no shadow, no text"
+      },
+      "audio_ebird_code": "burowl",
+      "nota_sprites": "estrigido — sprite facing forward"
+    },
+    {
+      "id": 29,
+      "num": "#029",
+      "nombre_comun": "Gaviota capucho café",
+      "nombre_cientifico": "Chroicocephalus maculipennis",
+      "familia": "Laridae",
+      "orden": "Charadriiformes",
+      "descripcion": {
+        "D": "Gaviota mediana y esbelta. En plumaje reproductivo tiene una capucha chocolate-café que cubre la cabeza hasta el cuello. Fuera de época reproductiva la capucha desaparece y la cabeza es blanca con una mancha oscura detrás del ojo. Cuerpo blanco. Alas grises con borde anterior blanco y punta negra. Cola blanca. Pico y patas rojos. La más común en costas y ríos de la región.",
+        "R": "Con capucha chocolate-café completa cubriendo cabeza y nuca."
+      },
+      "habitat": [
+        "costa",
+        "ribereño",
+        "humedal",
+        "urbano"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": 37,
+      "envergadura_cm": 88,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Neuquén",
+        "Río Negro",
+        "Chubut"
+      ],
+      "curiosidades": "Es la gaviota más abundante en el Río de la Plata y costas bonaerenses. Muy oportunista, sigue barcos y barcazas para aprovechar los descartes. Forma grandes colonias reproductivas en islas del Delta del Paraná.",
+      "sprites": {
+        "D": "Chroicocephalus_maculipennis_D.png",
+        "R": "Chroicocephalus_maculipennis_R.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 128x128 pixels, bird filling 65% of canvas height, medium slender gull non-breeding, white head with dark ear spot behind eye, white body, grey wings with white leading edge and black wingtips, white tail, red bill, red legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "R": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 128x128 pixels, bird filling 65% of canvas height, medium slender gull breeding, full dark chocolate-brown hood covering head and nape, white body, grey wings with white leading edge and black wingtips, white tail, red bill, red legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "brhgul1",
+      "nota_sprites": ""
+    },
+    {
+      "id": 30,
+      "num": "#030",
+      "nombre_comun": "Gaviota cocinera",
+      "nombre_cientifico": "Larus dominicanus",
+      "familia": "Laridae",
+      "orden": "Charadriiformes",
+      "descripcion": {
+        "D": "La gaviota más grande de la región. Adulto con cabeza, cuello, pecho y vientre blancos. Dorso y alas gris oscuro casi negro. Puntas de las alas negras con manchas blancas. Cola blanca. Pico amarillo robusto con mancha roja en el gonys. Ojo amarillo con anillo orbital rojo. Patas amarillas. El juvenil es pardo moteado y tarda cuatro años en adquirir el plumaje adulto.",
+        "J": "Plumaje pardo moteado con escamado en dorso y alas. Pico oscuro. Patas rosadas. Cola con banda subterminal oscura."
+      },
+      "habitat": [
+        "costa",
+        "marino",
+        "ribereño",
+        "urbano"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "grande",
+      "largo_cm": 58,
+      "envergadura_cm": 128,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Neuquén",
+        "Río Negro",
+        "Chubut",
+        "Santa Cruz",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "Carroñera y predadora oportunista. En costas patagónicas depreda colonias de pingüinos y lobos marinos, picoteando heridas en los adultos. Su nombre 'cocinera' se debe a que solía seguir a los barcos pesqueros para aprovechar los descartes.",
+      "sprites": {
+        "D": "Larus_dominicanus_D.png",
+        "J": "Larus_dominicanus_J.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 128x128 pixels, bird filling 65% of canvas height, large gull, white head neck and underparts, dark slate-grey back and wings, black wingtips with white spots, white tail, heavy yellow bill with red gonys spot, yellow eye with red orbital ring, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "J": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 128x128 pixels, bird filling 65% of canvas height, large gull juvenile, mottled brown plumage with pale scalloping on back and wings, whitish head with brown streaking, dark bill, pinkish legs, dark subterminal tail band, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "kelbgul",
+      "nota_sprites": ""
     }
   ]
 }
