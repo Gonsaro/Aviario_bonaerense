@@ -80,7 +80,7 @@ wide = "const WIDE=['vuelo','Vuelo'];"
 # ---------------------------------------------------------------------------
 RUNTIME_MARKER = 'let sel=null'  # First line of JS runtime (state vars)
 
-with open('aviario_bonaerense.html', encoding='utf-8') as f:
+with open('index.html', encoding='utf-8') as f:
     lines = f.readlines()
 
 # Find header end dynamically: the <script> tag that opens the data section
@@ -132,7 +132,7 @@ new_html = (
     runtime_js
 )
 
-with open('aviario_bonaerense.html', 'w', encoding='utf-8') as f:
+with open('index.html', 'w', encoding='utf-8') as f:
     f.write(new_html)
 
 print(f'HTML regenerado: {len(sp)} sprites, {len(data["especies"])} especies')
