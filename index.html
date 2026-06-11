@@ -120,12 +120,70 @@ body{font-family:system-ui,-apple-system,sans-serif;background:#f5f4f0;color:#1a
 .lb-prev{left:1.25rem}
 .lb-next{right:1.25rem}
 .empty{padding:2rem 1.5rem;color:#888780;font-size:14px}
+#header-actions{display:flex;gap:8px;align-items:center;flex-shrink:0}
+.login-btn{padding:6px 12px;border-radius:8px;border:0.5px solid rgba(0,0,0,0.15);background:#1D9E75;color:#fff;font-size:13px;font-family:inherit;cursor:pointer;white-space:nowrap}
+.login-btn:hover{background:#178a65}
+.ll-toggle{padding:6px 12px;border-radius:8px;border:0.5px solid rgba(0,0,0,0.15);background:#f1efe8;color:#1a1a18;font-size:13px;font-family:inherit;cursor:pointer;white-space:nowrap;transition:background 0.15s,color 0.15s}
+.ll-toggle.on{background:#1D9E75;color:#fff;border-color:#1D9E75}
+.trophy-btn{padding:6px 8px;border-radius:8px;border:0.5px solid rgba(0,0,0,0.15);background:#f1efe8;font-size:16px;cursor:pointer;line-height:1}
+.user-chip{font-size:12px;color:#888780;max-width:90px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;cursor:pointer}
+.user-chip:hover{color:#1a1a18}
+.ll-unseen img{filter:grayscale(100%) opacity(0.55)}
+.seen-badge{position:absolute;top:4px;left:5px;font-size:12px;color:#1D9E75;font-weight:700;line-height:1;text-shadow:0 0 3px #fff,0 0 3px #fff}
+.mark-seen-btn{display:inline-flex;align-items:center;gap:6px;padding:7px 14px;border-radius:8px;border:1.5px solid #1D9E75;background:transparent;color:#1D9E75;font-size:13px;font-family:inherit;cursor:pointer;font-weight:500;transition:background 0.15s,color 0.15s;margin-top:8px}
+.mark-seen-btn.seen{background:#1D9E75;color:#fff}
+.mark-seen-btn:hover:not(.seen){background:#f0faf5}
+.modal-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,0.55);z-index:10000;align-items:center;justify-content:center}
+.modal-overlay.open{display:flex}
+.modal{background:#fff;border-radius:16px;padding:1.5rem;width:280px;display:flex;flex-direction:column;gap:12px;box-shadow:0 8px 32px rgba(0,0,0,0.2)}
+.modal-title{font-size:18px;font-weight:500}
+.modal-sub{font-size:12px;color:#888780;margin-top:-6px}
+.modal input{padding:9px 12px;border-radius:8px;border:0.5px solid rgba(0,0,0,0.15);font-size:14px;font-family:inherit;outline:none;background:#f5f4f0;color:#1a1a18}
+.modal input:focus{border-color:#1D9E75}
+.modal-btn{padding:9px;border-radius:8px;border:none;background:#1D9E75;color:#fff;font-size:14px;font-family:inherit;cursor:pointer;font-weight:500}
+.modal-btn:hover{background:#178a65}
+.modal-cancel{padding:9px;border-radius:8px;border:0.5px solid rgba(0,0,0,0.12);background:#f1efe8;color:#444;font-size:14px;font-family:inherit;cursor:pointer}
+.drawer-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,0.4);z-index:10001}
+.drawer-overlay.open{display:block}
+.drawer{position:fixed;right:0;top:0;bottom:0;width:300px;max-width:90vw;background:#fff;z-index:10002;transform:translateX(100%);transition:transform 0.25s ease;overflow-y:auto;display:flex;flex-direction:column}
+.drawer.open{transform:translateX(0)}
+.drawer-header{display:flex;align-items:center;justify-content:space-between;padding:1.25rem 1.25rem 0.75rem;border-bottom:0.5px solid rgba(0,0,0,0.1);position:sticky;top:0;background:#fff;z-index:1}
+.drawer-title{font-size:18px;font-weight:500}
+.drawer-count{font-size:12px;color:#888780;margin-left:6px}
+#trophy-list{padding:0.75rem 1rem;display:flex;flex-direction:column;gap:8px}
+.trophy-item{display:flex;align-items:center;gap:10px;padding:10px 12px;border-radius:10px;background:#f5f4f0;opacity:0.38;transition:opacity 0.2s}
+.trophy-item.unlocked{opacity:1;background:#f0faf5;border:0.5px solid rgba(29,158,117,0.3)}
+.trophy-icon{font-size:22px;flex-shrink:0;width:28px;text-align:center}
+.trophy-info{flex:1;min-width:0}
+.trophy-name{font-size:13px;font-weight:500;margin-bottom:2px}
+.trophy-cond{font-size:11px;color:#888780}
+@media(prefers-color-scheme:dark){
+  .modal{background:#2c2c28;color:#f0ede4}
+  .modal input{background:#1a1a18;border-color:rgba(255,255,255,0.1);color:#f0ede4}
+  .modal-cancel{background:#1f1f1c;color:#b4b2a9;border-color:rgba(255,255,255,0.08)}
+  .drawer{background:#242420;color:#f0ede4}
+  .drawer-header{background:#242420;border-color:rgba(255,255,255,0.08)}
+  .trophy-item{background:#1f1f1c}
+  .trophy-item.unlocked{background:#0a2018;border-color:rgba(29,158,117,0.4)}
+  .ll-toggle{background:#1f1f1c;color:#f0ede4;border-color:rgba(255,255,255,0.08)}
+  .ll-toggle.on{background:#1D9E75;color:#fff;border-color:#1D9E75}
+  .trophy-btn{background:#1f1f1c;border-color:rgba(255,255,255,0.08)}
+  .mark-seen-btn{background:transparent;border-color:#1D9E75;color:#1D9E75}
+  .mark-seen-btn.seen{background:#1D9E75;color:#fff}
+  .mark-seen-btn:hover:not(.seen){background:#0a2018}
+  .user-chip:hover{color:#f0ede4}
+}
 </style>
 </head>
 <body>
 <div class="header">
-  <div class="logo">Aviar<span>io</span> <span style="font-size:13px;font-weight:400;color:#888780">Buenos Aires</span></div>
-  <div class="subtitle" id="subtitle">14 especies</div>
+  <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:8px">
+    <div>
+      <div class="logo">Aviar<span>io</span> <span style="font-size:13px;font-weight:400;color:#888780">Buenos Aires</span></div>
+      <div class="subtitle" id="subtitle">30 especies</div>
+    </div>
+    <div id="header-actions"></div>
+  </div>
 </div>
 <div class="toolbar">
   <input type="text" id="search" placeholder="Buscar por nombre, familia u orden…" oninput="render()">
@@ -148,6 +206,23 @@ body{font-family:system-ui,-apple-system,sans-serif;background:#f5f4f0;color:#1a
     <div class="lb-label" id="lb-label"></div>
   </div>
   <button class="lb-nav lb-next" id="lb-next" onclick="lbNav(1)">&#8594;</button>
+</div>
+<div class="modal-overlay" id="login-modal">
+  <div class="modal">
+    <div class="modal-title">Iniciar sesión</div>
+    <div class="modal-sub">Solo tu nombre por ahora — el acceso real viene pronto.</div>
+    <input type="text" id="login-name" placeholder="Tu nombre" autocomplete="off" maxlength="32" oninput="this.value=this.value.replace(/[<>]/g,'')" onkeydown="if(event.key==='Enter')doLogin()">
+    <button class="modal-btn" onclick="doLogin()">Entrar</button>
+    <button class="modal-cancel" onclick="closeLogin()">Cancelar</button>
+  </div>
+</div>
+<div class="drawer-overlay" id="trophy-overlay" onclick="closeTrophies()"></div>
+<div class="drawer" id="trophy-drawer">
+  <div class="drawer-header">
+    <div><span class="drawer-title">Logros</span><span class="drawer-count" id="trophy-count"></span></div>
+    <button class="close-btn" onclick="closeTrophies()">&#10005;</button>
+  </div>
+  <div id="trophy-list"></div>
 </div>
 <script>
 const SP={'Anas_georgica_D': 'Sprites/Anas_georgica_D.png',
@@ -231,6 +306,85 @@ const birds=[
 {id:30,num:"#030",nombre_comun:"Gaviota cocinera",nombre_cientifico:"Larus dominicanus",familia:"Laridae",orden:"Charadriiformes",descripcion:{adulto:"La gaviota más grande de la región. Adulto con cabeza, cuello, pecho y vientre blancos. Dorso y alas gris oscuro casi negro. Puntas de las alas negras con manchas blancas. Cola blanca. Pico amarillo robusto con mancha roja en el gonys. Ojo amarillo con anillo orbital rojo. Patas amarillas. El juvenil es pardo moteado y tarda cuatro años en adquirir el plumaje adulto.",juvenil:"Plumaje pardo moteado con escamado en dorso y alas. Pico oscuro. Patas rosadas. Cola con banda subterminal oscura."},habitat:["costa","marino","ribereño","urbano"],residencia:"permanente",tamanio:"grande",largo_cm:58,envergadura_cm:128,estado:"LC",provincias:["Buenos Aires","CABA","Santa Fe","Entre Ríos","Neuquén","Río Negro","Chubut","Santa Cruz","Tierra del Fuego"],curiosidades:"Carroñera y predadora oportunista. En costas patagónicas depreda colonias de pingüinos y lobos marinos, picoteando heridas en los adultos. Su nombre 'cocinera' se debe a que solía seguir a los barcos pesqueros para aprovechar los descartes.",sprites:{adulto:"Larus_dominicanus_D",juvenil:"Larus_dominicanus_J"},audio_ebird_code:"kelbgul"}
 ];
 let sel=null,tab={},flt=null;
+let user=null,seen=new Set(),llActive=false;
+
+function loadState(){
+  user=localStorage.getItem('aviario_user')||null;
+  const s=localStorage.getItem('aviario_seen');
+  seen=new Set(s?JSON.parse(s):[]);
+  llActive=localStorage.getItem('aviario_ll')==='true';
+}
+function saveState(){
+  if(user)localStorage.setItem('aviario_user',user);
+  else localStorage.removeItem('aviario_user');
+  localStorage.setItem('aviario_seen',JSON.stringify([...seen]));
+  localStorage.setItem('aviario_ll',llActive?'true':'false');
+}
+function isSeen(id){return seen.has(id);}
+
+function openLogin(){document.getElementById('login-modal').classList.add('open');setTimeout(()=>document.getElementById('login-name').focus(),50);}
+function closeLogin(){document.getElementById('login-modal').classList.remove('open');document.getElementById('login-name').value='';}
+function doLogin(){
+  const name=document.getElementById('login-name').value.trim();
+  if(!name)return;
+  user=name;
+  saveState();
+  closeLogin();
+  render();
+}
+function logout(){if(!confirm('¿Cerrar sesión?'))return;user=null;llActive=false;saveState();render();}
+function toggleLL(){if(!user)return;llActive=!llActive;saveState();render();}
+function markSeen(id){
+  if(isSeen(id)){seen.delete(id);}else{seen.add(id);}
+  saveState();
+  render();
+}
+
+const TROPHIES=[
+  {id:'primera_pluma',name:'Primera pluma',cond:'Primera ave vista',icon:'🪶'},
+  {id:'obs_urbano',name:'Observador urbano',cond:'Primera ave urbana',icon:'🏙️'},
+  {id:'orilla',name:'Orilla del agua',cond:'Primera ave acuática',icon:'🌊'},
+  {id:'rapaz',name:'Ojo del rapaz',cond:'Primera rapaz',icon:'🦅'},
+  {id:'pastizalero',name:'Pastizalero',cond:'Primera ave de pastizal',icon:'🌾'},
+  {id:'en_peligro',name:'En peligro',cond:'Primera especie NT/VU/EN',icon:'⚠️'},
+  {id:'bandada',name:'Bandada',cond:'10 especies vistas',icon:'🐦'},
+  {id:'conocedor',name:'Conocedor',cond:'25 especies vistas',icon:'📖'},
+  {id:'guardabosques',name:'Guardabosques',cond:'50 especies vistas',icon:'🌳'},
+  {id:'maestro',name:'Maestro aviario',cond:'100% del total',icon:'🏆'},
+  {id:'familia_unida',name:'Familia unida',cond:'Primera familia completa',icon:'🔗'},
+  {id:'coleccionista',name:'Coleccionista',cond:'3 familias completas',icon:'🗂️'},
+];
+function getUnlockedTrophies(){
+  const seenBirds=birds.filter(b=>seen.has(b.id));
+  const u=new Set();
+  if(seenBirds.length>=1)u.add('primera_pluma');
+  if(seenBirds.some(b=>b.habitat.includes('urbano')))u.add('obs_urbano');
+  if(seenBirds.some(b=>['humedal','ribereño','costa','laguna'].some(h=>b.habitat.includes(h))))u.add('orilla');
+  if(seenBirds.some(b=>['Falconiformes','Accipitriformes'].includes(b.orden)))u.add('rapaz');
+  if(seenBirds.some(b=>b.habitat.includes('pastizal')))u.add('pastizalero');
+  if(seenBirds.some(b=>['NT','VU','EN','CR'].includes(b.estado)))u.add('en_peligro');
+  if(seenBirds.length>=10)u.add('bandada');
+  if(seenBirds.length>=25)u.add('conocedor');
+  if(seenBirds.length>=50)u.add('guardabosques');
+  if(seenBirds.length>=birds.length)u.add('maestro');
+  const allFams=[...new Set(birds.map(b=>b.familia))];
+  const completeFams=allFams.filter(f=>birds.filter(b=>b.familia===f).every(b=>seen.has(b.id)));
+  if(completeFams.length>=1)u.add('familia_unida');
+  if(completeFams.length>=3)u.add('coleccionista');
+  return u;
+}
+function openTrophies(){
+  const u=getUnlockedTrophies();
+  document.getElementById('trophy-count').textContent=u.size+'/'+TROPHIES.length;
+  document.getElementById('trophy-list').innerHTML=TROPHIES.map(t=>'<div class="trophy-item'+(u.has(t.id)?' unlocked':'')+'"><span class="trophy-icon">'+t.icon+'</span><div class="trophy-info"><div class="trophy-name">'+t.name+'</div><div class="trophy-cond">'+t.cond+'</div></div></div>').join('');
+  document.getElementById('trophy-overlay').classList.add('open');
+  document.getElementById('trophy-drawer').classList.add('open');
+}
+function closeTrophies(){
+  document.getElementById('trophy-overlay').classList.remove('open');
+  document.getElementById('trophy-drawer').classList.remove('open');
+}
+
 function isWide(k){return WIDE.includes(k);}
 function isA(t,v){return flt&&flt.t===t&&flt.v===v;}
 function tog(t,v){flt=isA(t,v)?null:{t,v};render();}
@@ -263,7 +417,6 @@ function getSorted(list){
   const s=(document.getElementById('sort')||{value:'num'}).value;
   return [...list].sort((a,b)=>s==='nombre'?a.nombre_comun.localeCompare(b.nombre_comun,'es'):s==='cientifico'?a.nombre_cientifico.localeCompare(b.nombre_cientifico):a.id-b.id);
 }
-
 function getFiltered(){
   let list=birds;
   if(flt){const{t,v}=flt;list=list.filter(b=>t==='habitat'?b.habitat.includes(v):t==='provincia'?b.provincias.includes(v):t==='estado'?b.estado===v:t==='tamanio'?b.tamanio===v:t==='familia'?b.familia===v:t==='orden'?b.orden===v:t==='residencia'?b.residencia===v:true);}
@@ -275,7 +428,6 @@ function getFiltered(){
 function pick(id){sel=id;const b=birds.find(x=>x.id===id);if(!tab[id])tab[id]=Object.keys(b.sprites)[0];render();scrollToDetail();}
 function st(id,t){tab[id]=t;render();}
 function cls(){sel=null;render();}
-
 function navBird(dir){
   const list=getFiltered();
   const idx=list.findIndex(b=>b.id===sel);
@@ -283,10 +435,7 @@ function navBird(dir){
   const next=list[idx+dir];
   if(next)pick(next.id);
 }
-
-function scrollToDetail(){
-  setTimeout(()=>{window.scrollTo({top:0,behavior:'smooth'});},50);
-}
+function scrollToDetail(){setTimeout(()=>{window.scrollTo({top:0,behavior:'smooth'});},50);}
 
 document.addEventListener('keydown',e=>{
   const lbOpen=document.getElementById('lb').classList.contains('open');
@@ -305,9 +454,21 @@ document.addEventListener('keydown',e=>{
 function iTag(code,c){const r=isA('estado',code)?' active-ring':'';const cl=c?` onclick="tog('estado','${code}')" class="tag iucn-${code} clickable${r}"`:` class="tag iucn-${code}${r}"`;return `<span${cl}>${code}</span>`;}
 function fTag(t,v,cls){const r=isA(t,v)?' active-ring':'';return `<span class="tag ${cls} clickable${r}" onclick="tog('${t}','${v}')">${v}</span>`;}
 
+function renderHeader(){
+  const el=document.getElementById('header-actions');
+  if(!el)return;
+  if(!user){
+    el.innerHTML='<button class="login-btn" onclick="openLogin()">Iniciar sesión</button>';
+  } else {
+    el.innerHTML='<div style="display:flex;gap:6px;align-items:center;flex-wrap:wrap;justify-content:flex-end"><button class="ll-toggle'+(llActive?' on':'')+'" onclick="toggleLL()">'+(llActive?'Life List ✓':'Life List')+'</button><button class="trophy-btn" onclick="openTrophies()" title="Logros">🏆</button><span class="user-chip" onclick="logout()" title="Cerrar sesión">'+user+'</span></div>';
+  }
+  const sub=document.getElementById('subtitle');
+  if(sub){sub.textContent=(user&&llActive)?seen.size+'/'+birds.length+' vistas':birds.length+' especies';}
+}
+
 function render(){
+  renderHeader();
   const list=getFiltered();
-  document.getElementById('subtitle').textContent=`${birds.length} especies`;
   let h='';
   if(flt)h+=`<div class="breadcrumb"><span>Filtrando por</span><span class="bc-tag">${flt.t}: ${flt.v}</span><button class="bc-close" onclick="flt=null;render()">&#10005;</button><span>${list.length} ${list.length===1?'ave':'aves'}</span></div>`;
 
@@ -321,6 +482,7 @@ function render(){
     const idx=list.findIndex(x=>x.id===sel);
     const hasPrev=idx>0;
     const hasNext=idx<list.length-1;
+    const seenBtn=user&&llActive?`<button class="mark-seen-btn${isSeen(b.id)?' seen':''}" onclick="markSeen(${b.id})">${isSeen(b.id)?'✓ Vista':'Marcar como vista'}</button>`:'';
     h+=`<div class="detail">
       <div class="detail-top">
         <div class="sprite-col">
@@ -333,6 +495,7 @@ function render(){
           <div class="sprite-thumbs">
             ${Object.entries(b.sprites).map(([tt,sk])=>`<div class="thumb${isWide(tt)?' wide':''}${t===tt?' active':''}" onclick="st(${b.id},'${tt}')" title="${tt}"><img src="${SP[sk]||''}" alt="${tt}">${sk.endsWith('_M')?'<span class="thumb-sex">&#9794;</span>':sk.endsWith('_F')?'<span class="thumb-sex">&#9792;</span>':''}<span class="thumb-lbl">${tt}</span></div>`).join('')}
           </div>
+          ${seenBtn}
         </div>
         <div class="detail-info">
           <div class="d-header">
@@ -372,11 +535,18 @@ function render(){
   if(!list.length)h+='<div class="empty">No se encontraron aves con ese criterio.</div>';
   else{
     h+='<div class="grid">';
-    h+=list.map(b=>{const k0=Object.keys(b.sprites)[0];const sk0=b.sprites[k0];const src=SP[sk0]||'';const badge0=sk0.endsWith('_M')?'<span class="sex-badge">&#9794;</span>':sk0.endsWith('_F')?'<span class="sex-badge">&#9792;</span>':'';return `<div class="card${sel===b.id?' active':''}" onclick="pick(${b.id})"><div class="card-img">${src?`<div class="sprite-wrap"><img src="${src}" alt="${b.nombre_comun}">${badge0}</div>`:''}</div><div class="card-body"><div class="card-num">${b.num}</div><div class="card-name">${b.nombre_comun}</div><div class="card-sci">${b.nombre_cientifico}</div><div class="tags">${iTag(b.estado,false)}<span class="tag ${TC[b.tamanio]}">${b.tamanio}</span></div></div></div>`;}).join('');
+    h+=list.map(b=>{
+      const k0=Object.keys(b.sprites)[0];const sk0=b.sprites[k0];const src=SP[sk0]||'';
+      const badge0=sk0.endsWith('_M')?'<span class="sex-badge">&#9794;</span>':sk0.endsWith('_F')?'<span class="sex-badge">&#9792;</span>':'';
+      const unseen=user&&llActive&&!isSeen(b.id);
+      const seenMark=user&&llActive&&isSeen(b.id)?'<span class="seen-badge">✓</span>':'';
+      return `<div class="card${sel===b.id?' active':''}" onclick="pick(${b.id})"><div class="card-img${unseen?' ll-unseen':''}">${src?`<div class="sprite-wrap"><img src="${src}" alt="${b.nombre_comun}">${badge0}${seenMark}</div>`:''}</div><div class="card-body"><div class="card-num">${b.num}</div><div class="card-name">${b.nombre_comun}</div><div class="card-sci">${b.nombre_cientifico}</div><div class="tags">${iTag(b.estado,false)}<span class="tag ${TC[b.tamanio]}">${b.tamanio}</span></div></div></div>`;
+    }).join('');
     h+='</div>';
   }
   document.getElementById('app').innerHTML=h;
 }
+loadState();
 render();
 if('serviceWorker' in navigator) navigator.serviceWorker.register('./sw.js');
 </script>
