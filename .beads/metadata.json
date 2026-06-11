@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "Aviario",
+  "project_id": "b264f602-e0be-4bee-94c7-52c5df72d6e3"
+}
