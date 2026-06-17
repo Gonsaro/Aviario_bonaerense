@@ -153,11 +153,42 @@ body{font-family:system-ui,-apple-system,sans-serif;background:#f5f4f0;color:#1a
 #trophy-list{padding:0.75rem 1rem;display:flex;flex-direction:column;gap:8px}
 .trophy-item{display:flex;align-items:center;gap:10px;padding:10px 12px;border-radius:10px;background:#f5f4f0;opacity:0.38;transition:opacity 0.2s}
 .trophy-item.unlocked{opacity:1;background:#f0faf5;border:0.5px solid rgba(29,158,117,0.3)}
-.trophy-icon{font-size:22px;flex-shrink:0;width:28px;text-align:center}
+.trophy-icon{width:56px;height:56px;flex-shrink:0;display:flex;align-items:center;justify-content:center}
+.trophy-icon img{width:56px;height:56px;object-fit:contain;image-rendering:pixelated}
+.trophy-item.unlocked{cursor:pointer}
 .trophy-info{flex:1;min-width:0}
 .trophy-name{font-size:13px;font-weight:500;margin-bottom:2px}
 .trophy-cond{font-size:11px;color:#888780}
+.fam-section-ttl{font-size:10px;text-transform:uppercase;letter-spacing:1px;color:#888780;font-weight:600;padding:12px 2px 4px}
+.fam-row{display:flex;flex-direction:column;gap:5px;padding:8px 10px;border-radius:10px;background:#f5f4f0}
+.fam-row-top{display:flex;justify-content:space-between;align-items:center}
+.fam-name{font-size:12px;font-weight:500}
+.fam-bar-wrap{display:flex;align-items:center;gap:8px}
+.fam-bar-bg{flex:1;height:5px;border-radius:3px;background:rgba(0,0,0,0.1);overflow:hidden}
+.fam-bar-fill{height:100%;border-radius:3px;background:#1D9E75;transition:width 0.4s}
+.fam-pct{font-size:10px;color:#888780;width:26px;text-align:right;white-space:nowrap}
+.fam-tiers{display:flex;gap:3px;align-items:center}
+.fam-tiers img{width:22px;height:22px;object-fit:contain;image-rendering:pixelated;opacity:0.22}
+.fam-tiers img.earned{opacity:1}
+.tc-icon img{width:110px;height:110px;object-fit:contain;image-rendering:pixelated}
+.trophy-lb{display:none;position:fixed;inset:0;background:rgba(0,0,0,0.9);z-index:10200;align-items:center;justify-content:center;cursor:zoom-out;flex-direction:column;gap:14px}
+.trophy-lb.open{display:flex}
+.trophy-lb img{max-width:80vw;max-height:75vh;object-fit:contain;image-rendering:pixelated}
+.trophy-lb-name{font-size:15px;color:#fff;font-weight:500;text-align:center}
+.trophy-lb-cond{font-size:12px;color:rgba(255,255,255,0.6);text-align:center}
+.trophy-cel-overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,0.62);z-index:10100;align-items:center;justify-content:center}
+.trophy-cel-overlay.open{display:flex}
+.trophy-cel{background:#fff;border-radius:20px;padding:2rem 1.75rem 1.5rem;width:290px;text-align:center;display:flex;flex-direction:column;align-items:center;gap:10px;box-shadow:0 16px 56px rgba(0,0,0,0.28);animation:tc-pop 0.38s cubic-bezier(0.34,1.56,0.64,1)}
+@keyframes tc-pop{from{transform:scale(0.65);opacity:0}to{transform:scale(1);opacity:1}}
+.tc-label{font-size:10px;text-transform:uppercase;letter-spacing:1.5px;color:#1D9E75;font-weight:700}
+.tc-icon{font-size:58px;line-height:1;margin:4px 0}
+.tc-name{font-size:20px;font-weight:600;margin-bottom:2px}
+.tc-cond{font-size:12px;color:#888780}
+.tc-btn{width:100%;padding:10px;border-radius:10px;border:none;background:#1D9E75;color:#fff;font-size:14px;font-family:inherit;cursor:pointer;font-weight:500;margin-top:6px;transition:background 0.15s}
+.tc-btn:hover{background:#178a65}
 @media(prefers-color-scheme:dark){
+  .trophy-cel{background:#2c2c28;color:#f0ede4}
+  .tc-cond{color:#888780}
   .modal{background:#2c2c28;color:#f0ede4}
   .modal input{background:#1a1a18;border-color:rgba(255,255,255,0.1);color:#f0ede4}
   .modal-cancel{background:#1f1f1c;color:#b4b2a9;border-color:rgba(255,255,255,0.08)}
@@ -165,6 +196,8 @@ body{font-family:system-ui,-apple-system,sans-serif;background:#f5f4f0;color:#1a
   .drawer-header{background:#242420;border-color:rgba(255,255,255,0.08)}
   .trophy-item{background:#1f1f1c}
   .trophy-item.unlocked{background:#0a2018;border-color:rgba(29,158,117,0.4)}
+  .fam-row{background:#1f1f1c}
+  .fam-bar-bg{background:rgba(255,255,255,0.1)}
   .ll-toggle{background:#1f1f1c;color:#f0ede4;border-color:rgba(255,255,255,0.08)}
   .ll-toggle.on{background:#1D9E75;color:#fff;border-color:#1D9E75}
   .trophy-btn{background:#1f1f1c;border-color:rgba(255,255,255,0.08)}
@@ -223,6 +256,20 @@ body{font-family:system-ui,-apple-system,sans-serif;background:#f5f4f0;color:#1a
     <button class="close-btn" onclick="closeTrophies()">&#10005;</button>
   </div>
   <div id="trophy-list"></div>
+</div>
+<div class="trophy-lb" id="trophy-lb" onclick="closeTrophyLb()">
+  <img id="trophy-lb-img" src="" alt="">
+  <div class="trophy-lb-name" id="trophy-lb-name"></div>
+  <div class="trophy-lb-cond" id="trophy-lb-cond"></div>
+</div>
+<div class="trophy-cel-overlay" id="trophy-cel-overlay" onclick="closeTrophyCel()">
+  <div class="trophy-cel" onclick="event.stopPropagation()">
+    <div class="tc-label">¡Nuevo logro desbloqueado!</div>
+    <div class="tc-icon" id="tc-icon"></div>
+    <div class="tc-name" id="tc-name"></div>
+    <div class="tc-cond" id="tc-cond"></div>
+    <button class="tc-btn" onclick="closeTrophyCel()">¡Genial!</button>
+  </div>
 </div>
 <script>
 const SP={'Anas_georgica_D': 'Sprites/Anas_georgica_D.png',
@@ -306,19 +353,22 @@ const birds=[
 {id:30,num:"#030",nombre_comun:"Gaviota cocinera",nombre_cientifico:"Larus dominicanus",familia:"Laridae",orden:"Charadriiformes",descripcion:{adulto:"La gaviota más grande de la región. Adulto con cabeza, cuello, pecho y vientre blancos. Dorso y alas gris oscuro casi negro. Puntas de las alas negras con manchas blancas. Cola blanca. Pico amarillo robusto con mancha roja en el gonys. Ojo amarillo con anillo orbital rojo. Patas amarillas. El juvenil es pardo moteado y tarda cuatro años en adquirir el plumaje adulto.",juvenil:"Plumaje pardo moteado con escamado en dorso y alas. Pico oscuro. Patas rosadas. Cola con banda subterminal oscura."},habitat:["costa","marino","ribereño","urbano"],residencia:"permanente",tamanio:"grande",largo_cm:58,envergadura_cm:128,estado:"LC",provincias:["Buenos Aires","CABA","Santa Fe","Entre Ríos","Neuquén","Río Negro","Chubut","Santa Cruz","Tierra del Fuego"],curiosidades:"Carroñera y predadora oportunista. En costas patagónicas depreda colonias de pingüinos y lobos marinos, picoteando heridas en los adultos. Su nombre 'cocinera' se debe a que solía seguir a los barcos pesqueros para aprovechar los descartes.",sprites:{adulto:"Larus_dominicanus_D",juvenil:"Larus_dominicanus_J"},audio_ebird_code:"kelbgul"}
 ];
 let sel=null,tab={},flt=null;
-let user=null,seen=new Set(),llActive=false;
+let user=null,seen=new Set(),llActive=false,celebrated=new Set();
 
 function loadState(){
   user=localStorage.getItem('aviario_user')||null;
   const s=localStorage.getItem('aviario_seen');
   seen=new Set(s?JSON.parse(s):[]);
   llActive=localStorage.getItem('aviario_ll')==='true';
+  const c=localStorage.getItem('aviario_celebrated');
+  celebrated=new Set(c?JSON.parse(c):[]);
 }
 function saveState(){
   if(user)localStorage.setItem('aviario_user',user);
   else localStorage.removeItem('aviario_user');
   localStorage.setItem('aviario_seen',JSON.stringify([...seen]));
   localStorage.setItem('aviario_ll',llActive?'true':'false');
+  localStorage.setItem('aviario_celebrated',JSON.stringify([...celebrated]));
 }
 function isSeen(id){return seen.has(id);}
 
@@ -337,22 +387,45 @@ function toggleLL(){if(!user)return;llActive=!llActive;saveState();render();}
 function markSeen(id){
   if(isSeen(id)){seen.delete(id);}else{seen.add(id);}
   saveState();
+  const curr=getUnlockedTrophies();
+  const justUnlocked=TROPHIES.filter(t=>curr.has(t.id)&&!celebrated.has(t.id));
   render();
+  if(justUnlocked.length>0){
+    celebrated.add(justUnlocked[0].id);
+    saveState();
+    showTrophyCel(justUnlocked[0]);
+  }
 }
+function showTrophyCel(t){
+  document.getElementById('tc-icon').innerHTML=t.img?`<img src="Trofeos/${t.img}" alt="${t.name}">`:'';
+  document.getElementById('tc-name').textContent=t.name;
+  document.getElementById('tc-cond').textContent=t.cond;
+  document.getElementById('trophy-cel-overlay').classList.add('open');
+}
+function closeTrophyCel(){document.getElementById('trophy-cel-overlay').classList.remove('open');}
+function openTrophyLb(img,name,cond){
+  document.getElementById('trophy-lb-img').src='Trofeos/'+img;
+  document.getElementById('trophy-lb-img').alt=name;
+  document.getElementById('trophy-lb-name').textContent=name;
+  document.getElementById('trophy-lb-cond').textContent=cond;
+  document.getElementById('trophy-lb').classList.add('open');
+}
+function closeTrophyLb(){document.getElementById('trophy-lb').classList.remove('open');}
 
 const TROPHIES=[
-  {id:'primera_pluma',name:'Primera pluma',cond:'Primera ave vista',icon:'🪶'},
-  {id:'obs_urbano',name:'Observador urbano',cond:'Primera ave urbana',icon:'🏙️'},
-  {id:'orilla',name:'Orilla del agua',cond:'Primera ave acuática',icon:'🌊'},
-  {id:'rapaz',name:'Ojo del rapaz',cond:'Primera rapaz',icon:'🦅'},
-  {id:'pastizalero',name:'Pastizalero',cond:'Primera ave de pastizal',icon:'🌾'},
-  {id:'en_peligro',name:'En peligro',cond:'Primera especie NT/VU/EN',icon:'⚠️'},
-  {id:'bandada',name:'Bandada',cond:'10 especies vistas',icon:'🐦'},
-  {id:'conocedor',name:'Conocedor',cond:'25 especies vistas',icon:'📖'},
-  {id:'guardabosques',name:'Guardabosques',cond:'50 especies vistas',icon:'🌳'},
-  {id:'maestro',name:'Maestro aviario',cond:'100% del total',icon:'🏆'},
-  {id:'familia_unida',name:'Familia unida',cond:'Primera familia completa',icon:'🔗'},
-  {id:'coleccionista',name:'Coleccionista',cond:'3 familias completas',icon:'🗂️'},
+  {id:'primera_pluma',name:'Primera pluma',cond:'Primera ave vista',img:'primera_pluma.jpg'},
+  {id:'obs_urbano',name:'Observador urbano',cond:'Primera ave urbana',img:'obs_urbano.jpg'},
+  {id:'orilla',name:'Orilla del agua',cond:'Primera ave acuática',img:'orilla.jpg'},
+  {id:'rapaz',name:'Ojo del rapaz',cond:'Primera rapaz',img:'rapaz.jpg'},
+  {id:'pastizalero',name:'Pastizalero',cond:'Primera ave de pastizal',img:'pastizalero.jpg'},
+  {id:'en_peligro',name:'En peligro',cond:'Primera especie NT/VU/EN',img:'en_peligro.jpg'},
+  {id:'bandada',name:'Bandada',cond:'10 especies vistas',img:'bandada.jpg'},
+  {id:'conocedor',name:'Conocedor',cond:'25 especies vistas',img:'conocedor.jpg'},
+  {id:'guardabosques',name:'Guardabosques',cond:'50 especies vistas',img:'guardabosques.jpg'},
+  {id:'maestro',name:'Maestro aviario',cond:'100% del total',img:'maestro.jpg'},
+  {id:'familia_bronce',name:'Primer paso',cond:'Una familia al 25%',img:'Familia_completa_bronce.jpg'},
+  {id:'familia_plata',name:'Lazos fuertes',cond:'Una familia al 50%',img:'Familia_completa_plata.jpg'},
+  {id:'familia_unida',name:'Familia unida',cond:'Primera familia completa',img:'familia_unida.jpg'},
 ];
 function getUnlockedTrophies(){
   const seenBirds=birds.filter(b=>seen.has(b.id));
@@ -367,16 +440,42 @@ function getUnlockedTrophies(){
   if(seenBirds.length>=25)u.add('conocedor');
   if(seenBirds.length>=50)u.add('guardabosques');
   if(seenBirds.length>=birds.length)u.add('maestro');
-  const allFams=[...new Set(birds.map(b=>b.familia))];
-  const completeFams=allFams.filter(f=>birds.filter(b=>b.familia===f).every(b=>seen.has(b.id)));
-  if(completeFams.length>=1)u.add('familia_unida');
-  if(completeFams.length>=3)u.add('coleccionista');
+  const qualFams=[...new Set(birds.map(b=>b.familia))].filter(f=>birds.filter(b=>b.familia===f).length>=2);
+  const famPcts=qualFams.map(f=>{
+    const total=birds.filter(b=>b.familia===f).length;
+    const seenN=birds.filter(b=>b.familia===f&&seen.has(b.id)).length;
+    return seenN/total;
+  });
+  const maxPct=famPcts.length?Math.max(...famPcts):0;
+  if(maxPct>=0.25)u.add('familia_bronce');
+  if(maxPct>=0.50)u.add('familia_plata');
+  if(famPcts.some(p=>p===1))u.add('familia_unida');
   return u;
 }
 function openTrophies(){
   const u=getUnlockedTrophies();
   document.getElementById('trophy-count').textContent=u.size+'/'+TROPHIES.length;
-  document.getElementById('trophy-list').innerHTML=TROPHIES.map(t=>'<div class="trophy-item'+(u.has(t.id)?' unlocked':'')+'"><span class="trophy-icon">'+t.icon+'</span><div class="trophy-info"><div class="trophy-name">'+t.name+'</div><div class="trophy-cond">'+t.cond+'</div></div></div>').join('');
+  const trophyHtml=TROPHIES.map(t=>{
+    const unlocked=u.has(t.id);
+    const click=unlocked?`onclick="openTrophyLb('${t.img}','${t.name}','${t.cond}')"`:'';
+    return `<div class="trophy-item${unlocked?' unlocked':''}" ${click}><div class="trophy-icon"><img src="Trofeos/${t.img}" alt="${t.name}"></div><div class="trophy-info"><div class="trophy-name">${t.name}</div><div class="trophy-cond">${t.cond}</div></div></div>`;
+  }).join('');
+  const tierDefs=[
+    {pct:0.25,img:'Familia_completa_bronce.jpg',alt:'Bronce'},
+    {pct:0.50,img:'Familia_completa_plata.jpg',alt:'Plata'},
+    {pct:1.00,img:'Familia_completa_oro.jpg',alt:'Oro'},
+  ];
+  const qualFams=[...new Set(birds.map(b=>b.familia))].filter(f=>birds.filter(b=>b.familia===f).length>=2);
+  const famData=qualFams.map(f=>{
+    const total=birds.filter(b=>b.familia===f).length;
+    const seenN=birds.filter(b=>b.familia===f&&seen.has(b.id)).length;
+    return {f,total,seenN,pct:seenN/total};
+  }).sort((a,b)=>b.pct-a.pct);
+  const famHtml=famData.map(({f,total,seenN,pct})=>{
+    const tiers=tierDefs.map(t=>`<img src="Trofeos/${t.img}" alt="${t.alt}" class="${pct>=t.pct?'earned':''}" title="${t.alt}">`).join('');
+    return `<div class="fam-row"><div class="fam-row-top"><span class="fam-name">${f}</span><div class="fam-tiers">${tiers}</div></div><div class="fam-bar-wrap"><div class="fam-bar-bg"><div class="fam-bar-fill" style="width:${Math.round(pct*100)}%"></div></div><span class="fam-pct">${seenN}/${total}</span></div></div>`;
+  }).join('');
+  document.getElementById('trophy-list').innerHTML=trophyHtml+`<div class="fam-section-ttl">Familias</div><div style="display:flex;flex-direction:column;gap:6px">${famHtml}</div>`;
   document.getElementById('trophy-overlay').classList.add('open');
   document.getElementById('trophy-drawer').classList.add('open');
 }
@@ -439,7 +538,8 @@ function scrollToDetail(){setTimeout(()=>{window.scrollTo({top:0,behavior:'smoot
 
 document.addEventListener('keydown',e=>{
   const lbOpen=document.getElementById('lb').classList.contains('open');
-  if(e.key==='Escape'){if(lbOpen){closeLb();}else{cls();}}
+  const tlbOpen=document.getElementById('trophy-lb').classList.contains('open');
+  if(e.key==='Escape'){if(tlbOpen){closeTrophyLb();}else if(lbOpen){closeLb();}else{cls();}}
   if(lbOpen){
     if(e.key==='ArrowRight')lbNav(1);
     if(e.key==='ArrowLeft')lbNav(-1);
