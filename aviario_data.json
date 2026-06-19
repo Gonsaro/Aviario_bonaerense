@@ -1,4 +1,4 @@
-{
+﻿{
   "meta": {
     "version": "0.5",
     "descripcion": "Aviario Bonaerense — base de datos de aves de Buenos Aires y CABA",
@@ -10,8 +10,8 @@
       "J": "juvenil",
       "V": "vuelo",
       "formato": "Genus_species_X.png",
-      "tamanio_default": "128x128 px, fondo blanco",
-      "tamanio_vuelo": "192x128 px, fondo blanco",
+      "tamanio_default": "1024x1024 px, fondo blanco",
+      "tamanio_vuelo": "1024x1024 px (salida 1536x1024), fondo blanco",
       "direccion": "facing left (beak pointing left), excepto estrigidos facing forward"
     },
     "habitats": [
@@ -99,7 +99,7 @@
         "D": "Chauna_torquata_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 128x128 pixels, bird filling 75% of canvas height, large screamer, pale grey head with shaggy grey crest, small red-orange bill, red eye with red eye ring, single black collar around neck with thin white border on top edge only, blue-grey body and wings with pale scalloping on breast, pale grey-white underparts, long salmon-pink legs with black claws, plump heavy body, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 1024x1024 pixels, bird filling 75% of canvas height, large screamer, pale grey head with shaggy grey crest, small red-orange bill, red eye with red eye ring, single black collar around neck with thin white border on top edge only, blue-grey body and wings with pale scalloping on breast, pale grey-white underparts, long salmon-pink legs with black claws, plump heavy body, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": "sousc1"
     },
@@ -143,8 +143,8 @@
         "F": "Amazonetta_brasiliensis_F.png"
       },
       "prompts_pixelart": {
-        "M": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, swimming or standing, white background, 128x128 pixels, bird filling 65% of canvas height, small duck, reddish-brown head, bright red bill, red eye, dark brown back, iridescent green wing speculum with white border, mottled brown flanks and chest, reddish-orange legs, detailed feather texture with dithering, clean outline, no shadow, no text",
-        "F": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, swimming or standing, white background, 128x128 pixels, bird filling 65% of canvas height, small duck, brown head with pale face spots, dark grey bill, brown eye, dark brown back, iridescent green wing speculum with white border, mottled brown flanks, reddish-orange legs, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "M": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, swimming or standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, small duck, reddish-brown head, bright red bill, red eye, dark brown back, iridescent green wing speculum with white border, mottled brown flanks and chest, reddish-orange legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
+        "F": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, swimming or standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, small duck, brown head with pale face spots, dark grey bill, brown eye, dark brown back, iridescent green wing speculum with white border, mottled brown flanks, reddish-orange legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": null
     },
@@ -197,7 +197,7 @@
         "D": "Anas_georgica_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing near water, white background, 128x128 pixels, bird filling 65% of canvas height, medium dabbling duck, brown head with dark crown, long slender neck, brown body with dark scalloping on back and flanks, pale buff underparts, long black bill with distinctive yellow lateral stripe, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing near water, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium dabbling duck, brown head with dark crown, long slender neck, brown body with dark scalloping on back and flanks, pale buff underparts, long black bill with distinctive yellow lateral stripe, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "yebpin"
     },
@@ -239,7 +239,7 @@
         "D": "Phoenicopterus_chilensis_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing in shallow water, white background, 128x128 pixels, bird filling 85% of canvas height, very tall wading bird flamingo, pale pink body and neck, deep rose-red wing coverts, black primary feathers, very long sinuous neck, distinctive downcurved kinked pink bill with black tip, long grey legs with pink joints, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing in shallow water, white background, 1024x1024 pixels, bird filling 85% of canvas height, very tall wading bird flamingo, pale pink body and neck, deep rose-red wing coverts, black primary feathers, very long sinuous neck, distinctive downcurved kinked pink bill with black tip, long grey legs with pink joints, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "chifl1"
     },
@@ -289,7 +289,7 @@
         "D": "Rollandia_rolland_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, floating on water, white background, 128x128 pixels, bird filling 65% of canvas height, small compact grebe, black head and neck, white streaked facial plume on cheeks, bright red eye, short straight dark bill, dark black-brown back, rufous-chestnut flanks with dark scalloping, body low in water, lobed grey feet visible just below water surface, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, floating on water, white background, 1024x1024 pixels, bird filling 65% of canvas height, small compact grebe, black head and neck, white streaked facial plume on cheeks, bright red eye, short straight dark bill, dark black-brown back, rufous-chestnut flanks with dark scalloping, body low in water, lobed grey feet visible just below water surface, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": "whtteg1"
     },
@@ -332,7 +332,7 @@
         "D": "Podiceps_major_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, swimming on water, white background, 128x128 pixels, bird filling 65% of canvas height, large grebe, black crown with slight crest, long rufous-orange neck, dark grey upperparts, pale silvery-white underparts, long straight pointed bill with yellowish base, red eye, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, swimming on water, white background, 1024x1024 pixels, bird filling 65% of canvas height, large grebe, black crown with slight crest, long rufous-orange neck, dark grey upperparts, pale silvery-white underparts, long straight pointed bill with yellowish base, red eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": null
     },
@@ -383,7 +383,7 @@
         "D": "Columba_livia_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on ground, white background, 128x128 pixels, bird filling 65% of canvas height, medium compact pigeon, blue-grey head and body, green and violet iridescent neck patch, grey back with two black wing bars, pale grey underparts, grey tail with black terminal band, thin grey bill with white cere, red legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on ground, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium compact pigeon, blue-grey head and body, green and violet iridescent neck patch, grey back with two black wing bars, pale grey underparts, grey tail with black terminal band, thin grey bill with white cere, red legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "rocpig"
     },
@@ -436,7 +436,7 @@
         "D": "Zenaida_auriculata_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 128x128 pixels, bird filling 65% of canvas height, medium slender dove, blue-grey head, two black facial spots (below eye and on cheek), pinkish-violet neck iridescence, greyish-brown back and wings with scattered black spots, pinkish breast fading to pale belly, long graduated grey tail with white outer feather tips, dark bill, red legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium slender dove, blue-grey head, two black facial spots (below eye and on cheek), pinkish-violet neck iridescence, greyish-brown back and wings with scattered black spots, pinkish breast fading to pale belly, long graduated grey tail with white outer feather tips, dark bill, red legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "eardov"
     },
@@ -486,7 +486,7 @@
         "D": "Columbina_picui_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, standing on ground, white background, 128x128 pixels, bird filling 65% of canvas height, small dove, blue-grey head, small black spot behind eye, grey-brown back, distinctive black and white wing pattern with bars and spots, brown tail with white outer feathers, pale pinkish breast fading to whitish belly, red eye, thin dark bill, pink legs, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, standing on ground, white background, 1024x1024 pixels, bird filling 65% of canvas height, small dove, blue-grey head, small black spot behind eye, grey-brown back, distinctive black and white wing pattern with bars and spots, brown tail with white outer feathers, pale pinkish breast fading to whitish belly, red eye, thin dark bill, pink legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": null
     },
@@ -535,8 +535,8 @@
         "F": "Chlorostilbon_lucidus_F.png"
       },
       "prompts_pixelart": {
-        "M": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, hovering or perched on branch, white background, 128x128 pixels, bird filling 65% of canvas height, tiny hummingbird, entirely iridescent emerald green plumage with intense golden-green head and throat, short forked dark tail, straight thin red bill with dark tip, tiny dark feet, detailed feather texture with dithering, clean outline, no shadow, no text",
-        "F": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 128x128 pixels, bird filling 65% of canvas height, tiny hummingbird, iridescent green upperparts, white eyebrow, pale grey-white underparts, tail with white terminal spots and corners, straight thin bill, tiny dark feet, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "M": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, hovering or perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, tiny hummingbird, entirely iridescent emerald green plumage with intense golden-green head and throat, short forked dark tail, straight thin red bill with dark tip, tiny dark feet, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
+        "F": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, tiny hummingbird, iridescent green upperparts, white eyebrow, pale grey-white underparts, tail with white terminal spots and corners, straight thin bill, tiny dark feet, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": null
     },
@@ -584,7 +584,7 @@
         "D": "Fulica_armillata_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 128x128 pixels, bird filling 70% of canvas height, large coot, dark slate-grey body and wings, black head and neck, bright yellow bill with red base and red frontal shield, red eye, long yellow-orange legs with lobed grey toes, short rounded tail with white undertail patch, plump rounded body, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 1024x1024 pixels, bird filling 70% of canvas height, large coot, dark slate-grey body and wings, black head and neck, bright yellow bill with red base and red frontal shield, red eye, long yellow-orange legs with lobed grey toes, short rounded tail with white undertail patch, plump rounded body, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": "rbnco1"
     },
@@ -626,7 +626,7 @@
         "D": "Fulica_leucoptera_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, swimming on water, white background, 128x128 pixels, bird filling 65% of canvas height, medium coot, entirely deep black plumage, small white frontal shield on forehead, white bill with yellow tip, red eye, small white flank patches, green lobed feet partially visible, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, swimming on water, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium coot, entirely deep black plumage, small white frontal shield on forehead, white bill with yellow tip, red eye, small white flank patches, green lobed feet partially visible, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": null
     },
@@ -684,7 +684,7 @@
         "D": "Vanellus_chilensis_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing on ground, white background, 128x128 pixels, bird filling 70% of canvas height, large plover, grey head with black forehead, thin black filamentous crest, broad black breast band, grey-brown upperparts with bronze and violet iridescent sheen on wing coverts, white belly, short rounded tail folded closed along body dark with white tips, dark red-orange bill with black tip, bright red eye with red wattle, dark red legs, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing on ground, white background, 1024x1024 pixels, bird filling 70% of canvas height, large plover, grey head with black forehead, thin black filamentous crest, broad black breast band, grey-brown upperparts with bronze and violet iridescent sheen on wing coverts, white belly, short rounded tail folded closed along body dark with white tips, dark red-orange bill with black tip, bright red eye with red wattle, dark red legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": "soulap1"
     },
@@ -730,7 +730,7 @@
         "D": "Himantopus_mexicanus_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, standing in shallow water, white background, 128x128 pixels, bird filling 65% of canvas height, elegant wader, black upperparts and wings, white head, neck and underparts, long straight thin black bill, red eye, extremely long bright pink-red legs, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, standing in shallow water, white background, 1024x1024 pixels, bird filling 65% of canvas height, elegant wader, black upperparts and wings, white head, neck and underparts, long straight thin black bill, red eye, extremely long bright pink-red legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": null
     },
@@ -768,7 +768,7 @@
         "D": "Jacana_jacana_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on lily pad, white background, 128x128 pixels, bird filling 65% of canvas height, medium wading bird, black head and neck, rich chestnut-red body and wings, bright yellow-orange frontal shield on forehead, yellow bill, extremely long thin grey toes and legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on lily pad, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium wading bird, black head and neck, rich chestnut-red body and wings, bright yellow-orange frontal shield on forehead, yellow bill, extremely long thin grey toes and legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "wattan1"
     },
@@ -810,8 +810,8 @@
         "R": "Chroicocephalus_maculipennis_R.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 128x128 pixels, bird filling 65% of canvas height, medium slender gull non-breeding, white head with dark ear spot behind eye, white body, grey wings with white leading edge and black wingtips, white tail, red bill, red legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
-        "R": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 128x128 pixels, bird filling 65% of canvas height, medium slender gull breeding, full dark chocolate-brown hood covering head and nape, white body, grey wings with white leading edge and black wingtips, white tail, red bill, red legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium slender gull non-breeding, white head with dark ear spot behind eye, white body, grey wings with white leading edge and black wingtips, white tail, red bill, red legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "R": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium slender gull breeding, full dark chocolate-brown hood covering head and nape, white body, grey wings with white leading edge and black wingtips, white tail, red bill, red legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "brhgul1"
     },
@@ -854,8 +854,8 @@
         "J": "Larus_dominicanus_J.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 128x128 pixels, bird filling 65% of canvas height, large gull, white head neck and underparts, dark slate-grey back and wings, black wingtips with white spots, white tail, heavy yellow bill with red gonys spot, yellow eye with red orbital ring, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
-        "J": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 128x128 pixels, bird filling 65% of canvas height, large gull juvenile, mottled brown plumage with pale scalloping on back and wings, whitish head with brown streaking, dark bill, pinkish legs, dark subterminal tail band, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, large gull, white head neck and underparts, dark slate-grey back and wings, black wingtips with white spots, white tail, heavy yellow bill with red gonys spot, yellow eye with red orbital ring, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "J": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, large gull juvenile, mottled brown plumage with pale scalloping on back and wings, whitish head with brown streaking, dark bill, pinkish legs, dark subterminal tail band, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "kelbgul"
     },
@@ -906,7 +906,7 @@
         "D": "Phalacrocorax_brasilianus_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 128x128 pixels, bird filling 70% of canvas height, large cormorant, entirely glossy black plumage with subtle scaly pattern on back and wings, orange-yellow bare facial skin patch at base of bill, turquoise-green eye, long hooked dark bill, long neck held in S-curve, long rounded dark tail, black legs and black webbed feet, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 1024x1024 pixels, bird filling 70% of canvas height, large cormorant, entirely glossy black plumage with subtle scaly pattern on back and wings, orange-yellow bare facial skin patch at base of bill, turquoise-green eye, long hooked dark bill, long neck held in S-curve, long rounded dark tail, black legs and black webbed feet, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": "neocor2"
     },
@@ -960,8 +960,8 @@
         "J": "Nycticorax_nycticorax_J.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 128x128 pixels, bird filling 65% of canvas height, medium stocky heron, glossy black-green crown and back, grey wings and tail, white face and underparts, two long thin white nape plumes, vivid red eye, thick black bill, yellow-green legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
-        "J": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 128x128 pixels, bird filling 65% of canvas height, medium stocky heron juvenile, brown upperparts with white spots and streaks on back and wings, white-streaked buff underparts, yellow eye, dark bill with pale base, yellow-green legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium stocky heron, glossy black-green crown and back, grey wings and tail, white face and underparts, two long thin white nape plumes, vivid red eye, thick black bill, yellow-green legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "J": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium stocky heron juvenile, brown upperparts with white spots and streaks on back and wings, white-streaked buff underparts, yellow eye, dark bill with pale base, yellow-green legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "blcnig"
     },
@@ -1013,8 +1013,8 @@
         "R": "Ardea_cocoi_R.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 128x128 pixels, bird filling 75% of canvas height, very large heron, black crown, short dark grey occipital crest, white face and neck with fine black streaking on front, uniform yellow bill, pale greenish lores, blue-grey back and wings, large black flank patch, dark grey-green legs, tall elegant posture, neck held in S-curve, detailed feather texture with dithering, clean outline, no shadow, no text",
-        "R": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 128x128 pixels, bird filling 75% of canvas height, very large heron, black cap, two long thin black plumes drooping from nape, white face and neck, bright orange-pink bill, blue-grey back and wings with no orange tones, distinct black scapular patch over shoulder, long white ornamental breast plumes proportional to body, large black flank patch, pink-salmon legs, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 1024x1024 pixels, bird filling 75% of canvas height, very large heron, black crown, short dark grey occipital crest, white face and neck with fine black streaking on front, uniform yellow bill, pale greenish lores, blue-grey back and wings, large black flank patch, dark grey-green legs, tall elegant posture, neck held in S-curve, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
+        "R": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 1024x1024 pixels, bird filling 75% of canvas height, very large heron, black cap, two long thin black plumes drooping from nape, white face and neck, bright orange-pink bill, blue-grey back and wings with no orange tones, distinct black scapular patch over shoulder, long white ornamental breast plumes proportional to body, large black flank patch, pink-salmon legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": "cocher1"
     },
@@ -1068,9 +1068,9 @@
         "V": "Ardea_alba_V.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 128x128 pixels, large white heron, entirely white plumage, long yellow straight beak, long black legs, long sinuous neck, tall and elegant posture, detailed feather texture with dithering, clean outline, no shadow, no text",
-        "R": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing in shallow water, white background, 128x128 pixels, large white heron, entirely white plumage, yellow straight beak, long black legs, long ornamental scapular plumes extending beyond tail, bright green loral region near eye, detailed feather texture with dithering, clean outline, no shadow, no text",
-        "V": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, flying, white background, 192x128 pixels, large white heron, entirely white plumage, yellow straight beak pointing forward, neck tucked in S-shape, long black legs trailing behind tail, wings spread mid-flap, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 1024x1024 pixels, large white heron, entirely white plumage, long yellow straight beak, long black legs, long sinuous neck, tall and elegant posture, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
+        "R": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing in shallow water, white background, 1024x1024 pixels, large white heron, entirely white plumage, yellow straight beak, long black legs, long ornamental scapular plumes extending beyond tail, bright green loral region near eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
+        "V": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, flying, white background, 1024x1024 pixels, large white heron, entirely white plumage, yellow straight beak pointing forward, neck tucked in S-shape, long black legs trailing behind tail, wings spread mid-flap, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": "greegr"
     },
@@ -1115,7 +1115,7 @@
         "D": "Syrigma_sibilatrix_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing in grass, white background, 128x128 pixels, bird filling 75% of canvas height, medium heron, black crown and crest, bare bright blue facial skin, rich rufous-cinnamon neck, pearl-grey back and wings, white underparts, long straight yellow bill with dark tip, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing in grass, white background, 1024x1024 pixels, bird filling 75% of canvas height, medium heron, black crown and crest, bare bright blue facial skin, rich rufous-cinnamon neck, pearl-grey back and wings, white underparts, long straight yellow bill with dark tip, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "whiher1"
     },
@@ -1161,7 +1161,7 @@
         "D": "Plegadis_chihi_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, standing in shallow water, white background, 128x128 pixels, bird filling 65% of canvas height, medium ibis, rufous-brown body with green and violet iridescent sheen on wings and back, long curved dark bill, red eye, white border around bare face skin, reddish-pink legs, long neck, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, standing in shallow water, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium ibis, rufous-brown body with green and violet iridescent sheen on wings and back, long curved dark bill, red eye, white border around bare face skin, reddish-pink legs, long neck, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": "whfibi"
     },
@@ -1212,8 +1212,8 @@
         "V": "Cathartes_aura_V.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on post with wings slightly drooped, white background, 128x128 pixels, bird filling 65% of canvas height, large vulture, deep black body plumage with brownish-bronze iridescence, small bare red head, short neck, curved pale pinkish bill with dark tip, dark feet, detailed feather texture with dithering, clean outline, no shadow, no text",
-        "V": "pixel art bird sprite, bottom-up flight profile, soaring overhead, white background, 192x128 pixels, large vulture, black body and wings from below, silvery-grey primary flight feathers contrasting with dark wing coverts, small bare red head, wings held in shallow V dihedral, long tail, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on post with wings slightly drooped, white background, 1024x1024 pixels, bird filling 65% of canvas height, large vulture, deep black body plumage with brownish-bronze iridescence, small bare red head, short neck, curved pale pinkish bill with dark tip, dark feet, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
+        "V": "pixel art bird sprite, bottom-up flight profile, soaring overhead, white background, 1024x1024 pixels, large vulture, black body and wings from below, silvery-grey primary flight feathers contrasting with dark wing coverts, small bare red head, wings held in shallow V dihedral, long tail, detailed feather texture with dithering, clean outline, no shadow, no text"
       },
       "audio_ebird_code": "turvul"
     },
@@ -1259,7 +1259,7 @@
         "D": "Rupornis_magnirostris_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 128x128 pixels, bird filling 65% of canvas height, medium compact hawk, grey face and brownish crown, dark brown upperparts and wings, rufous tail with narrow dark bars and dark terminal band, white throat, white underparts with dense rufous-orange barring on chest and belly, hooked dark bill with yellowish cere, yellow eye, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium compact hawk, grey face and brownish crown, dark brown upperparts and wings, rufous tail with narrow dark bars and dark terminal band, white throat, white underparts with dense rufous-orange barring on chest and belly, hooked dark bill with yellowish cere, yellow eye, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": "roahaw"
     },
@@ -1305,7 +1305,7 @@
         "D": "Parabuteo_unicinctus_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 128x128 pixels, bird filling 65% of canvas height, large robust hawk, dark blackish-brown body, rich chestnut-rufous shoulder patches and thighs, white tail base and white tail tip with broad black central band, black hooked bill with yellow cere, strong yellow legs and talons, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, large robust hawk, dark blackish-brown body, rich chestnut-rufous shoulder patches and thighs, white tail base and white tail tip with broad black central band, black hooked bill with yellow cere, strong yellow legs and talons, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "hrihaw"
     },
@@ -1357,7 +1357,7 @@
         "D": "Athene_cunicularia_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, facing FORWARD (front view, body facing the viewer), standing on ground, white background, 128x128 pixels, bird filling 65% of canvas height, small burrowing owl, round face without prominent facial disc, brown upperparts with white spots and bars, whitish underparts with brown barring on breast, white supercilium, large round yellow eyes facing forward, long bare brown legs, yellowish-grey bill, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, facing FORWARD (front view, body facing the viewer), standing on ground, white background, 1024x1024 pixels, bird filling 65% of canvas height, small burrowing owl, round face without prominent facial disc, brown upperparts with white spots and bars, whitish underparts with brown barring on breast, white supercilium, large round yellow eyes facing forward, long bare brown legs, yellowish-grey bill, detailed feather texture with dithering, clean outline, no shadow, no text"
       },
       "audio_ebird_code": "burowl"
     },
@@ -1401,7 +1401,7 @@
         "D": "Asio_flammeus_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on post, white background, 128x128 pixels, bird filling 65% of canvas height, medium owl, rounded head with whitish facial disc bordered dark, vivid yellow eyes with bold black rings, densely streaked buff-brown upperparts and breast, paler streaked belly, short hooked dark bill, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, facing FORWARD (front view, body and face pointing directly at viewer), perched on post, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium owl, rounded head with whitish facial disc bordered dark, vivid yellow eyes with bold black rings, densely streaked buff-brown upperparts and breast, paler streaked belly, short hooked dark bill, detailed feather texture with dithering, clean outline, no shadow, no text"
       },
       "audio_ebird_code": "sheowl"
     },
@@ -1452,8 +1452,8 @@
         "F": "Megaceryle_torquata_F.png"
       },
       "prompts_pixelart": {
-        "M": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, perched on branch, white background, 128x128 pixels, bird filling 70% of canvas height, large kingfisher, spiky blue-grey crest, blue-grey upperparts and wings spangled with white spots, white throat and collar, entirely plain rufous-chestnut breast and belly with no white band, long heavy dark bill with yellowish base, brown eye, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text",
-        "F": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, perched on branch, white background, 128x128 pixels, bird filling 70% of canvas height, same scale as male, large kingfisher, spiky blue-grey crest, blue-grey upperparts with white spotting, white throat and collar, blue-grey pectoral band across chest, rufous-chestnut belly, long heavy dark bill with yellowish base, brown eye, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "M": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, perched on branch, white background, 1024x1024 pixels, bird filling 70% of canvas height, large kingfisher, spiky blue-grey crest, blue-grey upperparts and wings spangled with white spots, white throat and collar, entirely plain rufous-chestnut breast and belly with no white band, long heavy dark bill with yellowish base, brown eye, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
+        "F": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, perched on branch, white background, 1024x1024 pixels, bird filling 70% of canvas height, same scale as male, large kingfisher, spiky blue-grey crest, blue-grey upperparts with white spotting, white throat and collar, blue-grey pectoral band across chest, rufous-chestnut belly, long heavy dark bill with yellowish base, brown eye, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": "rinkif1"
     },
@@ -1498,8 +1498,8 @@
         "F": "Chloroceryle_amazona_F.png"
       },
       "prompts_pixelart": {
-        "M": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 128x128 pixels, bird filling 65% of canvas height, medium kingfisher, dark green head and upperparts, narrow white collar on neck, white throat, rufous chest, white belly, dark long heavy bill, short dark feet, detailed feather texture with dithering, clean outline, no shadow, no text",
-        "F": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 128x128 pixels, bird filling 65% of canvas height, medium kingfisher, dark green head and upperparts, narrow white collar on neck, white throat, green breast band, white belly, dark long heavy bill, short dark feet, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "M": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium kingfisher, dark green head and upperparts, narrow white collar on neck, white throat, rufous chest, white belly, dark long heavy bill, short dark feet, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
+        "F": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium kingfisher, dark green head and upperparts, narrow white collar on neck, white throat, green breast band, white belly, dark long heavy bill, short dark feet, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": null
     },
@@ -1556,9 +1556,9 @@
         "V": "Caracara_plancus_V.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, perched on wooden post, white background, 128x128 pixels, bird filling 75% of canvas height, large raptor, black flat crest, creamy white nape and throat, finely black and white barred breast and upper mantle, dark brown wings and belly, large hooked grey-blue bill with pink-orange cere, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text",
-        "J": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, perched on wooden post, white background, 128x128 pixels, bird filling 75% of canvas height, same scale as adult, large raptor, short dark brown flat crest, creamy buff face and throat, brown streaked breast and upper mantle, dark brown wings, pale brown belly, large hooked grey-blue bill with pink cere, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text",
-        "V": "pixel art bird sprite, bottom-side profile, flying overhead, white background, 192x128 pixels, large raptor, wings fully spread, mostly white primaries visible from below, white tail with black terminal band, dark brown wings and body, long neck extended forward, black cap, creamy white throat and chest barred black and white, pink-orange cere, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, perched on wooden post, white background, 1024x1024 pixels, bird filling 75% of canvas height, large raptor, black flat crest, creamy white nape and throat, finely black and white barred breast and upper mantle, dark brown wings and belly, large hooked grey-blue bill with pink-orange cere, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
+        "J": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, perched on wooden post, white background, 1024x1024 pixels, bird filling 75% of canvas height, same scale as adult, large raptor, short dark brown flat crest, creamy buff face and throat, brown streaked breast and upper mantle, dark brown wings, pale brown belly, large hooked grey-blue bill with pink cere, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
+        "V": "pixel art bird sprite, bottom-side profile, flying overhead, white background, 1024x1024 pixels, large raptor, wings fully spread, mostly white primaries visible from below, white tail with black terminal band, dark brown wings and body, long neck extended forward, black cap, creamy white throat and chest barred black and white, pink-orange cere, detailed feather texture with dithering, clean outline, no shadow, no text"
       },
       "audio_ebird_code": "crecha"
     },
@@ -1611,7 +1611,7 @@
         "D": "Milvago_chimango_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 128x128 pixels, bird filling 65% of canvas height, small slender falcon, brown upperparts with pale mottling, pale buff underparts with brown streaks on breast, barred tail with dark subterminal band and whitish tip, whitish primary base patch, grey hooked bill with yellow cere, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, small slender falcon, brown upperparts with pale mottling, pale buff underparts with brown streaks on breast, barred tail with dark subterminal band and whitish tip, whitish primary base patch, grey hooked bill with yellow cere, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "chiman1"
     },
@@ -1666,8 +1666,8 @@
         "F": "Falco_sparverius_F.png"
       },
       "prompts_pixelart": {
-        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on post, white background, 128x128 pixels, bird filling 65% of canvas height, small falcon, blue-grey crown with rufous central patch, white face with two black moustache stripes, rufous back with black bars, blue-grey wings, rufous tail with black subterminal band and white tip, buff underparts with round black spots, grey hooked bill with yellow cere, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
-        "F": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on post, white background, 128x128 pixels, bird filling 65% of canvas height, small falcon female, rufous-brown crown, white face with two black moustache stripes, rufous back with black bars, wings with blue-grey tones mixed with brown bars (female kestrels have blue-grey wing coverts, not purely brown), rufous barred tail, buff underparts with brown streaks, grey hooked bill with yellow cere, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on post, white background, 1024x1024 pixels, bird filling 65% of canvas height, small falcon, blue-grey crown with rufous central patch, white face with two black moustache stripes, rufous back with black bars, blue-grey wings, rufous tail with black subterminal band and white tip, buff underparts with round black spots, grey hooked bill with yellow cere, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on post, white background, 1024x1024 pixels, bird filling 65% of canvas height, small falcon female, rufous-brown crown, white face with two black moustache stripes, rufous back with black bars, wings with blue-grey tones mixed with brown bars (female kestrels have blue-grey wing coverts, not purely brown), rufous barred tail, buff underparts with brown streaks, grey hooked bill with yellow cere, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "amekes"
     },
@@ -1721,7 +1721,7 @@
         "D": "Myiopsitta_monachus_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, perched on branch, white background, 128x128 pixels, bird filling 65% of canvas height, medium compact parrot, grey forehead face throat and breast, bright green back rump and crown, dull green wings with vivid blue primaries and secondaries, long graduated green tail, thick rounded yellowish-brown bill, dark brown eye, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium compact parrot, grey forehead face throat and breast, bright green back rump and crown, dull green wings with vivid blue primaries and secondaries, long graduated green tail, thick rounded yellowish-brown bill, dark brown eye, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": "monpar"
     },
@@ -1760,7 +1760,7 @@
         "D": "Aratinga_nenday_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 128x128 pixels, bird filling 65% of canvas height, medium parakeet, jet black head and face, blue-green wash on throat and upper chest, bright green body and wings, long blue-tipped tail, small red patch on thigh, curved black bill, dark eye with white eyering, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium parakeet, jet black head and face, blue-green wash on throat and upper chest, bright green body and wings, long blue-tipped tail, small red patch on thigh, curved black bill, dark eye with white eyering, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": "nannpa1"
     },
@@ -1816,10 +1816,10 @@
         "nido": "furnarius_rufus_nido.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing on ground, white background, 128x128 pixels, bird filling 65% of canvas height, medium-sized ovenbird, rufous-brown upperparts, rufous tail and rump, pale buff whitish throat and belly, light rufous supercilium, nearly straight medium bill, greyish legs, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing on ground, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium-sized ovenbird, rufous-brown upperparts, rufous tail and rump, pale buff whitish throat and belly, light rufous supercilium, nearly straight medium bill, greyish legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "prompts_pixelart_extras": {
-        "nido": "pixel art sprite, side view, white background, 128x128 pixels, hornero mud nest, round domed clay nest with lateral entrance hole, rough textured mud surface with visible cracks and straw, warm ochre-brown tones, perched on tree branch, detailed texture with dithering, clean outline, no shadow, no text"
+        "nido": "pixel art sprite, side view, white background, 1024x1024 pixels, hornero mud nest, round domed clay nest with lateral entrance hole, rough textured mud surface with visible cracks and straw, warm ochre-brown tones, perched on tree branch, detailed texture with dithering, clean outline, no shadow, no text"
       },
       "audio_ebird_code": "rufhor2"
     },
@@ -1861,7 +1861,7 @@
         "D": "Phleocryptes_melanops_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, clinging to reed stem, white background, 128x128 pixels, bird filling 65% of canvas height, tiny streaked marsh bird, brown crown with dark streaks, bold cream eyebrow, dark moustache stripe, rufous-brown wings with cream streaks, short rufous tail, white throat and pale buff underparts, long pinkish legs, short straight bill, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, clinging to reed stem, white background, 1024x1024 pixels, bird filling 65% of canvas height, tiny streaked marsh bird, brown crown with dark streaks, bold cream eyebrow, dark moustache stripe, rufous-brown wings with cream streaks, short rufous tail, white throat and pale buff underparts, long pinkish legs, short straight bill, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": null
     },
@@ -1915,7 +1915,7 @@
         "D": "Pitangus_sulphuratus_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 128x128 pixels, bird filling 65% of canvas height, medium flycatcher, black crown with hidden yellow central patch, broad white supercilium, black face mask, white throat, bright yellow underparts and belly, brown-rufous wings and back with rufous feather edgings, brown tail with rufous edges, long strong black bill, dark legs, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium flycatcher, black crown with hidden yellow central patch, broad white supercilium, black face mask, white throat, bright yellow underparts and belly, brown-rufous wings and back with rufous feather edgings, brown tail with rufous edges, long strong black bill, dark legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": "grbkis1"
     },
@@ -1958,7 +1958,7 @@
         "D": "Machetornis_rixosa_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, standing on ground, white background, 128x128 pixels, bird filling 65% of canvas height, medium tyrant flycatcher, grey crown with hidden orange crown patch, white eyebrow, grey face, rufous-brown back and wings, white throat, bright yellow chest and belly, long robust legs, short dark bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, standing on ground, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium tyrant flycatcher, grey crown with hidden orange crown patch, white eyebrow, grey face, rufous-brown back and wings, white throat, bright yellow chest and belly, long robust legs, short dark bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": null
     },
@@ -2003,7 +2003,7 @@
         "D": "Progne_tapera_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on wire, white background, 128x128 pixels, bird filling 65% of canvas height, medium martin, uniformly dark brown upperparts, crown and face, white throat and belly, dark brown breast patch in center of chest, short slightly forked tail, short wide bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on wire, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium martin, uniformly dark brown upperparts, crown and face, white throat and belly, dark brown breast patch in center of chest, short slightly forked tail, short wide bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": null
     },
@@ -2060,9 +2060,9 @@
         "V": "Progne_chalybea_V.png"
       },
       "prompts_pixelart": {
-        "M": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, perched on branch, white background, 128x128 pixels, bird filling 65% of canvas height, medium swallow, deep glossy blue-purple upperparts and wings, dark blue crown and face, clean white underparts, short forked tail, short pointed bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text",
-        "F": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, perched on branch, white background, 128x128 pixels, bird filling 65% of canvas height, medium swallow, dull blue-grey upperparts and wings, brownish-grey head and face, pale grey-white underparts with faint streaking on breast, short forked tail, short pointed bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text",
-        "V": "pixel art bird sprite, bottom-side profile, flying overhead, white background, 192x128 pixels, medium swallow, wings fully spread, deep glossy blue-purple upperparts visible from below, clean white underparts and belly, short forked tail spread open, short pointed bill, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "M": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium swallow, deep glossy blue-purple upperparts and wings, dark blue crown and face, clean white underparts, short forked tail, short pointed bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
+        "F": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium swallow, dull blue-grey upperparts and wings, brownish-grey head and face, pale grey-white underparts with faint streaking on breast, short forked tail, short pointed bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
+        "V": "pixel art bird sprite, bottom-side profile, flying overhead, white background, 1024x1024 pixels, medium swallow, wings fully spread, deep glossy blue-purple upperparts visible from below, clean white underparts and belly, short forked tail spread open, short pointed bill, detailed feather texture with dithering, clean outline, no shadow, no text"
       },
       "audio_ebird_code": "grpmar2"
     },
@@ -2115,7 +2115,7 @@
         "D": "Turdus_rufiventris_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 128x128 pixels, bird filling 65% of canvas height, medium thrush, dark olive-brown upperparts head and wings, bright orange-rufous breast and belly, long medium-width tail dark brown, yellow-orange bill, pale yellow eye ring, dark legs, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium thrush, dark olive-brown upperparts head and wings, bright orange-rufous breast and belly, long medium-width tail dark brown, yellow-orange bill, pale yellow eye ring, dark legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": "rufbel1"
     },
@@ -2160,7 +2160,7 @@
         "D": "Turdus_amaurochalinus_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 128x128 pixels, bird filling 65% of canvas height, medium thrush, olive-brown upperparts and wings, whitish throat with fine brown streaks, pale grey-brown breast with faint streaking, white belly, yellow-orange bill, yellow eyering, yellowish legs, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium thrush, olive-brown upperparts and wings, whitish throat with fine brown streaks, pale grey-brown breast with faint streaking, white belly, yellow-orange bill, yellow eyering, yellowish legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": null
     },
@@ -2212,7 +2212,7 @@
         "D": "Mimus_saturninus_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing on ground, white background, 160x128 pixels, bird filling 80% of canvas width, medium-sized mockingbird, prominent white supercilium over dark eye stripe, grey-brown crown and upperparts, wings with two white wingbars and pale feather edging on secondaries, long tail with white-tipped outer feathers held slightly raised, pale buff-white underparts warmer on breast and flanks, thin slightly curved dark bill, long grey legs, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing on ground, white background, 160x128 pixels, bird filling 80% of canvas width, medium-sized mockingbird, prominent white supercilium over dark eye stripe, grey-brown crown and upperparts, wings with two white wingbars and pale feather edging on secondaries, long tail with white-tipped outer feathers held slightly raised, pale buff-white underparts warmer on breast and flanks, thin slightly curved dark bill, long grey legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": "chamon1"
     },
@@ -2265,8 +2265,8 @@
         "F": "Passer_domesticus_F.png"
       },
       "prompts_pixelart": {
-        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 128x128 pixels, bird filling 65% of canvas height, small stocky sparrow, grey crown with chestnut-brown lateral stripes, grey face, black bib on throat and breast, brown-streaked back with black streaks, brown wings with single white wing bar, pale grey underparts, short conical dark bill, pinkish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
-        "F": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 128x128 pixels, bird filling 65% of canvas height, small stocky sparrow, plain brown-grey head, prominent pale buff supercilium, no black bib, streaked brown back, brown wings, pale grey-buff underparts, short conical pale bill, pinkish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, small stocky sparrow, grey crown with chestnut-brown lateral stripes, grey face, black bib on throat and breast, brown-streaked back with black streaks, brown wings with single white wing bar, pale grey underparts, short conical dark bill, pinkish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, small stocky sparrow, plain brown-grey head, prominent pale buff supercilium, no black bib, streaked brown back, brown wings, pale grey-buff underparts, short conical pale bill, pinkish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "houspa"
     },
@@ -2320,7 +2320,7 @@
         "D": "Zonotrichia_capensis_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, standing on ground, white background, 128x128 pixels, bird filling 65% of canvas height, small sparrow, grey crown bordered by black lateral stripes, white eyebrow, bold black moustache stripe, rufous-buff nape and collar, brown streaked back, white wing bars, brown tail, white throat, dark central breast spot, whitish belly, flesh-colored legs, short conical bill, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, standing on ground, white background, 1024x1024 pixels, bird filling 65% of canvas height, small sparrow, grey crown bordered by black lateral stripes, white eyebrow, bold black moustache stripe, rufous-buff nape and collar, brown streaked back, white wing bars, brown tail, white throat, dark central breast spot, whitish belly, flesh-colored legs, short conical bill, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": null
     },
@@ -2375,8 +2375,8 @@
         "F": "Molothrus_bonariensis_F.png"
       },
       "prompts_pixelart": {
-        "M": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 128x128 pixels, bird filling 65% of canvas height, medium-sized cowbird, entirely glossy blue-black plumage with strong iridescent blue-purple sheen, black face, short conical dark bill, dark eye, pale grey legs, long tail, detailed feather texture with dithering, clean outline, no shadow, no text",
-        "F": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 128x128 pixels, bird filling 65% of canvas height, same scale as male, medium-sized cowbird, entirely dull grey-brown plumage, slightly paler underparts, short conical dark bill, dark eye, pale grey legs, long tail, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "M": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium-sized cowbird, entirely glossy blue-black plumage with strong iridescent blue-purple sheen, black face, short conical dark bill, dark eye, pale grey legs, long tail, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
+        "F": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, same scale as male, medium-sized cowbird, entirely dull grey-brown plumage, slightly paler underparts, short conical dark bill, dark eye, pale grey legs, long tail, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": "shicow"
     },
@@ -2416,7 +2416,7 @@
         "D": "Amblyramphus_holosericeus_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on reed, white background, 128x128 pixels, bird filling 65% of canvas height, medium blackbird, vivid orange-scarlet head, throat and upper breast, rest of body entirely deep black including wings, belly, tail and legs, long pointed dark bill, dark red eye, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on reed, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium blackbird, vivid orange-scarlet head, throat and upper breast, rest of body entirely deep black including wings, belly, tail and legs, long pointed dark bill, dark red eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": null
     },
@@ -2466,8 +2466,8 @@
         "F": "Sicalis_flaveola_F.png"
       },
       "prompts_pixelart": {
-        "M": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 128x128 pixels, bird filling 65% of canvas height, small finch, vivid orange-yellow forehead and head, yellow-green streaked back, bright uniform yellow underparts, short conical pale pink bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text",
-        "F": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 128x128 pixels, bird filling 65% of canvas height, small finch, brown streaked crown and back, pale yellowish underparts with faint streaks, short conical pale bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "M": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, small finch, vivid orange-yellow forehead and head, yellow-green streaked back, bright uniform yellow underparts, short conical pale pink bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
+        "F": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, small finch, brown streaked crown and back, pale yellowish underparts with faint streaks, short conical pale bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": "saffia1"
     },
@@ -2516,8 +2516,8 @@
         "F": "Rauenia_bonariensis_F.png"
       },
       "prompts_pixelart": {
-        "M": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 128x128 pixels, bird filling 65% of canvas height, medium tanager, brilliant blue head, back, wings and tail, vivid orange-yellow underparts and rump, short conical dark bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text",
-        "F": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 128x128 pixels, bird filling 65% of canvas height, medium tanager, olive-brown overall with faint streaking, yellowish tinge on belly, short conical dark bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "M": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium tanager, brilliant blue head, back, wings and tail, vivid orange-yellow underparts and rump, short conical dark bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
+        "F": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium tanager, olive-brown overall with faint streaking, yellowish tinge on belly, short conical dark bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": null
     }

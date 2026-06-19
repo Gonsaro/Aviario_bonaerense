@@ -41,7 +41,7 @@ CANVAS_VUELO = (192, 128)
 OUTPUT_NORMAL = (1024, 1024)
 OUTPUT_VUELO  = (1536, 1024)
 # Margen mínimo como fracción del canvas (el pájaro ocupa como máximo 1-2*MARGIN)
-OUTPUT_MARGIN = 0.10
+OUTPUT_MARGIN = 0.05
 WHITE_THRESHOLD = 240
 DEFAULT_MODEL = "gemini-3.1-flash-image"
 
