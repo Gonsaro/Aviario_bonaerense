@@ -14,10 +14,10 @@ from PIL import Image
 
 API_KEY = open('.env').read().split('=', 1)[1].strip()
 client = genai.Client(api_key=API_KEY)
-MODEL = 'imagen-4.0-fast-generate-001'
+MODEL = 'imagen-4.0-generate-001'
 SPRITES_DIR = 'sprites'
 TARGET_SIZE = (128, 128)
-RATE_LIMIT_WAIT = 50  # seconds to wait on 429
+RATE_LIMIT_WAIT = 10  # seconds to wait on 429 (paid API)
 
 d = json.load(open('aviario_data.json', encoding='utf-8'))
 especies = d['especies']
@@ -70,7 +70,5 @@ for i, (nombre, filename, out_path, prompt) in enumerate(tasks, 1):
             else:
                 print(f'  ERROR: {msg[:120]}', flush=True)
                 break
-    if i < len(tasks):
-        time.sleep(1.5)
 
 print('\nListo.')

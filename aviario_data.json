@@ -1214,7 +1214,7 @@
       ],
       "curiosidades": "El carroñero más común de la pampa. Oportunista por excelencia: come carroña, insectos, frutos, huevos y cualquier resto disponible. Es frecuente verlo caminando por el suelo en campos y basurales. A diferencia del carancho, rara vez caza presas vivas.",
       "sprites": {
-        "D": "Milvago_chimango_D.png"
+        "D": "Daptrius_chimango_D.png"
       },
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 128x128 pixels, bird filling 65% of canvas height, small slender falcon, brown upperparts with pale mottling, pale buff underparts with brown streaks on breast, barred tail with dark subterminal band and whitish tip, whitish primary base patch, grey hooked bill with yellow cere, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
