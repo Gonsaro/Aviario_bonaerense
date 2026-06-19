@@ -189,7 +189,7 @@ Total: 1074 especies
 | 183 | *Porphyrio flavirostris* | Pollona Celeste |
 | 184 | *Laterallus melanophaius* | Burrito Canela |
 | 185 | *Laterallus exilis* | Burrito Pecho Gris |
-| 186 | *Laterallus leucopyrrhus* | Burrito Colorado |
+| 186 | *Rufirallus leucopyrrhus* | Burrito Colorado |
 | 187 | *Coturnicops notatus* | Burrito Enano |
 | 188 | *Micropygia schomburgkii* | Burrito Ocelado |
 | 189 | *Mustelirallus albicollis* | Burrito Grande |
@@ -217,7 +217,7 @@ Total: 1074 especies
 | 211 | *Vanellus cayanus* | Chorlo de Espolón |
 | 212 | *Vanellus chilensis* | Tero |
 | 213 | *Vanellus resplendens* | Tero Serrano |
-| 214 | *Charadrius modestus* | Chorlito Pecho Canela |
+| 214 | *Zonibyx modestus* | Chorlito Pecho Canela |
 | 215 | *Charadrius semipalmatus* | Chorlito Palmado |
 | 216 | *Charadrius mongolus* | Chorlito Mongol |
 | 217 | *Charadrius collaris* | Chorlito de Collar |
@@ -378,7 +378,7 @@ Total: 1074 especies
 | 372 | *Sula leucogaster* | Piquero Pardo |
 | 373 | *Anhinga anhinga* | Aninga |
 | 374 | *Phalacrocorax gaimardi* | Cormorán Gris |
-| 375 | *Phalacrocorax brasilianus* | Biguá |
+| 375 | *Nannopterum brasilianum* | Biguá |
 | 376 | *Phalacrocorax magellanicus* | Cormorán Cuello Negro |
 | 377 | *Phalacrocorax bougainvillii* | Guanay |
 | 378 | *Phalacrocorax atriceps* | Cormorán Imperial |
@@ -438,8 +438,8 @@ Total: 1074 especies
 | 432 | *Accipiter poliogaster* | Esparvero Grande |
 | 433 | *Accipiter superciliosus* | Esparvero Chico |
 | 434 | *Accipiter striatus* | Esparvero Estriado |
-| 435 | *Accipiter bicolor* | Esparvero Variado |
-| 436 | *Accipiter chilensis* | Peuquito |
+| 435 | *Astur bicolor* | Esparvero Variado |
+| 436 | *Astur chilensis* | Peuquito |
 | 437 | *Geranospiza caerulescens* | Gavilán Patas Largas |
 | 438 | *Buteogallus meridionalis* | Aguilucho Colorado |
 | 439 | *Buteogallus urubitinga* | Águila Negra |
@@ -459,7 +459,7 @@ Total: 1074 especies
 | 453 | *Buteo swainsoni* | Aguilucho Langostero |
 | 454 | *Buteo albonotatus* | Aguilucho Jote |
 | 455 | *Buteo ventralis* | Aguilucho Cola Rojiza |
-| 456 | *Tyto alba* | Lechuza de Campanario |
+| 456 | *Tyto furcata* | Lechuza de Campanario |
 | 457 | *Megascops choliba* | Alilicucu Común |
 | 458 | *Megascops hoyi* | Alilicucu Yungueño |
 | 459 | *Megascops sanctaecatarinae* | Alilicucu Orejudo |
@@ -483,7 +483,7 @@ Total: 1074 especies
 | 477 | *Asio flammeus* | Lechuzón de Campo |
 | 478 | *Trogon curucui* | Surucuá Aurora |
 | 479 | *Trogon surrucura* | Surucuá Cola Blanca |
-| 480 | *Trogon rufus* | Surucuá Amarillo |
+| 480 | *Trogon chrysochlores* | Surucuá Amarillo |
 | 481 | *Baryphthengus ruficapillus* | Yeruvá |
 | 482 | *Momotus momota* | Burgo |
 | 483 | *Megaceryle torquata* | Martín Pescador Grande |
@@ -507,10 +507,10 @@ Total: 1074 especies
 | 501 | *Melanerpes cactorum* | Carpintero del Cardón |
 | 502 | *Dryobates fumigatus* | Carpintero Oliva Oscuro |
 | 503 | *Dryobates spilogaster* | Carpintero Oliva Manchado |
-| 504 | *Dryobates mixtus* | Carpintero Bataraz Chico |
-| 505 | *Dryobates lignarius* | Carpintero Bataraz Patagónico |
-| 506 | *Dryobates passerinus* | Carpintero Oliva Chico |
-| 507 | *Dryobates frontalis* | Carpintero Oliva Yungueño |
+| 504 | *Veniliornis mixtus* | Carpintero Bataraz Chico |
+| 505 | *Veniliornis lignarius* | Carpintero Bataraz Patagónico |
+| 506 | *Veniliornis passerinus* | Carpintero Oliva Chico |
+| 507 | *Veniliornis frontalis* | Carpintero Oliva Yungueño |
 | 508 | *Campephilus robustus* | Carpintero Grande |
 | 509 | *Campephilus melanoleucos* | Carpintero Garganta Negra |
 | 510 | *Campephilus leucopogon* | Carpintero Lomo Blanco |
@@ -537,8 +537,8 @@ Total: 1074 especies
 | 531 | *Phalcoboenus megalopterus* | Matamico Andino |
 | 532 | *Phalcoboenus albogularis* | Matamico Blanco |
 | 533 | *Phalcoboenus australis* | Matamico Grande |
-| 534 | *Milvago chimachima* | Chimachima |
-| 535 | *Milvago chimango* | Chimango |
+| 534 | *Daptrius chimachima* | Chimachima |
+| 535 | *Daptrius chimango* | Chimango |
 | 536 | *Falco sparverius* | Halconcito Colorado |
 | 537 | *Falco rufigularis* | Halcón Negro Chico |
 | 538 | *Falco deiroleucus* | Halcón Negro Grande |
@@ -723,7 +723,7 @@ Total: 1074 especies
 | 717 | *Piprites pileata* | Bailarín Castaño |
 | 718 | *Platyrinchus mystaceus* | Picochato Enano |
 | 719 | *Corythopis delalandi* | Mosquitero |
-| 720 | *Phylloscartes eximius* | Mosqueta Media Luna |
+| 720 | *Pogonotriccus eximius* | Mosqueta Media Luna |
 | 721 | *Phylloscartes ventralis* | Mosqueta Carasucia |
 | 722 | *Phylloscartes paulista* | Mosqueta Oreja Negra |
 | 723 | *Phylloscartes sylviolus* | Mosqueta Cara Canela |
@@ -759,7 +759,7 @@ Total: 1074 especies
 | 753 | *Phyllomyias virescens* | Mosqueta Corona Oliva |
 | 754 | *Phyllomyias sclateri* | Mosqueta Corona Gris |
 | 755 | *Phyllomyias fasciatus* | Mosqueta Olivácea |
-| 756 | *Phaeomyias murina* | Piojito Pardo |
+| 756 | *Nesotriccus murinus* | Piojito Pardo |
 | 757 | *Mecocerculus hellmayri* | Piojito de los Pinos |
 | 758 | *Mecocerculus leucophrys* | Piojito Gargantilla |
 | 759 | *Anairetes flavirostris* | Cachudito Pico Amarillo |
@@ -800,7 +800,7 @@ Total: 1074 especies
 | 794 | *Colonia colonus* | Yetapá Negro |
 | 795 | *Myiophobus fasciatus* | Mosqueta Estriada |
 | 796 | *Colorhamphus parvirostris* | Peutrén |
-| 797 | *Ochthoeca oenanthoides* |  |
+| 797 | *Ochthoeca oenanthoides* | Pitajo Canela |
 | 798 | *Ochthoeca leucophrys* | Pitajo Gris |
 | 799 | *Sublegatus modestus* | Suirirí Pico Corto |
 | 800 | *Pyrocephalus rubinus* | Churrinche |
@@ -875,7 +875,7 @@ Total: 1074 especies
 | 869 | *Riparia riparia* | Golondrina Zapadora |
 | 870 | *Hirundo rustica* | Golondrina Tijerita |
 | 871 | *Petrochelidon pyrrhonota* | Golondrina Rabadilla Canela |
-| 872 | *Troglodytes aedon* | Ratona |
+| 872 | *Troglodytes musculus* | Ratona |
 | 873 | *Troglodytes cobbi* | Ratona Malvinera |
 | 874 | *Troglodytes solstitialis* | Ratona Ceja Blanca |
 | 875 | *Cistothorus platensis* | Ratona Aperdizada |
@@ -959,7 +959,7 @@ Total: 1074 especies
 | 953 | *Xanthopsar flavus* | Tordo Amarillo |
 | 954 | *Pseudoleistes guirahuro* | Pecho Amarillo Grande |
 | 955 | *Pseudoleistes virescens* | Pecho Amarillo |
-| 956 | *Geothlypis aequinoctialis* | Arañero Cara Negra |
+| 956 | *Geothlypis velata* | Arañero Cara Negra |
 | 957 | *Setophaga ruticilla* | Arañero Americano |
 | 958 | *Setophaga pitiayumi* | Pitiayumí |
 | 959 | *Setophaga striata* | Arañero Estriado |
