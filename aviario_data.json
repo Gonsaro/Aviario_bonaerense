@@ -730,7 +730,7 @@
         "D": "Himantopus_mexicanus_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, standing in shallow water, white background, 1024x1024 pixels, bird filling 65% of canvas height, elegant wader, black upperparts and wings, white head, neck and underparts, long straight thin black bill, red eye, extremely long bright pink-red legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing in shallow water with both feet touching the water surface, white background, 1024x1024 pixels, bird filling 75% of canvas height, large long-legged shorebird, glossy black crown and back of neck, white forehead and small white spot above eye, glossy black back and wings, white face below eye, neck and underparts entirely white, pale grey to sepia tail, red eye, long thin black bill very slightly upcurved, exactly TWO extremely long red legs both clearly standing in water at the same level, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: crown and nape are BLACK not white, only face below eye and body are white, both legs must be firmly planted in water at the same level, bird has exactly TWO legs not three, bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": null
     },
