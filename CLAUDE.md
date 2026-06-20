@@ -79,8 +79,52 @@ Editar `index.html` directamente causó bugs graves (SP map mal cerrado → pant
 
 - Generación: `python generar_sprites.py -s <id|nombre|num>`
 - Salida: `Sprites/Genus_species_VARIANTE.png`, 1024×1024 px (vuelo: 1536×1024)
-- Orientación: todos facing LEFT — excepción: estrigidos (#027 Athene, #028 Asio) facing FORWARD
 - Después de agregar sprites nuevos: correr `build_html.py` para que el mapa SP se actualice solo
+- Modo recolor (image-to-image): `python generar_sprites.py -s <especie> -v <V> --base-image Sprites/base.png --overwrite`
+
+### Convenciones para prompts de sprites
+
+Aplicar SIEMPRE que se genere o edite un `prompts_pixelart`.
+
+**§0 Validar antes de escribir**
+Verificar rasgos contra Avibase (https://avibase.bsc-eoc.org) antes de describir colores de ojo, pico, patas o patrones de pluma. No inventar de memoria. Si un dato no se pudo confirmar, marcarlo como pendiente.
+
+**§1 Solo rasgos visuales**
+El prompt contiene únicamente color, forma, posición, contraste, textura. Prohibido: `from a distance`, `striking in flight`, `visible when perched`, `unmistakable`, `typical of the species`. No usar comparaciones de especie (`NOT a wren`) salvo como parche documentado cuando una tirada falla repetidamente en algo concreto.
+
+**§2 Estructura fija**
+```
+pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), <pose>, white background, 1024x1024 pixels, bird filling <X>% of canvas height, <plumaje: cabeza→dorso/alas/cola→pecho/vientre→patas>, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right
+```
+NO usar el formato verboso viejo (`strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible`).
+
+**§3 Orientación**
+Todas las aves: `bird facing LEFT`. Excepción: estrígidos → `facing forward` (el cierre se adapta).
+
+**§4 Encuadre**
+- Default posado: `bird filling 65% of canvas height`
+- Ave muy compacta o chica: ~60%
+- Cola larga (loros, etc.): `bird including its long tail filling about 75% of canvas width`
+
+**§5 Orden del plumaje**
+Cabeza (corona/cresta → cara → pico → ojo) → partes superiores (dorso → alas → cola) → partes inferiores (garganta → pecho → vientre) → patas. Usar "ceja", no "supercilio".
+
+**§6 Realidades del pixel (128px efectivos)**
+- Anillos orbitales finos → omitir. Para el ojo: `small <color> eye with a tiny dark pupil`.
+- Moteados difusos no se ven → pedirlos como puntos discretos: `peppered with small distinct dark spots`, NO `diffuse spotting`.
+- No apilar instrucciones que compitan. Si dos marcas similares coexisten, secuenciarlas en una frase.
+
+**§7 Variantes**
+- D=adulto · R=reproductivo · M=macho · F=hembra · J=juvenil · V=vuelo
+- Hembra/juvenil más apagado: decirlo explícito (`female darker and duskier than the male`)
+- Vuelo: `in flight with wings raised mid-flap`, mostrar patrón ala abierta, cuello extendido, patas recogidas
+
+**§8 Recolor para especies de igual estructura**
+Cuando una especie nueva comparte silueta con una ya generada (mismo género, misma familia de porte igual), usar image-to-image en vez de generar de cero:
+```
+recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: <cambios concretos>, keep white background, no shadow, no text
+```
+No aplica si difieren proporciones, largo de cola, forma de pico o postura.
 
 ### Nomenclatura
 

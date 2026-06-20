@@ -118,11 +118,16 @@ def aspect_ratio(variant: str, model: str = "") -> str:
 # Image generation
 # ---------------------------------------------------------------------------
 
-def generate_image(client: genai.Client, prompt: str, variant: str, model: str) -> Image.Image:
+def generate_image(client: genai.Client, prompt: str, variant: str, model: str,
+                   base_image: "Image.Image | None" = None) -> Image.Image:
     if "imagen" in model.lower():
+        if base_image is not None:
+            raise RuntimeError(
+                "El modo recolor (--base-image) requiere un modelo gemini, no imagen."
+            )
         return _generate_imagen(client, prompt, variant, model)
     else:
-        return _generate_gemini(client, prompt, variant, model)
+        return _generate_gemini(client, prompt, variant, model, base_image)
 
 
 def _generate_imagen(client: genai.Client, prompt: str, variant: str, model: str) -> Image.Image:
@@ -138,10 +143,40 @@ def _generate_imagen(client: genai.Client, prompt: str, variant: str, model: str
     return _bytes_to_canvas(data, variant)
 
 
-def _generate_gemini(client: genai.Client, prompt: str, variant: str, model: str) -> Image.Image:
+def _image_part(img: "Image.Image"):
+    """
+    Devuelve un 'content part' para la imagen base, robusto entre versiones de
+    google-genai. Intenta Part.from_bytes (estable en versiones recientes) y,
+    si la firma difiere o no existe, cae al PIL.Image directo (que las versiones
+    nuevas también aceptan en contents).
+    """
+    buf = BytesIO()
+    img.save(buf, format="PNG")
+    data = buf.getvalue()
+
+    part_cls = getattr(genai_types, "Part", None)
+    if part_cls is not None and hasattr(part_cls, "from_bytes"):
+        try:
+            return part_cls.from_bytes(data=data, mime_type="image/png")
+        except TypeError:
+            try:
+                return part_cls.from_bytes(data, "image/png")  # firma posicional
+            except Exception:
+                pass
+    return img  # fallback: PIL directo
+
+
+def _generate_gemini(client: genai.Client, prompt: str, variant: str, model: str,
+                     base_image: "Image.Image | None" = None) -> Image.Image:
+    # Si hay imagen base -> image-to-image (recolor): se manda imagen + prompt.
+    # Si no -> text-to-image como siempre.
+    if base_image is not None:
+        contents = [_image_part(base_image), prompt]
+    else:
+        contents = prompt
     response = client.models.generate_content(
         model=model,
-        contents=prompt,
+        contents=contents,
         config=genai_types.GenerateContentConfig(
             response_modalities=["IMAGE"],
         ),
@@ -273,6 +308,9 @@ def build_parser() -> argparse.ArgumentParser:
                    help="Solo normalizar sprites existentes, sin llamar a la API")
     p.add_argument("--model", default=DEFAULT_MODEL,
                    help=f"Modelo Gemini (default: {DEFAULT_MODEL})")
+    p.add_argument("--base-image",
+                   help="Ruta a un sprite base para modo recolor (image-to-image). "
+                        "El prompt debe describir solo los cambios de color. Solo gemini.")
     p.add_argument("--api-key", help="Gemini API key (o GEMINI_API_KEY env var)")
     p.add_argument("--output-dir", default=str(SPRITES_DIR),
                    help=f"Directorio de salida (default: {SPRITES_DIR})")
@@ -356,6 +394,15 @@ def main() -> None:
     client = genai.Client(api_key=api_key)
     generated: list[Path] = []
 
+    base_image = None
+    if args.base_image:
+        base_path = Path(args.base_image)
+        if not base_path.exists():
+            print(f"Error: no se encontró la imagen base '{base_path}'.")
+            sys.exit(1)
+        base_image = Image.open(base_path).convert("RGB")
+        print(f"Modo recolor: usando base {base_path.name}")
+
     for v in variants:
         prompt = prompts[v]
         fname = sprite_filename(sp["nombre_cientifico"], v)
@@ -374,7 +421,7 @@ def main() -> None:
         img = None
         for attempt in range(args.retry):
             try:
-                img = generate_image(client, prompt, v, args.model)
+                img = generate_image(client, prompt, v, args.model, base_image)
                 break
             except Exception as exc:
                 print(f"  Intento {attempt + 1}/{args.retry} fallido: {exc}")
