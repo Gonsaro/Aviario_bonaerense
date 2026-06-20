@@ -1,4 +1,4 @@
-﻿{
+{
   "meta": {
     "version": "0.5",
     "descripcion": "Aviario Bonaerense — base de datos de aves de Buenos Aires y CABA",
@@ -111,7 +111,7 @@
       "familia": "Anatidae",
       "orden": "Anseriformes",
       "descripcion": {
-        "M": "Pato pequeño y elegante. Cabeza pardo-rojiza con frente roja. Pico rojo vivo. Ojo rojo. Dorso pardo-oscuro. Espejo alar verde iridiscente con borde blanco, visible en reposo y en vuelo. Flancos y pecho pardo-moteados. Vientre pardo. Patas rojo-anaranjadas.",
+        "M": "Pato pequeño y elegante. Cabeza pardo-acanelada con área grisácea pálida en la mejilla. Pico rojo coral. Ojo pardo oscuro. Dorso pardo-oscuro. Espejo alar verde iridiscente con borde blanco, visible en reposo y en vuelo. Flancos y pecho pardo-moteados. Vientre pardo. Patas rojo-anaranjadas.",
         "F": "Similar al macho pero con pico gris-oscuro, manchas blanquecinas en la cara y colores más apagados. Ojo pardo."
       },
       "habitat": [
@@ -302,7 +302,7 @@
       "familia": "Podicipedidae",
       "orden": "Podicipediformes",
       "descripcion": {
-        "adulto": "El mayor de los macás. Cuello largo y esbelto. Cabeza con corona y cresta negra en época reproductiva. Cuello rufo-anaranjado vivo. Partes superiores gris-oscuras. Partes inferiores blancuzco-plateadas. Pico largo, recto y puntiagudo, con base amarillenta. Ojo rojo. Fuera del período reproductivo, el cuello se vuelve gris-blanquecino y se pierde la cresta."
+        "adulto": "El mayor de los macás. Cuello largo y esbelto. Cabeza con corona gris oscuro-verdosa con cresta corta más oscura en época reproductiva. Cuello rufo-anaranjado vivo. Partes superiores gris-oscuras. Partes inferiores blancuzco-plateadas. Pico largo, recto y puntiagudo, gris con punta más pálida. Ojo pardo-rojizo. Fuera del período reproductivo, el cuello se vuelve gris-blanquecino y se pierde la cresta."
       },
       "habitat": [
         "humedal",
@@ -333,7 +333,7 @@
         "D": "Podiceps_major_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, swimming on water, white background, 1024x1024 pixels, bird filling 65% of canvas height, large grebe, black crown with slight crest, long rufous-orange neck, dark grey upperparts, pale silvery-white underparts, long straight pointed bill with yellowish base, red eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, swimming on water, white background, 1024x1024 pixels, bird filling 65% of canvas height, large grebe, dark greenish-grey crown with slight short crest, long rufous-orange neck, dark grey upperparts, pale silvery-white underparts, long straight pointed grey bill, reddish-brown eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": null
     },
@@ -449,7 +449,7 @@
       "familia": "Columbidae",
       "orden": "Columbiformes",
       "descripcion": {
-        "adulto": "La paloma más pequeña de la región. Cabeza gris-azulada. Pequeña mancha negra detrás del ojo. Dorso pardo-grisáceo. Alas con un diseño llamativo de barras y manchas negras y blancas, muy visible en reposo. Cola parda con plumas externas blancas. Pecho rosáceo pálido que se funde con el vientre blancuzco. Ojo rojo. Pico fino y oscuro. Patas rosadas."
+        "adulto": "La paloma más pequeña de la región. Cabeza gris-azulada. Pequeña mancha negra delante del ojo. Dorso pardo-grisáceo. Alas con barra alar negra-azulada iridiscente característica y manchas blancas en las coberteras, muy llamativas en reposo. Cola parda con plumas externas blancas. Pecho rosáceo pálido que se funde con el vientre blancuzco. Ojo gris pálido a celeste. Pico fino y oscuro. Patas rosadas."
       },
       "habitat": [
         "urbano",
@@ -487,7 +487,7 @@
         "D": "Columbina_picui_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, standing on ground, white background, 1024x1024 pixels, bird filling 65% of canvas height, small dove, blue-grey head, small black spot behind eye, grey-brown back, distinctive black and white wing pattern with bars and spots, brown tail with white outer feathers, pale pinkish breast fading to whitish belly, red eye, thin dark bill, pink legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, standing on ground, white background, 1024x1024 pixels, bird filling 65% of canvas height, small dove, blue-grey head, narrow black stripe in front of the eye, grey-brown back, distinctive wing pattern with a black-blue iridescent wing bar across the secondaries and white spots on the coverts, brown tail with white outer feathers, pale pinkish breast fading to whitish belly, pale grey-blue eye, thin dark bill, pink legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": null
     },
@@ -597,7 +597,7 @@
       "familia": "Rallidae",
       "orden": "Gruiformes",
       "descripcion": {
-        "adulto": "Gallareta mediana de plumaje totalmente negro profundo. Escudete frontal blanco, más pequeño que en otras gallaretas. Pico blanco con punta amarilla. Ojo rojo. Flancos con pequeñas manchas blancas visibles al nadar. Patas verdes con lóbulos en los dedos. Inmaduro más pardo y con partes inferiores más claras."
+        "adulto": "Gallareta mediana de plumaje gris pizarra, más oscuro en cabeza y cuello. Escudete frontal amarillo a amarillo-anaranjado. Pico blanco con punta amarilla. Ojo rojo. Puntas blancas en las secundarias, visibles en vuelo (de ahí su nombre en inglés white-winged). Patas verdes con lóbulos en los dedos. Inmaduro más pardo y con partes inferiores más claras."
       },
       "habitat": [
         "humedal",
@@ -627,7 +627,7 @@
         "D": "Fulica_leucoptera_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, swimming on water, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium coot, entirely deep black plumage, small white frontal shield on forehead, white bill with yellow tip, red eye, small white flank patches, green lobed feet partially visible, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, swimming on water, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium coot, slate grey plumage darker on head and neck, small yellow to yellow-orange frontal shield on forehead, white bill with yellow tip, red eye, green lobed feet partially visible, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": null
     },
@@ -1128,7 +1128,7 @@
       "familia": "Threskiornithidae",
       "orden": "Pelecaniformes",
       "descripcion": {
-        "adulto": "Ave mediana de cuello largo y pico curvo hacia abajo. Plumaje general pardo-rojizo con brillo verde y violáceo en alas y dorso al sol. Cara bordeada por una fina línea de piel desnuda blanquecina en adultos reproductivos. Ojo rojo. Pico largo, curvo y oscuro. Patas rosadas a rojizas. Fuera de la reproducción, el brillo es más apagado."
+        "adulto": "Ave mediana de cuello largo y pico curvo hacia abajo. Plumaje general pardo-rojizo con brillo verde y violáceo en alas y dorso al sol. Cara con piel desnuda rosada bordeada de plumas blancas en adultos reproductivos. Ojo rojo. Pico largo, curvo y oscuro. Patas rosadas a rojizas. Fuera de la reproducción, el brillo es más apagado."
       },
       "habitat": [
         "humedal",
@@ -1162,7 +1162,7 @@
         "D": "Plegadis_chihi_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, standing in shallow water, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium ibis, rufous-brown body with green and violet iridescent sheen on wings and back, long curved dark bill, red eye, white border around bare face skin, reddish-pink legs, long neck, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, standing in shallow water, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium ibis, rufous-brown body with green and violet iridescent sheen on wings and back, long curved dark bill, red eye, pink bare face skin bordered by white feathers around the edge, reddish-pink legs, long neck, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": "whfibi"
     },
@@ -1174,7 +1174,7 @@
       "familia": "Cathartidae",
       "orden": "Cathartiformes",
       "descripcion": {
-        "adulto": "Ave grande de silueta inconfundible en vuelo. Plumaje corporal negro profundo con irisaciones pardo-bronceadas. Cabeza pequeña y desnuda, roja en el adulto, oscura en el juvenil. Cuello corto. Pico curvo, rosado-blanquecino con punta oscura. En vuelo, las plumas primarias muestran cañones grises plateados que contrastan con las coberteras oscuras. Planea con las alas en ligera V."
+        "adulto": "Ave grande de silueta inconfundible en vuelo. Plumaje corporal negro profundo con irisaciones pardo-bronceadas. Cabeza pequeña y desnuda, roja en el adulto, oscura en el juvenil. Cuello corto. Pico corto y ganchudo, de color marfil. En vuelo, las plumas de vuelo muestran envés gris plateado que contrasta con las coberteras oscuras. Planea con las alas en ligera V."
       },
       "habitat": [
         "aéreo",
@@ -1213,8 +1213,8 @@
         "V": "Cathartes_aura_V.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on post with wings slightly drooped, white background, 1024x1024 pixels, bird filling 65% of canvas height, large vulture, deep black body plumage with brownish-bronze iridescence, small bare red head, short neck, curved pale pinkish bill with dark tip, dark feet, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
-        "V": "pixel art bird sprite, bottom-up flight profile, soaring overhead, white background, 1024x1024 pixels, large vulture, black body and wings from below, silvery-grey primary flight feathers contrasting with dark wing coverts, small bare red head, wings held in shallow V dihedral, long tail, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on post with wings slightly drooped, white background, 1024x1024 pixels, bird filling 65% of canvas height, large vulture, deep black body plumage with brownish-bronze iridescence, small bare red head, short neck, short hooked ivory bill, dark feet, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
+        "V": "pixel art bird sprite, bottom-up flight profile, soaring overhead, white background, 1024x1024 pixels, large vulture, black body and wings from below, pale silvery-grey flight feathers contrasting with dark wing coverts, small bare red head, wings held in shallow V dihedral, long tail, detailed feather texture with dithering, clean outline, no shadow, no text"
       },
       "audio_ebird_code": "turvul"
     },
@@ -1226,7 +1226,7 @@
       "familia": "Accipitridae",
       "orden": "Accipitriformes",
       "descripcion": {
-        "adulto": "Gavilán mediano y compacto. Cabeza parda con cara grisácea. Pico curvo y robusto con cera amarillenta. Ojo amarillo. Dorso y alas pardo-oscuros. Cola rufa con barras oscuras angostas y franja terminal oscura. Garganta blancuzca. Pecho y vientre blancos con barras rufo-anaranjadas densas. Patas amarillas. La hembra es algo mayor que el macho."
+        "adulto": "Gavilán mediano y compacto. Cabeza parda con cara grisácea. Pico curvo y robusto con cera amarillenta. Ojo amarillo a blancuzco (variable). Dorso y alas pardo-oscuros. Cola rufa con barras oscuras angostas y franja terminal oscura. Garganta blancuzca. Pecho y vientre blancos con barras pardas y blancas densas. Patas amarillas. La hembra es algo mayor que el macho."
       },
       "habitat": [
         "urbano",
@@ -1260,7 +1260,7 @@
         "D": "Rupornis_magnirostris_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium compact hawk, grey face and brownish crown, dark brown upperparts and wings, rufous tail with narrow dark bars and dark terminal band, white throat, white underparts with dense rufous-orange barring on chest and belly, hooked dark bill with yellowish cere, yellow eye, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium compact hawk, grey face and brownish crown, dark brown upperparts and wings, rufous tail with narrow dark bars and dark terminal band, white throat, white underparts with dense brown-and-white barring on chest and belly, hooked dark bill with yellowish cere, pale yellowish to whitish eye, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": "roahaw"
     },
@@ -1370,7 +1370,7 @@
       "familia": "Strigidae",
       "orden": "Strigiformes",
       "descripcion": {
-        "adulto": "Lechuza mediana de aspecto estriado. Cabeza redondeada sin orejas visibles. Disco facial blancuzco bordeado de oscuro. Ojo amarillo intenso rodeado por un llamativo anillo negro. Dorso, alas y pecho pardo-amarillento con estrías oscuras densas. Vientre más claro con estrías más finas. Alas largas y angostas con parche negro en la muñeca. Cola parda barrada."
+        "adulto": "Lechuza mediana de aspecto estriado. Cabeza redondeada sin orejas visibles. Disco facial blancuzco bordeado de oscuro. Ojo amarillo-anaranjado intenso rodeado por un llamativo anillo negro. Dorso, alas y pecho pardo-amarillento con estrías oscuras densas. Vientre más claro con estrías más finas. Alas largas y angostas con parche negro en la muñeca. Cola parda barrada."
       },
       "habitat": [
         "pastizal",
@@ -1402,7 +1402,7 @@
         "D": "Asio_flammeus_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, facing FORWARD (front view, body and face pointing directly at viewer), perched on post, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium owl, rounded head with whitish facial disc bordered dark, vivid yellow eyes with bold black rings, densely streaked buff-brown upperparts and breast, paler streaked belly, short hooked dark bill, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "pixel art bird sprite, facing FORWARD (front view, body and face pointing directly at viewer), perched on post, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium owl, rounded head with whitish facial disc bordered dark, vivid yellow-orange eyes with bold black rings, densely streaked buff-brown upperparts and breast, paler streaked belly, short hooked dark bill, detailed feather texture with dithering, clean outline, no shadow, no text"
       },
       "audio_ebird_code": "sheowl"
     },
@@ -1466,7 +1466,7 @@
       "familia": "Alcedinidae",
       "orden": "Coraciiformes",
       "descripcion": {
-        "M": "Martín pescador mediano y robusto. Cabeza verde oscura sin cresta marcada. Estrecho collar blanco en el cuello. Dorso y alas verde oscuro brillante. Garganta blanca. Pecho rufo intenso. Vientre blanco. Pico largo, recto y oscuro. Patas pequeñas y oscuras.",
+        "M": "Martín pescador mediano y robusto. Cabeza verde oscura con cresta desordenada. Estrecho collar blanco en el cuello. Dorso y alas verde oscuro brillante. Garganta blanca. Pecho rufo intenso. Vientre blanco. Pico largo, recto y negro con algo de amarillo pálido en la base de la mandíbula inferior. Patas pequeñas y oscuras.",
         "F": "Similar al macho pero con una franja verde en el pecho y sin el rufo pectoral. Vientre blanco."
       },
       "habitat": [
@@ -1499,8 +1499,8 @@
         "F": "Chloroceryle_amazona_F.png"
       },
       "prompts_pixelart": {
-        "M": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium kingfisher, dark green head and upperparts, narrow white collar on neck, white throat, rufous chest, white belly, dark long heavy bill, short dark feet, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
-        "F": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium kingfisher, dark green head and upperparts, narrow white collar on neck, white throat, green breast band, white belly, dark long heavy bill, short dark feet, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
+        "M": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium kingfisher, dark green head with shaggy crest, dark green upperparts, narrow white collar on neck, white throat, rufous chest, white belly, long heavy dark bill with pale yellowish base on lower mandible, short dark feet, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
+        "F": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium kingfisher, dark green head with shaggy crest, dark green upperparts, narrow white collar on neck, white throat, green breast band, white belly, long heavy dark bill with pale yellowish base on lower mandible, short dark feet, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": null
     },
@@ -1571,7 +1571,7 @@
       "familia": "Falconidae",
       "orden": "Falconiformes",
       "descripcion": {
-        "D": "Rapaz chica y esbelta. Plumaje pardo con variaciones. Partes superiores pardo oscuro con manchas más claras. Partes inferiores ante pálido con estrías pardas en el pecho. Cola barrada con banda subterminal oscura y punta blancuzca. Base de las primarias blancuzca visible en vuelo. Pico gris con cera amarilla. Patas amarillas. Juvenil más oscuro y rayado."
+        "D": "Rapaz chica y esbelta. Plumaje pardo con variaciones. Partes superiores pardo oscuro con estrías oscuras. Partes inferiores con moteado y barrado rufo-pardo. Cola barrada con banda subterminal oscura y punta blancuzca. Base de las primarias blancuzca visible en vuelo. Pico gris con cera amarilla. Patas amarillas. Juvenil más oscuro y rayado."
       },
       "habitat": [
         "pastizal",
@@ -1612,7 +1612,7 @@
         "D": "Milvago_chimango_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, small slender falcon, brown upperparts with pale mottling, pale buff underparts with brown streaks on breast, barred tail with dark subterminal band and whitish tip, whitish primary base patch, grey hooked bill with yellow cere, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, small slender falcon, dark brown upperparts with darker streaking, pale underparts with rufous-brown mottling and barring, barred tail with dark subterminal band and whitish tip, whitish primary base patch, grey hooked bill with yellow cere, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "chiman1"
     },
@@ -1832,7 +1832,7 @@
       "familia": "Furnariidae",
       "orden": "Passeriformes",
       "descripcion": {
-        "adulto": "Ave pequeña y escurridiza. Corona parda con estrías negras y una ceja crema bien marcada. Bigotilla oscura bajo el ojo. Dorso y alas pardo-estriados con tonos rufos en las alas. Cola corta y rufa. Garganta y pecho blancuzcos. Vientre crema. Patas largas y rosadas. Se mueve con agilidad entre los tallos verticales de juncales y totorales."
+        "adulto": "Ave pequeña y escurridiza. Corona negruzca con estrías pardas anchas y una ceja ante-crema bien marcada. Zona malar ante-buff. Dorso y alas pardo-estriados con tonos rufos en las alas. Cola corta y rufa. Garganta y pecho blancuzcos. Vientre crema. Patas largas de color gris cuerno. Se mueve con agilidad entre los tallos verticales de juncales y totorales."
       },
       "habitat": [
         "humedal",
@@ -1862,7 +1862,7 @@
         "D": "Phleocryptes_melanops_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), clinging UPRIGHT to a vertical green reed stem with body angled slightly upward, white background, 1024x1024 pixels, bird filling 60% of canvas height, tiny COMPACT plump marsh furnariid (NOT a wren, NOT a thrush), rounded head and short neck, short body, brown crown with fine dark streaks, bold cream-buff eyebrow, dark eyeline through and behind the eye, warm cinnamon wash on cheek and sides of neck, medium-length slender straight sharply-pointed bill with dark upper mandible and pale pinkish-horn lower mandible base, upperparts a mix of ASHY GREY and BLACK — grey-edged back feathers with bold black centers — plus a few distinct bright RUFOUS-ORANGE patches on the scapulars and inner wing, blackish flight feathers with grey edges, SHORT graduated stiff-looking brownish tail held straight and pointing down (NOT long, NOT broad, NOT cocked up), white throat, plain pale buffy-grey underparts, cinnamon-washed flanks, long pinkish legs with long toes gripping the reed, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), clinging UPRIGHT to a vertical green reed stem with body angled slightly upward, white background, 1024x1024 pixels, bird filling 60% of canvas height, tiny COMPACT plump marsh furnariid (NOT a wren, NOT a thrush), rounded head and short neck, short body, blackish crown with broad pale brown streaks, bold cream-buff eyebrow, dark eyeline through and behind the eye, warm cinnamon wash on cheek and sides of neck, medium-length slender straight sharply-pointed bill with dark upper mandible and pale pinkish-horn lower mandible base, upperparts a mix of ASHY GREY and BLACK — grey-edged back feathers with bold black centers — plus a few distinct bright RUFOUS-ORANGE patches on the scapulars and inner wing, blackish flight feathers with grey edges, SHORT graduated stiff-looking brownish tail held straight and pointing down (NOT long, NOT broad, NOT cocked up), white throat, plain pale buffy-grey underparts, cinnamon-washed flanks, long grayish-horn legs with long toes gripping the reed, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": null
     },
@@ -1928,7 +1928,7 @@
       "familia": "Tyrannidae",
       "orden": "Passeriformes",
       "descripcion": {
-        "adulto": "Tirano mediano y terrícola. Corona gris con mancha oculta anaranjada raramente visible. Ceja blanca bien marcada. Cara y mejillas grises. Dorso y alas pardo-rufos. Cola parda con bordes rufos. Garganta blancuzca. Pecho y vientre amarillo intenso. Patas largas y robustas. Camina activamente sobre el suelo y trepa al lomo del ganado."
+        "adulto": "Tirano mediano y terrícola. Corona gris con mancha oculta escarlata raramente visible. Ceja blanca bien marcada. Cara y mejillas grises. Dorso y alas pardo-oliváceos. Cola parda con bordes rufos. Garganta blancuzca. Pecho y vientre amarillo intenso. Patas largas y robustas. Camina activamente sobre el suelo y trepa al lomo del ganado."
       },
       "habitat": [
         "pastizal",
@@ -1959,7 +1959,7 @@
         "D": "Machetornis_rixosa_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, standing on ground, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium tyrant flycatcher, grey crown with hidden orange crown patch, white eyebrow, grey face, rufous-brown back and wings, white throat, bright yellow chest and belly, long robust legs, short dark bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, standing on ground, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium tyrant flycatcher, grey crown with hidden scarlet crown patch, white eyebrow, grey face, olive-brown back and wings, white throat, bright yellow chest and belly, long robust legs, short dark bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": null
     },
@@ -1971,7 +1971,7 @@
       "familia": "Hirundinidae",
       "orden": "Passeriformes",
       "descripcion": {
-        "adulto": "Golondrina mediana de aspecto robusto. Partes superiores, corona y cara uniformemente pardo-oscuras. Garganta y vientre blancos. Mancha pardo-oscura en el centro del pecho. Cola corta y levemente ahorquillada. Pico corto y ancho. Se distingue de otras golondrinas por su dorso totalmente pardo y la mancha pectoral oscura."
+        "adulto": "Golondrina mediana de aspecto robusto. Partes superiores, corona y cara uniformemente pardo arenoso. Garganta y vientre blancos. Mancha pardo-oscura en el centro del pecho. Cola corta y levemente ahorquillada. Pico corto y ancho. Se distingue de otras golondrinas por su dorso totalmente pardo y la mancha pectoral oscura."
       },
       "habitat": [
         "aéreo",
@@ -2004,7 +2004,7 @@
         "D": "Progne_tapera_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on wire, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium martin, uniformly dark brown upperparts, crown and face, white throat and belly, dark brown breast patch in center of chest, short slightly forked tail, short wide bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on wire, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium martin, uniformly sandy-brown upperparts, crown and face, white throat and belly, dark brown breast patch in center of chest, short slightly forked tail, short wide bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": null
     },
@@ -2128,7 +2128,7 @@
       "familia": "Turdidae",
       "orden": "Passeriformes",
       "descripcion": {
-        "adulto": "Zorzal mediano de colores discretos. Partes superiores pardo-oliváceas. Garganta blancuzca con finas estrías pardas longitudinales. Pecho pardo-grisáceo pálido con estrías tenues. Vientre blancuzco. Anillo ocular amarillo. Pico amarillo-anaranjado. Patas amarillentas. Notablemente más pálido que el Zorzal colorado. La garganta estriada es su rasgo distintivo."
+        "adulto": "Zorzal mediano de colores discretos. Partes superiores pardo-oliváceas. Garganta blancuzca con finas estrías pardas longitudinales, rasgo diagnóstico. Pecho pardo-grisáceo pálido con estrías tenues. Vientre blancuzco. Pico amarillo-anaranjado. Patas pardo-opacas. Notablemente más pálido que el Zorzal colorado. Carece de anillo ocular amarillo."
       },
       "habitat": [
         "urbano",
@@ -2161,7 +2161,7 @@
         "D": "Turdus_amaurochalinus_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium thrush, olive-brown upperparts and wings, whitish throat with fine brown streaks, pale grey-brown breast with faint streaking, white belly, yellow-orange bill, yellow eyering, yellowish legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium thrush, olive-brown upperparts and wings, whitish throat with fine brown streaks, pale grey-brown breast with faint streaking, white belly, yellow-orange bill, NO yellow eyering, drab brown legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": null
     },
@@ -2389,7 +2389,7 @@
       "familia": "Icteridae",
       "orden": "Passeriformes",
       "descripcion": {
-        "adulto": "Ave mediana de contraste muy llamativo. Cabeza, garganta y pecho superior de color anaranjado-escarlata intenso. Todo el resto del cuerpo negro profundo: dorso, alas, vientre, cola y patas. Pico largo y puntiagudo, oscuro. Ojo rojo oscuro. Sexos similares. Inmaduro con plumaje totalmente negro, con escarlata que aparece gradualmente."
+        "adulto": "Ave mediana de contraste muy llamativo. Cabeza, garganta, pecho superior y muslos de color anaranjado-escarlata intenso. Todo el resto del cuerpo negro profundo: dorso, alas, vientre, cola y patas. Pico largo y puntiagudo, oscuro. Ojo rojo oscuro. Sexos similares. Inmaduro con plumaje totalmente negro, con escarlata que aparece gradualmente."
       },
       "habitat": [
         "humedal",
@@ -2417,7 +2417,7 @@
         "D": "Amblyramphus_holosericeus_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on reed, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium blackbird, vivid orange-scarlet head, throat and upper breast, rest of body entirely deep black including wings, belly, tail and legs, long pointed dark bill, dark red eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
+        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on reed, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium blackbird, vivid orange-scarlet head, throat, upper breast and thighs, rest of body entirely deep black including wings, belly, tail and legs, long pointed dark bill, dark red eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": null
     },
@@ -2429,7 +2429,7 @@
       "familia": "Thraupidae",
       "orden": "Passeriformes",
       "descripcion": {
-        "M": "Ave pequeña y robusta. Macho con cabeza y frente anaranjado-amarilla intensa. Dorso verde-amarillento con estrías pardas. Partes inferiores amarillo brillante uniforme. Pico corto, cónico y rosado pálido. Ojo oscuro.",
+        "M": "Ave pequeña y robusta. Macho con frente y corona anaranjadas intensas, resto de la cabeza amarilla. Dorso oliváceo con estrías pardas. Partes inferiores amarillo brillante uniforme. Pico corto y cónico, mandíbula superior oscura y mandíbula inferior pálida. Ojo oscuro.",
         "F": "Pardo-estriada con tinte amarillento en las partes inferiores. Mucho menos vistosa que el macho."
       },
       "habitat": [
@@ -2467,8 +2467,8 @@
         "F": "Sicalis_flaveola_F.png"
       },
       "prompts_pixelart": {
-        "M": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, small finch, vivid orange-yellow forehead and head, yellow-green streaked back, bright uniform yellow underparts, short conical pale pink bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
-        "F": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, small finch, brown streaked crown and back, pale yellowish underparts with faint streaks, short conical pale bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
+        "M": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, small finch, bright orange forehead and crown, yellow face and rest of head, olive-yellow streaked back, bright uniform yellow underparts, short conical bill with dark upper mandible and pale lower mandible, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
+        "F": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, small finch, brown streaked crown and back, pale yellowish underparts with faint streaks, short conical bill with dark upper mandible and pale lower mandible, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": "saffia1"
     },
@@ -2480,7 +2480,7 @@
       "familia": "Thraupidae",
       "orden": "Passeriformes",
       "descripcion": {
-        "M": "Ave mediana con marcado dimorfismo sexual. Macho con cabeza, dorso, alas y cola azul-celeste brillante. Rabadilla y partes inferiores anaranjado a amarillo intenso. Pico corto y cónico, oscuro. Ojo oscuro.",
+        "M": "Ave mediana con marcado dimorfismo sexual. Macho con antifaz negro. Corona y nuca azul-celeste brillante. Dorso negro (subespecie bonaerense). Alas y cola azul-celeste brillante. Rabadilla y partes inferiores amarillo-anaranjado intenso. Pico corto y cónico, oscuro. Ojo oscuro.",
         "F": "Pardo-olivácea con estrías difusas y sin los colores llamativos del macho. Tinte amarillento en el vientre."
       },
       "habitat": [
@@ -2517,7 +2517,7 @@
         "F": "Rauenia_bonariensis_F.png"
       },
       "prompts_pixelart": {
-        "M": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium tanager, brilliant blue head, back, wings and tail, vivid orange-yellow underparts and rump, short conical dark bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
+        "M": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium tanager, black mask through eye, brilliant blue crown and nape, black back and scapulars, bright blue wings and tail, vivid yellow-orange underparts and rump, short conical dark bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
         "F": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium tanager, olive-brown overall with faint streaking, yellowish tinge on belly, short conical dark bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
       "audio_ebird_code": null
