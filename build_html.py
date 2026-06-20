@@ -107,7 +107,7 @@ else:
     # Runtime JS was lost in a previous bad rebuild — restore from git
     print('Runtime JS no encontrado en el HTML actual, restaurando desde git...')
     result = subprocess.run(
-        ['git', 'show', 'HEAD:aviario_bonaerense.html'],
+        ['git', 'show', 'HEAD:index.html'],
         capture_output=True, text=True, encoding='utf-8'
     )
     if result.returncode != 0:

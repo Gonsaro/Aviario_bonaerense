@@ -53,18 +53,34 @@ bd close <id>         # Complete work
 
 ## Build & Test
 
-_Add your build and test commands here_
-
 ```bash
-# Example:
-# npm install
-# npm test
+python build_html.py   # Regenera index.html desde aviario_data.json
 ```
 
 ## Architecture Overview
 
-_Add a brief overview of your project architecture_
+PWA estática (un solo `index.html`) deployada en GitHub Pages. Sin backend ni framework — JavaScript vanilla. Datos en `aviario_data.json` (fuente de verdad); `index.html` contiene una copia hardcodeada generada por `build_html.py`.
 
 ## Conventions & Patterns
 
-_Add your project-specific conventions here_
+### Workflow obligatorio para cambios de datos
+
+**NUNCA editar `index.html` a mano para cambiar datos de especies, sprites o el mapa SP.**
+El flujo correcto es:
+
+1. Editar `aviario_data.json`
+2. Ejecutar `python build_html.py`
+3. Verificar, commitear y pushear
+
+Editar `index.html` directamente causó bugs graves (SP map mal cerrado → pantalla en blanco).
+
+### Sprites
+
+- Generación: `python generar_sprites.py -s <id|nombre|num>`
+- Salida: `Sprites/Genus_species_VARIANTE.png`, 1024×1024 px (vuelo: 1536×1024)
+- Orientación: todos facing LEFT — excepción: estrigidos (#027 Athene, #028 Asio) facing FORWARD
+- Después de agregar sprites nuevos: correr `build_html.py` para que el mapa SP se actualice solo
+
+### Nomenclatura
+
+Sigue `lista_especies_aves_argentinas_oficial.md` (lista Monteleone & Pagano 2022).
