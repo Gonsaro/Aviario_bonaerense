@@ -487,7 +487,7 @@
         "D": "Columbina_picui_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, standing on ground, white background, 1024x1024 pixels, bird filling 65% of canvas height, small dove, blue-grey head, narrow black stripe in front of the eye, grey-brown back, distinctive wing pattern with a black-blue iridescent wing bar across the secondaries and white spots on the coverts, brown tail with white outer feathers, pale pinkish breast fading to whitish belly, pale grey-blue eye, thin dark bill, pink legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on ground, white background, 1024x1024 pixels, bird filling 65% of canvas height, small slender dove, whitish forehead and throat, blue-grey crown and nape, a thin black stripe across the lores in front of the eye, small pale grey eye with a tiny dark pupil, UNIFORM soft pale grey-brown back and wings (smooth and plain, even tone, NOT scaly or busy), only a few small short blackish-blue marks on the wing coverts and a thin white wing edge, soft pinkish-grey neck and breast fading to white belly, long grey-brown tail, dark grey bill, violet-pink legs and feet, detailed feather texture with subtle dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": null
     },
