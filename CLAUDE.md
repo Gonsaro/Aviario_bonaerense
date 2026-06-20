@@ -70,7 +70,8 @@ El flujo correcto es:
 
 1. Editar `aviario_data.json`
 2. Ejecutar `python build_html.py`
-3. Verificar, commitear y pushear
+3. Bumppear `const CACHE = 'aviario-vN'` en `sw.js` (incrementar N)
+4. Verificar, commitear y pushear
 
 Editar `index.html` directamente causó bugs graves (SP map mal cerrado → pantalla en blanco).
 
