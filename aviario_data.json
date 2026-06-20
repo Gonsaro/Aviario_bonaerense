@@ -1760,7 +1760,7 @@
         "D": "Aratinga_nenday_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium parakeet, jet black head and face, blue-green wash on throat and upper chest, bright green body and wings, long blue-tipped tail, small red patch on thigh, curved black bill, dark eye with white eyering, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a short thin bare twig, white background, 1024x1024 pixels, bird including its long tail filling about 75% of canvas width and fully visible without being cropped, medium parakeet, jet black head and face, bluish-green wash on throat and upper chest, bright green body and wings, long pointed tail green with blue tip, small red patch on the thigh, robust curved black bill, dark eye with white eyering, detailed feather texture with dithering, clean outline, no shadow, no text, no large tree trunk, minimal simple perch only — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "nannpa1"
     },
@@ -1861,7 +1861,7 @@
         "D": "Phleocryptes_melanops_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, clinging to reed stem, white background, 1024x1024 pixels, bird filling 65% of canvas height, tiny streaked marsh bird, brown crown with dark streaks, bold cream eyebrow, dark moustache stripe, rufous-brown wings with cream streaks, short rufous tail, white throat and pale buff underparts, long pinkish legs, short straight bill, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), clinging UPRIGHT to a vertical green reed stem with body angled slightly upward, white background, 1024x1024 pixels, bird filling 60% of canvas height, tiny COMPACT plump marsh furnariid (NOT a wren, NOT a thrush), rounded head and short neck, short body, brown crown with fine dark streaks, bold cream-buff eyebrow, dark eyeline through and behind the eye, warm cinnamon wash on cheek and sides of neck, medium-length slender straight sharply-pointed bill with dark upper mandible and pale pinkish-horn lower mandible base, upperparts a mix of ASHY GREY and BLACK — grey-edged back feathers with bold black centers — plus a few distinct bright RUFOUS-ORANGE patches on the scapulars and inner wing, blackish flight feathers with grey edges, SHORT graduated stiff-looking brownish tail held straight and pointing down (NOT long, NOT broad, NOT cocked up), white throat, plain pale buffy-grey underparts, cinnamon-washed flanks, long pinkish legs with long toes gripping the reed, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": null
     },
