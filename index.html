@@ -68,8 +68,9 @@ body{font-family:system-ui,-apple-system,sans-serif;background:#f5f4f0;color:#1a
 .sprite-wrap{position:relative;display:inline-flex;align-items:center;justify-content:center;width:100%;height:100%}
 .sex-badge{position:absolute;top:4px;right:5px;font-size:13px;font-weight:700;color:#333;line-height:1;pointer-events:none;text-shadow:0 0 3px #fff,0 0 3px #fff,0 0 3px #fff}
 .grid-controls{display:flex;gap:6px;padding:8px 0 4px;align-items:center}
-.sex-btn{padding:4px 12px;border-radius:20px;border:1.5px solid #d8d5cc;background:transparent;font-size:13px;font-family:inherit;cursor:pointer;color:#555;transition:all 0.15s}
-.sex-btn.on{border-color:#1D9E75;background:#e8f7f2;color:#1D9E75;font-weight:600}
+.sex-toggle{display:inline-flex;border-radius:20px;border:1.5px solid #d8d5cc;overflow:hidden;background:#f1efe8}
+.sex-toggle button{padding:4px 12px;border:none;border-radius:0;background:transparent;font-size:13px;font-family:inherit;cursor:pointer;color:#555;transition:background 0.15s,color 0.15s;line-height:1.4}
+.sex-toggle button.on{background:#1D9E75;color:#fff;font-weight:600}
 .sprite-thumbs{display:flex;gap:6px;flex-wrap:wrap;justify-content:center;max-width:220px}
 .thumb-wrap{display:flex;flex-direction:column;align-items:center;gap:2px}
 .thumb{width:44px;height:44px;background:#f1efe8;border-radius:8px;border:0.5px solid rgba(0,0,0,0.1);cursor:pointer;overflow:hidden;display:flex;align-items:center;justify-content:center;position:relative}
@@ -693,7 +694,7 @@ function render(){
 
   if(!list.length)h+='<div class="empty">No se encontraron aves con ese criterio.</div>';
   else{
-    h+='<div class="grid-controls"><button class="sex-btn'+(gridSex==='M'?' on':'')+'" onclick="setGridSex(\'M\')">&#9794; Macho</button><button class="sex-btn'+(gridSex==='F'?' on':'')+'" onclick="setGridSex(\'F\')">&#9792; Hembra</button></div>';
+    h+='<div class="grid-controls"><div class="sex-toggle"><button class="'+(gridSex==='M'?'on':'')+'" onclick="setGridSex(\'M\')">&#9794; Macho</button><button class="'+(gridSex==='F'?'on':'')+'" onclick="setGridSex(\'F\')">&#9792; Hembra</button></div></div>';
     h+='<div class="grid">';
     h+=list.map(b=>{
       const{k0,sk0}=pickGridSprite(b);const src=sk0?SP[sk0]||'':'';
