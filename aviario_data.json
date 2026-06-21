@@ -237,10 +237,12 @@
       ],
       "curiosidades": "Se alimenta filtrando agua con el pico invertido, atrapando algas y pequeños crustáceos. Forma colonias reproductivas en salares y lagunas saladas. Su color rosado depende directamente de la dieta — en cautiverio sin carotenoides en la comida se vuelve blanco.",
       "sprites": {
-        "D": "Phoenicopterus_chilensis_D.png"
+        "D": "Phoenicopterus_chilensis_D.png",
+        "J": "Phoenicopterus_chilensis_J.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing in shallow water, white background, 1024x1024 pixels, bird filling 85% of canvas height, very tall wading bird flamingo, pale pink body and neck, deep rose-red wing coverts, black primary feathers, very long sinuous neck, distinctive downcurved kinked pink bill with black tip, long grey legs with pink joints, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing in shallow water, white background, 1024x1024 pixels, bird filling 85% of canvas height, very tall wading bird flamingo, pale pink body and neck, deep rose-red wing coverts, black primary feathers, very long sinuous neck, distinctive strongly downcurved kinked bill with very pale pinkish-white base and large black tip extending beyond the bend, small bright yellow eye, long yellowish-grey legs with contrasting vivid red knees and red feet, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "J": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw or change the shape in any way. Change ONLY the colours: replace all pink and rose-red with pale whitish-grey; head and neck brownish-grey (darker than body); body pale white-grey; dorsal feathers pale grey-brown with darker rachis; black primary feathers remain black; no pink or red anywhere; bill strongly curved, bluish-grey base with charcoal-grey tip; legs dark grey (no red knees or feet); keep the same shallow water beneath. White background, no shadow, no text."
       },
       "audio_ebird_code": "chifl1"
     },
@@ -1762,7 +1764,7 @@
         "D": "Aratinga_nenday_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a short thin bare twig, white background, 1024x1024 pixels, bird including its long tail filling about 75% of canvas width and fully visible without being cropped, medium parakeet, jet black head and face, bluish-green wash on throat and upper chest, bright green body and wings, long pointed tail green with blue tip, small red patch on the thigh, robust curved black bill, dark eye with white eyering, detailed feather texture with dithering, clean outline, no shadow, no text, no large tree trunk, minimal simple perch only — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a short horizontal branch, white background, 1024x1024 pixels, the ENTIRE bird including head beak branch ends and full tail tip must fit completely inside the canvas with white margin on all four sides — nothing clipped, medium parakeet with long tail, bird body occupying upper-centre of canvas with tail extending diagonally down-right, jet black head and face, bluish-green wash on throat and upper chest, bright green body and wings, long pointed tail green with blue tip, small red patch on the thigh, robust curved black bill, dark eye with white eyering, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, beak pointing LEFT"
       },
       "audio_ebird_code": "nannpa1"
     },
@@ -2280,7 +2282,7 @@
       "familia": "Passerellidae",
       "orden": "Passeriformes",
       "descripcion": {
-        "adulto": "Ave pequeña y terrícola muy familiar. Corona gris bordeada por franjas negras a los lados. Ceja blanca bien definida. Bigotilla negra prominente. Nuca y cuello rufo-ante. Dorso pardo con estrías negras. Barras alares blancas. Cola parda. Garganta blanca. Mancha oscura central en el pecho. Vientre blancuzco. Patas color carne."
+        "adulto": "Ave pequeña y terrícola muy familiar. Corona gris bordeada por franjas negras a los lados. Ceja blanca bien definida. Bigotilla negra prominente. Nuca y cuello rufo-ante. Dorso pardo con estrías negras. Barras alares blancas. Cola parda. Garganta blanca. Pecho gris-blancuzco sin manchas. Vientre blancuzco. Patas color carne."
       },
       "habitat": [
         "urbano",
@@ -2322,7 +2324,7 @@
         "D": "Zonotrichia_capensis_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, standing on ground, white background, 1024x1024 pixels, bird filling 65% of canvas height, small sparrow, grey crown bordered by black lateral stripes, white eyebrow, bold black moustache stripe, rufous-buff nape and collar, brown streaked back, white wing bars, brown tail, white throat, dark central breast spot, whitish belly, flesh-colored legs, short conical bill, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, small sparrow with a distinctly peaked raised crown (copete), grey median crown-stripe flanked by bold black lateral crown-stripes, black postocular stripe behind the eye, lower edge of ear-coverts black, warm rufous-orange nape and sides of neck forming a collar, brown streaked mantle and back, two whitish wingbars, white throat, plain greyish-white breast with no spots or patches, white belly, buffy flanks, horn-grey bill with dark culmen and tip, brownish-pink legs, reddish-brown eye, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": null
     },
@@ -2430,8 +2432,8 @@
       "familia": "Thraupidae",
       "orden": "Passeriformes",
       "descripcion": {
-        "M": "Ave pequeña y robusta. Macho con frente y corona anaranjadas intensas, resto de la cabeza amarilla. Dorso oliváceo con estrías pardas. Partes inferiores amarillo brillante uniforme. Pico corto y cónico, mandíbula superior oscura y mandíbula inferior pálida. Ojo oscuro.",
-        "F": "Pardo-estriada con tinte amarillento en las partes inferiores. Mucho menos vistosa que el macho."
+        "M": "Ave pequeña y robusta (ssp pelzelni). Macho con cabeza uniformemente amarillo-dorado, sin naranja intenso en la corona. Dorso amarillo-oliváceo con finas estrías pardas. Pecho con estrías pardas finas. Partes inferiores amarillo limón. Pico corto y cónico, mandíbula superior gris oscuro, inferior gris-pálida. Patas gris oscuro. Ojo pardo oscuro.",
+        "F": "Pardo-estriada por encima con estrías oscuras bien marcadas en corona y dorso. Partes inferiores blancuzco-ante con estrías pardas en el pecho. Algo de tinte amarillo-oliváceo en los bordes de las alas y cola. Patas gris oscuro. Pico gris. Mucho menos vistosa que el macho."
       },
       "habitat": [
         "urbano",
@@ -2468,8 +2470,8 @@
         "F": "Sicalis_flaveola_F.png"
       },
       "prompts_pixelart": {
-        "M": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, small finch, bright orange forehead and crown, yellow face and rest of head, olive-yellow streaked back, bright uniform yellow underparts, short conical bill with dark upper mandible and pale lower mandible, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
-        "F": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, small finch, brown streaked crown and back, pale yellowish underparts with faint streaks, short conical bill with dark upper mandible and pale lower mandible, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
+        "M": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw or change the shape in any way. Change ONLY the colours: make the entire head a uniform warm golden-yellow — the same saturated yellow-gold as the chest and belly, one single consistent colour throughout crown, face and nape, no pale or cream areas, no orange patch; keep the fine brown streaking on the breast and back, the grey bill and dark grey legs unchanged. White background, no shadow, no text.",
+        "F": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw or change the shape in any way. Change ONLY the colours: change the pinkish-red legs to dark dusky-grey; add a subtle yellowish-olive tinge to the wing feather edges and tail; keep the brown streaked body and white underparts unchanged. White background, no shadow, no text."
       },
       "audio_ebird_code": "saffia1"
     },
@@ -2481,8 +2483,8 @@
       "familia": "Thraupidae",
       "orden": "Passeriformes",
       "descripcion": {
-        "M": "Ave mediana con marcado dimorfismo sexual. Macho con antifaz negro. Corona y nuca azul-celeste brillante. Dorso negro (subespecie bonaerense). Alas y cola azul-celeste brillante. Rabadilla y partes inferiores amarillo-anaranjado intenso. Pico corto y cónico, oscuro. Ojo oscuro.",
-        "F": "Pardo-olivácea con estrías difusas y sin los colores llamativos del macho. Tinte amarillento en el vientre."
+        "M": "Ave mediana con marcado dimorfismo sexual (ssp bonariensis). Cabeza, cuello y garganta azul-maíz brillante uniforme. Antifaz negro reducido en los lores y área ocular. Dorso y escápulas negros, extendiéndose a los lados del pecho formando un collar parcial negro. Rabadilla amarillo-anaranjado brillante. Alas pardas con bordes azules; cola negra bordeada de azul. Pecho a mitad del vientre amarillo-anaranjado intenso, vientre inferior amarillo brillante. Pico oscuro con mandíbula inferior gris-pálida. Ojo pardo-rojizo. Patas gris oscuro.",
+        "F": "Pardo-olivácea uniforme sin manchas contrastantes. Partes superiores pardo-oliva apagado. Partes inferiores ante-amarillento pálido. Sin antifaz ni collar. Pico gris. Patas oscuras. Notablemente más apagada que el macho."
       },
       "habitat": [
         "urbano",
@@ -2518,8 +2520,8 @@
         "F": "Rauenia_bonariensis_F.png"
       },
       "prompts_pixelart": {
-        "M": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium tanager, black mask through eye, brilliant blue crown and nape, black back and scapulars, bright blue wings and tail, vivid yellow-orange underparts and rump, short conical dark bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
-        "F": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium tanager, olive-brown overall with faint streaking, yellowish tinge on belly, short conical dark bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
+        "M": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw or change the shape in any way. Change ONLY the colours: make the entire head and throat a uniform bright cornflower-blue — crown, nape, cheeks, chin and throat all the SAME blue, no dark or black chin or throat; keep only the small black mask on lores and around the eye; keep the black mantle, blue wings, yellow-orange underparts and pale grey lower mandible unchanged. White background, no shadow, no text.",
+        "F": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium-sized tanager, entire bird dull olive-brown throughout — head, back, wings and tail all the same muted olive-brown with no contrasting patches, underparts pale buffy-yellowish (slightly paler than back but not vivid), no blue or grey on wings, no mask, short dark bill with pale grey lower mandible, reddish-brown eye, dark legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": null
     }

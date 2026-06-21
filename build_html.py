@@ -6,6 +6,7 @@ VARIANT_LABEL = {'D':'adulto','R':'reproductivo','M':'macho','F':'hembra','J':'j
 
 data = json.load(open('aviario_data.json', encoding='utf-8'))
 sprites_dir = Path('Sprites')
+maps_dir = Path('Maps')
 
 # SP: relative paths to PNG files — keeps HTML small, browser loads images normally
 sp = {}
@@ -47,6 +48,10 @@ for bird in data['especies']:
         label = VARIANT_LABEL.get(k, k)
         desc[label] = v
 
+    map_stem = '_'.join(parts[:2])
+    map_path = maps_dir / f'{map_stem}_map.png'
+    mapa = f'Maps/{map_stem}_map.png' if map_path.exists() else None
+
     b = {
         'id': bird['id'],
         'num': bird['num'],
@@ -65,6 +70,7 @@ for bird in data['especies']:
         'curiosidades': bird.get('curiosidades', ''),
         'sprites': sprites,
         'audio_ebird_code': bird.get('audio_ebird_code', ''),
+        'mapa': mapa,
     }
     birds_js_parts.append('{' + ','.join(f'{k}:{jstr(v)}' for k, v in b.items()) + '}')
 
