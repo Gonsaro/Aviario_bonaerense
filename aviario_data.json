@@ -1467,8 +1467,8 @@
       "familia": "Alcedinidae",
       "orden": "Coraciiformes",
       "descripcion": {
-        "M": "Martín pescador mediano y robusto. Cabeza verde oscura con cresta desordenada. Estrecho collar blanco en el cuello. Dorso y alas verde oscuro brillante. Garganta blanca. Pecho rufo intenso. Vientre blanco. Pico largo, recto y negro con algo de amarillo pálido en la base de la mandíbula inferior. Patas pequeñas y oscuras.",
-        "F": "Similar al macho pero con una franja verde en el pecho y sin el rufo pectoral. Vientre blanco."
+        "M": "Martín pescador mediano y robusto. Cabeza verde bronceado oscuro con cresta desgreñada característica. Pequeña mancha blanca bajo el ojo. Collar blanco estrecho en el cuello separado de la garganta blanca por una fina línea verde. Dorso y alas verde bronceado oscuro. Pecho rufo intenso. Flancos blancos con estrías verdes. Vientre blanco. Pico largo, recto y negro con marfil-amarillo pálido bajo la mandíbula inferior. Ojo pardo oscuro. Patas cortas gris oscuro.",
+        "F": "Similar al macho pero con pecho blanco y flancos verde-botella que casi se unen en el centro del pecho, sin rufo pectoral. Vientre blanco."
       },
       "habitat": [
         "ribereño",
@@ -1500,8 +1500,8 @@
         "F": "Chloroceryle_amazona_F.png"
       },
       "prompts_pixelart": {
-        "M": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium kingfisher, dark green head with shaggy crest, dark green upperparts, narrow white collar on neck, white throat, rufous chest, white belly, long heavy dark bill with pale yellowish base on lower mandible, short dark feet, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
-        "F": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium kingfisher, dark green head with shaggy crest, dark green upperparts, narrow white collar on neck, white throat, green breast band, white belly, long heavy dark bill with pale yellowish base on lower mandible, short dark feet, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium kingfisher with a compact rounded head and a short erect spiky dark-green crest (NOT a large shaggy crest — small and pointed), dark deep-green head and upperparts and wings, very broad and prominent white collar wrapping around the base of the neck, white chin and throat, rich rufous-chestnut breast patch below the white throat, green flanks, white belly, long straight dark grey-black bill with faint pale base on lower mandible, short dark grey feet, small dark eye, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY the colours: replace the rufous-chestnut breast with white in the centre and dark bottle-green sweeping in from both sides almost meeting in the middle; belly remains white. Everything else — head, crest, collar, upperparts, wings, bill, legs, branch, background — stays identical. White background, no shadow, no text."
       },
       "audio_ebird_code": null
     },
