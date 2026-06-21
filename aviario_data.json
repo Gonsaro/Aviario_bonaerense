@@ -2004,7 +2004,7 @@
         "D": "Progne_tapera_D.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on wire, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium martin, uniformly sandy-brown upperparts, crown and face, white throat and belly, dark brown breast patch in center of chest, short slightly forked tail, short wide bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium-sized martin, uniformly matte sandy earth-brown upperparts, crown and face (no gloss, no blue), small dark eye with a tiny dark pupil, short wide dark grey bill, white throat and belly, brownish-grey band across upper breast with a darker brown patch in the centre, brownish wash on flanks, short slightly forked tail in sandy-brown, pale brownish-grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": null
     },
