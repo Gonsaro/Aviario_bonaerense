@@ -67,6 +67,9 @@ body{font-family:system-ui,-apple-system,sans-serif;background:#f5f4f0;color:#1a
 .sprite-main img{max-width:100%;max-height:100%;object-fit:contain;image-rendering:pixelated;image-rendering:crisp-edges}
 .sprite-wrap{position:relative;display:inline-flex;align-items:center;justify-content:center;width:100%;height:100%}
 .sex-badge{position:absolute;top:4px;right:5px;font-size:13px;font-weight:700;color:#333;line-height:1;pointer-events:none;text-shadow:0 0 3px #fff,0 0 3px #fff,0 0 3px #fff}
+.grid-controls{display:flex;gap:6px;padding:8px 0 4px;align-items:center}
+.sex-btn{padding:4px 12px;border-radius:20px;border:1.5px solid #d8d5cc;background:transparent;font-size:13px;font-family:inherit;cursor:pointer;color:#555;transition:all 0.15s}
+.sex-btn.on{border-color:#1D9E75;background:#e8f7f2;color:#1D9E75;font-weight:600}
 .sprite-thumbs{display:flex;gap:6px;flex-wrap:wrap;justify-content:center;max-width:220px}
 .thumb-wrap{display:flex;flex-direction:column;align-items:center;gap:2px}
 .thumb{width:44px;height:44px;background:#f1efe8;border-radius:8px;border:0.5px solid rgba(0,0,0,0.1);cursor:pointer;overflow:hidden;display:flex;align-items:center;justify-content:center;position:relative}
@@ -406,7 +409,7 @@ const birds=[
 {id:49,num:"#049",nombre_comun:"Jilguero Dorado",nombre_cientifico:"Sicalis flaveola",familia:"Thraupidae",orden:"Passeriformes",descripcion:{macho:"Ave pequeña y robusta. Macho con frente y corona anaranjadas intensas, resto de la cabeza amarilla. Dorso oliváceo con estrías pardas. Partes inferiores amarillo brillante uniforme. Pico corto y cónico, mandíbula superior oscura y mandíbula inferior pálida. Ojo oscuro.",hembra:"Pardo-estriada con tinte amarillento en las partes inferiores. Mucho menos vistosa que el macho."},habitat:["urbano","pastizal","agrícola","monte"],residencia:"permanente",tamanio:"chico",largo_cm:14,envergadura_cm:null,estado:"LC",provincias:["Buenos Aires","CABA","Santa Fe","Entre Ríos","Corrientes","Misiones","Chaco","Formosa","Santiago del Estero","Córdoba","La Pampa","Tucumán","Salta","Jujuy","Mendoza","San Luis"],curiosidades:"Uno de los canarios silvestres más comunes de Argentina. El macho tiene un canto melodioso y fluido que lo hace muy apreciado en la avicultura. Se alimenta principalmente de semillas y forma bandadas en los pastizales y bordes de camino. Anida en grietas de paredes, aleros y huecos de árboles.",sprites:{macho:"Sicalis_flaveola_M",hembra:"Sicalis_flaveola_F"},audio_ebird_code:"saffia1"},
 {id:50,num:"#050",nombre_comun:"Naranjero",nombre_cientifico:"Rauenia bonariensis",familia:"Thraupidae",orden:"Passeriformes",descripcion:{macho:"Ave mediana con marcado dimorfismo sexual. Macho con antifaz negro. Corona y nuca azul-celeste brillante. Dorso negro (subespecie bonaerense). Alas y cola azul-celeste brillante. Rabadilla y partes inferiores amarillo-anaranjado intenso. Pico corto y cónico, oscuro. Ojo oscuro.",hembra:"Pardo-olivácea con estrías difusas y sin los colores llamativos del macho. Tinte amarillento en el vientre."},habitat:["urbano","monte","pastizal","agrícola"],residencia:"permanente",tamanio:"chico",largo_cm:17,envergadura_cm:null,estado:"LC",provincias:["Buenos Aires","CABA","Santa Fe","Entre Ríos","Corrientes","Misiones","Chaco","Santiago del Estero","Córdoba","La Pampa","Tucumán","Salta","Jujuy","Mendoza","San Luis"],curiosidades:"El macho es una de las aves más coloridas de Buenos Aires. Se alimenta de frutas, semillas e insectos y es un visitante frecuente de jardines con frutales. El nombre 'bonariensis' de su nombre científico hace referencia a Buenos Aires, ciudad donde fue descripto por primera vez para la ciencia.",sprites:{macho:"Rauenia_bonariensis_M",hembra:"Rauenia_bonariensis_F"},audio_ebird_code:null}
 ];
-let sel=null,tab={},flt=null;
+let sel=null,tab={},flt=null,gridSex=null;
 let user=null,seen=new Set(),llActive=false,celebrated=new Set();
 
 function loadState(){
@@ -541,6 +544,8 @@ function closeTrophies(){
 function isWide(k){return WIDE.includes(k);}
 function isA(t,v){return flt&&flt.t===t&&flt.v===v;}
 function tog(t,v){flt=isA(t,v)?null:{t,v};render();}
+function setGridSex(v){gridSex=gridSex===v?null:v;render();}
+function pickGridSprite(b){const ks=Object.keys(b.sprites);if(!ks.length)return{k0:null,sk0:null};if(gridSex){const m=ks.find(k=>b.sprites[k]&&b.sprites[k].endsWith('_'+gridSex));if(m)return{k0:m,sk0:b.sprites[m]};}return{k0:ks[0],sk0:b.sprites[ks[0]] }; }
 let lbSprites=[];let lbIdx=0;
 function openLb(src){
   if(!sel)return;
@@ -688,9 +693,10 @@ function render(){
 
   if(!list.length)h+='<div class="empty">No se encontraron aves con ese criterio.</div>';
   else{
+    h+='<div class="grid-controls"><button class="sex-btn'+(gridSex==='M'?' on':'')+'" onclick="setGridSex(\'M\')">&#9794; Macho</button><button class="sex-btn'+(gridSex==='F'?' on':'')+'" onclick="setGridSex(\'F\')">&#9792; Hembra</button></div>';
     h+='<div class="grid">';
     h+=list.map(b=>{
-      const k0=Object.keys(b.sprites)[0];const sk0=k0?b.sprites[k0]:null;const src=sk0?SP[sk0]||'':'';
+      const{k0,sk0}=pickGridSprite(b);const src=sk0?SP[sk0]||'':'';
       const badge0=sk0&&sk0.endsWith('_M')?'<span class="sex-badge">&#9794;</span>':sk0&&sk0.endsWith('_F')?'<span class="sex-badge">&#9792;</span>':'';
       const unseen=user&&llActive&&!isSeen(b.id);
       const seenMark=user&&llActive&&isSeen(b.id)?'<span class="seen-badge">✓</span>':'';
