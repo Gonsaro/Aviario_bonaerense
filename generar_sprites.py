@@ -41,7 +41,7 @@ CANVAS_VUELO = (192, 128)
 OUTPUT_NORMAL = (1024, 1024)
 OUTPUT_VUELO  = (1536, 1024)
 # Margen mínimo como fracción del canvas (el pájaro ocupa como máximo 1-2*MARGIN)
-OUTPUT_MARGIN = 0.05
+OUTPUT_MARGIN = 0.02
 WHITE_THRESHOLD = 240
 DEFAULT_MODEL = "gemini-3.1-flash-image"
 
@@ -210,6 +210,15 @@ def _bytes_to_canvas(data: bytes, variant: str) -> Image.Image:
         img = bg
     else:
         img = img.convert("RGB")
+
+    # Recortar al bounding box del ave (pixeles no blancos) ANTES de escalar.
+    # Así el blanco que deja el modelo no se traduce en padding/flotación:
+    # el contenido siempre llena el canvas de forma consistente, venga el
+    # pajaro como venga del modelo (clave para recolor y para tiradas sueltas
+    # donde normalize_scale no corre).
+    bbox = content_bbox(img)
+    if bbox is not None:
+        img = img.crop(bbox)
 
     ow, oh = output_size(variant)
     margin_px_w = round(ow * OUTPUT_MARGIN)
