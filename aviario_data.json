@@ -302,7 +302,7 @@
       "familia": "Podicipedidae",
       "orden": "Podicipediformes",
       "descripcion": {
-        "adulto": "El mayor de los macás. Cuello largo y esbelto. Cabeza con corona gris oscuro-verdosa con cresta corta más oscura en época reproductiva. Cuello rufo-anaranjado vivo. Partes superiores gris-oscuras. Partes inferiores blancuzco-plateadas. Pico largo, recto y puntiagudo, gris con punta más pálida. Ojo pardo-rojizo. Fuera del período reproductivo, el cuello se vuelve gris-blanquecino y se pierde la cresta."
+        "adulto": "El mayor de los macás. Cuello largo y esbelto. Cabeza con corona gris oscuro-verdosa con cresta corta más oscura en época reproductiva. Cuello rufo-anaranjado vivo. Partes superiores gris-oscuras. Partes inferiores blancuzco-plateadas. Pico largo, recto y puntiagudo, bicolor: borde superior gris oscuro, lados y mandíbula inferior amarillo-grisáceo pálido. Ojo pardo-rojizo. Fuera del período reproductivo, el cuello se vuelve gris-blanquecino y se pierde la cresta."
       },
       "habitat": [
         "humedal",
@@ -549,7 +549,7 @@
       "familia": "Rallidae",
       "orden": "Gruiformes",
       "descripcion": {
-        "D": "Ave acuática grande y rechoncha. Cuerpo pizarra oscuro, cabeza y cuello negros. Pico amarillo brillante con escudo frontal rojo en la base. Ojo rojo. Patas largas amarillo-anaranjadas con dedos lobulados grises. Pequeña mancha blanca bajo la cola."
+        "D": "Ave acuática grande y rechoncha. Cuerpo pizarra oscuro, cabeza y cuello negros. Pico amarillo brillante con escudo frontal rojo en la base. Ojo rojo. Patas largas amarillo-anaranjadas con jarreteras (ligas) rojas en las tibias; dedos lobulados gris oscuro. Pequeña mancha blanca bajo la cola."
       },
       "habitat": [
         "humedal",
@@ -597,7 +597,7 @@
       "familia": "Rallidae",
       "orden": "Gruiformes",
       "descripcion": {
-        "adulto": "Gallareta mediana de plumaje gris pizarra, más oscuro en cabeza y cuello. Escudete frontal amarillo a amarillo-anaranjado. Pico blanco con punta amarilla. Ojo rojo. Puntas blancas en las secundarias, visibles en vuelo (de ahí su nombre en inglés white-winged). Patas verdes con lóbulos en los dedos. Inmaduro más pardo y con partes inferiores más claras."
+        "adulto": "Gallareta mediana de plumaje gris pizarra, más oscuro en cabeza y cuello. Escudete frontal amarillo a amarillo-anaranjado. Pico amarillo a amarillo-verdoso con mancha oscura en la punta. Ojo rojo. Puntas blancas en las secundarias, visibles en vuelo (de ahí su nombre en inglés white-winged). Patas verdes con lóbulos en los dedos. Inmaduro más pardo y con partes inferiores más claras."
       },
       "habitat": [
         "humedal",
@@ -1226,7 +1226,7 @@
       "familia": "Accipitridae",
       "orden": "Accipitriformes",
       "descripcion": {
-        "adulto": "Gavilán mediano y compacto. Cabeza parda con cara grisácea. Pico curvo y robusto con cera amarillenta. Ojo amarillo a blancuzco (variable). Dorso y alas pardo-oscuros. Cola rufa con barras oscuras angostas y franja terminal oscura. Garganta blancuzca. Pecho y vientre blancos con barras pardas y blancas densas. Patas amarillas. La hembra es algo mayor que el macho."
+        "adulto": "Gavilán mediano y compacto. Los ejemplares del centro y sur de Argentina corresponden a la forma oscura: cabeza y nuca pardo-chocolate intenso. Iris amarillo pálido a marfil con fino anillo orbital amarillo. Pico corvo y robusto con cera naranja-amarillenta; punta gris oscuro. Dorso y alas pardo-chocolate cálido con bordes rufo-canela en las coberteras. Babero rufo-canela vivo en garganta y pecho superior, contrastando con el vientre. Vientre y flancos con barras finas alternas de pardo-rufo y blanco-crema. Cola rufa con 4-5 bandas negras anchas y punta clara. Patas naranja-amarillas robustas. La hembra es algo mayor que el macho."
       },
       "habitat": [
         "urbano",
@@ -1929,7 +1929,7 @@
       "familia": "Tyrannidae",
       "orden": "Passeriformes",
       "descripcion": {
-        "adulto": "Tirano mediano y terrícola. Corona gris con mancha oculta escarlata raramente visible. Ceja blanca bien marcada. Cara y mejillas grises. Dorso y alas pardo-oliváceos. Cola parda con bordes rufos. Garganta blancuzca. Pecho y vientre amarillo intenso. Patas largas y robustas. Camina activamente sobre el suelo y trepa al lomo del ganado."
+        "adulto": "Tirano mediano y terrícola. Corona gris con mancha oculta escarlata raramente visible. Ceja blanca bien marcada. Cara y mejillas grises. Dorso y alas pardo-oliváceos. Cola parda con bordes rufos. Garganta blancuzca. Pecho y vientre amarillo intenso. Ojo pardo-rojizo a rojo oscuro. Patas largas y robustas. Camina activamente sobre el suelo y trepa al lomo del ganado."
       },
       "habitat": [
         "pastizal",
