@@ -745,7 +745,8 @@
       "familia": "Jacanidae",
       "orden": "Charadriiformes",
       "descripcion": {
-        "D": "Ave mediana inconfundible. Cabeza y cuello negros. Cuerpo castaño-rojizo intenso. Frente con un escudo frontal amarillo-anaranjado brillante muy llamativo. Alas con puntas amarillas visibles en vuelo. Pico amarillo con escudo frontal del mismo color. Patas y dedos extremadamente largos y delgados, grises, que le permiten caminar sobre la vegetación flotante."
+        "D": "Ave mediana inconfundible. Cabeza y cuello negros. Cuerpo castaño-rojizo intenso. Escudo frontal rojo brillante y lóbulos rícticos carnosos rojos en la base del pico, contrastando con el pico amarillo. Espolón amarillo en el carpo, visible en vuelo. Primarias amarillo-verdosas pálidas con puntas oscuras. Patas y dedos extremadamente largos y delgados, grises, que le permiten caminar sobre la vegetación flotante.",
+        "J": "Juvenil muy diferente al adulto. Dorso castaño-pardo, partes inferiores blancas. Cara blanca con ancha ceja blanca y línea oscura por el ojo. Escudo frontal pequeño y rudimentario. Sin lóbulos rícticos ni espolón desarrollado. Pico amarillo-anaranjado. Patas y dedos larguísimos grises."
       },
       "habitat": [
         "humedal",
@@ -768,10 +769,14 @@
       ],
       "curiosidades": "Camina sobre hojas de plantas flotantes gracias a sus dedos excepcionalmente largos que distribuyen su peso. Es una especie poliándrica — la hembra mantiene un territorio con varios machos que se encargan de incubar los huevos y cuidar los pichones.",
       "sprites": {
-        "D": "Jacana_jacana_D.png"
+        "D": "Jacana_jacana_D.png",
+        "J": "Jacana_jacana_J.png",
+        "V": "Jacana_jacana_V.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on lily pad, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium wading bird, black head and neck, rich chestnut-red body and wings, bright yellow-orange frontal shield on forehead, yellow bill, extremely long thin grey toes and legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY: make the bill a brighter, more saturated pure yellow — it should read as vivid yellow, not pale or dull. Keep everything else unchanged: the red frontal shield, red rictal lappets, black head and neck, chestnut-red body, grey legs. Keep white background, no shadow, no text",
+        "J": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY the colours: replace the black head and neck with — white face and broad white supercilium above the eye, dark brown cap on top of the head, dark brown stripe through the eye; replace the chestnut-red body and wings with chestnut-brown (slightly duller); change the underparts (chest and belly visible at front) to white; replace the red frontal shield with a tiny rudimentary pale yellowish hint (no red wattles or lappets); keep the yellow-orange bill, grey legs and lily pad unchanged. Keep white background, no shadow, no text",
+        "V": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY: move the yellow spur to its correct position — at the leading edge of the wing (the front/top edge), exactly at the carpal bend (wrist joint), the highest and most forward point of the wing arch; the spur is a tiny sharp yellow spike pointing LEFT (toward the bill, not toward the tail). Remove any yellow mark from the lower/inner wing area. Keep the rich chestnut-red body, pale yellowish-cream primaries, black head and neck, red frontal shield, yellow bill, grey trailing legs — all unchanged. Keep white background, no shadow, no text"
       },
       "audio_ebird_code": "wattan1"
     },
@@ -1275,7 +1280,8 @@
       "familia": "Accipitridae",
       "orden": "Accipitriformes",
       "descripcion": {
-        "D": "Rapaz grande y robusta. Plumaje principalmente negro oscuro. Hombros y muslos de un castaño-rojizo intenso y llamativo. Base y punta de la cola blancas, con el resto negro. En vuelo se aprecia claramente esta combinación de negro, castaño y blanco. Pico negro con cera amarilla. Patas amarillas fuertes. La hembra es notablemente más grande que el macho."
+        "D": "Rapaz grande y robusta. Plumaje principalmente negro oscuro. Hombros y muslos de un castaño-rojizo intenso y llamativo. Base y punta de la cola blancas, con el resto negro. En vuelo se aprecia claramente esta combinación de negro, castaño y blanco. Pico negro con cera amarilla. Patas amarillas fuertes. La hembra es notablemente más grande que el macho.",
+        "J": "Juvenil muy diferente al adulto. Partes superiores pardo oscuro. Partes inferiores crema-ocre con estrías pardas longitudinales densas en pecho y vientre. Hombros y flancos con manchas leonado-ocre pálido en lugar del rufo del adulto. Cola con múltiples barras oscuras. Cera y patas amarillas."
       },
       "habitat": [
         "pastizal",
@@ -1306,10 +1312,16 @@
       ],
       "curiosidades": "Puede cazar en grupos cooperativos de dos a seis individuos, coordinando el ataque para capturar presas más grandes que las que podría abatir un solo individuo. Es una de las pocas rapaces que puede exhibir este comportamiento de forma regular.",
       "sprites": {
-        "D": "Parabuteo_unicinctus_D.png"
+        "D": "Parabuteo_unicinctus_D.png",
+        "J": "Parabuteo_unicinctus_J.png",
+        "V": "Parabuteo_unicinctus_V.png",
+        "JV": "Parabuteo_unicinctus_JV.png"
       },
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, large robust hawk, dark blackish-brown body, rich chestnut-rufous shoulder patches and thighs, white tail base and white tail tip with broad black central band, black hooked bill with yellow cere, strong yellow legs and talons, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, large robust hawk, dark blackish-brown body, rich chestnut-rufous shoulder patches and thighs, white tail base and white tail tip with broad black central band, black hooked bill with yellow cere, strong yellow legs and talons, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "J": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY the colours to juvenile plumage: replace the dark blackish-brown body with dark brown upperparts; replace the rich rufous-chestnut shoulder patches and thighs with pale tawny-buff patches; change the underparts (breast and belly) to cream-buff with dense dark brown vertical streaking; change the tail from white-base/white-tip/black-band pattern to a tail with multiple thin dark bars on brown-buff ground; keep yellow cere, yellow legs and talons unchanged. Keep white background, no shadow, no text",
+        "V": "pixel art bird sprite, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings spread wide and slightly raised, white background, 1536x1024 pixels, bird filling 80% of canvas width, large hawk in flight side view, dark blackish-brown body and wing coverts, rich rufous-chestnut patches on upper wing shoulder area and flanks, dark primaries and secondaries with faint barring, white tail base and white tail tip with broad black central band, black hooked bill with yellow cere, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "JV": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY the colours to juvenile plumage: replace the dark body/underwing with cream-buff underparts streaked with dark brown; replace the rufous shoulder/flank patches with pale tawny-buff patches; add fine dark barring across all flight feathers (primaries and secondaries); replace the white-base/white-tip tail with a tail showing multiple thin dark bars; keep yellow cere and bill unchanged. Keep white background, no shadow, no text"
       },
       "audio_ebird_code": "hrihaw"
     },
