@@ -2536,6 +2536,458 @@
         "F": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium-sized tanager, entire bird dull olive-brown throughout — head, back, wings and tail all the same muted olive-brown with no contrasting patches, underparts pale buffy-yellowish (slightly paler than back but not vivid), no blue or grey on wings, no mask, short dark bill with pale grey lower mandible, reddish-brown eye, dark legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": null
+    },
+    {
+      "id": 51,
+      "num": "#051",
+      "nombre_comun": "Sirirí Pampa",
+      "nombre_cientifico": "Dendrocygna viduata",
+      "orden": "Anseriformes",
+      "familia": "Anatidae",
+      "largo_cm": 50,
+      "envergadura_cm": 90,
+      "tamanio_categoria": "mediano",
+      "estado_conservacion": "LC",
+      "residencia": "permanente",
+      "habitat": [
+        "humedal",
+        "laguna",
+        "ribereño"
+      ],
+      "provincias": [
+        "CABA",
+        "Buenos Aires",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa"
+      ],
+      "audio_ebird_code": "wfwduc1",
+      "descripcion": {
+        "D": "Pato de silueta erguida con cuello largo. Cara y frente blancas, contrastando abruptamente con la corona y nuca negras. Cuello castaño intenso. Dorso, alas, cola y vientre negros. Flancos finamente barrados negro y blanco. Pico negro aplastado. Patas negras. Ambos sexos similares."
+      },
+      "curiosidades": "A diferencia de la mayoría de los patos, forma parejas que pueden durar toda la vida. Su canto es un silbido trillado triple, audible de noche, que le da el nombre popular. Puede nidificar en huecos de árboles.",
+      "sprites": {
+        "D": "Dendrocygna_viduata_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing upright with long neck erect and head raised, white background, 1024x1024 pixels, bird filling 65% of canvas height, face and forehead bright white contrasting sharply with jet black crown and hindneck; lower neck and upper breast deep chestnut-brown; back, wings and tail black; flanks finely barred black and white; belly and undertail black; flat wide black bill; black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      }
+    },
+    {
+      "id": 52,
+      "num": "#052",
+      "nombre_comun": "Cisne Cuello Negro",
+      "nombre_cientifico": "Cygnus melancoryphus",
+      "orden": "Anseriformes",
+      "familia": "Anatidae",
+      "largo_cm": 115,
+      "envergadura_cm": 170,
+      "tamanio_categoria": "grande",
+      "estado_conservacion": "LC",
+      "residencia": "permanente",
+      "habitat": [
+        "humedal",
+        "laguna",
+        "ribereño"
+      ],
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Córdoba",
+        "Mendoza",
+        "Neuquén",
+        "Río Negro",
+        "Chubut",
+        "Santa Cruz",
+        "Tierra del Fuego"
+      ],
+      "audio_ebird_code": "blnswn1",
+      "descripcion": {
+        "D": "El mayor cisne de Sudamérica, inconfundible. Cuello y cabeza completamente negros. Fina línea blanca desde la base del pico hasta la nuca, por encima del ojo. Cuerpo y alas enteramente blancos. Carúncula roja prominente en la base del pico azulado. Patas rosadas. Muy acuático; se desplaza torpemente en tierra."
+      },
+      "curiosidades": "Es el único cisne nativo de Sudamérica. Los adultos transportan a los pichones recién nacidos sobre el dorso para protegerlos de los depredadores acuáticos. La carúncula roja en la base del pico se agranda visiblemente durante la temporada reproductiva.",
+      "sprites": {
+        "D": "Cygnus_melancoryphus_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing with long neck held in a graceful S-curve, white background, 1024x1024 pixels, bird filling 75% of canvas height, head and entire neck jet black; thin white stripe running from just above the eye to the base of the bill along the lore; body and wings entirely white; short pale blue-grey bill with a prominent bright red fleshy knob (caruncle) at the base; pale pink legs and feet, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      }
+    },
+    {
+      "id": 53,
+      "num": "#053",
+      "nombre_comun": "Coscoroba",
+      "nombre_cientifico": "Coscoroba coscoroba",
+      "orden": "Anseriformes",
+      "familia": "Anatidae",
+      "largo_cm": 100,
+      "envergadura_cm": 145,
+      "tamanio_categoria": "grande",
+      "estado_conservacion": "LC",
+      "residencia": "permanente",
+      "habitat": [
+        "humedal",
+        "laguna",
+        "ribereño"
+      ],
+      "provincias": [
+        "Buenos Aires",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Córdoba",
+        "Mendoza",
+        "Neuquén",
+        "Río Negro",
+        "Chubut",
+        "Santa Cruz",
+        "Tierra del Fuego"
+      ],
+      "audio_ebird_code": "coscos1",
+      "descripcion": {
+        "D": "Ave grande, enteramente blanca salvo las puntas de las primarias, que son negras (visibles principalmente en vuelo). Pico anaranjado-rojo brillante con una cuña rosada clara en la punta. Ojo rojo. Patas rosadas. Sin dimorfismo sexual. Juvenil con manchas pardo-grisáceas en el cuerpo y pico oscuro."
+      },
+      "curiosidades": "Es el cisne más pequeño del mundo y el único de su género. A pesar de su parecido con los cisnes, está más emparentado con los patos silbadores. Su nombre imita el llamado característico que emite: 'cos-co-roba'.",
+      "sprites": {
+        "D": "Coscoroba_coscoroba_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing at water's edge, white background, 1024x1024 pixels, bird filling 65% of canvas height, large white waterfowl with a long graceful neck held upright, entirely white plumage, black tips on the outermost primaries barely visible on the folded wing, short broad bright red coral bill with a small pale nail at the tip, red eye, pale pink-red legs and webbed feet, large elongated body, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      }
+    },
+    {
+      "id": 54,
+      "num": "#054",
+      "nombre_comun": "Pato Picazo",
+      "nombre_cientifico": "Netta peposaca",
+      "orden": "Anseriformes",
+      "familia": "Anatidae",
+      "largo_cm": 55,
+      "envergadura_cm": 82,
+      "tamanio_categoria": "mediano",
+      "estado_conservacion": "LC",
+      "residencia": "permanente",
+      "habitat": [
+        "humedal",
+        "laguna"
+      ],
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Córdoba",
+        "Corrientes",
+        "Mendoza",
+        "La Pampa",
+        "Río Negro",
+        "Neuquén"
+      ],
+      "audio_ebird_code": "ropoch1",
+      "descripcion": {
+        "M": "Macho de aspecto llamativo. Cabeza y cuello negro intenso con reflejos violáceos. Gran escudete rosado en la base del pico del mismo color, con punta negra. Pecho negro. Flancos finamente vermiculados castaño sobre blanco. Vientre y rabadilla blancos. Alas oscuras con banda blanca visible en vuelo. Patas anaranjadas.",
+        "F": "Hembra parda discreta. Cabeza oscura con amplia franja blanca en la mejilla. Pico azul-grisáceo con punta pálida. Cuerpo marrón oscuro, partes inferiores algo más claras. Patas anaranjadas opacas."
+      },
+      "curiosidades": "El macho desarrolla un llamativo escudete rosado en la base del pico durante la época reproductiva, que se reduce fuera de ella. Bucea con frecuencia para alimentarse de plantas acuáticas y macroinvertebrados del fondo.",
+      "sprites": {
+        "M": "Netta_peposaca_M.png",
+        "F": "Netta_peposaca_F.png"
+      },
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), swimming low on water, white background, 1024x1024 pixels, bird filling 60% of canvas height, stocky large-headed duck, black head and neck, red eye, large rosy-pink bill with a prominent rounded crimson knob at the base and a small black nail at the tip, black breast and upper back, pale silvery-grey flanks and sides with fine dark vermiculations, white belly, bright white undertail coverts, dark brown wings with a narrow white wing stripe, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), swimming low on water, white background, 1024x1024 pixels, bird filling 60% of canvas height, stocky duck, overall warm rufous-brown plumage, darker brown on the crown and mantle, pale whitish chin and throat, whitish belly, bright white undertail coverts, dark brown wings, dark bluish-grey bill with a black nail and only a slightly swollen base, brown eye, orange-yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      }
+    },
+    {
+      "id": 55,
+      "num": "#055",
+      "nombre_comun": "Garcita Blanca",
+      "nombre_cientifico": "Egretta thula",
+      "orden": "Pelecaniformes",
+      "familia": "Ardeidae",
+      "largo_cm": 55,
+      "envergadura_cm": 100,
+      "tamanio_categoria": "mediano",
+      "estado_conservacion": "LC",
+      "residencia": "permanente",
+      "habitat": [
+        "humedal",
+        "laguna",
+        "ribereño",
+        "costa"
+      ],
+      "provincias": [
+        "CABA",
+        "Buenos Aires",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Córdoba",
+        "Mendoza",
+        "Salta",
+        "Jujuy"
+      ],
+      "audio_ebird_code": "snoegr",
+      "descripcion": {
+        "D": "Garza pequeña de plumaje enteramente blanco. Pico negro largo y delgado. Patas negras con dedos amarillo brillante, diagnósticos de la especie. Iris amarillo. En plumaje nupcial desarrolla aigretes largas y vaporosas sobre el pecho y la espalda, y la piel ocular vira a anaranjada."
+      },
+      "curiosidades": "Sus plumas nupciales blancas fueron tan codiciadas por la industria de la moda a fines del siglo XIX que la especie estuvo al borde de la extinción. La campaña para protegerla impulsó la creación de las primeras leyes de conservación de aves en América del Norte.",
+      "sprites": {
+        "D": "Egretta_thula_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing upright in alert posture, white background, 1024x1024 pixels, bird filling 70% of canvas height, entirely snow-white plumage; long slender black bill; black legs with vivid bright yellow feet and toes (the yellow feet are the key diagnostic feature — make them clearly yellow and prominent); yellow iris with small dark pupil; long slim neck; slender body, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      }
+    },
+    {
+      "id": 56,
+      "num": "#056",
+      "nombre_comun": "Carpintero Real",
+      "nombre_cientifico": "Colaptes melanochloros",
+      "orden": "Piciformes",
+      "familia": "Picidae",
+      "largo_cm": 23,
+      "envergadura_cm": 38,
+      "tamanio_categoria": "mediano",
+      "estado_conservacion": "LC",
+      "residencia": "permanente",
+      "habitat": [
+        "monte",
+        "arbolado",
+        "urbano"
+      ],
+      "provincias": [
+        "CABA",
+        "Buenos Aires",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Córdoba",
+        "Salta",
+        "Jujuy",
+        "Tucumán",
+        "Santiago del Estero"
+      ],
+      "audio_ebird_code": "grbwoo3",
+      "descripcion": {
+        "M": "Carpintero mediano de colores vivos. Frente negra; corona y nuca rojas. Cara blanca con bigote (malar) rojo llamativo. Dorso y alas verde-amarillentos densamente barrados de negro. Rabadilla amarilla. Pecho amarillento con grandes lunares negros redondeados. Vientre y flancos blancos barrados de negro. Cola negra rígida. Pico largo, cincel, gris pizarra.",
+        "F": "Igual al macho pero con bigote (malar) negro-grisáceo oscuro en lugar de rojo. El resto del plumaje idéntico."
+      },
+      "curiosidades": "A diferencia de la mayoría de los carpinteros, forrajea con frecuencia en el suelo buscando hormigas entre la hojarasca. Utiliza su rígida cola como soporte al escalar troncos. Los machos pueden tardar semanas en excavar la cavidad de nidificación.",
+      "sprites": {
+        "M": "Colaptes_melanochloros_M.png",
+        "F": "Colaptes_melanochloros_F.png"
+      },
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), clinging to a tree trunk in typical woodpecker posture with stiff tail pressed against the bark, white background, 1024x1024 pixels, bird filling 65% of canvas height, black forehead; bright red crown and nape; white face with a bold red moustachial stripe on the lower cheek; back and wings yellow-green finely barred with black; bright yellow rump; breast pale yellowish with large round black spots; belly and flanks white barred with black; stiff pointed black tail; long chisel-shaped grey-slate bill; grey-green zygodactyl feet (two toes forward two back), detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY: replace the red moustachial stripe (malar) with a dark grey-black stripe of the same shape and position; keep all other colors completely unchanged: red crown and nape, black forehead, white face, yellow-green barred back, yellow rump, spotted breast, barred belly, grey bill. Keep white background, no shadow, no text"
+      }
+    },
+    {
+      "id": 57,
+      "num": "#057",
+      "nombre_comun": "Suirirí Real",
+      "nombre_cientifico": "Tyrannus melancholicus",
+      "orden": "Passeriformes",
+      "familia": "Tyrannidae",
+      "largo_cm": 20,
+      "envergadura_cm": 38,
+      "tamanio_categoria": "mediano",
+      "estado_conservacion": "LC",
+      "residencia": "estival",
+      "habitat": [
+        "monte",
+        "arbolado",
+        "urbano",
+        "pastizal"
+      ],
+      "provincias": [
+        "CABA",
+        "Buenos Aires",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Córdoba",
+        "Salta",
+        "Jujuy",
+        "Tucumán",
+        "Santiago del Estero"
+      ],
+      "audio_ebird_code": "trokin",
+      "descripcion": {
+        "D": "Tiránido grande y conspicuo. Cabeza gris con corona amarilla-anaranjada oculta entre las plumas (raramente visible). Dorso verde-oliváceo. Alas y cola pardo-negruzcas con márgenes pálidos. Garganta gris pálida. Pecho gris-oliváceo. Vientre amarillo brillante. Pico ancho y robusto, negro. Patas negras. Ambos sexos iguales."
+      },
+      "curiosidades": "A pesar de su nombre ('melancólico'), es sumamente agresivo y defiende su territorio atacando a aves mucho más grandes, incluyendo gavilanes y caranchos. La corona de plumas amarillas que normalmente mantiene oculta solo la eriza durante el cortejo o situaciones de alarma.",
+      "sprites": {
+        "D": "Tyrannus_melancholicus_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched upright on a branch, white background, 1024x1024 pixels, bird filling 62% of canvas height, grey head (concealed crown patch not visible in resting posture); olive-green back and scapulars; dark brown wings with faint pale feather edges; short dark brown tail, single and clean with a very slight notch at tip — tail must be ONE shape, not doubled or fanned; pale grey throat; olive-grey breast; bright yellow belly and undertail coverts; heavy broad-based black bill; black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      }
+    },
+    {
+      "id": 58,
+      "num": "#058",
+      "nombre_comun": "Churrinche",
+      "nombre_cientifico": "Pyrocephalus rubinus",
+      "orden": "Passeriformes",
+      "familia": "Tyrannidae",
+      "largo_cm": 14,
+      "envergadura_cm": 25,
+      "tamanio_categoria": "chico",
+      "estado_conservacion": "LC",
+      "residencia": "estival",
+      "habitat": [
+        "pastizal",
+        "monte",
+        "ribereño",
+        "arbolado"
+      ],
+      "provincias": [
+        "CABA",
+        "Buenos Aires",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Córdoba",
+        "La Pampa",
+        "Mendoza",
+        "San Luis",
+        "Salta",
+        "Jujuy",
+        "Tucumán",
+        "Santiago del Estero",
+        "San Juan",
+        "La Rioja",
+        "Catamarca",
+        "Neuquén",
+        "Río Negro"
+      ],
+      "audio_ebird_code": "verflyc",
+      "descripcion": {
+        "M": "Macho inconfundible: corona, garganta, pecho y vientre rojo escarlata brillante. Antifaz, dorso, alas y cola negro-pizarra intenso. Pico corto y negro. Patas negras.",
+        "F": "Hembra muy diferente al macho. Partes superiores gris-parduscas; alas y cola pardo oscuras. Pecho blancuzco con fino estriado pardo. Vientre y subcaudales rosáceo pálido. Pico y patas negros."
+      },
+      "curiosidades": "Solo el macho luce el llamativo plumaje escarlata; la hembra y los juveniles son discretamente pardos. Durante el cortejo el macho realiza un vuelo ondulante ascendente mientras canta, exhibiendo su plumaje. El nombre del género Pyrocephalus significa 'cabeza de fuego' en griego.",
+      "sprites": {
+        "M": "Pyrocephalus_rubinus_M.png",
+        "F": "Pyrocephalus_rubinus_F.png"
+      },
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched upright on a thin branch, white background, 1024x1024 pixels, bird filling 55% of canvas height, small flycatcher, brilliant scarlet-red crown with a slight raised crest, black lores and mask through the eye, dark brownish-black nape, back and rump, dark brown-black wings and tail, brilliant scarlet-red throat, breast, belly and undertail coverts, short slender black bill, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY the colours: replace the brilliant scarlet-red crown and crest with grey-brown; replace the black mask and lores with dusky grey-brown blending into the face; keep the dark brownish-black nape, back, wings and tail unchanged; replace the scarlet-red throat and breast with whitish with fine dark brown streaking; replace the scarlet-red belly and undertail with pale salmon-pink to rosy; keep the short slender black bill and black legs unchanged; keep white background, no shadow, no text"
+      }
+    },
+    {
+      "id": 59,
+      "num": "#059",
+      "nombre_comun": "Varillero Congo",
+      "nombre_cientifico": "Chrysomus ruficapillus",
+      "orden": "Passeriformes",
+      "familia": "Icteridae",
+      "largo_cm": 17,
+      "envergadura_cm": 28,
+      "tamanio_categoria": "chico",
+      "estado_conservacion": "LC",
+      "residencia": "permanente",
+      "habitat": [
+        "humedal",
+        "laguna",
+        "ribereño"
+      ],
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa"
+      ],
+      "audio_ebird_code": "chcbla2",
+      "descripcion": {
+        "M": "Macho de aspecto contrastado. Frente, corona y garganta castaño-rojizas brillantes. Todo el resto del plumaje negro intenso: pecho, dorso, alas y cola. Pico largo, cónico y puntiagudo, negro. Patas negras.",
+        "F": "Hembra discreta. Partes superiores pardo oscuras con suave estriado. Garganta ante pálida. Pecho y vientre pardo-oliváceo. Sin el capucho castaño del macho. Pico negro cónico. Patas pardas."
+      },
+      "curiosidades": "Forma colonias de nidificación en juncales y totorales, a menudo junto a otras aves acuáticas. Fuera de la temporada reproductiva puede congregarse en bandadas de hasta un millar de individuos. Su nombre 'congo' alude al negro intenso del plumaje del macho.",
+      "sprites": {
+        "M": "Chrysomus_ruficapillus_M.png",
+        "F": "Chrysomus_ruficapillus_F.png"
+      },
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched upright on a reed stem, white background, 1024x1024 pixels, bird filling 60% of canvas height, small blackbird, dark chestnut on the forehead and front of the crown only, BLACK nape blending into the black back, a wide BLACK mask covering the lores, face and around the eye, dark chestnut throat patch and a small area on the uppermost breast, all remaining plumage glossy black with a faint bluish sheen on back and wings, short conical black bill, dark brown eye, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "recolor this exact sprite, keep the pose, outline, size and composition completely unchanged, only change the colours: replace all black plumage with dark olive-brown, replace the dark chestnut crown and throat with dull yellowish-olive, entire bird becomes olive-yellowish-brown with faint dark streaking on the breast and flanks, wings dark brown with yellowish-olive feather edges, tail dark brown, bill dark grey with paler base on lower mandible, dark greyish-blue legs, white background, no shadow, no text"
+      }
+    },
+    {
+      "id": 60,
+      "num": "#060",
+      "nombre_comun": "Corbatita",
+      "nombre_cientifico": "Sporophila caerulescens",
+      "orden": "Passeriformes",
+      "familia": "Thraupidae",
+      "largo_cm": 10,
+      "envergadura_cm": 16,
+      "tamanio_categoria": "chico",
+      "estado_conservacion": "LC",
+      "residencia": "estival",
+      "habitat": [
+        "pastizal",
+        "monte",
+        "arbolado",
+        "urbano"
+      ],
+      "provincias": [
+        "CABA",
+        "Buenos Aires",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Córdoba",
+        "Salta",
+        "Jujuy",
+        "Tucumán",
+        "Santiago del Estero",
+        "La Pampa",
+        "Mendoza",
+        "San Luis"
+      ],
+      "audio_ebird_code": "docsee1",
+      "descripcion": {
+        "M": "Macho pequeño y elegante. Partes superiores gris-azuladas; alas y cola pardo-grisáceas. Garganta y babero pectorales negros. Finos bigotes blancos flanqueando la garganta. Collar blanco sobre el negro pectoral. Resto de partes inferiores blancas. Pico corto y robusto, blanco-amarillento. Patas negras.",
+        "F": "Hembra discreta. Partes superiores pardo-oliváceas. Partes inferiores ocre-amarillentas, más pálidas en el vientre. Sin el diseño negro y blanco del macho. Pico corto gris-oliváceo. Patas negras."
+      },
+      "curiosidades": "Uno de los pájaros más comunes de Argentina. Los machos son buenos imitadores y pueden incorporar fragmentos del canto de otras especies a su compleja melodía. Es muy apreciado como ave de jaula, lo que lo convierte en víctima frecuente del tráfico ilegal.",
+      "sprites": {
+        "M": "Sporophila_caerulescens_M.png",
+        "F": "Sporophila_caerulescens_F.png"
+      },
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a grass stem, white background, 1024x1024 pixels, bird filling 50% of canvas height, tiny seedeater with a short thick rounded bill, lead-grey crown and face with darker blackish forehead and moustachial area, small whitish crescent below the eye, black throat patch with a narrow white stripe bordering it on each side, grey-brown back and tail, grey-brown wings, white lower throat and breast with a narrow bold black band across the centre of the breast, whitish belly with faint grey spots on flanks, short thick yellowish bill, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY the colours: replace the lead-grey crown and face with warm buffy-brown; replace the black forehead and moustachial area with slightly darker dull brown; remove the white crescent below the eye blending it into buffy-brown face; replace the black throat patch and white stripes with uniform paler buff throat; replace the bold black breast band and white breast with warm buff-brown breast and flanks; replace the whitish belly with pale buff belly; replace the grey-brown back and wings with warm buffy-brown upperparts and buff-brown wings and tail; change the bill to dark above with dull yellowish-horn lower mandible; change the black legs to dark grey; keep white background, no shadow, no text"
+      }
     }
   ]
 }
