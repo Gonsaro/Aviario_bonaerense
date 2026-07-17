@@ -140,7 +140,8 @@
       },
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing upright with long neck erect and head raised, white background, 1024x1024 pixels, bird filling 65% of canvas height, face and forehead bright white contrasting sharply with jet black crown and hindneck; lower neck and upper breast deep chestnut-brown; back, wings and tail black; flanks finely barred black and white; belly and undertail black; flat wide black bill; black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
-      }
+      },
+      "gbif_taxon_key": 2498396
     },
     {
       "id": 3,
@@ -183,7 +184,8 @@
       },
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing with long neck held in a graceful S-curve, white background, 1024x1024 pixels, bird filling 75% of canvas height, head and entire neck jet black; thin white stripe running from just above the eye to the base of the bill along the lore; body and wings entirely white; short pale blue-grey bill with a prominent bright red fleshy knob (caruncle) at the base; pale pink legs and feet, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
-      }
+      },
+      "gbif_taxon_key": 2498335
     },
     {
       "id": 4,
@@ -225,7 +227,8 @@
       },
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing at water's edge, white background, 1024x1024 pixels, bird filling 65% of canvas height, large white waterfowl with a long graceful neck held upright, entirely white plumage, black tips on the outermost primaries barely visible on the folded wing, short broad bright red coral bill with a small pale nail at the tip, red eye, pale pink-red legs and webbed feet, large elongated body, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
-      }
+      },
+      "gbif_taxon_key": 2498288
     },
     {
       "id": 5,
@@ -327,8 +330,36 @@
       "audio_ebird_code": "yebpin"
     },
     {
+      "nombre_comun": "Pato Barcino",
+      "nombre_cientifico": "Anas flavirostris",
+      "familia": "Anatidae",
+      "orden": "Anseriformes",
+      "largo_cm": "35-45",
+      "peso_g": "388-830",
+      "habitat": [
+        "humedal",
+        "ribereño"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "estado_conservacion": "LC",
+      "descripcion": {
+        "D": "Pato pequeño y compacto. Cabeza y cuello gris pálido a ante, densamente moteados y vermiculados de negro, más oscuros que el resto del cuerpo. Partes superiores negras y pardas. Vientre y flancos gris a pardo pálido, con manchas más oscuras en el pecho. Espejo alar negro aterciopelado con brillo verde metálico, bordeado por delante de una banda rufa y por detrás de blanco o ante. Pico amarillo con el culmen y la punta negros, mandíbula gris pálido a crema. Ojo pardo oscuro. Patas grises."
+      },
+      "curiosidades": "Se distingue del Pato Maicero, muy similar, por el color del pico y del ojo: como dice el dicho popular, 'pato barcino, ojo de chino; pato maicero, ojo de tero' — el Barcino tiene un sombreado alrededor del ojo que lo hace ver como estirado y el Maicero, en cambio tiene el ojo redondo.",
+      "gbif_taxon_key": 2498065,
+      "sprites": {
+        "D": "Anas_flavirostris_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY the colours: replace the pale sandy head and neck with warm buffy-grey densely covered in small black spots and fine black vermiculations — the head must appear noticeably darker and more finely marked than the body, replace the pale sandy-brown body with warm olive-brown and blackish upperparts on the back, replace the body flanks and sides with warm buffy tan-brown (NOT grey, NOT silvery — warm tan-brown tone) with scattered darker spots concentrated on the breast, replace the speculum with a black speculum showing a metallic green sheen bordered in front by a rufous-chestnut band and behind by a white or buff trailing edge, add a black culmen stripe and black tip to the yellow bill with the lower mandible pale grey, keep dark brown eye and grey legs. The overall body tone must read warm brown/buff — avoid any grey or silvery cast on the body. Keep white background, no shadow, no text."
+      },
       "id": 7,
-      "num": "#007",
+      "num": "#007"
+    },
+    {
+      "id": 8,
+      "num": "#008",
       "nombre_comun": "Pato Picazo",
       "nombre_cientifico": "Netta peposaca",
       "orden": "Anseriformes",
@@ -367,11 +398,12 @@
       "prompts_pixelart": {
         "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), swimming low on water, white background, 1024x1024 pixels, bird filling 60% of canvas height, stocky large-headed duck, black head and neck, red eye, large rosy-pink bill with a prominent rounded crimson knob at the base and a small black nail at the tip, black breast and upper back, pale silvery-grey flanks and sides with fine dark vermiculations, white belly, bright white undertail coverts, dark brown wings with a narrow white wing stripe, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
         "F": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), swimming low on water, white background, 1024x1024 pixels, bird filling 60% of canvas height, stocky duck, overall warm rufous-brown plumage, darker brown on the crown and mantle, pale whitish chin and throat, whitish belly, bright white undertail coverts, dark brown wings, dark bluish-grey bill with a black nail and only a slightly swollen base, brown eye, orange-yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
-      }
+      },
+      "gbif_taxon_key": 2498181
     },
     {
-      "id": 8,
-      "num": "#008",
+      "id": 9,
+      "num": "#009",
       "nombre_comun": "Flamenco Austral",
       "nombre_cientifico": "Phoenicopterus chilensis",
       "familia": "Phoenicopteridae",
@@ -414,8 +446,8 @@
       "audio_ebird_code": "chifl1"
     },
     {
-      "id": 9,
-      "num": "#009",
+      "id": 10,
+      "num": "#010",
       "nombre_comun": "Macá Cara Blanca",
       "nombre_cientifico": "Rollandia rolland",
       "familia": "Podicipedidae",
@@ -464,8 +496,8 @@
       "audio_ebird_code": "whtteg1"
     },
     {
-      "id": 10,
-      "num": "#010",
+      "id": 11,
+      "num": "#011",
       "nombre_comun": "Macá Grande",
       "nombre_cientifico": "Podiceps major",
       "familia": "Podicipedidae",
@@ -507,8 +539,8 @@
       "audio_ebird_code": null
     },
     {
-      "id": 11,
-      "num": "#011",
+      "id": 12,
+      "num": "#012",
       "nombre_comun": "Paloma Doméstica",
       "nombre_cientifico": "Columba livia",
       "familia": "Columbidae",
@@ -558,8 +590,39 @@
       "audio_ebird_code": "rocpig"
     },
     {
-      "id": 12,
-      "num": "#012",
+      "nombre_comun": "Paloma Picazuró",
+      "nombre_cientifico": "Patagioenas picazuro",
+      "familia": "Columbidae",
+      "orden": "Columbiformes",
+      "largo_cm": 34,
+      "peso_g": 402,
+      "habitat": [
+        "bosque",
+        "urbano",
+        "pastizal"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "estado_conservacion": "LC",
+      "descripcion": {
+        "D": "Paloma grande y robusta. Cabeza rosado-parduzca. Nuca y pecho superior violáceo-rosado que se funde con tonos más pálidos en el pecho inferior y vientre. Flancos y zona bajo la cola gris azulado oscuro. Plumas de los costados del cuello y del manto superior con bordes negros iridiscentes que forman un efecto escamado. Dorso y coberteras internas del ala pardo opaco con bordes claros en las plumas. Línea blanca visible en el ala plegada. Cola gris azulado oscuro. Pico rojo oscuro en la base con punta amarilla. Ojo naranja a rojo con fino anillo gris interno, piel roja alrededor. Patas rojo oscuro."
+      },
+      "curiosidades": "Es la paloma silvestre más grande y común de la región. Forma grandes bandadas fuera de la época reproductiva y puede causar daños en cultivos.",
+      "gbif_taxon_key": 2495287,
+      "sprites": {
+        "D": "Patagioenas_picazuro_D.png",
+        "V": "Patagioenas_picazuro_V.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on ground, white background, 1024x1024 pixels, bird filling 65% of canvas height, large robust pigeon, pinkish-brown head, nape and upper breast pinkish-purple merging to paler pinkish-buff on lower breast and belly, dark bluish-grey flanks and undertail, scaly effect on sides of neck and upper mantle from feathers with iridescent black edges, dull brown lower mantle and inner wing-coverts with pale feather edges, white line on the folded wing from white-fringed coverts, dark blue-grey tail, dark red bill with yellow tip and white cere, orange-red eye with thin grey inner ring, red bare skin around the eye, dark red legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "V": "pixel art bird sprite, side profile, bird flying LEFT (head and beak pointing to the LEFT side of canvas), wings extended in flight showing the upper wing surface, white background, 1536x1024 pixels, bird filling 65% of canvas width, large robust pigeon in flight, pinkish-brown head, pinkish-purple neck and upper breast, dark bluish-grey flanks and undertail, scaly iridescent black-edged feathers on upper mantle, dull brown inner wing with a white band across the coverts, dark blue-grey outer flight feathers and tail, dark red bill with yellow tip, orange-red eye, red legs tucked against the body, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face and fly LEFT, mirror horizontally if facing right"
+      },
+      "id": 13,
+      "num": "#013"
+    },
+    {
+      "id": 14,
+      "num": "#014",
       "nombre_comun": "Torcaza",
       "nombre_cientifico": "Zenaida auriculata",
       "familia": "Columbidae",
@@ -611,8 +674,8 @@
       "audio_ebird_code": "eardov"
     },
     {
-      "id": 13,
-      "num": "#013",
+      "id": 15,
+      "num": "#015",
       "nombre_comun": "Torcacita Picuí",
       "nombre_cientifico": "Columbina picui",
       "familia": "Columbidae",
@@ -661,8 +724,8 @@
       "audio_ebird_code": null
     },
     {
-      "id": 14,
-      "num": "#014",
+      "id": 16,
+      "num": "#016",
       "nombre_comun": "Picaflor Verde",
       "nombre_cientifico": "Chlorostilbon lucidus",
       "familia": "Trochilidae",
@@ -711,8 +774,8 @@
       "audio_ebird_code": null
     },
     {
-      "id": 15,
-      "num": "#015",
+      "id": 17,
+      "num": "#017",
       "nombre_comun": "Gallareta Ligas Rojas",
       "nombre_cientifico": "Fulica armillata",
       "familia": "Rallidae",
@@ -759,8 +822,8 @@
       "audio_ebird_code": "rbnco1"
     },
     {
-      "id": 16,
-      "num": "#016",
+      "id": 18,
+      "num": "#018",
       "nombre_comun": "Gallareta Chica",
       "nombre_cientifico": "Fulica leucoptera",
       "familia": "Rallidae",
@@ -801,8 +864,8 @@
       "audio_ebird_code": null
     },
     {
-      "id": 17,
-      "num": "#017",
+      "id": 19,
+      "num": "#019",
       "nombre_comun": "Tero",
       "nombre_cientifico": "Vanellus chilensis",
       "familia": "Charadriidae",
@@ -859,8 +922,8 @@
       "audio_ebird_code": "soulap1"
     },
     {
-      "id": 18,
-      "num": "#018",
+      "id": 20,
+      "num": "#020",
       "nombre_comun": "Tero Real",
       "nombre_cientifico": "Himantopus mexicanus",
       "familia": "Recurvirostridae",
@@ -905,8 +968,8 @@
       "audio_ebird_code": null
     },
     {
-      "id": 19,
-      "num": "#019",
+      "id": 21,
+      "num": "#021",
       "nombre_comun": "Jacana",
       "nombre_cientifico": "Jacana jacana",
       "familia": "Jacanidae",
@@ -948,8 +1011,8 @@
       "audio_ebird_code": "wattan1"
     },
     {
-      "id": 20,
-      "num": "#020",
+      "id": 22,
+      "num": "#022",
       "nombre_comun": "Gaviota Capucho Café",
       "nombre_cientifico": "Chroicocephalus maculipennis",
       "familia": "Laridae",
@@ -991,8 +1054,8 @@
       "audio_ebird_code": "brhgul1"
     },
     {
-      "id": 21,
-      "num": "#021",
+      "id": 23,
+      "num": "#023",
       "nombre_comun": "Gaviota Cocinera",
       "nombre_cientifico": "Larus dominicanus",
       "familia": "Laridae",
@@ -1035,8 +1098,68 @@
       "audio_ebird_code": "kelbgul"
     },
     {
-      "id": 22,
-      "num": "#022",
+      "nombre_comun": "Pingüino Patagónico",
+      "nombre_cientifico": "Spheniscus magellanicus",
+      "familia": "Spheniscidae",
+      "orden": "Sphenisciformes",
+      "largo_cm": "70-76",
+      "peso_g": "2300-7800",
+      "habitat": [
+        "costa",
+        "marino"
+      ],
+      "residencia": "visitante invernal",
+      "tamanio_categoria": "grande",
+      "estado_conservacion": "LC",
+      "descripcion": {
+        "D": "Pingüino de cuerpo torpedo. Partes superiores, corona y cara enteramente negras. Ceja blanca ancha que arranca justo arriba de la piel desnuda rosada de los lados de la frente y baja por los costados de la corona hasta la parte alta de la garganta. Piel desnuda rosada alrededor y encima del ojo. Lores negros entre el ojo y el pico. Collar negro ancho en el cuello. Banda negra en forma de herradura que cruza el pecho superior y baja por los flancos, de ancho variable. Vientre blanco. Pico negro con una banda subterminal gris pálida cerca de la punta. Ojo pardo rojizo oscuro. Patas gris oscuro con manchas irregulares rosado carnoso."
+      },
+      "curiosidades": "Nidifica en cuevas excavadas en el suelo, formando colonias de miles de parejas en la costa patagónica. Migra hacia el norte en invierno, alcanzando ocasionalmente las costas bonaerenses.",
+      "gbif_taxon_key": 5229385,
+      "sprites": {
+        "D": "Spheniscus_magellanicus_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing upright on flat ground, white background, 1024x1024 pixels, bird filling 70% of canvas height, torpedo-shaped penguin, entirely black upperparts, black crown and face, a broad white eyebrow stripe starting just above the bare pink orbital skin around the eye and sweeping back and down along the sides of the crown to the upper throat, bare pink skin forming a ring only around and just above the eye (not extending down toward the base of the bill), a thin white line running directly below the eye separating the pink skin from the black feathering below it, black lores and black feathering between the eye area and the bill base, three horizontal bands across the throat and chest area in this exact order from top to bottom: white throat band, then a narrow black band, then a second white band across the upper chest, below that a black horseshoe-shaped band across the chest extending down the flanks, plain solid white belly with NO spots or dots of any kind, the visible inner side of the folded flipper (separate from the belly) is whitish with small round black dots scattered across it only, black bill with a pale greyish subterminal band near the tip, dark reddish-brown eye, dark grey legs with irregular fleshy pink blotches, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "id": 24,
+      "num": "#024"
+    },
+    {
+      "nombre_comun": "Cigüeña Americana",
+      "nombre_cientifico": "Ciconia maguari",
+      "familia": "Ciconiidae",
+      "orden": "Ciconiiformes",
+      "largo_cm": "97-120",
+      "habitat": [
+        "humedal",
+        "pastizal"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "grande",
+      "estado_conservacion": "LC",
+      "descripcion": {
+        "D": "Ave grande, la única cigüeña de cabeza blanca de América. Cabeza, cuello y cuerpo blancos. Plumas de vuelo y coberteras del ala negras. Cola negra y ahorquillada, con las coberteras infracaudales blancas que se extienden más allá de la mitad de la cola. Pico largo y recto, gris azulado pálido en la base y marrón oscuro en la mitad distal. Lores rojos. Piel desnuda naranja-rojiza alrededor del ojo. Ojo amarillo pálido. Patas largas y rojas.",
+        "J": "El juvenil tiene la cabeza y el cuello grisáceo-pardusco con aspecto desgreñado. Cuerpo mayormente negruzco con algunos parches blancos irregulares en el dorso. Pico oscuro. Patas rosado-grisáceas apagadas."
+      },
+      "curiosidades": "Se distingue de la cigüeña europea por su cola negra ahorquillada y sus patas rojas. Anida en colonias sobre juncales o plataformas bajas en humedales.",
+      "gbif_taxon_key": 2481910,
+      "sprites": {
+        "D": "Ciconia_maguari_D.png",
+        "J": "Ciconia_maguari_J.png",
+        "V": "Ciconia_maguari_V.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on ground, white background, 1024x1024 pixels, bird filling 70% of canvas height, tall large stork, white head, neck and body, black flight feathers and black wing coverts on the folded wing, black forked tail with white undertail coverts extending past the middle of the tail, long straight bill pale bluish-grey at the base transitioning to dark maroon on the distal half, red lores, bare orange-red skin around the eye, pale yellow eye, long red legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "J": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY the colours: replace the white head and neck with greyish-brown with smooth normal feathering, replace the white body with mostly blackish-brown, add a few irregular white patches scattered unevenly across the back and wing area, replace the two-tone bill with an all dark bill, replace the pale yellow eye with dark brown, replace the red lores and bare orange-red facial skin with plain dark feathering matching the head colour, replace the red legs with dusky pinkish-grey legs, replace the black wing coverts and flight feathers with dark blackish-brown. Keep white background, no shadow, no text.",
+        "V": "pixel art bird sprite, side profile, bird flying LEFT (head and beak pointing to the LEFT side of canvas), wings fully extended upward in flight, white background, 1536x1024 pixels, bird filling 70% of canvas width, tall large stork in flight, neck extended straight forward (not curved), white head, neck and body, black flight feathers spanning the extended wings, black wing coverts, black forked tail, long straight bill pale bluish-grey at the base transitioning to dark maroon on the distal half, red lores, bare orange-red skin around the eye, pale yellow eye, long red legs trailing straight behind the body, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face and fly LEFT, mirror horizontally if facing right"
+      },
+      "id": 25,
+      "num": "#025"
+    },
+    {
+      "id": 26,
+      "num": "#026",
       "nombre_comun": "Biguá",
       "nombre_cientifico": "Nannopterum brasilianum",
       "familia": "Phalacrocoracidae",
@@ -1086,8 +1209,8 @@
       "audio_ebird_code": "neocor2"
     },
     {
-      "id": 23,
-      "num": "#023",
+      "id": 27,
+      "num": "#027",
       "nombre_comun": "Garza Bruja",
       "nombre_cientifico": "Nycticorax nycticorax",
       "familia": "Ardeidae",
@@ -1141,8 +1264,8 @@
       "audio_ebird_code": "blcnig"
     },
     {
-      "id": 24,
-      "num": "#024",
+      "id": 28,
+      "num": "#028",
       "nombre_comun": "Garza Mora",
       "nombre_cientifico": "Ardea cocoi",
       "familia": "Ardeidae",
@@ -1194,8 +1317,8 @@
       "audio_ebird_code": "cocher1"
     },
     {
-      "id": 25,
-      "num": "#025",
+      "id": 29,
+      "num": "#029",
       "nombre_comun": "Garza Blanca",
       "nombre_cientifico": "Ardea alba",
       "familia": "Ardeidae",
@@ -1250,8 +1373,8 @@
       "audio_ebird_code": "greegr"
     },
     {
-      "id": 26,
-      "num": "#026",
+      "id": 30,
+      "num": "#030",
       "nombre_comun": "Chiflón",
       "nombre_cientifico": "Syrigma sibilatrix",
       "familia": "Ardeidae",
@@ -1295,8 +1418,8 @@
       "audio_ebird_code": "whiher1"
     },
     {
-      "id": 27,
-      "num": "#027",
+      "id": 31,
+      "num": "#031",
       "nombre_comun": "Garcita Blanca",
       "nombre_cientifico": "Egretta thula",
       "orden": "Pelecaniformes",
@@ -1336,11 +1459,12 @@
       },
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing upright in alert posture, white background, 1024x1024 pixels, bird filling 70% of canvas height, entirely snow-white plumage; long slender black bill; black legs with vivid bright yellow feet and toes (the yellow feet are the key diagnostic feature — make them clearly yellow and prominent); yellow iris with small dark pupil; long slim neck; slender body, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
-      }
+      },
+      "gbif_taxon_key": 2480873
     },
     {
-      "id": 28,
-      "num": "#028",
+      "id": 32,
+      "num": "#032",
       "nombre_comun": "Cuervillo de Cañada",
       "nombre_cientifico": "Plegadis chihi",
       "familia": "Threskiornithidae",
@@ -1385,8 +1509,8 @@
       "audio_ebird_code": "whfibi"
     },
     {
-      "id": 29,
-      "num": "#029",
+      "id": 33,
+      "num": "#033",
       "nombre_comun": "Jote Cabeza Colorada",
       "nombre_cientifico": "Cathartes aura",
       "familia": "Cathartidae",
@@ -1437,8 +1561,8 @@
       "audio_ebird_code": "turvul"
     },
     {
-      "id": 30,
-      "num": "#030",
+      "id": 34,
+      "num": "#034",
       "nombre_comun": "Taguató",
       "nombre_cientifico": "Rupornis magnirostris",
       "familia": "Accipitridae",
@@ -1484,8 +1608,8 @@
       "audio_ebird_code": "roahaw"
     },
     {
-      "id": 31,
-      "num": "#031",
+      "id": 35,
+      "num": "#035",
       "nombre_comun": "Gavilán Mixto",
       "nombre_cientifico": "Parabuteo unicinctus",
       "familia": "Accipitridae",
@@ -1537,8 +1661,8 @@
       "audio_ebird_code": "hrihaw"
     },
     {
-      "id": 32,
-      "num": "#032",
+      "id": 36,
+      "num": "#036",
       "nombre_comun": "Lechucita Vizcachera",
       "nombre_cientifico": "Athene cunicularia",
       "familia": "Strigidae",
@@ -1589,8 +1713,8 @@
       "audio_ebird_code": "burowl"
     },
     {
-      "id": 33,
-      "num": "#033",
+      "id": 37,
+      "num": "#037",
       "nombre_comun": "Lechuzón de Campo",
       "nombre_cientifico": "Asio flammeus",
       "familia": "Strigidae",
@@ -1633,8 +1757,8 @@
       "audio_ebird_code": "sheowl"
     },
     {
-      "id": 34,
-      "num": "#034",
+      "id": 38,
+      "num": "#038",
       "nombre_comun": "Martín Pescador Grande",
       "nombre_cientifico": "Megaceryle torquata",
       "familia": "Alcedinidae",
@@ -1685,8 +1809,8 @@
       "audio_ebird_code": "rinkif1"
     },
     {
-      "id": 35,
-      "num": "#035",
+      "id": 39,
+      "num": "#039",
       "nombre_comun": "Martín Pescador Mediano",
       "nombre_cientifico": "Chloroceryle amazona",
       "familia": "Alcedinidae",
@@ -1731,8 +1855,8 @@
       "audio_ebird_code": null
     },
     {
-      "id": 36,
-      "num": "#036",
+      "id": 40,
+      "num": "#040",
       "nombre_comun": "Carpintero Real",
       "nombre_cientifico": "Colaptes melanochloros",
       "orden": "Piciformes",
@@ -1775,11 +1899,12 @@
       "prompts_pixelart": {
         "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), clinging to a tree trunk in typical woodpecker posture with stiff tail pressed against the bark, white background, 1024x1024 pixels, bird filling 65% of canvas height, black forehead; bright red crown and nape; white face with a bold red moustachial stripe on the lower cheek; back and wings yellow-green finely barred with black; bright yellow rump; breast pale yellowish with large round black spots; belly and flanks white barred with black; stiff pointed black tail; long chisel-shaped grey-slate bill; grey-green zygodactyl feet (two toes forward two back), detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
         "F": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY: replace the red moustachial stripe (malar) with a dark grey-black stripe of the same shape and position; keep all other colors completely unchanged: red crown and nape, black forehead, white face, yellow-green barred back, yellow rump, spotted breast, barred belly, grey bill. Keep white background, no shadow, no text"
-      }
+      },
+      "gbif_taxon_key": 2478272
     },
     {
-      "id": 37,
-      "num": "#037",
+      "id": 41,
+      "num": "#041",
       "nombre_comun": "Carancho",
       "nombre_cientifico": "Caracara plancus",
       "familia": "Falconidae",
@@ -1837,8 +1962,8 @@
       "audio_ebird_code": "crecha"
     },
     {
-      "id": 38,
-      "num": "#038",
+      "id": 42,
+      "num": "#042",
       "nombre_comun": "Chimango",
       "nombre_cientifico": "Daptrius chimango",
       "familia": "Falconidae",
@@ -1890,8 +2015,8 @@
       "audio_ebird_code": "chiman1"
     },
     {
-      "id": 39,
-      "num": "#039",
+      "id": 43,
+      "num": "#043",
       "nombre_comun": "Halconcito Colorado",
       "nombre_cientifico": "Falco sparverius",
       "familia": "Falconidae",
@@ -1946,8 +2071,8 @@
       "audio_ebird_code": "amekes"
     },
     {
-      "id": 40,
-      "num": "#040",
+      "id": 44,
+      "num": "#044",
       "nombre_comun": "Cotorra",
       "nombre_cientifico": "Myiopsitta monachus",
       "familia": "Psittacidae",
@@ -2000,8 +2125,8 @@
       "audio_ebird_code": "monpar"
     },
     {
-      "id": 41,
-      "num": "#041",
+      "id": 45,
+      "num": "#045",
       "nombre_comun": "Ñanday",
       "nombre_cientifico": "Aratinga nenday",
       "familia": "Psittacidae",
@@ -2039,8 +2164,8 @@
       "audio_ebird_code": "nannpa1"
     },
     {
-      "id": 42,
-      "num": "#042",
+      "id": 46,
+      "num": "#046",
       "nombre_comun": "Hornero",
       "nombre_cientifico": "Furnarius rufus",
       "familia": "Furnariidae",
@@ -2098,8 +2223,8 @@
       "audio_ebird_code": "rufhor2"
     },
     {
-      "id": 43,
-      "num": "#043",
+      "id": 47,
+      "num": "#047",
       "nombre_comun": "Junquero",
       "nombre_cientifico": "Phleocryptes melanops",
       "familia": "Furnariidae",
@@ -2140,8 +2265,8 @@
       "audio_ebird_code": null
     },
     {
-      "id": 44,
-      "num": "#044",
+      "id": 48,
+      "num": "#048",
       "nombre_comun": "Benteveo",
       "nombre_cientifico": "Pitangus sulphuratus",
       "familia": "Tyrannidae",
@@ -2194,8 +2319,8 @@
       "audio_ebird_code": "grbkis1"
     },
     {
-      "id": 45,
-      "num": "#045",
+      "id": 49,
+      "num": "#049",
       "nombre_comun": "Picabuey",
       "nombre_cientifico": "Machetornis rixosa",
       "familia": "Tyrannidae",
@@ -2237,8 +2362,8 @@
       "audio_ebird_code": null
     },
     {
-      "id": 46,
-      "num": "#046",
+      "id": 50,
+      "num": "#050",
       "nombre_comun": "Suirirí Real",
       "nombre_cientifico": "Tyrannus melancholicus",
       "orden": "Passeriformes",
@@ -2279,11 +2404,47 @@
       },
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched upright on a branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, large slender elongated tyrant-flycatcher, grey head with dusky lores and auriculars forming a dark mask through the eye, grayish-olive back and rump, blackish-brown wings with grey-edged coverts and whitish-edged secondaries, long brownish-black tail slightly notched at the tip, greyish-white throat shading to pale grey on the foreneck, bright yellow belly and undertail coverts with an olive tinge on the upper chest, heavy broad-based black bill, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
-      }
+      },
+      "gbif_taxon_key": 5229662
     },
     {
-      "id": 47,
-      "num": "#047",
+      "nombre_comun": "Tijereta",
+      "nombre_cientifico": "Tyrannus savana",
+      "familia": "Tyrannidae",
+      "orden": "Passeriformes",
+      "largo_cm": "adulto con cola: hasta 40 cm (cola más larga en el macho)",
+      "habitat": [
+        "pastizal",
+        "urbano"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "estado_conservacion": "LC",
+      "descripcion": {
+        "D": "Tirano mediano de partes superiores oscuras y partes inferiores blancas. Cabeza y corona negras. Dorso gris, tono variable según la subespecie. Alas y cola negras. Cola extremadamente larga y profundamente ahorquillada, generalmente más larga que el cuerpo y más larga en el macho que en la hembra. Garganta y partes inferiores blancas. Pico corto y oscuro. Patas oscuras.",
+        "J": "Juveniles y hembras carecen de las largas plumas de la cola del macho adulto. Presentan la misma combinación de corona y alas negras, dorso gris y partes inferiores blancas, pero con cola moderadamente ahorquillada y de longitud normal."
+      },
+      "curiosidades": "Es habitual verlo posado en lo alto de postes de alambrado o arbustos, desde donde sale a cazar insectos al vuelo o se alimenta de frutos. Durante la migración forma bandadas muy numerosas, con dormideros de hasta 10.000 individuos.",
+      "gbif_taxon_key": 5229693,
+      "thumb_clip": [
+        "D"
+      ],
+      "sprites": {
+        "D": "Tyrannus_savana_D.png",
+        "V": "Tyrannus_savana_V.png",
+        "J": "Tyrannus_savana_J.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thin branch, white background, 1024x1024 pixels, bird filling 40% of canvas height, medium tyrant with an EXTREMELY long deeply forked tail — the two central tail streamers must be at least twice the length of the entire body, thin and filamentous, trailing far behind (this is not a normal long tail, it is an extreme elongated streamer tail like a very long ribbon), black head and crown, grey back, black wings and tail, white throat and underparts, short dark bill, dark legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right, the tail streamers are the dominant visual feature and must extend far beyond the body length, do not shorten the tail to fit the canvas — instead make the canvas composition accommodate the full tail length",
+        "V": "pixel art bird sprite, side profile, bird flying LEFT (head and beak pointing to the LEFT side of canvas), wings extended in flight, deeply forked tail streaming behind in a scissor shape, white background, 1536x1024 pixels, bird filling 55% of canvas width, medium tyrant in flight, black head and crown, grey back and upperwing, dark flight feathers, white throat and underparts, short dark bill, extremely long black forked tail trailing behind, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face and fly LEFT, mirror horizontally if facing right",
+        "J": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thin branch, white background, 1024x1024 pixels, bird filling 55% of canvas height, medium tyrant with a moderately forked tail (shorter than adult male — tail not longer than body), black head and crown, grey back, black wings and tail, white throat and underparts, short dark bill, dark legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "id": 51,
+      "num": "#051"
+    },
+    {
+      "id": 52,
+      "num": "#052",
       "nombre_comun": "Churrinche",
       "nombre_cientifico": "Pyrocephalus rubinus",
       "orden": "Passeriformes",
@@ -2335,11 +2496,43 @@
       "prompts_pixelart": {
         "M": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY the colours: replace the grey-brown crown with brilliant scarlet-red crown with a slight raised crest; replace the dusky mask and lores with solid black lores and mask through the eye; replace the dark brownish back with dark brownish-black nape, back and rump; keep the dark brown-black wings and tail; replace the whitish streaked breast and throat with brilliant scarlet-red throat, breast and belly; replace the pale salmon-pink belly and undertail with brilliant scarlet-red; keep the short slender black bill and black legs; keep white background, no shadow, no text",
         "F": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY the colours: replace the brilliant scarlet-red crown and crest with grey-brown; replace the black mask and lores with dusky grey-brown blending into the face; keep the dark brownish-black nape, back, wings and tail unchanged; replace the scarlet-red throat and breast with whitish with fine dark brown streaking; replace the scarlet-red belly and undertail with pale salmon-pink to rosy; keep the short slender black bill and black legs unchanged; keep white background, no shadow, no text"
-      }
+      },
+      "gbif_taxon_key": 2483647
     },
     {
-      "id": 48,
-      "num": "#048",
+      "nombre_comun": "Pico de Plata",
+      "nombre_cientifico": "Hymenops perspicillatus",
+      "familia": "Tyrannidae",
+      "orden": "Passeriformes",
+      "largo_cm": "13-16",
+      "habitat": [
+        "pastizal",
+        "humedal",
+        "ribereño"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "pequeño",
+      "estado_conservacion": "LC",
+      "descripcion": {
+        "M": "Ave pequeña de postura erguida y patas largas. Plumaje enteramente negro. Gran carnosidad amarilla alrededor del ojo, con tinte verdoso. Iris amarillo. Pico amarillo pálido, casi blanquecino a distancia. Ala negra con las primarias mayormente blancas, con base y puntas negras, visible en reposo y muy notorio en vuelo. Cola negra. Patas negras.",
+        "F": "Partes superiores pardo oscuras. Ceja ante o blanco-ante y lores pálidos. Carnosidad ocular reducida y más apagada que en el macho. Dorso estriado de negro con bordes pardo pálido. Dos barras alares ante. Remeras rufas distintivas, visibles en vuelo. Cola oscura. Partes inferiores blanquecino-apagadas con estriado oscuro en el pecho. Pico oscuro con mandíbula inferior parda. Patas negras."
+      },
+      "curiosidades": "Su nombre viene del pico amarillo pálido casi blanco. El macho realiza un despliegue aéreo característico: vuela en círculo vertical desde la percha mostrando las alas blancas, con un chasquido audible en el punto más alto del vuelo.",
+      "gbif_taxon_key": 2483857,
+      "sprites": {
+        "M": "Hymenops_perspicillatus_M.png",
+        "F": "Hymenops_perspicillatus_F.png"
+      },
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched upright on a thin branch, white background, 1024x1024 pixels, bird filling 60% of canvas height, small tyrant flycatcher with an upright stance, entirely black plumage all over the body, head and tail (the tail must be solid black with no white), a distinct yellow ring of bare skin encircling the eye, flat against the face (an eye-ring, not a dangling wattle or fleshy growth), clearly visible as a bold yellow circle around the eye, yellow iris inside the ring, pale yellowish-white bill, the folded wing shows primary feathers that are MOSTLY WHITE overall — white covers most of the visible feather surface — with only a black base near the body and black tips at the very end of the feathers (this white must be the dominant color of the wing, not a thin stripe on an otherwise black wing), black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right, the wing must read as predominantly white when the bird is at rest, the tail stays fully black",
+        "F": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY the colours: replace the entirely black body with dark brown upperparts (head, back, wings), replace the bold yellow eye-ring with a smaller dull yellowish-brown eye-ring, replace the yellow iris with a pale brownish iris, replace the pale yellowish-white bill with a dusky bill with a brown lower mandible, add a buffy-white supercilium above the eye and pale lores, replace the predominantly white primary feathers with rufous-chestnut flight feathers (the wing reads as rufous, not white), add two buffy wing bars across the dark wing coverts, replace the black underparts with pale dusky-white underparts with dusky streaking on the breast and flanks, keep the black legs and solid black tail. Keep white background, no shadow, no text."
+      },
+      "id": 53,
+      "num": "#053"
+    },
+    {
+      "id": 54,
+      "num": "#054",
       "nombre_comun": "Golondrina Parda",
       "nombre_cientifico": "Progne tapera",
       "familia": "Hirundinidae",
@@ -2383,8 +2576,8 @@
       "audio_ebird_code": null
     },
     {
-      "id": 49,
-      "num": "#049",
+      "id": 55,
+      "num": "#055",
       "nombre_comun": "Golondrina Doméstica",
       "nombre_cientifico": "Progne chalybea",
       "familia": "Hirundinidae",
@@ -2442,8 +2635,37 @@
       "audio_ebird_code": "grpmar2"
     },
     {
-      "id": 50,
-      "num": "#050",
+      "nombre_comun": "Ratona",
+      "nombre_cientifico": "Troglodytes musculus",
+      "familia": "Troglodytidae",
+      "orden": "Passeriformes",
+      "largo_cm": "11-13",
+      "peso_g": "10-14",
+      "habitat": [
+        "bosque",
+        "urbano",
+        "pastizal"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "pequeño",
+      "estado_conservacion": "LC",
+      "descripcion": {
+        "D": "Ave pequeña, ágil e inquieta. Plumaje generalmente pardo-grisáceo uniforme, sin marcas de campo obvias a distancia. Dorso pardo, partes inferiores ocráceo pálido a grisáceo. Ceja pálida, a menudo poco marcada, sin estriado en la corona. Alas levemente barradas de pardo oscuro o negro. Cola corta, redondeada, frecuentemente mantenida erguida hacia arriba. Pico recto en la base, curvándose suavemente hacia una punta fina. Ojo oscuro. Patas color carne pálido. Sexos idénticos en coloración."
+      },
+      "curiosidades": "Es una de las aves más adaptables de América, presente desde México hasta Tierra del Fuego. Se adapta con facilidad a ambientes muy alterados por el ser humano y es común en ciudades y zonas suburbanas. Suele verse trepando y buscando alimento en grietas y huecos de árboles.",
+      "gbif_taxon_key": 8346347,
+      "sprites": {
+        "D": "Troglodytes_musculus_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a post with tail cocked upward, white background, 1024x1024 pixels, bird filling 55% of canvas height, tiny compact wren, uniformly brownish-grey plumage overall, brownish back, slightly light ochraceous to grey underparts, faint pale indistinct supercilium, no crown striping, wings finely barred with dark brown, short rounded barred tail held cocked upward, slender bill straight at the base curving gently toward a fine tip, dark eye, pale flesh-colored legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "id": 56,
+      "num": "#056"
+    },
+    {
+      "id": 57,
+      "num": "#057",
       "nombre_comun": "Zorzal Colorado",
       "nombre_cientifico": "Turdus rufiventris",
       "familia": "Turdidae",
@@ -2495,8 +2717,8 @@
       "audio_ebird_code": "rufbel1"
     },
     {
-      "id": 51,
-      "num": "#051",
+      "id": 58,
+      "num": "#058",
       "nombre_comun": "Zorzal Chalchalero",
       "nombre_cientifico": "Turdus amaurochalinus",
       "familia": "Turdidae",
@@ -2540,8 +2762,8 @@
       "audio_ebird_code": null
     },
     {
-      "id": 52,
-      "num": "#052",
+      "id": 59,
+      "num": "#059",
       "nombre_comun": "Calandria Grande",
       "nombre_cientifico": "Mimus saturninus",
       "familia": "Mimidae",
@@ -2592,8 +2814,8 @@
       "audio_ebird_code": "chamon1"
     },
     {
-      "id": 53,
-      "num": "#053",
+      "id": 60,
+      "num": "#060",
       "nombre_comun": "Gorrión",
       "nombre_cientifico": "Passer domesticus",
       "familia": "Passeridae",
@@ -2646,8 +2868,40 @@
       "audio_ebird_code": "houspa"
     },
     {
-      "id": 54,
-      "num": "#054",
+      "nombre_comun": "Cabecitanegra",
+      "nombre_cientifico": "Spinus magellanicus",
+      "familia": "Fringillidae",
+      "orden": "Passeriformes",
+      "largo_cm": "10-12",
+      "peso_g": "11-15.5",
+      "habitat": [
+        "bosque",
+        "pastizal",
+        "urbano"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "pequeño",
+      "estado_conservacion": "LC",
+      "descripcion": {
+        "M": "Pequeño fringílido de pico cónico y puntiagudo. Capucha negra que cubre toda la cabeza, garganta y pecho superior, con un corte limpio contra el amarillo del pecho inferior. Dorso oliva. Pecho inferior, vientre y rabadilla amarillo brillante. Parches amarillo brillante en el ala plegada que contrastan con las plumas de vuelo negras. Cola negra, levemente ahorquillada.",
+        "F": "Similar al macho pero sin capucha negra: cabeza amarillo-oliva apagada. Dorso oliva. Partes inferiores amarillo pálido. Parches amarillos en el ala más tenues que en el macho."
+      },
+      "curiosidades": "El siskin más ampliamente distribuido de Sudamérica. Se mueve en bandadas ruidosas con vuelo ondulante, alimentándose de semillas tanto en la vegetación como en el suelo.",
+      "gbif_taxon_key": 7341745,
+      "sprites": {
+        "M": "Spinus_magellanicus_M.png",
+        "F": "Spinus_magellanicus_F.png"
+      },
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thin branch, white background, 1024x1024 pixels, bird filling 60% of canvas height, small finch with a sharply pointed conical bill, entirely black hood covering the whole head, throat and upper breast down to a clean edge, olive back, bright yellow lower breast, belly and rump, bright yellow patches on the folded wing contrasting with black flight feathers, black slightly forked tail, dark legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY the colours: replace the solid black hood with dull yellowish-olive head (no black on head or throat), replace the bright yellow lower breast and belly with pale dull yellow, replace the bright yellow wing patches with slightly duller yellowish patches, keep the olive back, dark flight feathers and dark slightly forked tail unchanged. Keep white background, no shadow, no text."
+      },
+      "id": 61,
+      "num": "#061"
+    },
+    {
+      "id": 62,
+      "num": "#062",
       "nombre_comun": "Chingolo",
       "nombre_cientifico": "Zonotrichia capensis",
       "familia": "Passerellidae",
@@ -2700,8 +2954,8 @@
       "audio_ebird_code": null
     },
     {
-      "id": 55,
-      "num": "#055",
+      "id": 63,
+      "num": "#063",
       "nombre_comun": "Tordo Renegrido",
       "nombre_cientifico": "Molothrus bonariensis",
       "familia": "Icteridae",
@@ -2756,8 +3010,8 @@
       "audio_ebird_code": "shicow"
     },
     {
-      "id": 56,
-      "num": "#056",
+      "id": 64,
+      "num": "#064",
       "nombre_comun": "Federal",
       "nombre_cientifico": "Amblyramphus holosericeus",
       "familia": "Icteridae",
@@ -2796,8 +3050,37 @@
       "audio_ebird_code": null
     },
     {
-      "id": 57,
-      "num": "#057",
+      "nombre_comun": "Tordo Músico",
+      "nombre_cientifico": "Agelaioides badius",
+      "familia": "Icteridae",
+      "orden": "Passeriformes",
+      "largo_cm": "18-19",
+      "peso_g": "40-50",
+      "habitat": [
+        "pastizal",
+        "bosque",
+        "urbano"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "pequeño",
+      "estado_conservacion": "LC",
+      "descripcion": {
+        "D": "Ictérido de tamaño mediano-pequeño y plumaje monomórfico apagado. Cabeza y partes superiores pardo-grisáceas, algo más pálidas en las partes inferiores. Pico, lores y zona alrededor del ojo oscuros a negros. Alas rufas o castañas, con las puntas de las primarias, porciones internas de las secundarias y la cola negruzcas. Ojo oscuro. Patas oscuras."
+      },
+      "curiosidades": "Es el único ictérido de la región con rufo visible en las alas. A diferencia de otros tordos, cría sus propios huevos y pichones, y suele albergar en su nido los huevos del Tordo Pico Corto, un parásito de nidada que lo elige casi exclusivamente.",
+      "gbif_taxon_key": 2484481,
+      "sprites": {
+        "D": "Agelaioides_badius_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on ground, white background, 1024x1024 pixels, bird filling 60% of canvas height, medium-small icterid, dull ashy brownish-grey plumage, browner on the upperparts, paler on the underparts, dark blackish bill, lores and area around the eye, rufous-chestnut wings, blackish tips on the primaries and inner secondaries, blackish tail, dark eye, dark legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "id": 65,
+      "num": "#065"
+    },
+    {
+      "id": 66,
+      "num": "#066",
       "nombre_comun": "Varillero Congo",
       "nombre_cientifico": "Chrysomus ruficapillus",
       "orden": "Passeriformes",
@@ -2835,11 +3118,12 @@
       "prompts_pixelart": {
         "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched upright on a reed stem, white background, 1024x1024 pixels, bird filling 60% of canvas height, small blackbird, dark chestnut on the forehead and front of the crown only, BLACK nape blending into the black back, a wide BLACK mask covering the lores, face and around the eye, dark chestnut throat patch and a small area on the uppermost breast, all remaining plumage glossy black with a faint bluish sheen on back and wings, short conical black bill, dark brown eye, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
         "F": "recolor this exact sprite, keep the pose, outline, size and composition completely unchanged, only change the colours: replace all black plumage with dark olive-brown, replace the dark chestnut crown and throat with dull yellowish-olive, entire bird becomes olive-yellowish-brown with faint dark streaking on the breast and flanks, wings dark brown with yellowish-olive feather edges, tail dark brown, bill dark grey with paler base on lower mandible, dark greyish-blue legs, white background, no shadow, no text"
-      }
+      },
+      "gbif_taxon_key": 2484099
     },
     {
-      "id": 58,
-      "num": "#058",
+      "id": 67,
+      "num": "#067",
       "nombre_comun": "Jilguero Dorado",
       "nombre_cientifico": "Sicalis flaveola",
       "familia": "Thraupidae",
@@ -2889,8 +3173,8 @@
       "audio_ebird_code": "saffia1"
     },
     {
-      "id": 59,
-      "num": "#059",
+      "id": 68,
+      "num": "#068",
       "nombre_comun": "Corbatita",
       "nombre_cientifico": "Sporophila caerulescens",
       "orden": "Passeriformes",
@@ -2937,11 +3221,43 @@
       "prompts_pixelart": {
         "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a grass stem, white background, 1024x1024 pixels, bird filling 50% of canvas height, tiny seedeater with a short thick rounded bill, lead-grey crown and face with darker blackish forehead and moustachial area, small whitish crescent below the eye, black throat patch with a narrow white stripe bordering it on each side, grey-brown back and tail, grey-brown wings, white lower throat and breast with a narrow bold black band across the centre of the breast, whitish belly with faint grey spots on flanks, short thick yellowish bill, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
         "F": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY the colours: replace the lead-grey crown and face with warm buffy-brown; replace the black forehead and moustachial area with slightly darker dull brown; remove the white crescent below the eye blending it into buffy-brown face; replace the black throat patch and white stripes with uniform paler buff throat; replace the bold black breast band and white breast with warm buff-brown breast and flanks; replace the whitish belly with pale buff belly; replace the grey-brown back and wings with warm buffy-brown upperparts and buff-brown wings and tail; change the bill to dark above with dull yellowish-horn lower mandible; change the black legs to dark grey; keep white background, no shadow, no text"
-      }
+      },
+      "gbif_taxon_key": 2491376
     },
     {
-      "id": 60,
-      "num": "#060",
+      "nombre_comun": "Verdón",
+      "nombre_cientifico": "Embernagra platensis",
+      "familia": "Thraupidae",
+      "orden": "Passeriformes",
+      "largo_cm": "20.5-23",
+      "peso_g": "45-47",
+      "habitat": [
+        "pastizal",
+        "bosque"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "estado_conservacion": "LC",
+      "descripcion": {
+        "D": "Fringílido grande, de cola larga y pico grueso. Cabeza gris con lores y cara más oscuros que dan aspecto enmascarado. Desde la nuca, un tinte verde invade el gris y se funde con el dorso verde hierba, finamente estriado. Ala ampliamente bordeada de verde, del mismo tono que el dorso salvo un parche negruzco ancho en los terciarios. Cola oscura con bordes verde hierba anchos. El gris de la cara continúa en las partes inferiores, con la garganta algo más pálida, oscureciéndose en pecho y flancos. Vientre y zona anal blanquecinos, a veces con lavado canela. Ojo pardo oscuro. Pico naranja con el culmen negro. Patas rosado apagado.",
+        "J": "El juvenil es bastante distinto del adulto: fuerte lavado amarillo en cara y garganta, con una ceja amarilla que contrasta con la corona y la mejilla más oscuras, y una media luna blanquecina nítida bajo el ojo. Todo el dorso es pardo pálido con estriado oscuro marcado. Partes inferiores blanco-amarillentas con estriado nítido en el pecho y los flancos altos. Pico oscuro."
+      },
+      "curiosidades": "Es un ave típica de pastizales y áreas con arbustos. Aunque se lo clasifica como fringílido, algunos autores lo consideran más cercano a las tangaras. Su pico naranja y su cabeza gris con dorso verde hierba lo hacen inconfundible en el campo.",
+      "gbif_taxon_key": 2492002,
+      "sprites": {
+        "D": "Embernagra_platensis_D.png",
+        "J": "Embernagra_platensis_J.png"
+      },
+      "prompts_pixelart": {
+        "D": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition — keep the long tail exactly as is. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY the colours: replace the yellowish face, yellow eyebrow and whitish crescent with solid grey covering the entire head — crown, nape and face all uniform grey with darker lores only, no yellow remaining on the head, replace the pale brownish streaked upperparts with finely streaked grass-green on the mantle and back (green starts only at the mantle, not on the head), replace the wing with grass-green edging on coverts appearing concolorous with the back except for a broad blackish patch on the tertials, replace the dusky tail with dusky tail feathers broadly edged grass-green, replace the streaked yellowish underparts with grey on the throat and upper breast, muted greyish-buff on the breast and flanks, paler greyish-buff on the belly and vent with a faint cinnamon wash — no streaking on the underparts, replace the dusky bill with an orange bill with a black culmen. Keep white background, no shadow, no text.",
+        "J": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a branch, white background, 1024x1024 pixels, bird filling 60% of canvas height, large long-tailed finch, juvenile plumage strongly washed yellow on the face and throat, yellow eyebrow contrasting with a darker cap and cheek, a crisp whitish crescent below the eye, entire upperparts pale brownish with prominent dark streaking, off-white to yellowish underparts with crisp streaking on the breast and upper flanks, dusky bill, dull pinkish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "id": 69,
+      "num": "#069"
+    },
+    {
+      "id": 70,
+      "num": "#070",
       "nombre_comun": "Naranjero",
       "nombre_cientifico": "Rauenia bonariensis",
       "familia": "Thraupidae",

@@ -65,12 +65,13 @@ for bird in data['especies']:
         'tamanio': bird['tamanio_categoria'],
         'largo_cm': bird['largo_cm'],
         'envergadura_cm': bird.get('envergadura_cm'),
-        'estado': bird['estado_conservacion'],
-        'provincias': bird['provincias'],
+        'estado': bird.get('estado_conservacion', 'LC'),
+        'provincias': bird.get('provincias', []),
         'curiosidades': bird.get('curiosidades', ''),
         'sprites': sprites,
         'audio_ebird_code': bird.get('audio_ebird_code', ''),
         'mapa': mapa,
+        'thumb_clip': [VARIANT_LABEL.get(c, c) for c in bird.get('thumb_clip', [])],
     }
     birds_js_parts.append('{' + ','.join(f'{k}:{jstr(v)}' for k, v in b.items()) + '}')
 
