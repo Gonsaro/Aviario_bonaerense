@@ -106,6 +106,130 @@
     {
       "id": 2,
       "num": "#002",
+      "nombre_comun": "Sirirí Pampa",
+      "nombre_cientifico": "Dendrocygna viduata",
+      "orden": "Anseriformes",
+      "familia": "Anatidae",
+      "largo_cm": 50,
+      "envergadura_cm": 90,
+      "tamanio_categoria": "mediano",
+      "estado_conservacion": "LC",
+      "residencia": "permanente",
+      "habitat": [
+        "humedal",
+        "laguna",
+        "ribereño"
+      ],
+      "provincias": [
+        "CABA",
+        "Buenos Aires",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa"
+      ],
+      "audio_ebird_code": "wfwduc1",
+      "descripcion": {
+        "D": "Pato de silueta erguida con cuello largo. Cara y frente blancas, contrastando abruptamente con la corona y nuca negras. Cuello castaño intenso. Dorso, alas, cola y vientre negros. Flancos finamente barrados negro y blanco. Pico negro aplastado. Patas negras. Ambos sexos similares."
+      },
+      "curiosidades": "A diferencia de la mayoría de los patos, forma parejas que pueden durar toda la vida. Su canto es un silbido trillado triple, audible de noche, que le da el nombre popular. Puede nidificar en huecos de árboles.",
+      "sprites": {
+        "D": "Dendrocygna_viduata_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing upright with long neck erect and head raised, white background, 1024x1024 pixels, bird filling 65% of canvas height, face and forehead bright white contrasting sharply with jet black crown and hindneck; lower neck and upper breast deep chestnut-brown; back, wings and tail black; flanks finely barred black and white; belly and undertail black; flat wide black bill; black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      }
+    },
+    {
+      "id": 3,
+      "num": "#003",
+      "nombre_comun": "Cisne Cuello Negro",
+      "nombre_cientifico": "Cygnus melancoryphus",
+      "orden": "Anseriformes",
+      "familia": "Anatidae",
+      "largo_cm": 115,
+      "envergadura_cm": 170,
+      "tamanio_categoria": "grande",
+      "estado_conservacion": "LC",
+      "residencia": "permanente",
+      "habitat": [
+        "humedal",
+        "laguna",
+        "ribereño"
+      ],
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Córdoba",
+        "Mendoza",
+        "Neuquén",
+        "Río Negro",
+        "Chubut",
+        "Santa Cruz",
+        "Tierra del Fuego"
+      ],
+      "audio_ebird_code": "blnswn1",
+      "descripcion": {
+        "D": "El mayor cisne de Sudamérica, inconfundible. Cuello y cabeza completamente negros. Fina línea blanca desde la base del pico hasta la nuca, por encima del ojo. Cuerpo y alas enteramente blancos. Carúncula roja prominente en la base del pico azulado. Patas rosadas. Muy acuático; se desplaza torpemente en tierra."
+      },
+      "curiosidades": "Es el único cisne nativo de Sudamérica. Los adultos transportan a los pichones recién nacidos sobre el dorso para protegerlos de los depredadores acuáticos. La carúncula roja en la base del pico se agranda visiblemente durante la temporada reproductiva.",
+      "sprites": {
+        "D": "Cygnus_melancoryphus_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing with long neck held in a graceful S-curve, white background, 1024x1024 pixels, bird filling 75% of canvas height, head and entire neck jet black; thin white stripe running from just above the eye to the base of the bill along the lore; body and wings entirely white; short pale blue-grey bill with a prominent bright red fleshy knob (caruncle) at the base; pale pink legs and feet, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      }
+    },
+    {
+      "id": 4,
+      "num": "#004",
+      "nombre_comun": "Coscoroba",
+      "nombre_cientifico": "Coscoroba coscoroba",
+      "orden": "Anseriformes",
+      "familia": "Anatidae",
+      "largo_cm": 100,
+      "envergadura_cm": 145,
+      "tamanio_categoria": "grande",
+      "estado_conservacion": "LC",
+      "residencia": "permanente",
+      "habitat": [
+        "humedal",
+        "laguna",
+        "ribereño"
+      ],
+      "provincias": [
+        "Buenos Aires",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Córdoba",
+        "Mendoza",
+        "Neuquén",
+        "Río Negro",
+        "Chubut",
+        "Santa Cruz",
+        "Tierra del Fuego"
+      ],
+      "audio_ebird_code": "coscos1",
+      "descripcion": {
+        "D": "Ave grande, enteramente blanca salvo las puntas de las primarias, que son negras (visibles principalmente en vuelo). Pico anaranjado-rojo brillante con una cuña rosada clara en la punta. Ojo rojo. Patas rosadas. Sin dimorfismo sexual. Juvenil con manchas pardo-grisáceas en el cuerpo y pico oscuro."
+      },
+      "curiosidades": "Es el cisne más pequeño del mundo y el único de su género. A pesar de su parecido con los cisnes, está más emparentado con los patos silbadores. Su nombre imita el llamado característico que emite: 'cos-co-roba'.",
+      "sprites": {
+        "D": "Coscoroba_coscoroba_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing at water's edge, white background, 1024x1024 pixels, bird filling 65% of canvas height, large white waterfowl with a long graceful neck held upright, entirely white plumage, black tips on the outermost primaries barely visible on the folded wing, short broad bright red coral bill with a small pale nail at the tip, red eye, pale pink-red legs and webbed feet, large elongated body, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      }
+    },
+    {
+      "id": 5,
+      "num": "#005",
       "nombre_comun": "Pato Cutirí",
       "nombre_cientifico": "Amazonetta brasiliensis",
       "familia": "Anatidae",
@@ -150,8 +274,8 @@
       "audio_ebird_code": null
     },
     {
-      "id": 3,
-      "num": "#003",
+      "id": 6,
+      "num": "#006",
       "nombre_comun": "Pato Maicero",
       "nombre_cientifico": "Anas georgica",
       "familia": "Anatidae",
@@ -203,8 +327,51 @@
       "audio_ebird_code": "yebpin"
     },
     {
-      "id": 4,
-      "num": "#004",
+      "id": 7,
+      "num": "#007",
+      "nombre_comun": "Pato Picazo",
+      "nombre_cientifico": "Netta peposaca",
+      "orden": "Anseriformes",
+      "familia": "Anatidae",
+      "largo_cm": 55,
+      "envergadura_cm": 82,
+      "tamanio_categoria": "mediano",
+      "estado_conservacion": "LC",
+      "residencia": "permanente",
+      "habitat": [
+        "humedal",
+        "laguna"
+      ],
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Córdoba",
+        "Corrientes",
+        "Mendoza",
+        "La Pampa",
+        "Río Negro",
+        "Neuquén"
+      ],
+      "audio_ebird_code": "ropoch1",
+      "descripcion": {
+        "M": "Macho de aspecto llamativo. Cabeza y cuello negro intenso con reflejos violáceos. Gran escudete rosado en la base del pico del mismo color, con punta negra. Pecho negro. Flancos finamente vermiculados castaño sobre blanco. Vientre y rabadilla blancos. Alas oscuras con banda blanca visible en vuelo. Patas anaranjadas.",
+        "F": "Hembra parda discreta. Cabeza oscura con amplia franja blanca en la mejilla. Pico azul-grisáceo con punta pálida. Cuerpo marrón oscuro, partes inferiores algo más claras. Patas anaranjadas opacas."
+      },
+      "curiosidades": "El macho desarrolla un llamativo escudete rosado en la base del pico durante la época reproductiva, que se reduce fuera de ella. Bucea con frecuencia para alimentarse de plantas acuáticas y macroinvertebrados del fondo.",
+      "sprites": {
+        "M": "Netta_peposaca_M.png",
+        "F": "Netta_peposaca_F.png"
+      },
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), swimming low on water, white background, 1024x1024 pixels, bird filling 60% of canvas height, stocky large-headed duck, black head and neck, red eye, large rosy-pink bill with a prominent rounded crimson knob at the base and a small black nail at the tip, black breast and upper back, pale silvery-grey flanks and sides with fine dark vermiculations, white belly, bright white undertail coverts, dark brown wings with a narrow white wing stripe, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), swimming low on water, white background, 1024x1024 pixels, bird filling 60% of canvas height, stocky duck, overall warm rufous-brown plumage, darker brown on the crown and mantle, pale whitish chin and throat, whitish belly, bright white undertail coverts, dark brown wings, dark bluish-grey bill with a black nail and only a slightly swollen base, brown eye, orange-yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      }
+    },
+    {
+      "id": 8,
+      "num": "#008",
       "nombre_comun": "Flamenco Austral",
       "nombre_cientifico": "Phoenicopterus chilensis",
       "familia": "Phoenicopteridae",
@@ -247,8 +414,8 @@
       "audio_ebird_code": "chifl1"
     },
     {
-      "id": 5,
-      "num": "#005",
+      "id": 9,
+      "num": "#009",
       "nombre_comun": "Macá Cara Blanca",
       "nombre_cientifico": "Rollandia rolland",
       "familia": "Podicipedidae",
@@ -297,8 +464,8 @@
       "audio_ebird_code": "whtteg1"
     },
     {
-      "id": 6,
-      "num": "#006",
+      "id": 10,
+      "num": "#010",
       "nombre_comun": "Macá Grande",
       "nombre_cientifico": "Podiceps major",
       "familia": "Podicipedidae",
@@ -340,8 +507,8 @@
       "audio_ebird_code": null
     },
     {
-      "id": 7,
-      "num": "#007",
+      "id": 11,
+      "num": "#011",
       "nombre_comun": "Paloma Doméstica",
       "nombre_cientifico": "Columba livia",
       "familia": "Columbidae",
@@ -391,8 +558,8 @@
       "audio_ebird_code": "rocpig"
     },
     {
-      "id": 8,
-      "num": "#008",
+      "id": 12,
+      "num": "#012",
       "nombre_comun": "Torcaza",
       "nombre_cientifico": "Zenaida auriculata",
       "familia": "Columbidae",
@@ -444,8 +611,8 @@
       "audio_ebird_code": "eardov"
     },
     {
-      "id": 9,
-      "num": "#009",
+      "id": 13,
+      "num": "#013",
       "nombre_comun": "Torcacita Picuí",
       "nombre_cientifico": "Columbina picui",
       "familia": "Columbidae",
@@ -494,8 +661,8 @@
       "audio_ebird_code": null
     },
     {
-      "id": 10,
-      "num": "#010",
+      "id": 14,
+      "num": "#014",
       "nombre_comun": "Picaflor Verde",
       "nombre_cientifico": "Chlorostilbon lucidus",
       "familia": "Trochilidae",
@@ -544,8 +711,8 @@
       "audio_ebird_code": null
     },
     {
-      "id": 11,
-      "num": "#011",
+      "id": 15,
+      "num": "#015",
       "nombre_comun": "Gallareta Ligas Rojas",
       "nombre_cientifico": "Fulica armillata",
       "familia": "Rallidae",
@@ -592,8 +759,8 @@
       "audio_ebird_code": "rbnco1"
     },
     {
-      "id": 12,
-      "num": "#012",
+      "id": 16,
+      "num": "#016",
       "nombre_comun": "Gallareta Chica",
       "nombre_cientifico": "Fulica leucoptera",
       "familia": "Rallidae",
@@ -634,8 +801,8 @@
       "audio_ebird_code": null
     },
     {
-      "id": 13,
-      "num": "#013",
+      "id": 17,
+      "num": "#017",
       "nombre_comun": "Tero",
       "nombre_cientifico": "Vanellus chilensis",
       "familia": "Charadriidae",
@@ -692,8 +859,8 @@
       "audio_ebird_code": "soulap1"
     },
     {
-      "id": 14,
-      "num": "#014",
+      "id": 18,
+      "num": "#018",
       "nombre_comun": "Tero Real",
       "nombre_cientifico": "Himantopus mexicanus",
       "familia": "Recurvirostridae",
@@ -738,8 +905,8 @@
       "audio_ebird_code": null
     },
     {
-      "id": 15,
-      "num": "#015",
+      "id": 19,
+      "num": "#019",
       "nombre_comun": "Jacana",
       "nombre_cientifico": "Jacana jacana",
       "familia": "Jacanidae",
@@ -781,8 +948,8 @@
       "audio_ebird_code": "wattan1"
     },
     {
-      "id": 16,
-      "num": "#016",
+      "id": 20,
+      "num": "#020",
       "nombre_comun": "Gaviota Capucho Café",
       "nombre_cientifico": "Chroicocephalus maculipennis",
       "familia": "Laridae",
@@ -824,8 +991,8 @@
       "audio_ebird_code": "brhgul1"
     },
     {
-      "id": 17,
-      "num": "#017",
+      "id": 21,
+      "num": "#021",
       "nombre_comun": "Gaviota Cocinera",
       "nombre_cientifico": "Larus dominicanus",
       "familia": "Laridae",
@@ -868,8 +1035,8 @@
       "audio_ebird_code": "kelbgul"
     },
     {
-      "id": 18,
-      "num": "#018",
+      "id": 22,
+      "num": "#022",
       "nombre_comun": "Biguá",
       "nombre_cientifico": "Nannopterum brasilianum",
       "familia": "Phalacrocoracidae",
@@ -919,8 +1086,8 @@
       "audio_ebird_code": "neocor2"
     },
     {
-      "id": 19,
-      "num": "#019",
+      "id": 23,
+      "num": "#023",
       "nombre_comun": "Garza Bruja",
       "nombre_cientifico": "Nycticorax nycticorax",
       "familia": "Ardeidae",
@@ -974,8 +1141,8 @@
       "audio_ebird_code": "blcnig"
     },
     {
-      "id": 20,
-      "num": "#020",
+      "id": 24,
+      "num": "#024",
       "nombre_comun": "Garza Mora",
       "nombre_cientifico": "Ardea cocoi",
       "familia": "Ardeidae",
@@ -1027,8 +1194,8 @@
       "audio_ebird_code": "cocher1"
     },
     {
-      "id": 21,
-      "num": "#021",
+      "id": 25,
+      "num": "#025",
       "nombre_comun": "Garza Blanca",
       "nombre_cientifico": "Ardea alba",
       "familia": "Ardeidae",
@@ -1083,8 +1250,8 @@
       "audio_ebird_code": "greegr"
     },
     {
-      "id": 22,
-      "num": "#022",
+      "id": 26,
+      "num": "#026",
       "nombre_comun": "Chiflón",
       "nombre_cientifico": "Syrigma sibilatrix",
       "familia": "Ardeidae",
@@ -1128,8 +1295,52 @@
       "audio_ebird_code": "whiher1"
     },
     {
-      "id": 23,
-      "num": "#023",
+      "id": 27,
+      "num": "#027",
+      "nombre_comun": "Garcita Blanca",
+      "nombre_cientifico": "Egretta thula",
+      "orden": "Pelecaniformes",
+      "familia": "Ardeidae",
+      "largo_cm": 55,
+      "envergadura_cm": 100,
+      "tamanio_categoria": "mediano",
+      "estado_conservacion": "LC",
+      "residencia": "permanente",
+      "habitat": [
+        "humedal",
+        "laguna",
+        "ribereño",
+        "costa"
+      ],
+      "provincias": [
+        "CABA",
+        "Buenos Aires",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Córdoba",
+        "Mendoza",
+        "Salta",
+        "Jujuy"
+      ],
+      "audio_ebird_code": "snoegr",
+      "descripcion": {
+        "D": "Garza pequeña de plumaje enteramente blanco. Pico negro largo y delgado. Patas negras con dedos amarillo brillante, diagnósticos de la especie. Iris amarillo. En plumaje nupcial desarrolla aigretes largas y vaporosas sobre el pecho y la espalda, y la piel ocular vira a anaranjada."
+      },
+      "curiosidades": "Sus plumas nupciales blancas fueron tan codiciadas por la industria de la moda a fines del siglo XIX que la especie estuvo al borde de la extinción. La campaña para protegerla impulsó la creación de las primeras leyes de conservación de aves en América del Norte.",
+      "sprites": {
+        "D": "Egretta_thula_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing upright in alert posture, white background, 1024x1024 pixels, bird filling 70% of canvas height, entirely snow-white plumage; long slender black bill; black legs with vivid bright yellow feet and toes (the yellow feet are the key diagnostic feature — make them clearly yellow and prominent); yellow iris with small dark pupil; long slim neck; slender body, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      }
+    },
+    {
+      "id": 28,
+      "num": "#028",
       "nombre_comun": "Cuervillo de Cañada",
       "nombre_cientifico": "Plegadis chihi",
       "familia": "Threskiornithidae",
@@ -1174,8 +1385,8 @@
       "audio_ebird_code": "whfibi"
     },
     {
-      "id": 24,
-      "num": "#024",
+      "id": 29,
+      "num": "#029",
       "nombre_comun": "Jote Cabeza Colorada",
       "nombre_cientifico": "Cathartes aura",
       "familia": "Cathartidae",
@@ -1226,8 +1437,8 @@
       "audio_ebird_code": "turvul"
     },
     {
-      "id": 25,
-      "num": "#025",
+      "id": 30,
+      "num": "#030",
       "nombre_comun": "Taguató",
       "nombre_cientifico": "Rupornis magnirostris",
       "familia": "Accipitridae",
@@ -1273,8 +1484,8 @@
       "audio_ebird_code": "roahaw"
     },
     {
-      "id": 26,
-      "num": "#026",
+      "id": 31,
+      "num": "#031",
       "nombre_comun": "Gavilán Mixto",
       "nombre_cientifico": "Parabuteo unicinctus",
       "familia": "Accipitridae",
@@ -1326,8 +1537,8 @@
       "audio_ebird_code": "hrihaw"
     },
     {
-      "id": 27,
-      "num": "#027",
+      "id": 32,
+      "num": "#032",
       "nombre_comun": "Lechucita Vizcachera",
       "nombre_cientifico": "Athene cunicularia",
       "familia": "Strigidae",
@@ -1378,8 +1589,8 @@
       "audio_ebird_code": "burowl"
     },
     {
-      "id": 28,
-      "num": "#028",
+      "id": 33,
+      "num": "#033",
       "nombre_comun": "Lechuzón de Campo",
       "nombre_cientifico": "Asio flammeus",
       "familia": "Strigidae",
@@ -1422,8 +1633,8 @@
       "audio_ebird_code": "sheowl"
     },
     {
-      "id": 29,
-      "num": "#029",
+      "id": 34,
+      "num": "#034",
       "nombre_comun": "Martín Pescador Grande",
       "nombre_cientifico": "Megaceryle torquata",
       "familia": "Alcedinidae",
@@ -1474,8 +1685,8 @@
       "audio_ebird_code": "rinkif1"
     },
     {
-      "id": 30,
-      "num": "#030",
+      "id": 35,
+      "num": "#035",
       "nombre_comun": "Martín Pescador Mediano",
       "nombre_cientifico": "Chloroceryle amazona",
       "familia": "Alcedinidae",
@@ -1520,8 +1731,55 @@
       "audio_ebird_code": null
     },
     {
-      "id": 31,
-      "num": "#031",
+      "id": 36,
+      "num": "#036",
+      "nombre_comun": "Carpintero Real",
+      "nombre_cientifico": "Colaptes melanochloros",
+      "orden": "Piciformes",
+      "familia": "Picidae",
+      "largo_cm": 23,
+      "envergadura_cm": 38,
+      "tamanio_categoria": "mediano",
+      "estado_conservacion": "LC",
+      "residencia": "permanente",
+      "habitat": [
+        "monte",
+        "arbolado",
+        "urbano"
+      ],
+      "provincias": [
+        "CABA",
+        "Buenos Aires",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Córdoba",
+        "Salta",
+        "Jujuy",
+        "Tucumán",
+        "Santiago del Estero"
+      ],
+      "audio_ebird_code": "grbwoo3",
+      "descripcion": {
+        "M": "Carpintero mediano de colores vivos. Frente negra; corona y nuca rojas. Cara blanca con bigote (malar) rojo llamativo. Dorso y alas verde-amarillentos densamente barrados de negro. Rabadilla amarilla. Pecho amarillento con grandes lunares negros redondeados. Vientre y flancos blancos barrados de negro. Cola negra rígida. Pico largo, cincel, gris pizarra.",
+        "F": "Igual al macho pero con bigote (malar) negro-grisáceo oscuro en lugar de rojo. El resto del plumaje idéntico."
+      },
+      "curiosidades": "A diferencia de la mayoría de los carpinteros, forrajea con frecuencia en el suelo buscando hormigas entre la hojarasca. Utiliza su rígida cola como soporte al escalar troncos. Los machos pueden tardar semanas en excavar la cavidad de nidificación.",
+      "sprites": {
+        "M": "Colaptes_melanochloros_M.png",
+        "F": "Colaptes_melanochloros_F.png"
+      },
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), clinging to a tree trunk in typical woodpecker posture with stiff tail pressed against the bark, white background, 1024x1024 pixels, bird filling 65% of canvas height, black forehead; bright red crown and nape; white face with a bold red moustachial stripe on the lower cheek; back and wings yellow-green finely barred with black; bright yellow rump; breast pale yellowish with large round black spots; belly and flanks white barred with black; stiff pointed black tail; long chisel-shaped grey-slate bill; grey-green zygodactyl feet (two toes forward two back), detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY: replace the red moustachial stripe (malar) with a dark grey-black stripe of the same shape and position; keep all other colors completely unchanged: red crown and nape, black forehead, white face, yellow-green barred back, yellow rump, spotted breast, barred belly, grey bill. Keep white background, no shadow, no text"
+      }
+    },
+    {
+      "id": 37,
+      "num": "#037",
       "nombre_comun": "Carancho",
       "nombre_cientifico": "Caracara plancus",
       "familia": "Falconidae",
@@ -1579,8 +1837,8 @@
       "audio_ebird_code": "crecha"
     },
     {
-      "id": 32,
-      "num": "#032",
+      "id": 38,
+      "num": "#038",
       "nombre_comun": "Chimango",
       "nombre_cientifico": "Daptrius chimango",
       "familia": "Falconidae",
@@ -1632,8 +1890,8 @@
       "audio_ebird_code": "chiman1"
     },
     {
-      "id": 33,
-      "num": "#033",
+      "id": 39,
+      "num": "#039",
       "nombre_comun": "Halconcito Colorado",
       "nombre_cientifico": "Falco sparverius",
       "familia": "Falconidae",
@@ -1688,8 +1946,8 @@
       "audio_ebird_code": "amekes"
     },
     {
-      "id": 34,
-      "num": "#034",
+      "id": 40,
+      "num": "#040",
       "nombre_comun": "Cotorra",
       "nombre_cientifico": "Myiopsitta monachus",
       "familia": "Psittacidae",
@@ -1742,8 +2000,8 @@
       "audio_ebird_code": "monpar"
     },
     {
-      "id": 35,
-      "num": "#035",
+      "id": 41,
+      "num": "#041",
       "nombre_comun": "Ñanday",
       "nombre_cientifico": "Aratinga nenday",
       "familia": "Psittacidae",
@@ -1781,8 +2039,8 @@
       "audio_ebird_code": "nannpa1"
     },
     {
-      "id": 36,
-      "num": "#036",
+      "id": 42,
+      "num": "#042",
       "nombre_comun": "Hornero",
       "nombre_cientifico": "Furnarius rufus",
       "familia": "Furnariidae",
@@ -1840,8 +2098,8 @@
       "audio_ebird_code": "rufhor2"
     },
     {
-      "id": 37,
-      "num": "#037",
+      "id": 43,
+      "num": "#043",
       "nombre_comun": "Junquero",
       "nombre_cientifico": "Phleocryptes melanops",
       "familia": "Furnariidae",
@@ -1882,8 +2140,8 @@
       "audio_ebird_code": null
     },
     {
-      "id": 38,
-      "num": "#038",
+      "id": 44,
+      "num": "#044",
       "nombre_comun": "Benteveo",
       "nombre_cientifico": "Pitangus sulphuratus",
       "familia": "Tyrannidae",
@@ -1936,8 +2194,8 @@
       "audio_ebird_code": "grbkis1"
     },
     {
-      "id": 39,
-      "num": "#039",
+      "id": 45,
+      "num": "#045",
       "nombre_comun": "Picabuey",
       "nombre_cientifico": "Machetornis rixosa",
       "familia": "Tyrannidae",
@@ -1979,8 +2237,109 @@
       "audio_ebird_code": null
     },
     {
-      "id": 40,
-      "num": "#040",
+      "id": 46,
+      "num": "#046",
+      "nombre_comun": "Suirirí Real",
+      "nombre_cientifico": "Tyrannus melancholicus",
+      "orden": "Passeriformes",
+      "familia": "Tyrannidae",
+      "largo_cm": 20,
+      "envergadura_cm": 38,
+      "tamanio_categoria": "mediano",
+      "estado_conservacion": "LC",
+      "residencia": "estival",
+      "habitat": [
+        "monte",
+        "arbolado",
+        "urbano",
+        "pastizal"
+      ],
+      "provincias": [
+        "CABA",
+        "Buenos Aires",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Córdoba",
+        "Salta",
+        "Jujuy",
+        "Tucumán",
+        "Santiago del Estero"
+      ],
+      "audio_ebird_code": "trokin",
+      "descripcion": {
+        "D": "Tiránido grande y conspicuo. Cabeza gris con corona amarilla-anaranjada oculta entre las plumas (raramente visible). Dorso verde-oliváceo. Alas y cola pardo-negruzcas con márgenes pálidos. Garganta gris pálida. Pecho gris-oliváceo. Vientre amarillo brillante. Pico ancho y robusto, negro. Patas negras. Ambos sexos iguales."
+      },
+      "curiosidades": "A pesar de su nombre ('melancólico'), es sumamente agresivo y defiende su territorio atacando a aves mucho más grandes, incluyendo gavilanes y caranchos. La corona de plumas amarillas que normalmente mantiene oculta solo la eriza durante el cortejo o situaciones de alarma.",
+      "sprites": {
+        "D": "Tyrannus_melancholicus_D.png"
+      },
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched upright on a branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, large slender elongated tyrant-flycatcher, grey head with dusky lores and auriculars forming a dark mask through the eye, grayish-olive back and rump, blackish-brown wings with grey-edged coverts and whitish-edged secondaries, long brownish-black tail slightly notched at the tip, greyish-white throat shading to pale grey on the foreneck, bright yellow belly and undertail coverts with an olive tinge on the upper chest, heavy broad-based black bill, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      }
+    },
+    {
+      "id": 47,
+      "num": "#047",
+      "nombre_comun": "Churrinche",
+      "nombre_cientifico": "Pyrocephalus rubinus",
+      "orden": "Passeriformes",
+      "familia": "Tyrannidae",
+      "largo_cm": 14,
+      "envergadura_cm": 25,
+      "tamanio_categoria": "chico",
+      "estado_conservacion": "LC",
+      "residencia": "estival",
+      "habitat": [
+        "pastizal",
+        "monte",
+        "ribereño",
+        "arbolado"
+      ],
+      "provincias": [
+        "CABA",
+        "Buenos Aires",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Córdoba",
+        "La Pampa",
+        "Mendoza",
+        "San Luis",
+        "Salta",
+        "Jujuy",
+        "Tucumán",
+        "Santiago del Estero",
+        "San Juan",
+        "La Rioja",
+        "Catamarca",
+        "Neuquén",
+        "Río Negro"
+      ],
+      "audio_ebird_code": "verflyc",
+      "descripcion": {
+        "M": "Macho inconfundible: corona, garganta, pecho y vientre rojo escarlata brillante. Antifaz, dorso, alas y cola negro-pizarra intenso. Pico corto y negro. Patas negras.",
+        "F": "Hembra muy diferente al macho. Partes superiores gris-parduscas; alas y cola pardo oscuras. Pecho blancuzco con fino estriado pardo. Vientre y subcaudales rosáceo pálido. Pico y patas negros."
+      },
+      "curiosidades": "Solo el macho luce el llamativo plumaje escarlata; la hembra y los juveniles son discretamente pardos. Durante el cortejo el macho realiza un vuelo ondulante ascendente mientras canta, exhibiendo su plumaje. El nombre del género Pyrocephalus significa 'cabeza de fuego' en griego.",
+      "sprites": {
+        "M": "Pyrocephalus_rubinus_M.png",
+        "F": "Pyrocephalus_rubinus_F.png"
+      },
+      "prompts_pixelart": {
+        "M": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY the colours: replace the grey-brown crown with brilliant scarlet-red crown with a slight raised crest; replace the dusky mask and lores with solid black lores and mask through the eye; replace the dark brownish back with dark brownish-black nape, back and rump; keep the dark brown-black wings and tail; replace the whitish streaked breast and throat with brilliant scarlet-red throat, breast and belly; replace the pale salmon-pink belly and undertail with brilliant scarlet-red; keep the short slender black bill and black legs; keep white background, no shadow, no text",
+        "F": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY the colours: replace the brilliant scarlet-red crown and crest with grey-brown; replace the black mask and lores with dusky grey-brown blending into the face; keep the dark brownish-black nape, back, wings and tail unchanged; replace the scarlet-red throat and breast with whitish with fine dark brown streaking; replace the scarlet-red belly and undertail with pale salmon-pink to rosy; keep the short slender black bill and black legs unchanged; keep white background, no shadow, no text"
+      }
+    },
+    {
+      "id": 48,
+      "num": "#048",
       "nombre_comun": "Golondrina Parda",
       "nombre_cientifico": "Progne tapera",
       "familia": "Hirundinidae",
@@ -2024,8 +2383,8 @@
       "audio_ebird_code": null
     },
     {
-      "id": 41,
-      "num": "#041",
+      "id": 49,
+      "num": "#049",
       "nombre_comun": "Golondrina Doméstica",
       "nombre_cientifico": "Progne chalybea",
       "familia": "Hirundinidae",
@@ -2083,8 +2442,8 @@
       "audio_ebird_code": "grpmar2"
     },
     {
-      "id": 42,
-      "num": "#042",
+      "id": 50,
+      "num": "#050",
       "nombre_comun": "Zorzal Colorado",
       "nombre_cientifico": "Turdus rufiventris",
       "familia": "Turdidae",
@@ -2136,8 +2495,8 @@
       "audio_ebird_code": "rufbel1"
     },
     {
-      "id": 43,
-      "num": "#043",
+      "id": 51,
+      "num": "#051",
       "nombre_comun": "Zorzal Chalchalero",
       "nombre_cientifico": "Turdus amaurochalinus",
       "familia": "Turdidae",
@@ -2181,8 +2540,8 @@
       "audio_ebird_code": null
     },
     {
-      "id": 44,
-      "num": "#044",
+      "id": 52,
+      "num": "#052",
       "nombre_comun": "Calandria Grande",
       "nombre_cientifico": "Mimus saturninus",
       "familia": "Mimidae",
@@ -2233,8 +2592,8 @@
       "audio_ebird_code": "chamon1"
     },
     {
-      "id": 45,
-      "num": "#045",
+      "id": 53,
+      "num": "#053",
       "nombre_comun": "Gorrión",
       "nombre_cientifico": "Passer domesticus",
       "familia": "Passeridae",
@@ -2287,8 +2646,8 @@
       "audio_ebird_code": "houspa"
     },
     {
-      "id": 46,
-      "num": "#046",
+      "id": 54,
+      "num": "#054",
       "nombre_comun": "Chingolo",
       "nombre_cientifico": "Zonotrichia capensis",
       "familia": "Passerellidae",
@@ -2341,8 +2700,8 @@
       "audio_ebird_code": null
     },
     {
-      "id": 47,
-      "num": "#047",
+      "id": 55,
+      "num": "#055",
       "nombre_comun": "Tordo Renegrido",
       "nombre_cientifico": "Molothrus bonariensis",
       "familia": "Icteridae",
@@ -2397,8 +2756,8 @@
       "audio_ebird_code": "shicow"
     },
     {
-      "id": 48,
-      "num": "#048",
+      "id": 56,
+      "num": "#056",
       "nombre_comun": "Federal",
       "nombre_cientifico": "Amblyramphus holosericeus",
       "familia": "Icteridae",
@@ -2437,8 +2796,50 @@
       "audio_ebird_code": null
     },
     {
-      "id": 49,
-      "num": "#049",
+      "id": 57,
+      "num": "#057",
+      "nombre_comun": "Varillero Congo",
+      "nombre_cientifico": "Chrysomus ruficapillus",
+      "orden": "Passeriformes",
+      "familia": "Icteridae",
+      "largo_cm": 17,
+      "envergadura_cm": 28,
+      "tamanio_categoria": "chico",
+      "estado_conservacion": "LC",
+      "residencia": "permanente",
+      "habitat": [
+        "humedal",
+        "laguna",
+        "ribereño"
+      ],
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa"
+      ],
+      "audio_ebird_code": "chcbla2",
+      "descripcion": {
+        "M": "Macho de aspecto contrastado. Frente, corona y garganta castaño-rojizas brillantes. Todo el resto del plumaje negro intenso: pecho, dorso, alas y cola. Pico largo, cónico y puntiagudo, negro. Patas negras.",
+        "F": "Hembra discreta. Partes superiores pardo oscuras con suave estriado. Garganta ante pálida. Pecho y vientre pardo-oliváceo. Sin el capucho castaño del macho. Pico negro cónico. Patas pardas."
+      },
+      "curiosidades": "Forma colonias de nidificación en juncales y totorales, a menudo junto a otras aves acuáticas. Fuera de la temporada reproductiva puede congregarse en bandadas de hasta un millar de individuos. Su nombre 'congo' alude al negro intenso del plumaje del macho.",
+      "sprites": {
+        "M": "Chrysomus_ruficapillus_M.png",
+        "F": "Chrysomus_ruficapillus_F.png"
+      },
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched upright on a reed stem, white background, 1024x1024 pixels, bird filling 60% of canvas height, small blackbird, dark chestnut on the forehead and front of the crown only, BLACK nape blending into the black back, a wide BLACK mask covering the lores, face and around the eye, dark chestnut throat patch and a small area on the uppermost breast, all remaining plumage glossy black with a faint bluish sheen on back and wings, short conical black bill, dark brown eye, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "recolor this exact sprite, keep the pose, outline, size and composition completely unchanged, only change the colours: replace all black plumage with dark olive-brown, replace the dark chestnut crown and throat with dull yellowish-olive, entire bird becomes olive-yellowish-brown with faint dark streaking on the breast and flanks, wings dark brown with yellowish-olive feather edges, tail dark brown, bill dark grey with paler base on lower mandible, dark greyish-blue legs, white background, no shadow, no text"
+      }
+    },
+    {
+      "id": 58,
+      "num": "#058",
       "nombre_comun": "Jilguero Dorado",
       "nombre_cientifico": "Sicalis flaveola",
       "familia": "Thraupidae",
@@ -2488,459 +2889,8 @@
       "audio_ebird_code": "saffia1"
     },
     {
-      "id": 50,
-      "num": "#050",
-      "nombre_comun": "Naranjero",
-      "nombre_cientifico": "Rauenia bonariensis",
-      "familia": "Thraupidae",
-      "orden": "Passeriformes",
-      "descripcion": {
-        "M": "Ave mediana con marcado dimorfismo sexual (ssp bonariensis). Cabeza, cuello y garganta azul-maíz brillante uniforme. Antifaz negro reducido en los lores y área ocular. Dorso y escápulas negros, extendiéndose a los lados del pecho formando un collar parcial negro. Rabadilla amarillo-anaranjado brillante. Alas pardas con bordes azules; cola negra bordeada de azul. Pecho a mitad del vientre amarillo-anaranjado intenso, vientre inferior amarillo brillante. Pico oscuro con mandíbula inferior gris-pálida. Ojo pardo-rojizo. Patas gris oscuro.",
-        "F": "Pardo-olivácea uniforme sin manchas contrastantes. Partes superiores pardo-oliva apagado. Partes inferiores ante-amarillento pálido. Sin antifaz ni collar. Pico gris. Patas oscuras. Notablemente más apagada que el macho."
-      },
-      "habitat": [
-        "urbano",
-        "monte",
-        "pastizal",
-        "agrícola"
-      ],
-      "residencia": "permanente",
-      "tamanio_categoria": "chico",
-      "largo_cm": 17,
-      "envergadura_cm": null,
-      "estado_conservacion": "LC",
-      "provincias": [
-        "Buenos Aires",
-        "CABA",
-        "Santa Fe",
-        "Entre Ríos",
-        "Corrientes",
-        "Misiones",
-        "Chaco",
-        "Santiago del Estero",
-        "Córdoba",
-        "La Pampa",
-        "Tucumán",
-        "Salta",
-        "Jujuy",
-        "Mendoza",
-        "San Luis"
-      ],
-      "curiosidades": "El macho es una de las aves más coloridas de Buenos Aires. Se alimenta de frutas, semillas e insectos y es un visitante frecuente de jardines con frutales. El nombre 'bonariensis' de su nombre científico hace referencia a Buenos Aires, ciudad donde fue descripto por primera vez para la ciencia.",
-      "sprites": {
-        "M": "Rauenia_bonariensis_M.png",
-        "F": "Rauenia_bonariensis_F.png"
-      },
-      "prompts_pixelart": {
-        "M": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw or change the shape in any way. Change ONLY the colours: make the entire head and throat a uniform bright cornflower-blue — crown, nape, cheeks, chin and throat all the SAME blue, no dark or black chin or throat; keep only the small black mask on lores and around the eye; keep the black mantle, blue wings, yellow-orange underparts and pale grey lower mandible unchanged. White background, no shadow, no text.",
-        "F": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium-sized tanager, entire bird dull olive-brown throughout — head, back, wings and tail all the same muted olive-brown with no contrasting patches, underparts pale buffy-yellowish (slightly paler than back but not vivid), no blue or grey on wings, no mask, short dark bill with pale grey lower mandible, reddish-brown eye, dark legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
-      },
-      "audio_ebird_code": null
-    },
-    {
-      "id": 51,
-      "num": "#051",
-      "nombre_comun": "Sirirí Pampa",
-      "nombre_cientifico": "Dendrocygna viduata",
-      "orden": "Anseriformes",
-      "familia": "Anatidae",
-      "largo_cm": 50,
-      "envergadura_cm": 90,
-      "tamanio_categoria": "mediano",
-      "estado_conservacion": "LC",
-      "residencia": "permanente",
-      "habitat": [
-        "humedal",
-        "laguna",
-        "ribereño"
-      ],
-      "provincias": [
-        "CABA",
-        "Buenos Aires",
-        "Santa Fe",
-        "Entre Ríos",
-        "Corrientes",
-        "Misiones",
-        "Chaco",
-        "Formosa"
-      ],
-      "audio_ebird_code": "wfwduc1",
-      "descripcion": {
-        "D": "Pato de silueta erguida con cuello largo. Cara y frente blancas, contrastando abruptamente con la corona y nuca negras. Cuello castaño intenso. Dorso, alas, cola y vientre negros. Flancos finamente barrados negro y blanco. Pico negro aplastado. Patas negras. Ambos sexos similares."
-      },
-      "curiosidades": "A diferencia de la mayoría de los patos, forma parejas que pueden durar toda la vida. Su canto es un silbido trillado triple, audible de noche, que le da el nombre popular. Puede nidificar en huecos de árboles.",
-      "sprites": {
-        "D": "Dendrocygna_viduata_D.png"
-      },
-      "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing upright with long neck erect and head raised, white background, 1024x1024 pixels, bird filling 65% of canvas height, face and forehead bright white contrasting sharply with jet black crown and hindneck; lower neck and upper breast deep chestnut-brown; back, wings and tail black; flanks finely barred black and white; belly and undertail black; flat wide black bill; black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
-      }
-    },
-    {
-      "id": 52,
-      "num": "#052",
-      "nombre_comun": "Cisne Cuello Negro",
-      "nombre_cientifico": "Cygnus melancoryphus",
-      "orden": "Anseriformes",
-      "familia": "Anatidae",
-      "largo_cm": 115,
-      "envergadura_cm": 170,
-      "tamanio_categoria": "grande",
-      "estado_conservacion": "LC",
-      "residencia": "permanente",
-      "habitat": [
-        "humedal",
-        "laguna",
-        "ribereño"
-      ],
-      "provincias": [
-        "Buenos Aires",
-        "CABA",
-        "Santa Fe",
-        "Entre Ríos",
-        "Corrientes",
-        "Córdoba",
-        "Mendoza",
-        "Neuquén",
-        "Río Negro",
-        "Chubut",
-        "Santa Cruz",
-        "Tierra del Fuego"
-      ],
-      "audio_ebird_code": "blnswn1",
-      "descripcion": {
-        "D": "El mayor cisne de Sudamérica, inconfundible. Cuello y cabeza completamente negros. Fina línea blanca desde la base del pico hasta la nuca, por encima del ojo. Cuerpo y alas enteramente blancos. Carúncula roja prominente en la base del pico azulado. Patas rosadas. Muy acuático; se desplaza torpemente en tierra."
-      },
-      "curiosidades": "Es el único cisne nativo de Sudamérica. Los adultos transportan a los pichones recién nacidos sobre el dorso para protegerlos de los depredadores acuáticos. La carúncula roja en la base del pico se agranda visiblemente durante la temporada reproductiva.",
-      "sprites": {
-        "D": "Cygnus_melancoryphus_D.png"
-      },
-      "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing with long neck held in a graceful S-curve, white background, 1024x1024 pixels, bird filling 75% of canvas height, head and entire neck jet black; thin white stripe running from just above the eye to the base of the bill along the lore; body and wings entirely white; short pale blue-grey bill with a prominent bright red fleshy knob (caruncle) at the base; pale pink legs and feet, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
-      }
-    },
-    {
-      "id": 53,
-      "num": "#053",
-      "nombre_comun": "Coscoroba",
-      "nombre_cientifico": "Coscoroba coscoroba",
-      "orden": "Anseriformes",
-      "familia": "Anatidae",
-      "largo_cm": 100,
-      "envergadura_cm": 145,
-      "tamanio_categoria": "grande",
-      "estado_conservacion": "LC",
-      "residencia": "permanente",
-      "habitat": [
-        "humedal",
-        "laguna",
-        "ribereño"
-      ],
-      "provincias": [
-        "Buenos Aires",
-        "Santa Fe",
-        "Entre Ríos",
-        "Corrientes",
-        "Córdoba",
-        "Mendoza",
-        "Neuquén",
-        "Río Negro",
-        "Chubut",
-        "Santa Cruz",
-        "Tierra del Fuego"
-      ],
-      "audio_ebird_code": "coscos1",
-      "descripcion": {
-        "D": "Ave grande, enteramente blanca salvo las puntas de las primarias, que son negras (visibles principalmente en vuelo). Pico anaranjado-rojo brillante con una cuña rosada clara en la punta. Ojo rojo. Patas rosadas. Sin dimorfismo sexual. Juvenil con manchas pardo-grisáceas en el cuerpo y pico oscuro."
-      },
-      "curiosidades": "Es el cisne más pequeño del mundo y el único de su género. A pesar de su parecido con los cisnes, está más emparentado con los patos silbadores. Su nombre imita el llamado característico que emite: 'cos-co-roba'.",
-      "sprites": {
-        "D": "Coscoroba_coscoroba_D.png"
-      },
-      "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing at water's edge, white background, 1024x1024 pixels, bird filling 65% of canvas height, large white waterfowl with a long graceful neck held upright, entirely white plumage, black tips on the outermost primaries barely visible on the folded wing, short broad bright red coral bill with a small pale nail at the tip, red eye, pale pink-red legs and webbed feet, large elongated body, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
-      }
-    },
-    {
-      "id": 54,
-      "num": "#054",
-      "nombre_comun": "Pato Picazo",
-      "nombre_cientifico": "Netta peposaca",
-      "orden": "Anseriformes",
-      "familia": "Anatidae",
-      "largo_cm": 55,
-      "envergadura_cm": 82,
-      "tamanio_categoria": "mediano",
-      "estado_conservacion": "LC",
-      "residencia": "permanente",
-      "habitat": [
-        "humedal",
-        "laguna"
-      ],
-      "provincias": [
-        "Buenos Aires",
-        "CABA",
-        "Santa Fe",
-        "Entre Ríos",
-        "Córdoba",
-        "Corrientes",
-        "Mendoza",
-        "La Pampa",
-        "Río Negro",
-        "Neuquén"
-      ],
-      "audio_ebird_code": "ropoch1",
-      "descripcion": {
-        "M": "Macho de aspecto llamativo. Cabeza y cuello negro intenso con reflejos violáceos. Gran escudete rosado en la base del pico del mismo color, con punta negra. Pecho negro. Flancos finamente vermiculados castaño sobre blanco. Vientre y rabadilla blancos. Alas oscuras con banda blanca visible en vuelo. Patas anaranjadas.",
-        "F": "Hembra parda discreta. Cabeza oscura con amplia franja blanca en la mejilla. Pico azul-grisáceo con punta pálida. Cuerpo marrón oscuro, partes inferiores algo más claras. Patas anaranjadas opacas."
-      },
-      "curiosidades": "El macho desarrolla un llamativo escudete rosado en la base del pico durante la época reproductiva, que se reduce fuera de ella. Bucea con frecuencia para alimentarse de plantas acuáticas y macroinvertebrados del fondo.",
-      "sprites": {
-        "M": "Netta_peposaca_M.png",
-        "F": "Netta_peposaca_F.png"
-      },
-      "prompts_pixelart": {
-        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), swimming low on water, white background, 1024x1024 pixels, bird filling 60% of canvas height, stocky large-headed duck, black head and neck, red eye, large rosy-pink bill with a prominent rounded crimson knob at the base and a small black nail at the tip, black breast and upper back, pale silvery-grey flanks and sides with fine dark vermiculations, white belly, bright white undertail coverts, dark brown wings with a narrow white wing stripe, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
-        "F": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), swimming low on water, white background, 1024x1024 pixels, bird filling 60% of canvas height, stocky duck, overall warm rufous-brown plumage, darker brown on the crown and mantle, pale whitish chin and throat, whitish belly, bright white undertail coverts, dark brown wings, dark bluish-grey bill with a black nail and only a slightly swollen base, brown eye, orange-yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
-      }
-    },
-    {
-      "id": 55,
-      "num": "#055",
-      "nombre_comun": "Garcita Blanca",
-      "nombre_cientifico": "Egretta thula",
-      "orden": "Pelecaniformes",
-      "familia": "Ardeidae",
-      "largo_cm": 55,
-      "envergadura_cm": 100,
-      "tamanio_categoria": "mediano",
-      "estado_conservacion": "LC",
-      "residencia": "permanente",
-      "habitat": [
-        "humedal",
-        "laguna",
-        "ribereño",
-        "costa"
-      ],
-      "provincias": [
-        "CABA",
-        "Buenos Aires",
-        "Santa Fe",
-        "Entre Ríos",
-        "Corrientes",
-        "Misiones",
-        "Chaco",
-        "Formosa",
-        "Córdoba",
-        "Mendoza",
-        "Salta",
-        "Jujuy"
-      ],
-      "audio_ebird_code": "snoegr",
-      "descripcion": {
-        "D": "Garza pequeña de plumaje enteramente blanco. Pico negro largo y delgado. Patas negras con dedos amarillo brillante, diagnósticos de la especie. Iris amarillo. En plumaje nupcial desarrolla aigretes largas y vaporosas sobre el pecho y la espalda, y la piel ocular vira a anaranjada."
-      },
-      "curiosidades": "Sus plumas nupciales blancas fueron tan codiciadas por la industria de la moda a fines del siglo XIX que la especie estuvo al borde de la extinción. La campaña para protegerla impulsó la creación de las primeras leyes de conservación de aves en América del Norte.",
-      "sprites": {
-        "D": "Egretta_thula_D.png"
-      },
-      "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing upright in alert posture, white background, 1024x1024 pixels, bird filling 70% of canvas height, entirely snow-white plumage; long slender black bill; black legs with vivid bright yellow feet and toes (the yellow feet are the key diagnostic feature — make them clearly yellow and prominent); yellow iris with small dark pupil; long slim neck; slender body, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
-      }
-    },
-    {
-      "id": 56,
-      "num": "#056",
-      "nombre_comun": "Carpintero Real",
-      "nombre_cientifico": "Colaptes melanochloros",
-      "orden": "Piciformes",
-      "familia": "Picidae",
-      "largo_cm": 23,
-      "envergadura_cm": 38,
-      "tamanio_categoria": "mediano",
-      "estado_conservacion": "LC",
-      "residencia": "permanente",
-      "habitat": [
-        "monte",
-        "arbolado",
-        "urbano"
-      ],
-      "provincias": [
-        "CABA",
-        "Buenos Aires",
-        "Santa Fe",
-        "Entre Ríos",
-        "Corrientes",
-        "Misiones",
-        "Chaco",
-        "Formosa",
-        "Córdoba",
-        "Salta",
-        "Jujuy",
-        "Tucumán",
-        "Santiago del Estero"
-      ],
-      "audio_ebird_code": "grbwoo3",
-      "descripcion": {
-        "M": "Carpintero mediano de colores vivos. Frente negra; corona y nuca rojas. Cara blanca con bigote (malar) rojo llamativo. Dorso y alas verde-amarillentos densamente barrados de negro. Rabadilla amarilla. Pecho amarillento con grandes lunares negros redondeados. Vientre y flancos blancos barrados de negro. Cola negra rígida. Pico largo, cincel, gris pizarra.",
-        "F": "Igual al macho pero con bigote (malar) negro-grisáceo oscuro en lugar de rojo. El resto del plumaje idéntico."
-      },
-      "curiosidades": "A diferencia de la mayoría de los carpinteros, forrajea con frecuencia en el suelo buscando hormigas entre la hojarasca. Utiliza su rígida cola como soporte al escalar troncos. Los machos pueden tardar semanas en excavar la cavidad de nidificación.",
-      "sprites": {
-        "M": "Colaptes_melanochloros_M.png",
-        "F": "Colaptes_melanochloros_F.png"
-      },
-      "prompts_pixelart": {
-        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), clinging to a tree trunk in typical woodpecker posture with stiff tail pressed against the bark, white background, 1024x1024 pixels, bird filling 65% of canvas height, black forehead; bright red crown and nape; white face with a bold red moustachial stripe on the lower cheek; back and wings yellow-green finely barred with black; bright yellow rump; breast pale yellowish with large round black spots; belly and flanks white barred with black; stiff pointed black tail; long chisel-shaped grey-slate bill; grey-green zygodactyl feet (two toes forward two back), detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
-        "F": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY: replace the red moustachial stripe (malar) with a dark grey-black stripe of the same shape and position; keep all other colors completely unchanged: red crown and nape, black forehead, white face, yellow-green barred back, yellow rump, spotted breast, barred belly, grey bill. Keep white background, no shadow, no text"
-      }
-    },
-    {
-      "id": 57,
-      "num": "#057",
-      "nombre_comun": "Suirirí Real",
-      "nombre_cientifico": "Tyrannus melancholicus",
-      "orden": "Passeriformes",
-      "familia": "Tyrannidae",
-      "largo_cm": 20,
-      "envergadura_cm": 38,
-      "tamanio_categoria": "mediano",
-      "estado_conservacion": "LC",
-      "residencia": "estival",
-      "habitat": [
-        "monte",
-        "arbolado",
-        "urbano",
-        "pastizal"
-      ],
-      "provincias": [
-        "CABA",
-        "Buenos Aires",
-        "Santa Fe",
-        "Entre Ríos",
-        "Corrientes",
-        "Misiones",
-        "Chaco",
-        "Formosa",
-        "Córdoba",
-        "Salta",
-        "Jujuy",
-        "Tucumán",
-        "Santiago del Estero"
-      ],
-      "audio_ebird_code": "trokin",
-      "descripcion": {
-        "D": "Tiránido grande y conspicuo. Cabeza gris con corona amarilla-anaranjada oculta entre las plumas (raramente visible). Dorso verde-oliváceo. Alas y cola pardo-negruzcas con márgenes pálidos. Garganta gris pálida. Pecho gris-oliváceo. Vientre amarillo brillante. Pico ancho y robusto, negro. Patas negras. Ambos sexos iguales."
-      },
-      "curiosidades": "A pesar de su nombre ('melancólico'), es sumamente agresivo y defiende su territorio atacando a aves mucho más grandes, incluyendo gavilanes y caranchos. La corona de plumas amarillas que normalmente mantiene oculta solo la eriza durante el cortejo o situaciones de alarma.",
-      "sprites": {
-        "D": "Tyrannus_melancholicus_D.png"
-      },
-      "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched upright on a branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, large slender elongated tyrant-flycatcher, grey head with dusky lores and auriculars forming a dark mask through the eye, grayish-olive back and rump, blackish-brown wings with grey-edged coverts and whitish-edged secondaries, long brownish-black tail slightly notched at the tip, greyish-white throat shading to pale grey on the foreneck, bright yellow belly and undertail coverts with an olive tinge on the upper chest, heavy broad-based black bill, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
-      }
-    },
-    {
-      "id": 58,
-      "num": "#058",
-      "nombre_comun": "Churrinche",
-      "nombre_cientifico": "Pyrocephalus rubinus",
-      "orden": "Passeriformes",
-      "familia": "Tyrannidae",
-      "largo_cm": 14,
-      "envergadura_cm": 25,
-      "tamanio_categoria": "chico",
-      "estado_conservacion": "LC",
-      "residencia": "estival",
-      "habitat": [
-        "pastizal",
-        "monte",
-        "ribereño",
-        "arbolado"
-      ],
-      "provincias": [
-        "CABA",
-        "Buenos Aires",
-        "Santa Fe",
-        "Entre Ríos",
-        "Corrientes",
-        "Misiones",
-        "Chaco",
-        "Formosa",
-        "Córdoba",
-        "La Pampa",
-        "Mendoza",
-        "San Luis",
-        "Salta",
-        "Jujuy",
-        "Tucumán",
-        "Santiago del Estero",
-        "San Juan",
-        "La Rioja",
-        "Catamarca",
-        "Neuquén",
-        "Río Negro"
-      ],
-      "audio_ebird_code": "verflyc",
-      "descripcion": {
-        "M": "Macho inconfundible: corona, garganta, pecho y vientre rojo escarlata brillante. Antifaz, dorso, alas y cola negro-pizarra intenso. Pico corto y negro. Patas negras.",
-        "F": "Hembra muy diferente al macho. Partes superiores gris-parduscas; alas y cola pardo oscuras. Pecho blancuzco con fino estriado pardo. Vientre y subcaudales rosáceo pálido. Pico y patas negros."
-      },
-      "curiosidades": "Solo el macho luce el llamativo plumaje escarlata; la hembra y los juveniles son discretamente pardos. Durante el cortejo el macho realiza un vuelo ondulante ascendente mientras canta, exhibiendo su plumaje. El nombre del género Pyrocephalus significa 'cabeza de fuego' en griego.",
-      "sprites": {
-        "M": "Pyrocephalus_rubinus_M.png",
-        "F": "Pyrocephalus_rubinus_F.png"
-      },
-      "prompts_pixelart": {
-        "M": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY the colours: replace the grey-brown crown with brilliant scarlet-red crown with a slight raised crest; replace the dusky mask and lores with solid black lores and mask through the eye; replace the dark brownish back with dark brownish-black nape, back and rump; keep the dark brown-black wings and tail; replace the whitish streaked breast and throat with brilliant scarlet-red throat, breast and belly; replace the pale salmon-pink belly and undertail with brilliant scarlet-red; keep the short slender black bill and black legs; keep white background, no shadow, no text",
-        "F": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY the colours: replace the brilliant scarlet-red crown and crest with grey-brown; replace the black mask and lores with dusky grey-brown blending into the face; keep the dark brownish-black nape, back, wings and tail unchanged; replace the scarlet-red throat and breast with whitish with fine dark brown streaking; replace the scarlet-red belly and undertail with pale salmon-pink to rosy; keep the short slender black bill and black legs unchanged; keep white background, no shadow, no text"
-      }
-    },
-    {
       "id": 59,
       "num": "#059",
-      "nombre_comun": "Varillero Congo",
-      "nombre_cientifico": "Chrysomus ruficapillus",
-      "orden": "Passeriformes",
-      "familia": "Icteridae",
-      "largo_cm": 17,
-      "envergadura_cm": 28,
-      "tamanio_categoria": "chico",
-      "estado_conservacion": "LC",
-      "residencia": "permanente",
-      "habitat": [
-        "humedal",
-        "laguna",
-        "ribereño"
-      ],
-      "provincias": [
-        "Buenos Aires",
-        "CABA",
-        "Santa Fe",
-        "Entre Ríos",
-        "Corrientes",
-        "Misiones",
-        "Chaco",
-        "Formosa"
-      ],
-      "audio_ebird_code": "chcbla2",
-      "descripcion": {
-        "M": "Macho de aspecto contrastado. Frente, corona y garganta castaño-rojizas brillantes. Todo el resto del plumaje negro intenso: pecho, dorso, alas y cola. Pico largo, cónico y puntiagudo, negro. Patas negras.",
-        "F": "Hembra discreta. Partes superiores pardo oscuras con suave estriado. Garganta ante pálida. Pecho y vientre pardo-oliváceo. Sin el capucho castaño del macho. Pico negro cónico. Patas pardas."
-      },
-      "curiosidades": "Forma colonias de nidificación en juncales y totorales, a menudo junto a otras aves acuáticas. Fuera de la temporada reproductiva puede congregarse en bandadas de hasta un millar de individuos. Su nombre 'congo' alude al negro intenso del plumaje del macho.",
-      "sprites": {
-        "M": "Chrysomus_ruficapillus_M.png",
-        "F": "Chrysomus_ruficapillus_F.png"
-      },
-      "prompts_pixelart": {
-        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched upright on a reed stem, white background, 1024x1024 pixels, bird filling 60% of canvas height, small blackbird, dark chestnut on the forehead and front of the crown only, BLACK nape blending into the black back, a wide BLACK mask covering the lores, face and around the eye, dark chestnut throat patch and a small area on the uppermost breast, all remaining plumage glossy black with a faint bluish sheen on back and wings, short conical black bill, dark brown eye, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
-        "F": "recolor this exact sprite, keep the pose, outline, size and composition completely unchanged, only change the colours: replace all black plumage with dark olive-brown, replace the dark chestnut crown and throat with dull yellowish-olive, entire bird becomes olive-yellowish-brown with faint dark streaking on the breast and flanks, wings dark brown with yellowish-olive feather edges, tail dark brown, bill dark grey with paler base on lower mandible, dark greyish-blue legs, white background, no shadow, no text"
-      }
-    },
-    {
-      "id": 60,
-      "num": "#060",
       "nombre_comun": "Corbatita",
       "nombre_cientifico": "Sporophila caerulescens",
       "orden": "Passeriformes",
@@ -2988,6 +2938,56 @@
         "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a grass stem, white background, 1024x1024 pixels, bird filling 50% of canvas height, tiny seedeater with a short thick rounded bill, lead-grey crown and face with darker blackish forehead and moustachial area, small whitish crescent below the eye, black throat patch with a narrow white stripe bordering it on each side, grey-brown back and tail, grey-brown wings, white lower throat and breast with a narrow bold black band across the centre of the breast, whitish belly with faint grey spots on flanks, short thick yellowish bill, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
         "F": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY the colours: replace the lead-grey crown and face with warm buffy-brown; replace the black forehead and moustachial area with slightly darker dull brown; remove the white crescent below the eye blending it into buffy-brown face; replace the black throat patch and white stripes with uniform paler buff throat; replace the bold black breast band and white breast with warm buff-brown breast and flanks; replace the whitish belly with pale buff belly; replace the grey-brown back and wings with warm buffy-brown upperparts and buff-brown wings and tail; change the bill to dark above with dull yellowish-horn lower mandible; change the black legs to dark grey; keep white background, no shadow, no text"
       }
+    },
+    {
+      "id": 60,
+      "num": "#060",
+      "nombre_comun": "Naranjero",
+      "nombre_cientifico": "Rauenia bonariensis",
+      "familia": "Thraupidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "M": "Ave mediana con marcado dimorfismo sexual (ssp bonariensis). Cabeza, cuello y garganta azul-maíz brillante uniforme. Antifaz negro reducido en los lores y área ocular. Dorso y escápulas negros, extendiéndose a los lados del pecho formando un collar parcial negro. Rabadilla amarillo-anaranjado brillante. Alas pardas con bordes azules; cola negra bordeada de azul. Pecho a mitad del vientre amarillo-anaranjado intenso, vientre inferior amarillo brillante. Pico oscuro con mandíbula inferior gris-pálida. Ojo pardo-rojizo. Patas gris oscuro.",
+        "F": "Pardo-olivácea uniforme sin manchas contrastantes. Partes superiores pardo-oliva apagado. Partes inferiores ante-amarillento pálido. Sin antifaz ni collar. Pico gris. Patas oscuras. Notablemente más apagada que el macho."
+      },
+      "habitat": [
+        "urbano",
+        "monte",
+        "pastizal",
+        "agrícola"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": 17,
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Santiago del Estero",
+        "Córdoba",
+        "La Pampa",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Mendoza",
+        "San Luis"
+      ],
+      "curiosidades": "El macho es una de las aves más coloridas de Buenos Aires. Se alimenta de frutas, semillas e insectos y es un visitante frecuente de jardines con frutales. El nombre 'bonariensis' de su nombre científico hace referencia a Buenos Aires, ciudad donde fue descripto por primera vez para la ciencia.",
+      "sprites": {
+        "M": "Rauenia_bonariensis_M.png",
+        "F": "Rauenia_bonariensis_F.png"
+      },
+      "prompts_pixelart": {
+        "M": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw or change the shape in any way. Change ONLY the colours: make the entire head and throat a uniform bright cornflower-blue — crown, nape, cheeks, chin and throat all the SAME blue, no dark or black chin or throat; keep only the small black mask on lores and around the eye; keep the black mantle, blue wings, yellow-orange underparts and pale grey lower mandible unchanged. White background, no shadow, no text.",
+        "F": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium-sized tanager, entire bird dull olive-brown throughout — head, back, wings and tail all the same muted olive-brown with no contrasting patches, underparts pale buffy-yellowish (slightly paler than back but not vivid), no blue or grey on wings, no mask, short dark bill with pale grey lower mandible, reddish-brown eye, dark legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": null
     }
   ]
 }
