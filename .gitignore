@@ -7,3 +7,6 @@ Sprites/*(*).png
 .dolt/
 *.db
 .beads-credential-key
+
+# Fuente IGN original (48 MB) — generar_mapas.py la simplifica en argentina_provincias.geojson
+limites_provinciales.js
