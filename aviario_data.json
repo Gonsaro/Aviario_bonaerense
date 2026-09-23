@@ -2426,9 +2426,6 @@
       },
       "curiosidades": "Es habitual verlo posado en lo alto de postes de alambrado o arbustos, desde donde sale a cazar insectos al vuelo o se alimenta de frutos. Durante la migración forma bandadas muy numerosas, con dormideros de hasta 10.000 individuos.",
       "gbif_taxon_key": 5229693,
-      "thumb_clip": [
-        "D"
-      ],
       "sprites": {
         "D": "Tyrannus_savana_D.png",
         "V": "Tyrannus_savana_V.png",
@@ -2440,7 +2437,8 @@
         "J": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thin branch, white background, 1024x1024 pixels, bird filling 55% of canvas height, medium tyrant with a moderately forked tail (shorter than adult male — tail not longer than body), black head and crown, grey back, black wings and tail, white throat and underparts, short dark bill, dark legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "id": 51,
-      "num": "#051"
+      "num": "#051",
+      "thumb_sprite": "J"
     },
     {
       "id": 52,
@@ -2511,7 +2509,7 @@
         "ribereño"
       ],
       "residencia": "permanente",
-      "tamanio_categoria": "pequeño",
+      "tamanio_categoria": "chico",
       "estado_conservacion": "LC",
       "descripcion": {
         "M": "Ave pequeña de postura erguida y patas largas. Plumaje enteramente negro. Gran carnosidad amarilla alrededor del ojo, con tinte verdoso. Iris amarillo. Pico amarillo pálido, casi blanquecino a distancia. Ala negra con las primarias mayormente blancas, con base y puntas negras, visible en reposo y muy notorio en vuelo. Cola negra. Patas negras.",
@@ -2647,7 +2645,7 @@
         "pastizal"
       ],
       "residencia": "permanente",
-      "tamanio_categoria": "pequeño",
+      "tamanio_categoria": "chico",
       "estado_conservacion": "LC",
       "descripcion": {
         "D": "Ave pequeña, ágil e inquieta. Plumaje generalmente pardo-grisáceo uniforme, sin marcas de campo obvias a distancia. Dorso pardo, partes inferiores ocráceo pálido a grisáceo. Ceja pálida, a menudo poco marcada, sin estriado en la corona. Alas levemente barradas de pardo oscuro o negro. Cola corta, redondeada, frecuentemente mantenida erguida hacia arriba. Pico recto en la base, curvándose suavemente hacia una punta fina. Ojo oscuro. Patas color carne pálido. Sexos idénticos en coloración."
@@ -2880,7 +2878,7 @@
         "urbano"
       ],
       "residencia": "permanente",
-      "tamanio_categoria": "pequeño",
+      "tamanio_categoria": "chico",
       "estado_conservacion": "LC",
       "descripcion": {
         "M": "Pequeño fringílido de pico cónico y puntiagudo. Capucha negra que cubre toda la cabeza, garganta y pecho superior, con un corte limpio contra el amarillo del pecho inferior. Dorso oliva. Pecho inferior, vientre y rabadilla amarillo brillante. Parches amarillo brillante en el ala plegada que contrastan con las plumas de vuelo negras. Cola negra, levemente ahorquillada.",
@@ -3062,7 +3060,7 @@
         "urbano"
       ],
       "residencia": "permanente",
-      "tamanio_categoria": "pequeño",
+      "tamanio_categoria": "chico",
       "estado_conservacion": "LC",
       "descripcion": {
         "D": "Ictérido de tamaño mediano-pequeño y plumaje monomórfico apagado. Cabeza y partes superiores pardo-grisáceas, algo más pálidas en las partes inferiores. Pico, lores y zona alrededor del ojo oscuros a negros. Alas rufas o castañas, con las puntas de las primarias, porciones internas de las secundarias y la cola negruzcas. Ojo oscuro. Patas oscuras."
