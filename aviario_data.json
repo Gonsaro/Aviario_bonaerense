@@ -3302,6 +3302,152 @@
         "F": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium-sized tanager, entire bird dull olive-brown throughout — head, back, wings and tail all the same muted olive-brown with no contrasting patches, underparts pale buffy-yellowish (slightly paler than back but not vivid), no blue or grey on wings, no mask, short dark bill with pale grey lower mandible, reddish-brown eye, dark legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": null
+    },
+    {
+      "id": 71,
+      "num": "#071",
+      "nombre_comun": "Golondrina Tijerita",
+      "nombre_cientifico": "Hirundo rustica",
+      "familia": "Hirundinidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Golondrina esbelta de cola muy larga y profundamente ahorquillada, con las plumas externas prolongadas en finas 'tijeras'. Frente, mentón y garganta castaño-rojizos. Corona, nuca, dorso y rabadilla azul acero brillante. Alas y cola negruzcas con brillo azulado; la cola abierta muestra una hilera de manchas blancas cerca de la base. Una banda pectoral azul oscura, a veces incompleta, separa la garganta del resto de las partes inferiores, que son canela a ocre-anaranjadas. Pico corto y negro.",
+        "J": "El juvenil es más apagado: dorso pardo-azulado con poco brillo, frente y garganta canela pálido, partes inferiores más blanquecinas y cola mucho más corta, sin las tijeras largas del adulto. Es el plumaje que más se ve en Buenos Aires durante el verano."
+      },
+      "habitat": [
+        "pastizal",
+        "humedal",
+        "agrícola",
+        "aéreo"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "chico",
+      "largo_cm": "17-19",
+      "envergadura_cm": "32-34.5",
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Catamarca",
+        "La Rioja",
+        "San Juan",
+        "Mendoza",
+        "San Luis",
+        "La Pampa",
+        "Neuquén",
+        "Río Negro",
+        "Chubut",
+        "Santa Cruz",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "Es la golondrina más extendida del mundo. La mayoría llega a la Argentina desde Norteamérica para pasar nuestro verano, pero desde la década de 1980 una población empezó a criar en la provincia de Buenos Aires (Mar Chiquita), algo excepcional para una migratoria boreal. Caza insectos en vuelo rasante sobre pastizales y lagunas.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thin wire, white background, 1024x1024 pixels, bird including its long tail filling about 75% of canvas width, slender swallow with long pointed wings, chestnut-red forehead, chin and throat, glossy steel-blue crown, nape and face around the eye, small dark eye, short black bill, glossy steel-blue back and rump, long blackish wings with a blue gloss folded past the body, deeply forked blackish tail with very long thin outer streamers, a narrow dark blue breast band below the chestnut throat, cinnamon to orange-buff breast and belly, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the glossy steel-blue upperparts a duller brownish-blue with little gloss, make the chestnut forehead and throat pale cinnamon, make the cinnamon underparts much paler, nearly whitish, make the breast band dull brownish, shorten the tail streamers to a short forked tail, keep white background, no shadow, no text",
+        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, slender swallow with long pointed swept-back wings, chestnut-red forehead and throat, short black bill, glossy steel-blue crown, back and upperwings, blackish flight feathers, deeply forked tail spread open with very long thin outer streamers and a row of small white spots near the tail base, narrow dark blue breast band, cinnamon to orange-buff underparts and underwing coverts, legs tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "barswa",
+      "gbif_taxon_key": 9515886
+    },
+    {
+      "id": 72,
+      "num": "#072",
+      "nombre_comun": "Estornino Pinto",
+      "nombre_cientifico": "Sturnus vulgaris",
+      "familia": "Sturnidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro robusto, de cola corta, alas triangulares y pico largo y puntiagudo. Plumaje negro con brillos violáceos y verdosos, densamente salpicado de pintas blancas en cabeza, pecho y vientre, y de pintas ocráceas en dorso y alas. Plumas de las alas con bordes ocre. Pico negruzco. Patas rosado-rojizas. Iris pardo intenso en el macho, pardo-grisáceo en la hembra.",
+        "R": "Con el desgaste de las plumas en primavera, las pintas casi desaparecen y el plumaje luce negro lustroso con reflejos violetas y verdes. Pico amarillo, con la base gris-azulada en el macho y rosada en la hembra. Patas rosado-rojizas."
+      },
+      "habitat": [
+        "urbano",
+        "agrícola",
+        "pastizal"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "19-23",
+      "envergadura_cm": "31-44",
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Córdoba",
+        "La Pampa",
+        "Mendoza",
+        "San Luis"
+      ],
+      "curiosidades": "Especie exótica, originaria de Eurasia. Se detectó por primera vez en jardines de la ciudad de Buenos Aires en 1987 y desde entonces se expandió unos 7,5 km por año por la región pampeana. Compite con aves nativas por los huecos para anidar, como carpinteros y golondrinas. Es un gran imitador de sonidos.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on the ground, white background, 1024x1024 pixels, bird filling 65% of canvas height, stocky short-tailed songbird with a long pointed bill, black head with a purple and green gloss peppered with small distinct white spots, small dark brown eye with a tiny dark pupil, long pointed blackish bill, black back and wing coverts peppered with small distinct buff spots, dark flight feathers with buff edges, short square black tail with buff edges, black throat, breast and belly with purple and green gloss peppered with small distinct white spots, pinkish-red legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "R": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: remove almost all the white and buff spots so the plumage is glossy black with strong purple and green iridescence, keep only a few faint buff edges on the wing feathers, change the blackish bill to bright yellow with a blue-grey base, keep the pinkish-red legs, keep white background, no shadow, no text"
+      },
+      "audio_ebird_code": "eursta",
+      "gbif_taxon_key": 9809229
+    },
+    {
+      "id": 73,
+      "num": "#073",
+      "nombre_comun": "Pirincho",
+      "nombre_cientifico": "Guira guira",
+      "familia": "Cuculidae",
+      "orden": "Cuculiformes",
+      "descripcion": {
+        "D": "Cuclillo mediano de cola larga y aspecto desaliñado. Copete desflecado ocre-anaranjado, casi siempre erguido; cabeza ocrácea con finas estrías oscuras. Pico amarillo-anaranjado, algo curvo. Ojo amarillo-anaranjado rodeado de un anillo de piel amarilla. Dorso y alas pardo oscuro con estrías blancas. Parte baja del dorso blanca y rabadilla ocrácea, muy visibles en vuelo. Cola larga y ancha, parda oscura con amplia punta blanca. Garganta y pecho blanco-ocráceos con finas estrías pardas; vientre blanco-ocráceo liso. Patas gris oscuro."
+      },
+      "habitat": [
+        "urbano",
+        "pastizal",
+        "monte",
+        "agrícola"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": 34,
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Catamarca",
+        "San Luis",
+        "La Pampa"
+      ],
+      "curiosidades": "Vive en grupos ruidosos que se acurrucan juntos en una rama para tomar sol a primera hora de la mañana. Anida en forma comunal: varias hembras ponen en un mismo nido y a veces expulsan los huevos de las otras. Su grito descendente 'pío-pío-pirrrr' es uno de los sonidos típicos del campo bonaerense.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a branch, white background, 1024x1024 pixels, bird including its long tail filling about 75% of canvas width, slender long-tailed cuckoo with a shaggy ragged orange-rufous crest raised upright, ochre head with fine dark streaks, slightly curved yellow-orange bill, small yellow-orange eye with a tiny dark pupil surrounded by bare yellow skin, dark brown back and wings streaked with white, white lower back and buff rump, long broad dark brown tail with a broad white tip, whitish-buff throat and breast with fine brown streaks, plain whitish-buff belly, dark grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, slender long-tailed cuckoo flying, shaggy orange-rufous crest, ochre streaked head, yellow-orange bill, neck extended, dark brown upperwings streaked with white, rounded wings, bold white lower back and buff rump, long broad dark brown tail spread with a broad white tip, whitish-buff underparts with fine brown streaks on the breast, dark grey legs tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "guicuc1",
+      "gbif_taxon_key": 2496462
     }
   ]
 }

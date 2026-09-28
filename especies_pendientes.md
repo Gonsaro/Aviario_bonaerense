@@ -2,27 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (60 cargadas).
+`aviario_data.json` (73 cargadas).
 
 
-**Faltan: 299 especies**
+**Faltan: 286 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 5 | Pingüino Patagónico | *Spheniscus magellanicus* | #306 |
-| 16 | Paloma Picazuró | *Patagioenas picazuro* | #83 |
-| 20 | Cabecitanegra | *Spinus magellanicus* | #913 |
-| 21 | Tordo Músico | *Agelaioides badius* | #949 |
-| 24 | Pico de Plata | *Hymenops perspicillatus* | #810 |
-| 25 | Tijereta | *Tyrannus savana* | #786 |
-| 26 | Pato Barcino | *Anas flavirostris* | #54 |
-| 28 | Ratona | *Troglodytes musculus* | #872 |
-| 30 | Verdón | *Embernagra platensis* | #1038 |
-| 31 | Cigüeña Americana | *Ciconia maguari* | #366 |
-| 35 | Golondrina Tijerita | *Hirundo rustica* | #870 |
-| 37 | Estornino Pinto Eurasiático | *Sturnus vulgaris* | #901 |
-| 38 | Pirincho | *Guira guira* | #106 |
 | 40 | Tacuarita Azul | *Polioptila dumicola* | #878 |
 | 42 | Pecho Amarillo Chico | *Pseudoleistes virescens* | #955 |
 | 48 | Pitotoy Chico | *Tringa flavipes* | #261 |
