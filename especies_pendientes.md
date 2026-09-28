@@ -2,17 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (85 cargadas).
+`aviario_data.json` (88 cargadas).
 
 
-**Faltan: 274 especies**
+**Faltan: 271 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 67 | Pollona Negra | *Gallinula galeata* | #200 |
-| 68 | Chinchero Chico | *Lepidocolaptes angustirostris* | #621 |
-| 71 | Espátula Rosada | *Platalea ajaja* | #406 |
 | 73 | Carau | *Aramus guarauna* | #179 |
 | 76 | Playerito Rabadilla Blanca | *Calidris fuscicollis* | #243 |
 | 77 | Celestino | *Thraupis sayaca* | #1073 |

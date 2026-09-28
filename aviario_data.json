@@ -4165,6 +4165,176 @@
         "Provincias: Río Negro, Neuquén, Chubut y Mendoza tienen muchos registros en GBIF pero están fuera del rango nativo (probables poblaciones escapadas o introducidas) — confirmar",
         "Provincias: confirmar Catamarca, La Rioja, San Juan y Santa Cruz (pocos registros en GBIF, posibles escapes de jaula)"
       ]
+    },
+    {
+      "id": 86,
+      "num": "#086",
+      "nombre_comun": "Pollona Negra",
+      "nombre_cientifico": "Gallinula galeata",
+      "familia": "Rallidae",
+      "orden": "Gruiformes",
+      "descripcion": {
+        "D": "Ave acuática mediana, del tamaño de un pato chico. Escudete en la frente rojo brillante que sigue en un pico rojo con la punta amarilla. Ojo rojo. Cabeza y cuello negruzcos. Dorso y alas pardo oscuros; cola corta que mueve seguido al nadar. Cuerpo gris pizarra con una línea blanca bien marcada a lo largo del costado, y plumas blancas a los lados de la parte de abajo de la cola. Patas largas verde amarillentas con dedos muy largos y una 'liga' roja arriba del talón.",
+        "J": "Más pardo y apagado que el adulto, sin el escudete rojo y con el pico opaco, no rojo. Conserva la línea blanca del costado y el blanco debajo de la cola."
+      },
+      "habitat": [
+        "humedal",
+        "ribereño"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "32-35",
+      "envergadura_cm": "54-62",
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "La Pampa",
+        "Mendoza",
+        "Tucumán",
+        "Salta",
+        "Jujuy"
+      ],
+      "curiosidades": "Vive en lagunas, bañados, canales y orillas con mucha vegetación, y en parques de ciudad puede volverse bastante confiada. Nada moviendo la cabeza hacia adelante y la cola corta, y sus dedos largos le permiten caminar sobre plantas flotantes como los camalotes. Come de todo: plantas acuáticas, semillas, insectos, caracoles y otros bichitos del agua. Defiende su territorio a los picotazos y patadas. Arma el nido como una canasta entre la vegetación densa, y los dos padres incuban y alimentan a los pichones, que son negros y peludos. Hasta 2011 se la consideraba la misma especie que la polla de agua de Europa.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on a floating leaf, white background, 1024x1024 pixels, bird filling 60% of canvas height, compact marsh bird, bright red frontal shield, short red bill with a yellow tip, small red eye with a tiny dark pupil, blackish head and neck, dark brown back and wings, short cocked tail, slate grey breast and belly, bold white stripe along the flank, white patches on both sides of the undertail, long yellowish-green legs with very long toes and a small red band at the top of the leg, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: replace the red frontal shield and red bill with dull dark olive-brown, make the head, neck and body plumage paler and browner overall (duller than the adult), remove the red band on the legs, keep the white flank stripe, the white undertail patches and the white background, no shadow, no text"
+      },
+      "audio_ebird_code": "comgal1",
+      "gbif_taxon_key": 7340222,
+      "pendientes": [
+        "Color de ojo rojo y 'liga' roja en la pata solo confirmados por resúmenes de búsqueda (All About Birds / BirdForum), no por lectura directa de la ficha",
+        "Juvenil: Wikipedia (en) dice solo 'más pardo y sin escudete rojo'; colores de pico, patas y garganta del juvenil sin confirmar (el recolor J conserva las patas del adulto)",
+        "Dorso: 'negro y pardo' según Wikipedia (en, polla de agua), la subespecie de Argentina no está descrita en detalle — se usó pardo oscuro",
+        "gbif_taxon_key 7340222 es el usageKey del match, pero GBIF lo trata como sinónimo de Gallinula chloropus (acceptedUsageKey 5228200) — confirmar cuál usar",
+        "Residencia: se cargó 'permanente' para Buenos Aires (inferido); ninguna fuente consultada lo dice para Argentina",
+        "Provincias: Santa Cruz tiene ~200 registros en GBIF pero está fuera de la distribución descrita (hasta el norte/centro de Argentina) — confirmar",
+        "Provincias: confirmar Catamarca, San Juan, La Rioja, Río Negro, Neuquén y Tierra del Fuego (pocos registros en GBIF)",
+        "No se pudo consultar Avibase ni EcoRegistros (403 / bloqueados desde el entorno)"
+      ]
+    },
+    {
+      "id": 87,
+      "num": "#087",
+      "nombre_comun": "Chinchero Chico",
+      "nombre_cientifico": "Lepidocolaptes angustirostris",
+      "familia": "Furnariidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro chico y esbelto que trepa por los troncos. Corona y nuca pardo negruzcas con estrías claras. Ceja blanca muy marcada, que se ensancha hacia atrás y termina en una línea de puntitos, y una línea negra detrás del ojo. Pico largo, fino y curvado hacia abajo, gris claro a rosado. Ojo pardo. Dorso pardo rojizo; alas, rabadilla y cola color canela rojizo. Garganta y cachetes blancuzcos lisos. Pecho y vientre blancuzcos con estrías oscuras. Patas gris verdosas a gris oscuras. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "monte",
+        "bosque",
+        "urbano",
+        "agrícola"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "18-22",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "La Pampa",
+        "Mendoza",
+        "Catamarca",
+        "La Rioja",
+        "Tucumán",
+        "Salta",
+        "Jujuy"
+      ],
+      "curiosidades": "Sube por los troncos en espiral, desde cerca del suelo hasta las ramas altas, revisando la corteza con su pico fino en busca de insectos y arañas; a diferencia de otros trepadores casi no se apoya en la cola. A veces baja al suelo a comer hormigas y hasta se lo vio cazando polillas alrededor de los faroles. Se acercó mucho a la gente: recorre árboles de plazas, frutales y postes de luz o alambrado. Anida en huecos de árboles, a menudo agujeros viejos de carpinteros, y también en estructuras como pilares de puentes; los dos padres incuban 2 a 4 huevos. Su canto es una serie fuerte de silbidos que bajan de tono.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), clinging upright to a vertical tree trunk, white background, 1024x1024 pixels, bird filling 65% of canvas height, slim woodcreeper, blackish brown crown streaked with pale buff, broad white eyebrow widening toward the back and breaking into small spots, black stripe behind the eye, long thin downcurved pale grey-pinkish bill, small brown eye with a tiny dark pupil, rufous brown back, rufous chestnut wings, rump and stiff tail, plain whitish throat and cheeks, whitish breast and belly with distinct dark streaks, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "nabwoo1",
+      "gbif_taxon_key": 2486024,
+      "pendientes": [
+        "La subespecie de Buenos Aires (praedatus) es según Wikipedia (en) más pardo oliva y menos rojiza por arriba, con estrías del pecho más densas y oscuras que la nominal; la descripción y el prompt usan la nominal — revisar tono del dorso",
+        "Color de corona: 'pardo negruzca con estrías blanco ocráceas' según Wikipedia (en), 'negra con rayas blancuzcas a amarillentas' según Wikipedia (es) — se usó pardo negruzca",
+        "Juvenil (más oscuro, ceja y partes inferiores más ocráceas según Wikipedia en) no justifica variante propia; no se creó J",
+        "Envergadura sin dato (null)",
+        "Provincias: confirmar San Juan y Río Negro (pocos registros en GBIF, fuera del límite sur descrito: Mendoza, La Pampa y Buenos Aires)",
+        "No se pudo consultar Avibase ni EcoRegistros (403 / bloqueados desde el entorno)"
+      ]
+    },
+    {
+      "id": 88,
+      "num": "#088",
+      "nombre_comun": "Espátula Rosada",
+      "nombre_cientifico": "Platalea ajaja",
+      "familia": "Threskiornithidae",
+      "orden": "Pelecaniformes",
+      "descripcion": {
+        "D": "Ave grande de patas largas, inconfundible por su pico largo, chato y ensanchado en la punta como una cuchara. Cabeza pelada de piel verdosa. Ojo rojo. Cuello, parte alta del dorso y pecho blancos. El resto del cuerpo y las alas rosados, con el hombro y la rabadilla rojo carmín bien intenso. Cola anaranjada. Patas largas rojizas.",
+        "J": "Más pálido que el adulto: cabeza cubierta de plumas blancas, cuerpo blancuzco con tintes rosados apagados y pico amarillento o rosado."
+      },
+      "habitat": [
+        "humedal",
+        "ribereño",
+        "costa"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "grande",
+      "largo_cm": "71-86",
+      "envergadura_cm": "120-133",
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "La Pampa",
+        "Salta",
+        "Jujuy"
+      ],
+      "curiosidades": "Come caminando despacio por el agua baja con el pico entreabierto, moviéndolo de un lado a otro para filtrar del barro crustáceos, insectos acuáticos, caracoles, peces chiquitos y semillas. Muchas veces la siguen garzas que aprovechan los bichos que ella espanta. Su color rosado viene de pigmentos de lo que come, como pasa con los flamencos, y puede ir de rosa pálido a magenta. Vuela con el cuello estirado, a diferencia de las garzas. Anida en colonias sobre arbustos o árboles y pone de 2 a 5 huevos blancuzcos con manchas pardas. En el siglo XIX casi desaparece por la caza para sacarle las plumas.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing in shallow water, white background, 1024x1024 pixels, bird filling 65% of canvas height, large long-legged wading bird, bare greenish head without feathers, long flat grey bill widening into a spoon-shaped tip, small red eye with a tiny dark pupil, white neck and upper back, pink wings with a bright carmine red shoulder patch, carmine red rump, orange tail, white breast, pink belly, long reddish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: replace the bare greenish head with white feathered head, make the pink wings, belly and rump pale whitish pink, remove the carmine red shoulder patch, make the tail pale whitish pink, make the bill yellowish pink, keep the white neck, keep white background, no shadow, no text",
+        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, large wading bird, neck extended straight forward, bare greenish head, long flat grey bill with a spoon-shaped tip, white neck and upper back, open pink wings with bright carmine red coverts along the leading edge, carmine red rump, orange tail, pink belly, long reddish legs extended straight behind the tail, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "rosspo1",
+      "gbif_taxon_key": 2480803,
+      "pendientes": [
+        "Color de pico: 'gris' según Wikipedia (en), 'verde amarillento' según Wikipedia (es) — se usó gris",
+        "Color de piel de la cabeza: 'verdosa' según Wikipedia (en), 'verde amarillento' según Wikipedia (es); en reproductivo 'amarillo dorado' — se usó verdosa, sin variante R",
+        "Ojo rojo, patas rojizas y cola anaranjada solo confirmados por resúmenes de búsqueda (All About Birds, Birds of the World), no por lectura directa de la ficha",
+        "Banda negra en la nuca (vista en fotos) no confirmada por ninguna fuente de texto: omitida del prompt",
+        "Juvenil: colores de patas y ojo sin confirmar (el recolor J conserva los del adulto); color de cola del juvenil inferido",
+        "Vuelo: patas extendidas hacia atrás (no recogidas, por ser ave zancuda) — inferido por analogía con garzas; no confirmado por fuente",
+        "Residencia: se cargó 'permanente'; no se encontró fuente sobre movimientos estacionales en Buenos Aires",
+        "Provincias: confirmar Tucumán, Catamarca, San Luis, Mendoza, Misiones, San Juan, La Rioja, Río Negro y Chubut (pocos registros en GBIF; hay nota de Nuestras Aves sobre un registro en San Juan)",
+        "No se pudo consultar Avibase ni EcoRegistros (403 / bloqueados desde el entorno)"
+      ]
     }
   ]
 }
