@@ -4335,6 +4335,171 @@
         "Provincias: confirmar Tucumán, Catamarca, San Luis, Mendoza, Misiones, San Juan, La Rioja, Río Negro y Chubut (pocos registros en GBIF; hay nota de Nuestras Aves sobre un registro en San Juan)",
         "No se pudo consultar Avibase ni EcoRegistros (403 / bloqueados desde el entorno)"
       ]
+    },
+    {
+      "id": 89,
+      "num": "#089",
+      "nombre_comun": "Carau",
+      "nombre_cientifico": "Aramus guarauna",
+      "familia": "Aramidae",
+      "orden": "Gruiformes",
+      "descripcion": {
+        "D": "Ave grande de cuello largo y patas largas, parecida a una garza o a un cuervillo. Cabeza y cuello se ven grisáceos por la gran cantidad de estrías blancas; cara y garganta más claras. Pico largo, grueso y apenas curvado hacia abajo, amarillento con la punta más oscura. Ojo pardo. Dorso y alas pardo oscuros con brillo oliva, salpicados de manchitas blancas en forma de triángulo. Cola corta. Pecho pardo con estrías blancas y vientre pardo oscuro liso. Patas largas oscuras. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "humedal",
+        "ribereño"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "grande",
+      "largo_cm": "64-73",
+      "envergadura_cm": "100-107",
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "La Pampa",
+        "Salta",
+        "Jujuy"
+      ],
+      "curiosidades": "Se alimenta casi solo de caracoles de agua, sobre todo los grandes caracoles manzana (ampularias): su pico no cierra del todo cerca de la punta y funciona como una pinza para sacar el caracol de la concha sin romperla. Muchas veces la punta del pico está un poco torcida hacia la derecha, igual que las conchas que abre. Es más fácil oírlo que verlo: su grito fuerte y lastimero, 'carrau', se escucha sobre todo de noche y al amanecer, y le dio su nombre. En Paraguay y el Litoral hay una leyenda que cuenta que era un joven que siguió bailando cuando le avisaron que su madre había muerto y fue castigado a llorar para siempre en los esteros. Camina como si rengueara, y en inglés lo llaman 'limpkin' por eso.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing in shallow water, white background, 1024x1024 pixels, bird filling 65% of canvas height, large long-necked long-legged wading bird, greyish head and neck densely streaked with white, paler face and throat, long heavy slightly downcurved yellowish bill with a darker tip, small brown eye with a tiny dark pupil, dark olive-brown back and wings covered with small distinct white triangular spots, short dark brown tail, brown breast streaked with white, plain dark brown belly, long dark grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "limpki",
+      "gbif_taxon_key": 2474337,
+      "pendientes": [
+        "Color de patas: 'gris oscuro' según Wikipedia (en), 'negro oliváceo apagado' según Birds of the World (resumen de búsqueda) — se usó gris oscuro",
+        "Color de ojo (pardo) solo confirmado por resumen de búsqueda de Birds of the World, no por lectura directa de la ficha",
+        "Envergadura: 101-107 cm según Wikipedia (en), 100 cm según Wikipedia (es) — se cargó 100-107",
+        "Vientre pardo liso (sin estrías) inferido de 'marcado de blanco salvo la parte trasera' en Wikipedia (en)",
+        "Juvenil (manchas blancas algo menos marcadas) no justifica variante propia; no se creó J ni V",
+        "Provincias: confirmar Catamarca, Tucumán, San Luis, Mendoza, San Juan, La Rioja, Río Negro y Santa Cruz (pocos registros en GBIF, fuera de la distribución descrita hasta el norte/centro de Argentina)",
+        "No se pudo consultar Avibase ni EcoRegistros (403 / bloqueados desde el entorno)"
+      ]
+    },
+    {
+      "id": 90,
+      "num": "#090",
+      "nombre_comun": "Playerito Rabadilla Blanca",
+      "nombre_cientifico": "Calidris fuscicollis",
+      "familia": "Scolopacidae",
+      "orden": "Charadriiformes",
+      "descripcion": {
+        "D": "Playero chico de alas muy largas, que en reposo sobresalen más allá de la cola. Corona gris parda y una línea oscura que pasa por el ojo, con una ceja blanca bien marcada. Pico negro, fino y de largo mediano. Ojo pardo. Dorso y alas gris pardo con el centro de las plumas más oscuro. Rabadilla blanca, que solo se ve cuando vuela. Pecho grisáceo con estrías finas que siguen por los flancos; garganta y vientre blancos. Patas negras. Es el plumaje que se ve en la Argentina durante nuestro verano.",
+        "R": "En plumaje reproductivo (a veces visible en aves que se van a fines del verano) la corona y la cara se ven más parduscas, el dorso tiene plumas negras con bordes claros y el pecho y los flancos están más estriados."
+      },
+      "habitat": [
+        "costa",
+        "humedal",
+        "pastizal"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "chico",
+      "largo_cm": "15-18",
+      "envergadura_cm": "36-38",
+      "estado_conservacion": "VU",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "Mendoza",
+        "La Pampa",
+        "Río Negro",
+        "Chubut",
+        "Santa Cruz",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "Cría en la tundra del Ártico de Canadá y Alaska y pasa nuestro verano en las costas y lagunas del sur de Sudamérica: es uno de los migrantes más extremos del mundo, con más de 30.000 km de viaje por año y vuelos sin escalas de hasta 4.200 km. Llega en grandes bandadas a playas y marismas patagónicas, como las de Bahía San Antonio o Península Valdés, donde come almejitas, gusanos, crustáceos e insectos que busca picoteando en el barro. Su llamado es un 'tziit' agudo y metálico, parecido al ruido de dos piedritas frotadas. En 2024 fue recategorizado como Vulnerable porque su población cayó casi a la mitad en tres generaciones.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 60% of canvas height, small shorebird with a long slender body, grey-brown crown, dark stripe through the eye, bold white eyebrow, thin straight black bill of medium length, small brown eye with a tiny dark pupil, plain grey-brown back and wing coverts with darker feather centres, long dark wingtips extending past the tail, white throat, grey breast with fine dark streaks continuing onto the flanks, white belly, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "R": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the crown and face warmer brown, make the back feathers black with pale edges, give the wing coverts grey edges, make the breast and flanks more heavily streaked with dark brown, keep the white belly and black legs, keep white background, no shadow, no text",
+        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, small shorebird with long pointed wings, neck extended, legs tucked, grey-brown crown, white eyebrow, thin straight black bill, open dark grey-brown upperwings with a thin white wing stripe, bright white rump band, dark grey tail, grey streaked breast, white belly, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "whrsan",
+      "gbif_taxon_key": 2481756,
+      "pendientes": [
+        "Estado de conservación: VU según GBIF/IUCN y BirdLife (recategorizado en 2024 desde LC) — se cargó VU",
+        "Base del pico inferior pardo rojiza (confirmada por All About Birds/Birds of the World en resúmenes de búsqueda) omitida del prompt por ser muy chica a 128 px",
+        "Plumaje reproductivo: Wikipedia (en) describe dorso con plumas negras y cubiertas con bordes grises; los tonos canela/rojizos del dorso no se confirmaron y se omitieron en R",
+        "Color de ojo (pardo) solo confirmado por resumen de búsqueda, no por lectura directa de una ficha",
+        "Hábitat: se incluyó 'pastizal' por analogía con otros playeros (pastizales inundados); no confirmado para Buenos Aires",
+        "Provincias: confirmar Salta, Jujuy, Catamarca, Tucumán, La Rioja, San Juan, Neuquén y Misiones (pocos registros en GBIF)",
+        "No se pudo consultar Avibase ni EcoRegistros (403 / bloqueados desde el entorno)"
+      ]
+    },
+    {
+      "id": 91,
+      "num": "#091",
+      "nombre_comun": "Celestino",
+      "nombre_cientifico": "Thraupis sayaca",
+      "familia": "Thraupidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro chico de color gris celeste, muy común en plazas y jardines. Cabeza gris con tono celeste. Pico corto y grueso, gris azulado con la punta de arriba negra. Ojo pardo oscuro. Dorso gris con tono celeste verdoso. Alas pardo oscuras con los bordes de las plumas y las cubiertas celeste verdosas, que forman un parche más vivo que el cuerpo. Cola negruzca con tono celeste verdoso. Pecho gris claro con tono celeste y vientre blancuzco. Patas gris azuladas. Macho y hembra son parecidos; la hembra es algo más apagada."
+      },
+      "habitat": [
+        "urbano",
+        "monte",
+        "bosque",
+        "agrícola"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "16-18",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "Catamarca",
+        "La Rioja",
+        "Tucumán",
+        "Salta",
+        "Jujuy"
+      ],
+      "curiosidades": "Es uno de los pájaros más comunes de las ciudades del este de Sudamérica: anda en parejas o grupitos por árboles de plazas y frutales, y come frutas, semillas, flores, brotes e insectos. Hasta come hojas de algunas plantas, algo poco común en pájaros. Hace un nido en forma de taza con fibras vegetales sobre las ramas y pone unos 3 huevos verdosos o crema con pintitas; la pareja incuba unos 14 días y los pichones dejan el nido a las dos semanas. Su canto es una mezcla apurada de silbidos agudos, algo desafinados. En Argentina y Paraguay también lo llaman 'chogüí', y algunas clasificaciones lo ubican en el género Tangara.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a branch, white background, 1024x1024 pixels, bird filling 60% of canvas height, compact tanager, grey head with a light blue tint, short thick blue-grey bill with a black tip on the upper mandible, small dark brown eye with a tiny dark pupil, grey back with a blue-green tint, dark brown wings with bright turquoise blue-green feather edges and coverts, blackish tail edged blue-green, pale grey breast with a light blue tint, whitish belly, blue-grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "saytan1",
+      "gbif_taxon_key": 2488622,
+      "pendientes": [
+        "Taxonomía: la lista oficial (Monteleone & Pagano 2022) y GBIF match usan Thraupis sayaca; HBW/BirdLife y el backbone de GBIF (IUCN) lo tratan como Tangara sayaca — se usó Thraupis",
+        "Color de pico: 'gris azulado con punta de la maxila negra' según Wikipedia (es), 'gris oscuro con mandíbula gris azulada' según oiseaux-birds.com — se usó gris azulado con punta negra",
+        "Hembra algo más apagada y juvenil más opaco (oiseaux-birds.com); no justifican variantes propias, no se crearon F ni J",
+        "Largo: 16,5 cm según Wikipedia (es), 16-18 cm según otras fuentes — se cargó 16-18",
+        "Envergadura sin dato (null)",
+        "Provincias: confirmar San Juan, Mendoza, Neuquén, La Pampa, Río Negro y Santa Cruz (pocos registros en GBIF; Wikipedia (es) dice que puede llegar a Neuquén y norte de Río Negro)",
+        "No se pudo consultar Avibase ni EcoRegistros (403 / bloqueados desde el entorno)"
+      ]
     }
   ]
 }

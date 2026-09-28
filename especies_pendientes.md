@@ -2,17 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (88 cargadas).
+`aviario_data.json` (91 cargadas).
 
 
-**Faltan: 271 especies**
+**Faltan: 268 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 73 | Carau | *Aramus guarauna* | #179 |
-| 76 | Playerito Rabadilla Blanca | *Calidris fuscicollis* | #243 |
-| 77 | Celestino | *Thraupis sayaca* | #1073 |
 | 78 | Sietevestidos | *Poospiza nigrorufa* | #1044 |
 | 79 | Gaviotín Lagunero | *Sterna trudeaui* | #298 |
 | 80 | Caracolero | *Rostrhamus sociabilis* | #426 |
