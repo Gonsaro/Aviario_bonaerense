@@ -3359,7 +3359,11 @@
         "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, slender swallow with long pointed swept-back wings, chestnut-red forehead and throat, short black bill, glossy steel-blue crown, back and upperwings, blackish flight feathers, deeply forked tail spread open with very long thin outer streamers and a row of small white spots near the tail base, narrow dark blue breast band, cinnamon to orange-buff underparts and underwing coverts, legs tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "barswa",
-      "gbif_taxon_key": 9515886
+      "gbif_taxon_key": 9515886,
+      "pendientes": [
+        "Color de patas sin confirmar (omitido en prompts D/J/V)",
+        "Provincias: cargadas las 24 como supuesto (invernante amplia); verificar distribución real, en especial Patagonia y oeste"
+      ]
     },
     {
       "id": 72,
@@ -3399,7 +3403,10 @@
         "R": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: remove almost all the white and buff spots so the plumage is glossy black with strong purple and green iridescence, keep only a few faint buff edges on the wing feathers, change the blackish bill to bright yellow with a blue-grey base, keep the pinkish-red legs, keep white background, no shadow, no text"
       },
       "audio_ebird_code": "eursta",
-      "gbif_taxon_key": 9809229
+      "gbif_taxon_key": 9809229,
+      "pendientes": [
+        "Provincias: verificar límites de la expansión (Mendoza, San Luis, La Pampa, Córdoba) y si ya llegó a otras provincias"
+      ]
     },
     {
       "id": 73,
@@ -3447,7 +3454,11 @@
         "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, slender long-tailed cuckoo flying, shaggy orange-rufous crest, ochre streaked head, yellow-orange bill, neck extended, dark brown upperwings streaked with white, rounded wings, bold white lower back and buff rump, long broad dark brown tail spread with a broad white tip, whitish-buff underparts with fine brown streaks on the breast, dark grey legs tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "guicuc1",
-      "gbif_taxon_key": 2496462
+      "gbif_taxon_key": 2496462,
+      "pendientes": [
+        "Envergadura sin dato (null)",
+        "Provincias: confirmar presencia en Catamarca, San Luis y La Pampa (borde oeste/sur de su distribución)"
+      ]
     }
   ]
 }
