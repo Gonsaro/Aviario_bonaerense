@@ -2,17 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (73 cargadas).
+`aviario_data.json` (76 cargadas).
 
 
-**Faltan: 286 especies**
+**Faltan: 283 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 40 | Tacuarita Azul | *Polioptila dumicola* | #878 |
-| 42 | Pecho Amarillo Chico | *Pseudoleistes virescens* | #955 |
-| 48 | Pitotoy Chico | *Tringa flavipes* | #261 |
 | 49 | Picaflor Bronceado | *Hylocharis chrysura* | #176 |
 | 50 | Misto | *Sicalis luteola* | #988 |
 | 52 | Pato de Collar | *Callonetta leucophrys* | #35 |
