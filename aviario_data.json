@@ -3986,6 +3986,185 @@
         "Envergadura sin dato (null)",
         "Provincias: confirmar Formosa, Catamarca, San Juan y La Rioja (pocos registros en GBIF)"
       ]
+    },
+    {
+      "id": 83,
+      "num": "#083",
+      "nombre_comun": "Carpintero Campestre",
+      "nombre_cientifico": "Colaptes campestris",
+      "familia": "Picidae",
+      "orden": "Piciformes",
+      "descripcion": {
+        "M": "Carpintero mediano que anda mucho por el suelo. Corona y nuca negras. Cara, costados del cuello y parte alta del pecho amarillo intenso. Bigote rojo. Garganta blanca (la forma de Buenos Aires; más al norte es negra). Pico largo, gris y algo curvo. Ojo pardo rojizo. Dorso pardo con barras claras; rabadilla blanca con algunas barritas oscuras. Plumas del ala pardas con los ejes amarillos. Cola negruzca. Pecho y vientre blanquecinos barrados de pardo oscuro. Patas grises.",
+        "F": "Igual al macho pero sin el bigote rojo: según la fuente, el bigote es negro o directamente no tiene. El resto del plumaje es igual."
+      },
+      "habitat": [
+        "pastizal",
+        "agrícola",
+        "urbano",
+        "monte"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "28-32",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "La Pampa",
+        "Mendoza",
+        "Neuquén",
+        "Río Negro"
+      ],
+      "curiosidades": "A diferencia de la mayoría de los carpinteros, busca casi toda su comida en el suelo: picotea y escarba hormigueros, termiteros, tierra y troncos caídos, y puede romper termiteros grandes. Hormigas y termitas son la base de su dieta. Anda en parejas o grupos chicos y se lo ve seguido posado en postes y alambrados. Macho y hembra excavan juntos el nido en un termitero, una barranca, un árbol o un poste; ponen 4 o 5 huevos, y en la Argentina crían sobre todo en agosto y septiembre. A veces varias hembras de un grupo ponen en el mismo nido.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched upright on a wooden fence post with its stiff tail pressed against the post, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium-sized woodpecker, black crown and nape, bright yellow face and sides of the neck, red moustachial stripe, long slightly curved grey bill, small reddish-brown eye with a tiny dark pupil, brown back barred with pale bars, white rump with a few narrow dark bars, brown wings with yellow feather shafts, blackish tail, white throat, bright yellow upper breast, whitish lower breast and belly barred with dark brown, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: replace the red moustachial stripe with a black stripe of the same shape and position, keep all other colors unchanged, keep white background, no shadow, no text",
+        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, medium-sized woodpecker, black crown and nape, bright yellow face and sides of the neck, red moustachial stripe, long grey bill, neck extended, brown back barred with pale bars, conspicuous white rump, open brown wings with yellow feather shafts, blackish tail, white throat, bright yellow upper breast, whitish belly barred with dark brown, grey legs tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "camfli1",
+      "gbif_taxon_key": 2478233,
+      "pendientes": [
+        "Bigote de la hembra: 'negro' según Wikipedia (en), 'sin bigote' según Wikipedia (es) — se usó negro en el recolor F",
+        "Bigote del macho: 'rojo' según Wikipedia (en), 'rojo y negro' según Wikipedia (es) y Birds of the World — se usó rojo",
+        "Dorso: 'pardo con barras blanco sucio' según Wikipedia (en), 'barrado de negro y pardo amarillento' según Wikipedia (es), 'pardo oscuro' según Birds of the World — se usó pardo con barras claras",
+        "Vientre: 'barrado de pardo' según Wikipedia (en), 'escamado oscuro' según Wikipedia (es) — se usó barrado",
+        "Amarillo en la parte alta del pecho con una sola fuente (Wikipedia es, sin distinguir subespecie)",
+        "Color de las tapadas (ala por debajo) sin confirmar (omitido en prompt V)",
+        "Juvenil (parecido al adulto, amarillo más pálido) con una sola fuente; no se creó variante J",
+        "Envergadura sin dato (null)",
+        "Provincias: confirmar Salta, La Rioja, Catamarca, Jujuy y Tucumán (pocos registros en GBIF)"
+      ]
+    },
+    {
+      "id": 84,
+      "num": "#084",
+      "nombre_comun": "Varillero Ala Amarilla",
+      "nombre_cientifico": "Agelasticus thilius",
+      "familia": "Icteridae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "M": "Pájaro chico de juncales. Todo negro, con una mancha amarilla en el hombro que a veces esconde entre las plumas y se ve bien en vuelo. Pico cónico, puntiagudo y negro. Ojo pardo. Por debajo del ala, las tapadas también son amarillas. En primavera puede mostrar algún jaspeado pardusco. Patas negras.",
+        "F": "Muy distinta al macho. Corona pardo oscura y una ceja ancha clara bien marcada. Cachete pardo oscuro. Dorso pardo con estrías oscuras y algunos bordes castaños; alas pardo oscuras con bordes más claros. Partes inferiores pardo ocráceas claras con estrías oscuras, salvo la barbilla y la garganta. Pico negro. Ojo pardo. Patas negras."
+      },
+      "habitat": [
+        "humedal",
+        "ribereño",
+        "pastizal",
+        "agrícola"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "18-19",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "La Pampa",
+        "Mendoza",
+        "San Juan",
+        "Neuquén",
+        "Río Negro",
+        "Chubut"
+      ],
+      "curiosidades": "Vive en juncales, totorales y la vegetación de la orilla de lagunas y bañados, y fuera de la época de cría también sale a campos barrosos, pastizales y cultivos cercanos. Come sobre todo insectos acuáticos y semillas, además de arañas, crustáceos y caracolitos, y suele andar en bandadas. Cría en colonias: la hembra teje un nido en forma de taza entre juncos o totoras y pone de 2 a 4 huevos claros con manchas oscuras. Es parasitado a menudo por el Tordo Renegrido. En Chile lo llaman 'trile'.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched upright on a reed stem, white background, 1024x1024 pixels, bird filling 60% of canvas height, small blackbird, black head, pointed conical black bill, small brown eye with a tiny dark pupil, black back, black wings with a bright yellow shoulder patch, black tail, black throat, breast and belly, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: replace the black crown with dark brown, add a wide pale buff eyebrow stripe, dark brown cheeks, back brown with dusky streaks and a few chestnut feather edges, wings dark brown with paler feather edges, tail dark brown, pale unstreaked chin and throat, breast and belly light buff-brown with dark streaks, keep the black bill, brown eye and black legs, keep white background, no shadow, no text",
+        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, small blackbird, black head, pointed conical black bill, neck extended, black back, open black wings with a bright yellow shoulder patch and bright yellow underwing coverts, black tail, black throat, breast and belly, black legs tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "yewbla2",
+      "gbif_taxon_key": 2484205,
+      "pendientes": [
+        "Hombro amarillo en la hembra solo confirmado por resumen de búsqueda (el recolor F lo conserva del sprite M; verificar)",
+        "Ceja de la hembra: 'ocrácea ancha' según Wikipedia (en), 'blanca' según SIB — se usó ocrácea clara",
+        "Color de cola sin descripción específica; se asumió negra en el macho por 'casi todo negro' (Wikipedia en)",
+        "Juvenil sin confirmar (solo resúmenes de búsqueda: como la hembra con hombro pardo); no se creó variante J",
+        "Largo: 19 cm según SIB, 17,9 cm (promedio machos) según Wikipedia (en); se cargó 18-19",
+        "Residencia: se cargó 'permanente' para Buenos Aires (inferido); Birds of the World indica que las poblaciones del sur migran al norte en invierno y SIB lo da como estival en el NO de la Patagonia",
+        "Envergadura sin dato (null)",
+        "Provincias: Santa Cruz tiene más de mil registros en GBIF pero SIB y Wikipedia (en) dan como límite sur Chubut — confirmar",
+        "Provincias: confirmar Salta, Jujuy, Catamarca, La Rioja, Tucumán, Chaco y Misiones (pocos registros en GBIF)"
+      ]
+    },
+    {
+      "id": 85,
+      "num": "#085",
+      "nombre_comun": "Cardenal Copete Rojo",
+      "nombre_cientifico": "Paroaria coronata",
+      "familia": "Thraupidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro chico y llamativo. Cabeza, copete puntiagudo, garganta y parte alta del pecho rojos; el copete lo levanta cuando se excita. Pico blancuzco o rosado con la punta y la línea de arriba negruzcas. Ojo pardo rojizo. Nuca gris con puntitos blancos. Dorso gris; alas y cola gris más oscuro. Pecho, vientre y plumas debajo de la cola blancos. Patas negruzcas. Macho y hembra son iguales.",
+        "J": "Como el adulto, pero la cabeza, el copete y el babero son pardo anaranjados apagados en lugar de rojos."
+      },
+      "habitat": [
+        "monte",
+        "urbano",
+        "ribereño",
+        "humedal"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "18-19",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "La Pampa",
+        "Tucumán",
+        "Salta",
+        "Jujuy"
+      ],
+      "curiosidades": "Es muy común en plazas y parques, y abunda sobre todo en la región chaqueña. Anda en parejas, grupos o bandadas de hasta 50, y busca comida mucho en el suelo: semillas de pastos, frutos como los del tala y la mora, e insectos, incluidas hormigas y termitas aladas. Cría de septiembre a febrero en un nido en forma de taza de fibras vegetales, donde pone 3 o 4 huevos verdosos con manchas pardas. Lo parasita el Tordo Renegrido. Por su canto y su color es de los pájaros más buscados como mascota en la Argentina, y fue introducido en Hawái, Puerto Rico y Chile.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched upright on a branch, white background, 1024x1024 pixels, bird filling 60% of canvas height, small songbird, bright red head with a short pointed red crest, pale pinkish-white conical bill with a dark tip, small reddish-brown eye with a tiny dark pupil, grey nape peppered with small distinct white spots, grey back, grey wings with darker grey flight feathers, dark grey tail, bright red throat and bib extending onto the upper breast, white lower breast, belly and undertail, blackish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: replace the bright red head, crest, throat and bib with dull brownish orange, keep all other colors unchanged, keep white background, no shadow, no text"
+      },
+      "audio_ebird_code": "reccar",
+      "gbif_taxon_key": 2492081,
+      "pendientes": [
+        "Alas y cola: 'gris, con remeras gris más oscuro' según Wikipedia (en), 'negruzcas' según Wikipedia (es) — se usó gris oscuro",
+        "Color de ojo: 'pardo rojizo' según Wikipedia (es), 'marrón oscuro' según Wikipedia (pt, a nivel de género) — se usó pardo rojizo",
+        "Color de patas: 'negruzcas' según Wikipedia (es/pt), 'grises' según resúmenes de búsqueda sin verificar — se usó negruzco",
+        "Sexos iguales según Wikipedia (pt) a nivel de género; sin confirmación en una ficha de la especie",
+        "Color de pico del juvenil sin confirmar (el recolor J conserva el del adulto)",
+        "Residencia: se cargó 'permanente'; ninguna fuente lo dice explícitamente",
+        "Largo: 18 cm según Wikipedia (pt), 19 cm según Wikipedia (es); se cargó 18-19",
+        "Envergadura sin dato (null)",
+        "Provincias: Río Negro, Neuquén, Chubut y Mendoza tienen muchos registros en GBIF pero están fuera del rango nativo (probables poblaciones escapadas o introducidas) — confirmar",
+        "Provincias: confirmar Catamarca, La Rioja, San Juan y Santa Cruz (pocos registros en GBIF, posibles escapes de jaula)"
+      ]
     }
   ]
 }
