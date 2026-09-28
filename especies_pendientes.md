@@ -2,17 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (91 cargadas).
+`aviario_data.json` (94 cargadas).
 
 
-**Faltan: 268 especies**
+**Faltan: 265 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 78 | Sietevestidos | *Poospiza nigrorufa* | #1044 |
-| 79 | Gaviotín Lagunero | *Sterna trudeaui* | #298 |
-| 80 | Caracolero | *Rostrhamus sociabilis* | #426 |
 | 81 | Carpintero Bataraz Chico | *Veniliornis mixtus* | #504 |
 | 82 | Gallineta Pico Pintado | *Pardirallus sanguinolentus* | #193 |
 | 83 | Gallareta Escudete Rojo | *Fulica rufifrons* | #201 |
