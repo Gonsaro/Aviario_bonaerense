@@ -2,17 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (79 cargadas).
+`aviario_data.json` (82 cargadas).
 
 
-**Faltan: 280 especies**
+**Faltan: 277 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 53 | Paloma Manchada | *Patagioenas maculosa* | #84 |
-| 54 | Cuervillo Cara Pelada | *Phimosus infuscatus* | #401 |
-| 55 | Pato Capuchino | *Spatula versicolor* | #45 |
 | 58 | Carpintero Campestre | *Colaptes campestris* | #523 |
 | 61 | Varillero Ala Amarilla | *Agelasticus thilius* | #951 |
 | 62 | Cardenal Copete Rojo | *Paroaria coronata* | #1062 |

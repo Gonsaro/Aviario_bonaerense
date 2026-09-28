@@ -3803,6 +3803,189 @@
         "Envergadura 70 cm con una sola fuente (Wikipedia en)",
         "Provincias: confirmar presencia en Misiones, Catamarca, Mendoza y La Rioja (pocos registros en GBIF); registros en Santa Cruz probablemente escapes"
       ]
+    },
+    {
+      "id": 80,
+      "num": "#080",
+      "nombre_comun": "Paloma Manchada",
+      "nombre_cientifico": "Patagioenas maculosa",
+      "familia": "Columbidae",
+      "orden": "Columbiformes",
+      "descripcion": {
+        "D": "Paloma grande, del tamaño de la doméstica. Frente, corona y nuca con un tinte rosado violáceo apagado; resto de la cabeza gris. Pico negruzco con la base blanca. Ojo gris claro. A diferencia de la Picazuró, no tiene escamado en el cuello. Parte alta del dorso y cubiertas del ala pardo oscuro con muchas pintitas blanco crema; plumas de vuelo negruzcas. Parte baja del dorso y rabadilla gris azulado; cola gris oscuro con una banda negra en la punta. Pecho rosado violáceo apagado; resto de las partes inferiores gris. Patas rojizas. La hembra es parecida, con la cabeza y el cuello más apagados."
+      },
+      "habitat": [
+        "monte",
+        "bosque",
+        "agrícola",
+        "pastizal",
+        "urbano"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "32-33",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "La Pampa",
+        "Mendoza",
+        "San Juan",
+        "La Rioja",
+        "Catamarca",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Neuquén",
+        "Río Negro"
+      ],
+      "curiosidades": "Es una de las palomas grandes más comunes del centro del país y está ampliando su distribución gracias al avance de los cultivos. Anda en bandadas que buscan semillas y granos en el suelo, como girasol y arroz, y a veces se mezcla con otras palomas. Al levantar vuelo hace mucho ruido con las alas. Puede criar en casi cualquier época del año: arma un nido frágil de palitos en un árbol y pone uno o dos huevos blancos. En los altos Andes del noroeste vive otra subespecie, con una ancha franja blanca en el ala.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, large pigeon, forehead, crown and nape washed dull purplish pink, grey face, blackish bill with a white base, small pale grey eye with a tiny dark pupil, dark brown upper back and wing coverts peppered with small distinct creamy white spots, blackish flight feathers, bluish-grey lower back and rump, dark grey tail with a black tip band, dull purplish pink breast, grey belly and undertail, reddish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, large pigeon, crown and nape washed dull purplish pink, grey face, blackish bill with a white base, neck extended, dark brown upper back and wing coverts peppered with small distinct creamy white spots, blackish flight feathers, pale grey underwing, bluish-grey lower back and rump, dark grey tail with a black tip band, dull purplish pink breast, grey belly, reddish legs tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "spwpig3",
+      "gbif_taxon_key": 2495335,
+      "pendientes": [
+        "Color de ojo: 'gris' según Wikipedia (es) y eBird, 'gris a blanco' según oiseaux-birds, 'celeste' según una guía argentina (UNL) — se usó gris claro",
+        "Color de pico: 'negro' según Wikipedia (es), 'negruzco con cera blanca' según eBird, 'claro' según una guía argentina (UNL) — se usó negruzco con base blanca",
+        "Color de patas: 'rojas' según Wikipedia (es), 'rojizas' según oiseaux-birds, 'rosadas' según una guía argentina (UNL) — se usó rojizas",
+        "Banda negra en la punta de la cola con una sola fuente (oiseaux-birds)",
+        "Color de las alas por debajo ('gris pálido') con una sola fuente (Wikipedia en); usado en prompt V",
+        "Se cargó una sola variante (D): dimorfismo leve (hembra con cabeza y cuello más apagados)",
+        "La ficha describe la subespecie nominal; la subespecie albipennis (altos Andes de Jujuy/Salta) tiene una franja blanca en el ala y menos pintas",
+        "Envergadura sin dato (null)",
+        "Provincias: confirmar Misiones (pocos registros en GBIF) y Chubut (Birds of the World pone el límite sur en Chubut, pero hay muy pocos registros)"
+      ]
+    },
+    {
+      "id": 81,
+      "num": "#081",
+      "nombre_comun": "Cuervillo Cara Pelada",
+      "nombre_cientifico": "Phimosus infuscatus",
+      "familia": "Threskiornithidae",
+      "orden": "Pelecaniformes",
+      "descripcion": {
+        "D": "Ibis mediano, algo más chico que el Cuervillo de Cañada. Cara con piel desnuda rojiza a rosada, desde la base del pico hasta detrás del ojo. Pico largo y curvado hacia abajo, rosado. Ojo pardo rojizo. Plumaje negruzco opaco en todo el cuerpo, con brillos verdosos o bronceados en el cuello y las alas según la luz. Patas rosadas. Macho y hembra son iguales; el macho tiene el pico algo más largo. El juvenil es todo negruzco, incluso la cara, el pico y las patas."
+      },
+      "habitat": [
+        "humedal",
+        "pastizal",
+        "agrícola",
+        "ribereño"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "45-56",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "La Pampa",
+        "Mendoza",
+        "Tucumán",
+        "Salta",
+        "Jujuy"
+      ],
+      "curiosidades": "Casi siempre anda en bandadas, a veces de cientos de individuos, y se mezcla con otros cuervillos y con el ganado. Busca comida en bañados, pastizales inundados y arrozales, clavando el pico curvo en el barro y en el agua para sacar lombrices, caracoles, insectos acuáticos y pececitos; también come granos. Cría en colonias sobre árboles y arbustos de los bañados, junto a garzas, biguás, espátulas y otros cuervillos. El nido es una plataforma de pastos y ramitas donde pone de uno a seis huevos verde azulados, que incuban ambos padres.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium-sized ibis, bare reddish-pink facial skin from the base of the bill to behind the eye, long down-curved pink bill, small reddish-brown eye with a tiny dark pupil, dull blackish head and neck with a faint green gloss, dull blackish back, blackish wings and tail with a green and bronze gloss, dull blackish throat, breast and belly, pink legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "bafibi1",
+      "gbif_taxon_key": 2480812,
+      "pendientes": [
+        "Color de pico: 'rosado a pardo rojizo' y también 'anaranjado' según Wikipedia (en), 'rojizo o rosado' según Wikipedia (es), 'marfil, rosado en época nupcial' según fuentes uruguayas — se usó rosado",
+        "Color de ojo ('pardo rojizo') con una sola fuente (Birds of the World, vía resumen de búsqueda)",
+        "Juvenil (todo negruzco, incluso cara, pico y patas) con una sola fuente (Wikipedia es); no se creó variante J",
+        "No se creó variante V: plumaje uniforme, sin patrón de ala abierta relevante",
+        "Largo: 45-50 cm según Wikipedia (en), 46-56 cm según Wikipedia (es), 48-51 cm según Birds of the World; se cargó 45-56",
+        "Residencia: se cargó 'permanente'; no se confirmó si hay movimientos estacionales en el sur de su distribución",
+        "Envergadura sin dato (null)",
+        "Provincias: confirmar Catamarca, San Juan, Río Negro y La Rioja (pocos registros en GBIF)"
+      ]
+    },
+    {
+      "id": 82,
+      "num": "#082",
+      "nombre_comun": "Pato Capuchino",
+      "nombre_cientifico": "Spatula versicolor",
+      "familia": "Anatidae",
+      "orden": "Anseriformes",
+      "descripcion": {
+        "D": "Pato chico. Mitad superior de la cabeza y nuca pardo muy oscuro, casi negro, hasta debajo del ojo; cara, garganta y parte alta del cuello color crema. Pico celeste, con la línea de arriba y la punta negras y una mancha amarilla en la base. Dorso pardo oscuro con los bordes de las plumas ocráceos. En el ala, un espejo verde metálico bordeado de blanco. Rabadilla y plumas de la base de la cola finamente vermiculadas de negro y blanco. Pecho ocráceo con pintitas negras que en los flancos se transforman en un barrado negro, gris y blanco. Patas grises. La hembra es parecida, algo más apagada y con menos amarillo en el pico."
+      },
+      "habitat": [
+        "humedal",
+        "ribereño"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "36-43",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Santa Fe",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "La Pampa",
+        "Mendoza",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Neuquén",
+        "Río Negro",
+        "Chubut",
+        "Santa Cruz",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "Su nombre viene de la 'capucha' oscura que contrasta con la cara clara. Es un pato tranquilo que vive en parejas o grupos chicos en lagunas, bañados y charcas de agua dulce, sobre todo las de orillas con juncos y poca vegetación flotante. Come semillas, plantas acuáticas, insectos y otros invertebrados chicos. Hace el nido escondido entre la vegetación de la orilla y pone de 5 a 10 huevos, que se incuban durante 23 a 24 días.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, small duck, blackish-brown cap and nape extending just below the eye, pale cream face, throat and upper neck, pale blue bill with a black ridge and black tip and a yellow spot at the base, dark brown back with buff feather edges, folded wing showing a metallic green patch bordered with white, rump finely vermiculated black and white, buff breast peppered with small distinct black spots, flanks barred black, grey and white, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, small duck, blackish-brown cap and nape, pale cream face and throat, pale blue bill with a black ridge and a yellow spot at the base, neck extended, dark brown back with buff feather edges, dark upperwing with a metallic green speculum bordered with white in front and behind, rump finely vermiculated black and white, buff breast peppered with small distinct black spots, flanks barred black, grey and white, grey legs tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "siltea1",
+      "gbif_taxon_key": 9305555,
+      "pendientes": [
+        "Color de ojo sin confirmar (omitido en prompts D/V)",
+        "Color de corona: 'negra' según Wikipedia (en), 'pardo oscuro' según una guía argentina — se usó pardo muy oscuro, casi negro",
+        "Color del espejo: 'verde' según Wikipedia (en) y eBird, 'azul verdoso' según una guía argentina — se usó verde metálico",
+        "Color de patas: 'grises' según the-birds.net, 'gris azuladas' según una guía argentina — se usó gris",
+        "Borde blanco del espejo 'adelante y atrás' supuesto a partir de 'bordeado de blanco' (prompt V)",
+        "Se cargó una sola variante (D): dimorfismo leve (hembra más apagada, flancos menos barrados, menos amarillo en el pico); el juvenil es más apagado con corona parda — evaluar variantes F/J",
+        "Residencia: se cargó 'permanente'; no se confirmó con fuente si las poblaciones patagónicas migran al norte en invierno",
+        "Largo: 37-42 cm según Wikipedia (es), 36-41 cm según the-birds.net, 38-43 cm según una guía argentina; se cargó 36-43",
+        "Envergadura sin dato (null)",
+        "Provincias: confirmar Formosa, Catamarca, San Juan y La Rioja (pocos registros en GBIF)"
+      ]
     }
   ]
 }
