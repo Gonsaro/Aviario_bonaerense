@@ -2,17 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (76 cargadas).
+`aviario_data.json` (79 cargadas).
 
 
-**Faltan: 283 especies**
+**Faltan: 280 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 49 | Picaflor Bronceado | *Hylocharis chrysura* | #176 |
-| 50 | Misto | *Sicalis luteola* | #988 |
-| 52 | Pato de Collar | *Callonetta leucophrys* | #35 |
 | 53 | Paloma Manchada | *Patagioenas maculosa* | #84 |
 | 54 | Cuervillo Cara Pelada | *Phimosus infuscatus* | #401 |
 | 55 | Pato Capuchino | *Spatula versicolor* | #45 |
