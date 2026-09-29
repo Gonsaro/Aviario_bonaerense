@@ -87,7 +87,12 @@ Editar `index.html` directamente causó bugs graves (SP map mal cerrado → pant
 Aplicar SIEMPRE que se genere o edite un `prompts_pixelart`.
 
 **§0 Validar antes de escribir**
-Verificar rasgos contra Avibase (https://avibase.bsc-eoc.org) antes de describir colores de ojo, pico, patas o patrones de pluma. No inventar de memoria. Si un dato no se pudo confirmar, marcarlo como pendiente.
+Verificar rasgos antes de describir colores de ojo, pico, patas o patrones de pluma. No inventar de memoria. Si un dato no se pudo confirmar, marcarlo como pendiente (campo `pendientes` de la ficha).
+
+Fuentes, en orden:
+1. **Aves de Argentina — FCV-UNL** (https://www.fcv.unl.edu.ar/aves/): plumaje, iris, pico, patas, medidas y distribución por provincia. Índice por familia en `/aves/familia-de-aves/`; fichas en `/aves/categorias/<familia>/<nombre-comun-con-guiones>/` (ej. `/aves/categorias/cuculidae/pirincho/`).
+2. **Avibase** (https://avibase.bsc-eoc.org). Desde la nube suele dar 403: no reintentar.
+3. Apoyo: Birds of the World, EcoRegistros, ArgentiNat, SIB, Wikipedia.
 
 **§1 Solo rasgos visuales**
 El prompt contiene únicamente color, forma, posición, contraste, textura. Prohibido: `from a distance`, `striking in flight`, `visible when perched`, `unmistakable`, `typical of the species`. No usar comparaciones de especie (`NOT a wren`) salvo como parche documentado cuando una tirada falla repetidamente en algo concreto.
