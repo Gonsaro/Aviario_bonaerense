@@ -2,17 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (124 cargadas).
+`aviario_data.json` (127 cargadas).
 
 
-**Faltan: 235 especies**
+**Faltan: 232 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 117 | Leñatero | *Anumbius annumbi* | #667 |
-| 119 | Tachurí Sietecolores | *Tachuris rubrigastra* | #850 |
-| 120 | Arañero Cara Negra | *Geothlypis velata* | #956 |
 | 121 | Milano Blanco | *Elanus leucurus* | #415 |
 | 122 | Juan Chiviro | *Cyclarhis gujanensis* | #851 |
 | 123 | Rayador | *Rynchops niger* | #274 |

@@ -6191,6 +6191,173 @@
         "Pichones (grises con rayas oscuras a lo largo, según Wikipedia en; pardos con dos líneas blancas según la UNL) sin variante J — las fuentes no coinciden",
         "Provincias: parte de los registros de GBIF/eBird puede corresponder a aves en criaderos o reservas; Neuquén está en la UNL pero tiene 9 registros; San Juan (19), Tucumán (10), Santa Cruz (3) y Chubut (1) quedan por debajo del criterio — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
       ]
+    },
+    {
+      "id": 125,
+      "num": "#125",
+      "nombre_comun": "Leñatero",
+      "nombre_cientifico": "Anumbius annumbi",
+      "familia": "Furnariidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pajarito pardo y rayado, de cola larga y escalonada, con aspecto de cachirla. Frente castaña. Corona parda con rayitas oscuras finas. Ceja blanquecina ancha y una línea parda detrás del ojo. Pico de mandíbula superior parda y la inferior gris clara. Ojo pardo rojizo. Dorso pardo, rayado de oscuro sobre todo en la parte baja. Alas pardas con tono canela. Cola con las plumas centrales pardas y puntiagudas y las de los costados negruzcas con la punta blanca. Garganta blanca bordeada por una línea de puntitos negros. Pecho y vientre ocráceos, con rayas pálidas y difusas en el pecho. Patas gris crema. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "pastizal",
+        "agrícola",
+        "monte"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "18-20",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "La Pampa",
+        "Mendoza",
+        "Neuquén",
+        "Río Negro"
+      ],
+      "curiosidades": "Su nombre viene del enorme nido que construye: un cilindro de palitos espinosos que puede medir más de un metro de alto, muy llamativo en árboles aislados, postes de luz y molinos del campo. Tiene la entrada arriba y un túnel en espiral que baja hasta la cámara, que acolcha con plumas y fibras suaves; en la entrada suele poner plumas, hilos, trozos de nylon o de tela. A veces los jóvenes de la primera cría ayudan a sus padres a armar el nido de la segunda. Anda en pareja, caminando por el suelo y los pastos bajos en busca de insectos y arañas, y la pareja canta a dúo un trino rápido que termina en un chirrido.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thorny twig, white background, 1024x1024 pixels, bird filling 65% of canvas height, slender brown bird with a long graduated tail, dull rufous forehead, brown crown with thin blackish streaks, broad whitish eyebrow, brown stripe behind the eye, light greyish brown cheeks, short pointed bill with a brown upper mandible and a pale grey lower mandible, small reddish brown eye with a tiny dark pupil, dull brown back with dark streaks on the lower back, brown wings with a cinnamon tinge, tail with pointed dark brown central feathers and blackish outer feathers tipped white, white throat bordered on each side by a line of small distinct black spots, pale buff breast with faint thin brown streaks, pale buff belly, sandy brown flanks, greyish cream legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "firgat1",
+      "gbif_taxon_key": 2485086,
+      "pendientes": [
+        "Patas: la UNL dice crema oliváceas; Wikipedia (en) gris a gris verdoso o gris crema — se usó 'greyish cream'",
+        "Ojo: la UNL dice pardo castaño; Wikipedia (en) pardo a rojizo — se usó 'reddish brown'",
+        "Juvenil (sin castaño en la frente, garganta ocrácea y menos rayado, según Wikipedia en) sin variante propia",
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (en); Avibase 403",
+        "Provincias: CABA tiene 18 registros en GBIF/eBird; Catamarca 11, Tucumán 4 y Salta 3 (la UNL incluye el este de Salta); Chubut 2 (la UNL dice 'hasta Chubut') — decidir. Mendoza (91) y Neuquén (37) superan el criterio aunque la UNL no las menciona — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+      ]
+    },
+    {
+      "id": 126,
+      "num": "#126",
+      "nombre_comun": "Tachurí Sietecolores",
+      "nombre_cientifico": "Tachuris rubrigastra",
+      "familia": "Tyrannidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pajarito diminuto y muy colorido de los juncales. Cabeza negra azulada, con una mancha roja en el centro de la corona y una franja amarilla sobre el ojo. Pico fino y negro. Ojo gris celeste. Dorso verde oliva. Alas negras con una banda blanca. Cola negra con las plumas de los costados blancas. Garganta blanquecina. Pecho y vientre amarillos, con una banda negra a los lados del pecho. Debajo de la cola, rosado rojizo. Patas largas y negras. La hembra es parecida pero más apagada; el juvenil no tiene la cara negra ni la banda del pecho."
+      },
+      "habitat": [
+        "humedal"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "10.5-11.5",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "La Pampa",
+        "Mendoza",
+        "San Juan",
+        "Salta",
+        "Jujuy",
+        "Neuquén",
+        "Río Negro",
+        "Chubut",
+        "Santa Cruz"
+      ],
+      "curiosidades": "Le dicen 'siete colores' por su plumaje: negro, azul, verde, amarillo, blanco, rojo y rosado en un pájaro de apenas 11 centímetros. Vive entre juncos y totoras de lagunas, bañados y esteros, donde se mueve rápido, saltando y revoloteando para atrapar insectos en la vegetación o al vuelo. Su nido es una obra de arte: una tacita honda en forma de cono, hecha con tiras húmedas de junco que se endurecen al secarse, atada a un junco, una espadaña o un duraznillo. Pone 3 huevos, a veces 4, de color crema.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), clinging to a vertical reed stem, white background, 1024x1024 pixels, bird filling 60% of canvas height, tiny colorful bird with a thin bill and long legs, black crown with a small red central patch, golden yellow stripe above the eye, blue-black face mask, thin black bill, small pale bluish grey eye with a tiny dark pupil, olive green back, black wings with a white wing bar, black tail with white outer feathers, whitish throat, bright yellow breast and belly, a black bar on each side of the breast, reddish pink undertail, long black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "mcrtyr1",
+      "gbif_taxon_key": 2482651,
+      "pendientes": [
+        "Familia: la UNL y GBIF la ponen en Tyrannidae; el SACC la separa en su propia familia (Tachurisidae) — se cargó Tyrannidae, confirmar con la lista oficial",
+        "Debajo de la cola: la UNL dice rosado; Wikipedia (en) rojo a rojo anaranjado — se usó 'reddish pink'",
+        "Garganta: la UNL dice costados blanquecinos y centro amarillo; Wikipedia (en) blanca — se usó 'whitish throat'",
+        "Cabeza: la UNL describe el copete estriado de amarillo con centro rojo; Wikipedia (en) una ceja dorada — el prompt pide una franja amarilla sobre el ojo, revisar",
+        "Residencia: Wikipedia (en) dice que es parcialmente migratorio y que las poblaciones del sur se mueven al norte; en Buenos Aires/CABA hay registros en GBIF todos los meses, se cargó 'permanente'",
+        "Hembra (más apagada, con la mancha de la corona más chica) y juvenil sin variante propia",
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (en); Avibase 403",
+        "Provincias: Misiones tiene 12 registros en GBIF/eBird y Tucumán 1 — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+      ]
+    },
+    {
+      "id": 127,
+      "num": "#127",
+      "nombre_comun": "Arañero Cara Negra",
+      "nombre_cientifico": "Geothlypis velata",
+      "familia": "Parulidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "M": "Pajarito chico, verde oliva y amarillo, que anda escondido en pastizales y matorrales húmedos. Antifaz negro ancho que va de la frente al ojo y cubre las mejillas. Corona gris plomiza. Pico negruzco arriba y rosado en la base de abajo. Ojo pardo oscuro. Dorso verde oliva. Alas pardas con bordes oliva. Cola parda olivácea. Garganta, pecho y vientre amarillo intenso. Patas rosadas.",
+        "F": "La hembra no tiene antifaz negro ni corona gris: la cabeza es pardo oliva, con una línea amarillenta clara sobre el ojo. Dorso pardo grisáceo, más apagado que el del macho. Garganta, pecho y vientre amarillo pálido."
+      },
+      "habitat": [
+        "humedal",
+        "pastizal",
+        "ribereño",
+        "monte"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "chico",
+      "largo_cm": "13-14.3",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "La Pampa",
+        "Mendoza",
+        "San Juan",
+        "La Rioja",
+        "Catamarca",
+        "Tucumán",
+        "Salta",
+        "Jujuy"
+      ],
+      "curiosidades": "Es más fácil oírlo que verlo: anda oculto a poca altura entre pajonales, bañados, matorrales y yuyales de orillas de caminos, y en la época de cría el macho canta sin parar un silbido melodioso, a veces desde una percha a la vista. Come insectos, arañas y larvas que busca desde el suelo hasta unos 2 metros de altura. Llega a Buenos Aires en primavera para criar y en otoño la mayoría se va hacia el norte. Hace un nido en forma de taza, de fibras vegetales y raicillas, en el suelo o entre los pastos a baja altura, y pone 3 huevos blancos con pintas castañas y grises.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a grass stem, white background, 1024x1024 pixels, bird filling 60% of canvas height, small warbler, pale slate grey crown, wide black mask from the forehead through the eye covering the cheeks, thin bill with a blackish upper mandible and a pinkish lower mandible base, small dark brown eye with a tiny dark pupil inside the black mask, olive green back, brown wings with olive green edges, olive brown tail, bright yellow throat, breast and belly, pink legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: female duller than the male, remove the black mask and the grey crown and make the whole head plain olive brown with a thin pale yellowish line above the eye, make the back a duller greyish brown, make the throat, breast and belly pale yellow, keep the bill, the eye and the pink legs unchanged, keep white background, no shadow, no text"
+      },
+      "audio_ebird_code": "masyel5",
+      "gbif_taxon_key": 6100791,
+      "pendientes": [
+        "Taxonomía: la UNL la trata como Geothlypis aequinoctialis; IOC/Clements la separan como G. velata (se usó G. velata, lista oficial #956). La UICN no la evaluó por separado: el LC corresponde a G. aequinoctialis en sentido amplio",
+        "Residencia: se cargó 'estival' — en Buenos Aires/CABA GBIF tiene pocos registros de mayo a agosto (28-63 por mes contra más de 2.500 en octubre-noviembre), así que algunas pasan el invierno — confirmar",
+        "Hembra: la UNL dice dorso pardo grisáceo y vientre amarillo pálido; Wikipedia (en) agrega corona y mejillas con tinte gris y un anillo ocular amarillento (omitido por §6) — revisar el color de la cabeza en el recolor",
+        "Patas: la UNL dice rosadas; el artículo de Wikipedia (en) de G. velata no las describe — se usó 'pink'",
+        "Juvenil sin variante propia",
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (en); Avibase 403",
+        "Provincias: Río Negro tiene 1 registro en GBIF/eBird — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+      ]
     }
   ]
 }
