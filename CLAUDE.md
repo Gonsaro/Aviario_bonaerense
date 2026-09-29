@@ -89,10 +89,12 @@ Aplicar SIEMPRE que se genere o edite un `prompts_pixelart`.
 **§0 Validar antes de escribir**
 Verificar rasgos antes de describir colores de ojo, pico, patas o patrones de pluma. No inventar de memoria. Si un dato no se pudo confirmar, marcarlo como pendiente (campo `pendientes` de la ficha).
 
-Fuentes, en orden:
-1. **Aves de Argentina — FCV-UNL** (https://www.fcv.unl.edu.ar/aves/): plumaje, iris, pico, patas, medidas y distribución por provincia. Índice por familia en `/aves/familia-de-aves/`; fichas en `/aves/categorias/<familia>/<nombre-comun-con-guiones>/` (ej. `/aves/categorias/cuculidae/pirincho/`).
-2. **Avibase** (https://avibase.bsc-eoc.org). Desde la nube suele dar 403: no reintentar.
-3. Apoyo: Birds of the World, EcoRegistros, ArgentiNat, SIB, Wikipedia.
+**Rasgos (plumaje, iris, pico, patas, medidas): manda la UNL.**
+1. **Aves de Argentina — FCV-UNL** (https://www.fcv.unl.edu.ar/aves/). Índice por familia en `/aves/familia-de-aves/`; fichas en `/aves/categorias/<familia>/<nombre-comun-con-guiones>/` (ej. `/aves/categorias/cuculidae/pirincho/`). Describe las aves de Argentina: si la UNL dice algo, es el dato válido aunque otra fuente diga distinto (las fuentes globales pueden describir otras subespecies o poblaciones). No es pendiente: se usa la UNL y listo.
+2. Solo para lo que la UNL no dice: oiseaux-birds.com (`/card-<english-name>.html`, basado en HBW), avespampa.com.ar, Wikipedia (en/es), Birds of the World. Si estas se contradicen entre sí y la UNL no lo dice, va a `pendientes`.
+3. Avibase (https://avibase.bsc-eoc.org) da 403 desde la nube y desde la PC local: no reintentar.
+
+**Distribución por provincia: mandan los registros, no la UNL.** Usar GBIF, que incluye eBird e iNaturalist: `https://api.gbif.org/v1/occurrence/search?country=AR&limit=0&facet=stateProvince&facetLimit=200&scientificName=<Genus%20species>` (normalizar variantes de nombre de provincia, ej. "Ciudad Autónoma de Buenos Aires" → CABA). 20 o más registros = presencia (se carga); menos de 20 = no se carga. Solo van a `pendientes` los casos límite (entre 10 y 19 registros) o los sospechosos de escapes o criaderos. La distribución de la UNL no se usa para decidir.
 
 **§1 Solo rasgos visuales**
 El prompt contiene únicamente color, forma, posición, contraste, textura. Prohibido: `from a distance`, `striking in flight`, `visible when perched`, `unmistakable`, `typical of the species`. No usar comparaciones de especie (`NOT a wren`) salvo como parche documentado cuando una tirada falla repetidamente en algo concreto.
