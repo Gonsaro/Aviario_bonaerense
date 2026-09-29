@@ -2,17 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (112 cargadas).
+`aviario_data.json` (115 cargadas).
 
 
-**Faltan: 247 especies**
+**Faltan: 244 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 103 | Loica | *Leistes loyca* | #936 |
-| 104 | Pitotoy Grande | *Tringa melanoleuca* | #259 |
-| 105 | Piojito Tiquitiqui | *Serpophaga subcristata* | #769 |
 | 106 | Piojito Gris | *Serpophaga nigricans* | #768 |
 | 107 | Gaviota Capucho Gris | *Chroicocephalus cirrocephalus* | #278 |
 | 110 | Pato Zambullidor Chico | *Oxyura vittata* | #60 |

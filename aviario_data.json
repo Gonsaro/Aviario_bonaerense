@@ -5543,6 +5543,178 @@
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
         "Provincias: Formosa (1533 registros) y Catamarca (42) tienen presencia en GBIF/eBird pero no figuran en la distribución de la UNL; Tucumán (15) y San Juan (2) están en la UNL pero quedan por debajo del criterio — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
       ]
+    },
+    {
+      "id": 113,
+      "num": "#113",
+      "nombre_comun": "Loica",
+      "nombre_cientifico": "Leistes loyca",
+      "familia": "Icteridae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "M": "La más grande de las loicas, robusta, de cola larga y pico largo y puntiagudo. Cabeza negruzca con una ceja larga, roja entre el pico y el ojo y blanca detrás del ojo, y un bigote blanco corto. Pico blanquecino azulado con la punta oscura. Ojo pardo oscuro. Dorso, alas y cola pardos con estrías negruzcas; algunas plumas del hombro rojas. Barbilla, garganta y pecho rojo rosado intenso, con los costados negruzcos. Vientre negro; costados y la parte de abajo de la cola estriados de ante y negro. Patas gris pardas.",
+        "F": "La hembra es más apagada: la ceja es toda blanca, no tiene rojo en la cara, la garganta es blanca y el dorso más claro. La parte de abajo es grisácea, muy estriada de negruzco, con el centro del pecho y del vientre teñido de rojo pálido o rosado."
+      },
+      "habitat": [
+        "pastizal",
+        "agrícola"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "24-27",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "Córdoba",
+        "San Luis",
+        "La Pampa",
+        "Mendoza",
+        "San Juan",
+        "Catamarca",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Neuquén",
+        "Río Negro",
+        "Chubut",
+        "Santa Cruz",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "Es la loica típica de la Patagonia y del oeste del país, y también vive en Buenos Aires, donde en la costa atlántica se la encuentra entre los pastos de los médanos. Se la ve mucho posada en postes de alambrado, rocas y arbustos, mostrando el pecho rojo. Come sobre todo insectos que busca en el suelo dando vuelta hojas y restos, y fuera de la época de cría forma bandadas de hasta 100 aves. La hembra arma el nido en el suelo, una taza de pasto muy escondida entre la vegetación, y es tan cuidadosa que nunca baja directo a él: aterriza cerca y llega caminando agachada para no delatarlo.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on the ground, white background, 1024x1024 pixels, bird filling 65% of canvas height, large stocky meadowlark with a long tail and a long pointed bill, blackish head with a long eyebrow that is red in front of the eye and white behind it, short white moustache stripe, long pale bluish ivory bill with a dark tip, small dark brown eye with a tiny dark pupil, brown back, wings and tail with blackish streaks, a few rosy red feathers on the shoulder, bright rosy red chin, throat and breast with blackish sides, black belly, buff and black striped flanks and undertail, grey-brown legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: female duller and paler than the male, make the whole eyebrow white with no red, make the head streaked brown instead of blackish, make the back and wings paler brown with blackish streaks, remove the red from the shoulder, make the throat white, make the breast and belly greyish buff heavily streaked with blackish, with a pale pinkish red wash only in the center of the breast and belly, keep the bill and legs unchanged, keep white background, no shadow, no text"
+      },
+      "audio_ebird_code": "lotmea1",
+      "gbif_taxon_key": 9667237,
+      "pendientes": [
+        "Sin ficha en la UNL: descripción y prompts armados solo con Wikipedia (es/en, esta última citando Birds of the World) — consultado sep 2026; Avibase 403",
+        "Pico: Wikipedia (en) dice blanquecino azulado con la punta pardo negruzca; Wikipedia (es) dice grisáceo — se usó la versión en inglés",
+        "Vientre negro descripto para la subespecie típica; la subespecie de Córdoba y San Luis (obscurus) tiene menos rojo abajo y la del noroeste (catamarcanus) es más pálida — sin variante propia",
+        "GBIF da Leistes loyca como sinónimo (usageKey 9667237); el nombre aceptado en GBIF tiene key 2484272 — decidir cuál guardar",
+        "Envergadura sin dato (null)",
+        "Provincias: La Rioja tiene 11 registros en GBIF/eBird y CABA 5 — decidir — consultado sep 2026: Wikipedia (es/en) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+      ]
+    },
+    {
+      "id": 114,
+      "num": "#114",
+      "nombre_comun": "Pitotoy Grande",
+      "nombre_cientifico": "Tringa melanoleuca",
+      "familia": "Scolopacidae",
+      "orden": "Charadriiformes",
+      "descripcion": {
+        "D": "Ave playera mediana y esbelta, de patas muy largas. Es como el Pitotoy Chico pero más grande y con el pico proporcionalmente más largo. Ceja y garganta blanquecinas; los lados de la cabeza jaspeados de pardo. Pico largo y fino, más largo que la cabeza y apenas curvado hacia arriba, negro con la base amarilla. Ojo pardo oscuro. Dorso pardo grisáceo salpicado de blanco y pardo oscuro. Alas pardo oscuras con pintas blancas. Rabadilla blanca, que se ve bien en vuelo. Cola blanca barrada de pardo. Frente y costados del cuello, pecho y costados finamente jaspeados de pardo; resto de abajo blanco. Patas amarillas, largas. Así se ve en Argentina, con plumaje de descanso."
+      },
+      "habitat": [
+        "humedal",
+        "costa"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "29-40",
+      "envergadura_cm": "60",
+      "estado_conservacion": "NT",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "La Pampa",
+        "Mendoza",
+        "San Juan",
+        "La Rioja",
+        "Catamarca",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Neuquén",
+        "Río Negro",
+        "Chubut",
+        "Santa Cruz",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "Cría en el norte de Canadá y el sur de Alaska y viaja hasta Sudamérica para pasar nuestro verano; en Argentina llega, por el interior y por la costa, hasta Tierra del Fuego. Camina por el agua baja de lagunas, bañados y playas buscando insectos, crustáceos, caracoles y pececitos, y a veces revuelve el agua con el pico. Es ruidoso: al volar da un silbido fuerte de tres notas, más fuerte y áspero que el del Pitotoy Chico. Anda en grupos, a veces junto con otros chorlos y playeros.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 70% of canvas height, slender medium shorebird with very long legs, whitish eyebrow, sides of the head finely streaked brown, long thin black bill longer than the head and very slightly upturned with a yellowish base, small dark brown eye with a tiny dark pupil, grey-brown back and wings peppered with small distinct white and dark brown spots, white tail barred with brown, whitish throat, front of the neck, breast and flanks finely streaked with brown, clean white belly, long bright yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, slender shorebird with long pointed wings, neck extended, long thin black bill very slightly upturned, small dark brown eye with a tiny dark pupil, grey-brown back, plain dark brown open wings with white spots on the inner coverts and no wing bar, bright white rump, white tail barred with brown, finely streaked neck and breast, white belly, long yellow legs tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "greyel",
+      "gbif_taxon_key": 2481720,
+      "pendientes": [
+        "Estado de conservación: la categoría UICN que publica GBIF es NT (casi amenazado) — confirmar con la ficha UICN vigente",
+        "Base del pico: la UNL dice base amarilla; Wikipedia (en) solo dice pico oscuro — se pidió 'yellowish base' en el prompt",
+        "Ala abierta sin banda blanca: la UNL lo usa para distinguirlo de la Becasa de Mar, que sí tiene bandas alares blancas; el resto del dibujo del ala abierta no está confirmado",
+        "Plumaje reproductivo (más negro en hombros y dorso, pecho más manchado, según Wikipedia en) sin variante — en Argentina se ve casi siempre en plumaje de descanso",
+        "Provincias: Misiones tiene 16 registros en GBIF/eBird — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+      ]
+    },
+    {
+      "id": 115,
+      "num": "#115",
+      "nombre_comun": "Piojito Tiquitiqui",
+      "nombre_cientifico": "Serpophaga subcristata",
+      "familia": "Tyrannidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pajarito muy chico y activo. Cabeza gris olivácea con estrías negruzcas y plumas blancas en el centro de la corona que casi siempre están escondidas y a veces levanta como un copetito. Ceja fina blanca, zona entre el pico y el ojo blanca y una línea oscura que pasa por el ojo. Pico negro, corto y fino. Ojo pardo. Dorso gris oliváceo. Alas negruzcas con bordes ocráceos y dos bandas claras, blanquecinas a ocráceas. Cola negruzca con los bordes de afuera blanquecinos. Garganta blanquecina, pecho gris y vientre amarillento. Patas oscuras. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "monte",
+        "urbano",
+        "agrícola"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "11",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "La Pampa",
+        "Mendoza",
+        "San Juan",
+        "La Rioja",
+        "Catamarca",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Río Negro",
+        "Chubut"
+      ],
+      "curiosidades": "Pesa apenas entre 6 y 9 gramos. Se mueve sin parar entre arbustos y árboles bajos, revisando ramas y hojas en busca de insectos, arañas y larvas, y a veces revolotea para atraparlos. Su canto es un trino rápido, casi mecánico, 'psi-psi-psiiiii', y entre sus nombres populares están 'tiquitiqui', 'titirití' y 'turí-turí'. Macho y hembra construyen juntos una tacita de fibras vegetales cubierta por fuera con líquenes y a veces con bolsitas de huevos de araña, y forrada con plumas y pelos; la esconden en arbustos, muchas veces espinosos.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thin branch, white background, 1024x1024 pixels, bird filling 60% of canvas height, tiny tyrannulet, grey-olive crown with fine blackish streaks, thin white eyebrow, white lores, dusky line through the eye, short thin black bill, small dark brown eye with a tiny dark pupil, grey-olive back, blackish wings with buff feather edges and two pale buff wing bars, blackish tail with whitish outer edges, whitish throat, grey breast, pale yellow belly, dark legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "y01036",
+      "gbif_taxon_key": 2483966,
+      "pendientes": [
+        "Plumas blancas de la corona (casi siempre escondidas) omitidas en el prompt D",
+        "Patas: la UNL dice negras, Wikipedia (en) grises — se usó 'dark legs'",
+        "La subespecie del oeste (munda, antes especie aparte) es más grande, más gris, con bandas alares blancas y vientre blanco: sin variante propia — decidir",
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
+        "Provincias: Río Negro (108 registros) y Chubut (20) no están en la distribución de la UNL ('hasta La Pampa'), pero Wikipedia (es/en) la da hasta el noreste de Chubut — se cargaron, revisar; Neuquén (6 registros, Wikipedia da munda hasta Neuquén) — decidir — consultado sep 2026: UNL, Wikipedia y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+      ]
     }
   ]
 }
