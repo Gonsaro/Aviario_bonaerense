@@ -3628,7 +3628,7 @@
       "familia": "Trochilidae",
       "orden": "Apodiformes",
       "descripcion": {
-        "D": "Picaflor mediano de pico recto, rojo coral con la punta negra. Cabeza verde dorado iridiscente, con una pequeña mancha blanca justo detrás del ojo. Ojo negro. Dorso y alas verde dorado iridiscente; cola bronce dorado brillante. Barbilla rufo pálido; garganta, pecho y vientre verde dorado iridiscente. Según la luz puede verse apagado. La hembra es casi igual al macho, algo más opaca y con la parte baja del vientre grisácea."
+        "D": "Picaflor mediano de pico recto, rojo coral con la punta negra. Cabeza verde dorado iridiscente, con una pequeña mancha blanca justo detrás del ojo. Ojo negro. Dorso y alas verde dorado iridiscente; cola bronce dorado brillante. Patas negras. Barbilla rufo pálido; garganta, pecho y vientre verde dorado iridiscente. Según la luz puede verse apagado. La hembra es casi igual al macho, algo más opaca y con la parte baja del vientre grisácea."
       },
       "habitat": [
         "urbano",
@@ -3658,12 +3658,11 @@
       "curiosidades": "Es uno de los picaflores más comunes en plazas, parques y jardines del noreste bonaerense. Toma néctar de una enorme variedad de flores nativas y exóticas, y también caza insectos al vuelo y roba arañitas de las telas. Su canto es un trino agudo y repetido, parecido al de un grillo. La hembra arma sola un nidito en forma de taza con fibras vegetales y telas de araña, decorado por fuera con líquenes y trocitos de hojas, sobre una rama fina y horizontal.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thin twig, white background, 1024x1024 pixels, bird filling 60% of canvas height, small hummingbird, iridescent golden-green crown and face, straight coral-red bill of medium length with a black tip, small black eye with a tiny white spot just behind it, iridescent golden-green back and folded wings, glittering golden-bronze tail, pale rufous chin, iridescent golden-green throat, breast and belly, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thin twig, white background, 1024x1024 pixels, bird filling 60% of canvas height, small hummingbird, iridescent golden-green crown and face, straight coral-red bill of medium length with a black tip, small black eye with a tiny white spot just behind it, iridescent golden-green back and folded wings, glittering golden-bronze tail, pale rufous chin, iridescent golden-green throat, breast and belly, tiny black feet, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "gilhum1",
       "gbif_taxon_key": 5228562,
       "pendientes": [
-        "Color de patas: solo oiseaux-birds (negras); UNL y avespampa no lo dan (omitido en prompt D) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Se cargó una sola variante (D): dimorfismo leve (hembra algo más opaca, con la parte baja del vientre grisácea o verdosa según Wikipedia y oiseaux-birds); evaluar si conviene una variante F",
         "Provincias: La Pampa no está cargada; la UNL la excluye (llega hasta Córdoba, Santiago del Estero, Santa Fe y Buenos Aires), pero iNaturalist/ArgentiNat tiene 21 registros de grado investigación — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
@@ -3784,7 +3783,7 @@
         "Mancha blanca del flanco trasero confirmada en el macho; en la hembra sin confirmar (la UNL solo dice subcaudales blancas) — el recolor F no la menciona — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Ubicación exacta de la mancha blanca del ala sin confirmar: Wikipedia (en) dice mancha blanca en el ala; la UNL describe cubiertas superiores negras e inferiores blancas con punta negra — prompt V dice inner wing — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Envergadura 70 cm con una sola fuente (Wikipedia en) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: Catamarca no está cargada; la UNL la excluye (centro-este hasta La Pampa y Buenos Aires), pero iNaturalist/ArgentiNat tiene 7 registros de grado investigación — decidir. Misiones sin conteo (la API falló) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
+        "Provincias: Catamarca no está cargada; la UNL la excluye (centro-este hasta La Pampa y Buenos Aires), pero iNaturalist/ArgentiNat tiene 7 registros de grado investigación — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
       ]
     },
     {
@@ -3883,7 +3882,8 @@
         "Mendoza",
         "Tucumán",
         "Salta",
-        "Jujuy"
+        "Jujuy",
+        "Catamarca"
       ],
       "curiosidades": "Casi siempre anda en bandadas, a veces de cientos de individuos, y se mezcla con otros cuervillos y con el ganado. Busca comida en bañados, pastizales inundados y arrozales, clavando el pico curvo en el barro y en el agua para sacar lombrices, caracoles, insectos acuáticos y pececitos; también come granos. Cría en colonias sobre árboles y arbustos de los bañados, junto a garzas, biguás, espátulas y otros cuervillos. El nido es una plataforma de pastos y ramitas donde pone de uno a seis huevos verde azulados, que incuban ambos padres.",
       "sprites": {},
@@ -3896,8 +3896,7 @@
         "Juvenil (todo negruzco, incluso cara, pico y patas) con una sola fuente (Wikipedia es); la UNL y avespampa no lo describen; no se creó variante J — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "No se creó variante V: plumaje uniforme, sin patrón de ala abierta relevante — decidir si hace falta",
         "Residencia: se cargó permanente; no se confirmó si hay movimientos estacionales en el sur de su distribución — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: Catamarca sin conteo (falló la API de iNaturalist); la UNL la incluiría (desde el norte hasta Mendoza) — revisar — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
       ]
     },
     {
@@ -3908,7 +3907,7 @@
       "familia": "Anatidae",
       "orden": "Anseriformes",
       "descripcion": {
-        "D": "Pato chico. Mitad superior de la cabeza y nuca pardo muy oscuro, casi negro, hasta debajo del ojo; cara, garganta y parte alta del cuello color crema. Pico celeste, con la línea de arriba y la punta negras y una mancha amarilla en la base. Dorso pardo oscuro con los bordes de las plumas ocráceos. En el ala, un espejo verde metálico bordeado de blanco. Rabadilla y plumas de la base de la cola finamente vermiculadas de negro y blanco. Pecho ocráceo con pintitas negras que en los flancos se transforman en un barrado negro, gris y blanco. Patas grises. La hembra es parecida, algo más apagada y con menos amarillo en el pico."
+        "D": "Pato chico. Mitad superior de la cabeza y nuca pardo muy oscuro, casi negro, hasta debajo del ojo; cara, garganta y parte alta del cuello color crema. Pico celeste, con la línea de arriba y la punta negras y una mancha amarilla en la base. Ojo pardo oscuro. Dorso pardo oscuro con los bordes de las plumas ocráceos. En el ala, un espejo verde metálico bordeado de blanco. Rabadilla y plumas de la base de la cola finamente vermiculadas de negro y blanco. Pecho ocráceo con pintitas negras que en los flancos se transforman en un barrado negro, gris y blanco. Patas grises. La hembra es parecida, algo más apagada y con menos amarillo en el pico."
       },
       "habitat": [
         "humedal",
@@ -3916,7 +3915,7 @@
       ],
       "residencia": "permanente",
       "tamanio_categoria": "mediano",
-      "largo_cm": "36-43",
+      "largo_cm": "38-43",
       "envergadura_cm": null,
       "estado_conservacion": "LC",
       "provincias": [
@@ -3944,22 +3943,15 @@
       "curiosidades": "Su nombre viene de la 'capucha' oscura que contrasta con la cara clara. Es un pato tranquilo que vive en parejas o grupos chicos en lagunas, bañados y charcas de agua dulce, sobre todo las de orillas con juncos y poca vegetación flotante. Come semillas, plantas acuáticas, insectos y otros invertebrados chicos. Hace el nido escondido entre la vegetación de la orilla y pone de 5 a 10 huevos, que se incuban durante 23 a 24 días.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, small duck, blackish-brown cap and nape extending just below the eye, pale cream face, throat and upper neck, pale blue bill with a black ridge and black tip and a yellow spot at the base, dark brown back with buff feather edges, folded wing showing a metallic green patch bordered with white, rump finely vermiculated black and white, buff breast peppered with small distinct black spots, flanks barred black, grey and white, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
-        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, small duck, blackish-brown cap and nape, pale cream face and throat, pale blue bill with a black ridge and a yellow spot at the base, neck extended, dark brown back with buff feather edges, dark upperwing with a metallic green speculum bordered with white in front and behind, rump finely vermiculated black and white, buff breast peppered with small distinct black spots, flanks barred black, grey and white, grey legs tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, small duck, blackish-brown cap and nape extending just below the eye, pale cream face, throat and upper neck, pale blue bill with a black ridge and black tip and a yellow spot at the base, small dark brown eye with a tiny dark pupil, dark brown back with buff feather edges, folded wing showing a metallic green patch bordered with white, rump finely vermiculated black and white, buff breast peppered with small distinct black spots, flanks barred black, grey and white, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, small duck, blackish-brown cap and nape, pale cream face and throat, pale blue bill with a black ridge and a yellow spot at the base, small dark brown eye, neck extended, dark brown back with buff feather edges, dark upperwing with a metallic green speculum bordered with white in front and behind, rump finely vermiculated black and white, buff breast peppered with small distinct black spots, flanks barred black, grey and white, grey legs tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "siltea1",
       "gbif_taxon_key": 9305555,
       "pendientes": [
-        "Color de ojo sin confirmar (omitido en prompts D/V)",
-        "Color de corona: 'negra' según Wikipedia (en), 'pardo oscuro' según una guía argentina — se usó pardo muy oscuro, casi negro",
-        "Color del espejo: 'verde' según Wikipedia (en) y eBird, 'azul verdoso' según una guía argentina — se usó verde metálico",
-        "Color de patas: 'grises' según the-birds.net, 'gris azuladas' según una guía argentina — se usó gris",
-        "Borde blanco del espejo 'adelante y atrás' supuesto a partir de 'bordeado de blanco' (prompt V)",
-        "Se cargó una sola variante (D): dimorfismo leve (hembra más apagada, flancos menos barrados, menos amarillo en el pico); el juvenil es más apagado con corona parda — evaluar variantes F/J",
-        "Residencia: se cargó 'permanente'; no se confirmó con fuente si las poblaciones patagónicas migran al norte en invierno",
-        "Largo: 37-42 cm según Wikipedia (es), 36-41 cm según the-birds.net, 38-43 cm según una guía argentina; se cargó 36-43",
-        "Envergadura sin dato (null)",
-        "Provincias: confirmar Formosa, Catamarca, San Juan y La Rioja (pocos registros en GBIF)"
+        "Se cargó una sola variante (D): dimorfismo leve (hembra más apagada, flancos menos barrados, a veces sin amarillo en el pico; juvenil más apagado con la cabeza más parda — oiseaux-birds); evaluar variantes F/J",
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
+        "Provincias: Formosa no está cargada; la UNL la excluye (desde Salta, Chaco y Corrientes hacia el sur), pero iNaturalist/ArgentiNat tiene 5 registros de grado investigación — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
       ]
     },
     {
@@ -3970,8 +3962,8 @@
       "familia": "Picidae",
       "orden": "Piciformes",
       "descripcion": {
-        "M": "Carpintero mediano que anda mucho por el suelo. Corona y nuca negras. Cara, costados del cuello y parte alta del pecho amarillo intenso. Bigote rojo. Garganta blanca (la forma de Buenos Aires; más al norte es negra). Pico largo, gris y algo curvo. Ojo pardo rojizo. Dorso pardo con barras claras; rabadilla blanca con algunas barritas oscuras. Plumas del ala pardas con los ejes amarillos. Cola negruzca. Pecho y vientre blanquecinos barrados de pardo oscuro. Patas grises.",
-        "F": "Igual al macho pero sin el bigote rojo: según la fuente, el bigote es negro o directamente no tiene. El resto del plumaje es igual."
+        "M": "Carpintero mediano que anda mucho por el suelo. Corona y nuca negras. Cara, costados del cuello y parte alta del pecho amarillo intenso. Bigote rojo. Garganta blanca (la forma de Buenos Aires; más al norte es negra). Pico largo, negro y algo curvo. Ojo pardo rojizo. Dorso pardo oscuro barrado de blanquecino; rabadilla blanca con algunas barritas oscuras. Plumas del ala pardas con los ejes amarillos. Cola negruzca. Pecho y vientre blanquecinos barrados de pardo oscuro. Patas grises.",
+        "F": "Igual al macho pero sin rojo en el bigote: la banda malar es punteada de blanco y negro. El resto del plumaje es igual."
       },
       "habitat": [
         "pastizal",
@@ -4004,22 +3996,16 @@
       "curiosidades": "A diferencia de la mayoría de los carpinteros, busca casi toda su comida en el suelo: picotea y escarba hormigueros, termiteros, tierra y troncos caídos, y puede romper termiteros grandes. Hormigas y termitas son la base de su dieta. Anda en parejas o grupos chicos y se lo ve seguido posado en postes y alambrados. Macho y hembra excavan juntos el nido en un termitero, una barranca, un árbol o un poste; ponen 4 o 5 huevos, y en la Argentina crían sobre todo en agosto y septiembre. A veces varias hembras de un grupo ponen en el mismo nido.",
       "sprites": {},
       "prompts_pixelart": {
-        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched upright on a wooden fence post with its stiff tail pressed against the post, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium-sized woodpecker, black crown and nape, bright yellow face and sides of the neck, red moustachial stripe, long slightly curved grey bill, small reddish-brown eye with a tiny dark pupil, brown back barred with pale bars, white rump with a few narrow dark bars, brown wings with yellow feather shafts, blackish tail, white throat, bright yellow upper breast, whitish lower breast and belly barred with dark brown, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
-        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: replace the red moustachial stripe with a black stripe of the same shape and position, keep all other colors unchanged, keep white background, no shadow, no text",
-        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, medium-sized woodpecker, black crown and nape, bright yellow face and sides of the neck, red moustachial stripe, long grey bill, neck extended, brown back barred with pale bars, conspicuous white rump, open brown wings with yellow feather shafts, blackish tail, white throat, bright yellow upper breast, whitish belly barred with dark brown, grey legs tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched upright on a wooden fence post with its stiff tail pressed against the post, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium-sized woodpecker, black crown and nape, bright yellow face and sides of the neck, red moustachial stripe, long slightly curved black bill, small reddish-brown eye with a tiny dark pupil, dark brown back barred with whitish, white rump with a few narrow dark bars, brown wings with yellow feather shafts, blackish tail, white throat, bright yellow upper breast, whitish lower breast and belly barred with dark brown, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: replace the red moustachial stripe with a stripe of the same shape and position speckled black and white, keep all other colors unchanged, keep white background, no shadow, no text",
+        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, medium-sized woodpecker, black crown and nape, bright yellow face and sides of the neck, red moustachial stripe, long black bill, neck extended, dark brown back barred with whitish, conspicuous white rump, open brown wings with yellow feather shafts, blackish tail, white throat, bright yellow upper breast, whitish belly barred with dark brown, grey legs tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "camfli1",
       "gbif_taxon_key": 2478233,
       "pendientes": [
-        "Bigote de la hembra: 'negro' según Wikipedia (en), 'sin bigote' según Wikipedia (es) — se usó negro en el recolor F",
-        "Bigote del macho: 'rojo' según Wikipedia (en), 'rojo y negro' según Wikipedia (es) y Birds of the World — se usó rojo",
-        "Dorso: 'pardo con barras blanco sucio' según Wikipedia (en), 'barrado de negro y pardo amarillento' según Wikipedia (es), 'pardo oscuro' según Birds of the World — se usó pardo con barras claras",
-        "Vientre: 'barrado de pardo' según Wikipedia (en), 'escamado oscuro' según Wikipedia (es) — se usó barrado",
-        "Amarillo en la parte alta del pecho con una sola fuente (Wikipedia es, sin distinguir subespecie)",
-        "Color de las tapadas (ala por debajo) sin confirmar (omitido en prompt V)",
-        "Juvenil (parecido al adulto, amarillo más pálido) con una sola fuente; no se creó variante J",
-        "Envergadura sin dato (null)",
-        "Provincias: confirmar Salta, La Rioja, Catamarca, Jujuy y Tucumán (pocos registros en GBIF)"
+        "Color de las tapadas (ala por debajo): amarillento con punta y borde posterior más oscuros según oiseaux-birds (una sola fuente); omitido en prompt V — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
+        "Juvenil: más apagado, con barras negras más anchas y el amarillo más pálido (oiseaux-birds y Wikipedia); evaluar si conviene una variante J",
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
       ]
     },
     {
@@ -4031,7 +4017,7 @@
       "orden": "Passeriformes",
       "descripcion": {
         "M": "Pájaro chico de juncales. Todo negro, con una mancha amarilla en el hombro que a veces esconde entre las plumas y se ve bien en vuelo. Pico cónico, puntiagudo y negro. Ojo pardo. Por debajo del ala, las tapadas también son amarillas. En primavera puede mostrar algún jaspeado pardusco. Patas negras.",
-        "F": "Muy distinta al macho. Corona pardo oscura y una ceja ancha clara bien marcada. Cachete pardo oscuro. Dorso pardo con estrías oscuras y algunos bordes castaños; alas pardo oscuras con bordes más claros. Partes inferiores pardo ocráceas claras con estrías oscuras, salvo la barbilla y la garganta. Pico negro. Ojo pardo. Patas negras."
+        "F": "Muy distinta al macho. Corona pardo oscura y una ceja ancha blancuzca bien marcada. Cachete pardo oscuro. Dorso pardo con estrías oscuras y algunos bordes castaños; alas pardo oscuras con bordes más claros. Partes inferiores pardo ocráceas claras con estrías oscuras, salvo la barbilla y la garganta. Hombros y tapadas amarillos, como el macho. Pico negro. Ojo pardo. Patas negras."
       },
       "habitat": [
         "humedal",
@@ -4058,27 +4044,22 @@
         "San Juan",
         "Neuquén",
         "Río Negro",
-        "Chubut"
+        "Chubut",
+        "Santa Cruz"
       ],
       "curiosidades": "Vive en juncales, totorales y la vegetación de la orilla de lagunas y bañados, y fuera de la época de cría también sale a campos barrosos, pastizales y cultivos cercanos. Come sobre todo insectos acuáticos y semillas, además de arañas, crustáceos y caracolitos, y suele andar en bandadas. Cría en colonias: la hembra teje un nido en forma de taza entre juncos o totoras y pone de 2 a 4 huevos claros con manchas oscuras. Es parasitado a menudo por el Tordo Renegrido. En Chile lo llaman 'trile'.",
       "sprites": {},
       "prompts_pixelart": {
         "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched upright on a reed stem, white background, 1024x1024 pixels, bird filling 60% of canvas height, small blackbird, black head, pointed conical black bill, small brown eye with a tiny dark pupil, black back, black wings with a bright yellow shoulder patch, black tail, black throat, breast and belly, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
-        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: replace the black crown with dark brown, add a wide pale buff eyebrow stripe, dark brown cheeks, back brown with dusky streaks and a few chestnut feather edges, wings dark brown with paler feather edges, tail dark brown, pale unstreaked chin and throat, breast and belly light buff-brown with dark streaks, keep the black bill, brown eye and black legs, keep white background, no shadow, no text",
+        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: replace the black crown with dark brown, add a wide whitish eyebrow stripe, dark brown cheeks, back brown with dusky streaks and a few chestnut feather edges, wings dark brown with paler feather edges, tail dark brown, pale unstreaked chin and throat, breast and belly light buff-brown with dark streaks, keep the black bill, brown eye and black legs, keep white background, no shadow, no text",
         "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, small blackbird, black head, pointed conical black bill, neck extended, black back, open black wings with a bright yellow shoulder patch and bright yellow underwing coverts, black tail, black throat, breast and belly, black legs tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "yewbla2",
       "gbif_taxon_key": 2484205,
       "pendientes": [
-        "Hombro amarillo en la hembra solo confirmado por resumen de búsqueda (el recolor F lo conserva del sprite M; verificar)",
-        "Ceja de la hembra: 'ocrácea ancha' según Wikipedia (en), 'blanca' según SIB — se usó ocrácea clara",
-        "Color de cola sin descripción específica; se asumió negra en el macho por 'casi todo negro' (Wikipedia en)",
-        "Juvenil sin confirmar (solo resúmenes de búsqueda: como la hembra con hombro pardo); no se creó variante J",
-        "Largo: 19 cm según SIB, 17,9 cm (promedio machos) según Wikipedia (en); se cargó 18-19",
-        "Residencia: se cargó 'permanente' para Buenos Aires (inferido); Birds of the World indica que las poblaciones del sur migran al norte en invierno y SIB lo da como estival en el NO de la Patagonia",
-        "Envergadura sin dato (null)",
-        "Provincias: Santa Cruz tiene más de mil registros en GBIF pero SIB y Wikipedia (en) dan como límite sur Chubut — confirmar",
-        "Provincias: confirmar Salta, Jujuy, Catamarca, La Rioja, Tucumán, Chaco y Misiones (pocos registros en GBIF)"
+        "Juvenil sin confirmar (solo resúmenes de búsqueda: como la hembra con hombro pardo); UNL y avespampa no lo describen; no se creó variante J — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
+        "Residencia: se cargó permanente para Buenos Aires (inferido); Birds of the World indica que las poblaciones del sur migran al norte en invierno; la UNL y avespampa no lo precisan — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
       ]
     },
     {
@@ -4089,7 +4070,7 @@
       "familia": "Thraupidae",
       "orden": "Passeriformes",
       "descripcion": {
-        "D": "Pájaro chico y llamativo. Cabeza, copete puntiagudo, garganta y parte alta del pecho rojos; el copete lo levanta cuando se excita. Pico blancuzco o rosado con la punta y la línea de arriba negruzcas. Ojo pardo rojizo. Nuca gris con puntitos blancos. Dorso gris; alas y cola gris más oscuro. Pecho, vientre y plumas debajo de la cola blancos. Patas negruzcas. Macho y hembra son iguales.",
+        "D": "Pájaro chico y llamativo. Cabeza, copete puntiagudo, garganta y parte alta del pecho rojos; el copete lo levanta cuando se excita. Pico blancuzco o rosado con la punta y la línea de arriba negruzcas. Ojo pardo rojizo. Nuca gris con puntitos blancos. Dorso gris; alas y cola negruzcas. Pecho, vientre y plumas debajo de la cola blancos. Patas negruzcas. Macho y hembra son iguales.",
         "J": "Como el adulto, pero la cabeza, el copete y el babero son pardo anaranjados apagados en lugar de rojos."
       },
       "habitat": [
@@ -4118,27 +4099,23 @@
         "La Pampa",
         "Tucumán",
         "Salta",
-        "Jujuy"
+        "Jujuy",
+        "Mendoza",
+        "Río Negro"
       ],
       "curiosidades": "Es muy común en plazas y parques, y abunda sobre todo en la región chaqueña. Anda en parejas, grupos o bandadas de hasta 50, y busca comida mucho en el suelo: semillas de pastos, frutos como los del tala y la mora, e insectos, incluidas hormigas y termitas aladas. Cría de septiembre a febrero en un nido en forma de taza de fibras vegetales, donde pone 3 o 4 huevos verdosos con manchas pardas. Lo parasita el Tordo Renegrido. Por su canto y su color es de los pájaros más buscados como mascota en la Argentina, y fue introducido en Hawái, Puerto Rico y Chile.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched upright on a branch, white background, 1024x1024 pixels, bird filling 60% of canvas height, small songbird, bright red head with a short pointed red crest, pale pinkish-white conical bill with a dark tip, small reddish-brown eye with a tiny dark pupil, grey nape peppered with small distinct white spots, grey back, grey wings with darker grey flight feathers, dark grey tail, bright red throat and bib extending onto the upper breast, white lower breast, belly and undertail, blackish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched upright on a branch, white background, 1024x1024 pixels, bird filling 60% of canvas height, small songbird, bright red head with a short pointed red crest, pale pinkish-white conical bill with a dark tip, small reddish-brown eye with a tiny dark pupil, grey nape peppered with small distinct white spots, grey back, blackish wings, blackish tail, bright red throat and bib extending onto the upper breast, white lower breast, belly and undertail, blackish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
         "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: replace the bright red head, crest, throat and bib with dull brownish orange, keep all other colors unchanged, keep white background, no shadow, no text"
       },
       "audio_ebird_code": "reccar",
       "gbif_taxon_key": 2492081,
       "pendientes": [
-        "Alas y cola: 'gris, con remeras gris más oscuro' según Wikipedia (en), 'negruzcas' según Wikipedia (es) — se usó gris oscuro",
-        "Color de ojo: 'pardo rojizo' según Wikipedia (es), 'marrón oscuro' según Wikipedia (pt, a nivel de género) — se usó pardo rojizo",
-        "Color de patas: 'negruzcas' según Wikipedia (es/pt), 'grises' según resúmenes de búsqueda sin verificar — se usó negruzco",
-        "Sexos iguales según Wikipedia (pt) a nivel de género; sin confirmación en una ficha de la especie",
-        "Color de pico del juvenil sin confirmar (el recolor J conserva el del adulto)",
-        "Residencia: se cargó 'permanente'; ninguna fuente lo dice explícitamente",
-        "Largo: 18 cm según Wikipedia (pt), 19 cm según Wikipedia (es); se cargó 18-19",
-        "Envergadura sin dato (null)",
-        "Provincias: Río Negro, Neuquén, Chubut y Mendoza tienen muchos registros en GBIF pero están fuera del rango nativo (probables poblaciones escapadas o introducidas) — confirmar",
-        "Provincias: confirmar Catamarca, La Rioja, San Juan y Santa Cruz (pocos registros en GBIF, posibles escapes de jaula)"
+        "Color de pico del juvenil sin confirmar (el recolor J conserva el del adulto); avespampa describe al joven con dorso pardo y copete más claro — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
+        "Residencia: se cargó permanente; ninguna fuente lo dice explícitamente — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
+        "Provincias: Neuquén y Chubut no están cargadas; tienen 52 y 24 registros de grado investigación en iNaturalist/ArgentiNat, pero la UNL da la especie solo hasta Mendoza, La Pampa y Río Negro (probables poblaciones escapadas o introducidas) — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
       ]
     },
     {
@@ -4149,8 +4126,8 @@
       "familia": "Rallidae",
       "orden": "Gruiformes",
       "descripcion": {
-        "D": "Ave acuática mediana, del tamaño de un pato chico. Escudete en la frente rojo brillante que sigue en un pico rojo con la punta amarilla. Ojo rojo. Cabeza y cuello negruzcos. Dorso y alas pardo oscuros; cola corta que mueve seguido al nadar. Cuerpo gris pizarra con una línea blanca bien marcada a lo largo del costado, y plumas blancas a los lados de la parte de abajo de la cola. Patas largas verde amarillentas con dedos muy largos y una 'liga' roja arriba del talón.",
-        "J": "Más pardo y apagado que el adulto, sin el escudete rojo y con el pico opaco, no rojo. Conserva la línea blanca del costado y el blanco debajo de la cola."
+        "D": "Ave acuática mediana, del tamaño de un pato chico. Escudete en la frente rojo brillante que sigue en un pico rojo con la punta amarilla. Ojo rojo. Cabeza y cuello negruzcos. Dorso gris pizarra, con tinte pardo oliváceo en la parte baja y la rabadilla; alas pardas; cola corta que mueve seguido al nadar. Cuerpo gris pizarra con una línea blanca bien marcada a lo largo del costado, y plumas blancas a los lados de la parte de abajo de la cola. Patas largas verde amarillentas con dedos muy largos y una 'liga' roja arriba del talón.",
+        "J": "Más pardo y apagado que el adulto, sin el escudete rojo y con el pico pardo verdoso y un escudete chico, el ojo pardo y las patas gris oliváceo. Conserva la línea blanca del costado y el blanco debajo de la cola."
       },
       "habitat": [
         "humedal",
@@ -4177,25 +4154,20 @@
         "Mendoza",
         "Tucumán",
         "Salta",
-        "Jujuy"
+        "Jujuy",
+        "Catamarca",
+        "San Juan"
       ],
       "curiosidades": "Vive en lagunas, bañados, canales y orillas con mucha vegetación, y en parques de ciudad puede volverse bastante confiada. Nada moviendo la cabeza hacia adelante y la cola corta, y sus dedos largos le permiten caminar sobre plantas flotantes como los camalotes. Come de todo: plantas acuáticas, semillas, insectos, caracoles y otros bichitos del agua. Defiende su territorio a los picotazos y patadas. Arma el nido como una canasta entre la vegetación densa, y los dos padres incuban y alimentan a los pichones, que son negros y peludos. Hasta 2011 se la consideraba la misma especie que la polla de agua de Europa.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on a floating leaf, white background, 1024x1024 pixels, bird filling 60% of canvas height, compact marsh bird, bright red frontal shield, short red bill with a yellow tip, small red eye with a tiny dark pupil, blackish head and neck, dark brown back and wings, short cocked tail, slate grey breast and belly, bold white stripe along the flank, white patches on both sides of the undertail, long yellowish-green legs with very long toes and a small red band at the top of the leg, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
-        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: replace the red frontal shield and red bill with dull dark olive-brown, make the head, neck and body plumage paler and browner overall (duller than the adult), remove the red band on the legs, keep the white flank stripe, the white undertail patches and the white background, no shadow, no text"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on a floating leaf, white background, 1024x1024 pixels, bird filling 60% of canvas height, compact marsh bird, bright red frontal shield, short red bill with a yellow tip, small red eye with a tiny dark pupil, blackish head and neck, dark slate-grey back washed olive-brown on the lower back, brown wings, short cocked tail, slate grey breast and belly, bold white stripe along the flank, white patches on both sides of the undertail, long yellowish-green legs with very long toes and a small red band at the top of the leg, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: replace the red frontal shield and red bill with dull greenish-brown and make the frontal shield smaller, make the red eye brownish, make the yellowish-green legs olive-grey, make the head, neck and body plumage paler and browner overall (duller than the adult), remove the red band on the legs, keep the white flank stripe, the white undertail patches and the white background, no shadow, no text"
       },
       "audio_ebird_code": "comgal1",
       "gbif_taxon_key": 7340222,
       "pendientes": [
-        "Color de ojo rojo y 'liga' roja en la pata solo confirmados por resúmenes de búsqueda (All About Birds / BirdForum), no por lectura directa de la ficha",
-        "Juvenil: Wikipedia (en) dice solo 'más pardo y sin escudete rojo'; colores de pico, patas y garganta del juvenil sin confirmar (el recolor J conserva las patas del adulto)",
-        "Dorso: 'negro y pardo' según Wikipedia (en, polla de agua), la subespecie de Argentina no está descrita en detalle — se usó pardo oscuro",
-        "gbif_taxon_key 7340222 es el usageKey del match, pero GBIF lo trata como sinónimo de Gallinula chloropus (acceptedUsageKey 5228200) — confirmar cuál usar",
-        "Residencia: se cargó 'permanente' para Buenos Aires (inferido); ninguna fuente consultada lo dice para Argentina",
-        "Provincias: Santa Cruz tiene ~200 registros en GBIF pero está fuera de la distribución descrita (hasta el norte/centro de Argentina) — confirmar",
-        "Provincias: confirmar Catamarca, San Juan, La Rioja, Río Negro, Neuquén y Tierra del Fuego (pocos registros en GBIF)",
-        "No se pudo consultar Avibase ni EcoRegistros (403 / bloqueados desde el entorno)"
+        "Residencia: se cargó permanente para Buenos Aires (inferido); ninguna fuente consultada lo dice para Argentina — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
       ]
     },
     {
