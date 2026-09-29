@@ -2,17 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (109 cargadas).
+`aviario_data.json` (112 cargadas).
 
 
-**Faltan: 250 especies**
+**Faltan: 247 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 99 | Tordo Pico Corto | *Molothrus rufoaxillaris* | #943 |
-| 101 | Pitiayumí | *Setophaga pitiayumi* | #958 |
-| 102 | Hocó Colorado | *Tigrisoma lineatum* | #382 |
 | 103 | Loica | *Leistes loyca* | #936 |
 | 104 | Pitotoy Grande | *Tringa melanoleuca* | #259 |
 | 105 | Piojito Tiquitiqui | *Serpophaga subcristata* | #769 |

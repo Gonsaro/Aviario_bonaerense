@@ -5378,6 +5378,171 @@
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
         "Provincias: La Pampa (98 registros) y Mendoza (76) tienen presencia en GBIF/eBird pero la UNL da la distribución solo hasta San Juan, San Luis y Buenos Aires — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
       ]
+    },
+    {
+      "id": 110,
+      "num": "#110",
+      "nombre_comun": "Tordo Pico Corto",
+      "nombre_cientifico": "Molothrus rufoaxillaris",
+      "familia": "Icteridae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Tordo mediano, todo negro con un brillo suave, sin el reflejo violáceo del Tordo Renegrido. Pico negro, corto y cónico. Ojo pardo rojizo. Dorso, alas y cola negros. Debajo del ala tiene plumas castañas que casi nunca se ven con el ala cerrada. Garganta, pecho y vientre negros. Patas negras. La hembra es parecida al macho pero algo más apagada. El juvenil es muy distinto: se parece al Tordo Músico."
+      },
+      "habitat": [
+        "pastizal",
+        "agrícola",
+        "monte",
+        "urbano"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "17-21",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "La Pampa",
+        "Mendoza",
+        "San Juan",
+        "La Rioja",
+        "Catamarca",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Neuquén",
+        "Río Negro"
+      ],
+      "curiosidades": "No hace nido ni cría a sus pichones: pone sus huevos en el nido de otras aves, casi siempre del Tordo Músico. Es el único parásito de cría conocido cuyos pichones imitan a los del ave que los cría: tienen casi el mismo plumaje y hasta copian los pedidos de comida de los pichones de Tordo Músico. En un solo nido pueden aparecer muchos huevos, porque varias hembras llegan a poner en el mismo. Suele andar en parejas o en bandadas junto con el Tordo Músico, y busca semillas e insectos en el suelo, muchas veces cerca del ganado. Su voz es un grito fuerte, explosivo y penetrante.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on the ground, white background, 1024x1024 pixels, bird filling 65% of canvas height, stocky cowbird with a short conical black bill, entirely black plumage with a faint dull sheen and no purple gloss, small reddish brown eye with a tiny dark pupil, black back, wings and tail, black throat, breast and belly, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "scrcow1",
+      "gbif_taxon_key": 9506351,
+      "pendientes": [
+        "Juvenil distinto (la UNL solo dice que se parece al Tordo Músico) sin variante propia ni descripción detallada — falta fuente con el plumaje juvenil",
+        "Plumas castañas debajo del ala omitidas en el prompt D (no se ven con el ala plegada)",
+        "Largo: la UNL da 17 cm y Wikipedia (en) 18-21 cm — se cargó 17-21",
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
+        "Provincias: Chubut está en la distribución de la UNL ('hasta Chubut') pero tiene 2 registros en GBIF/eBird — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+      ]
+    },
+    {
+      "id": 111,
+      "num": "#111",
+      "nombre_comun": "Pitiayumí",
+      "nombre_cientifico": "Setophaga pitiayumi",
+      "familia": "Parulidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "M": "Pajarito muy chico e inquieto, de cola corta. Cabeza gris azulada, con la zona entre el pico y el ojo negra. Pico fino, negruzco arriba y amarillo abajo. Ojo pardo oscuro. Dorso gris azulado con una mancha verde oliva en la espalda. Alas negruzcas con bordes grises y dos bandas blancas. Cola negruzca con blanco en las plumas de los costados. Garganta y pecho amarillos con un fuerte tono anaranjado. Vientre amarillo. Patas rosadas o rojizas.",
+        "F": "La hembra es parecida al macho pero más apagada, con poco o nada de anaranjado en el pecho."
+      },
+      "habitat": [
+        "monte",
+        "bosque",
+        "urbano"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "9-11",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "La Pampa",
+        "Mendoza",
+        "La Rioja",
+        "Catamarca",
+        "Tucumán",
+        "Salta",
+        "Jujuy"
+      ],
+      "curiosidades": "Su nombre viene del guaraní: en Paraguay 'pitpit pitiayumi' es el nombre de un pajarito de pecho amarillo. Es muy movedizo y recorre las ramas medias y altas de los árboles revisando claveles del aire y líquenes en busca de insectos; también come néctar, flores y frutos, y a veces caza al vuelo. Su canto es un trino muy agudo que sube y baja. Arma el nido dentro de una mata de líquenes, con forma de bolsita o globo, forrado por dentro con algunas cerdas, y pone 3 huevos blancos con pintitas.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thin branch, white background, 1024x1024 pixels, bird filling 60% of canvas height, tiny warbler with a short tail, blue-grey crown and face with black lores, thin bill with a blackish upper mandible and a yellow lower mandible, small dark brown eye with a tiny dark pupil, blue-grey back with an olive-green patch on the upper back, blackish wings with grey edges and two bold white wing bars, short blackish tail with white on the outer feathers, bright yellow throat and breast washed with strong orange, yellow belly, pinkish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: female duller than the male, make the blue-grey upperparts slightly duller, remove most of the orange wash from the throat and breast leaving them plain yellow, keep the white wing bars, the olive back patch, the bill and the pinkish legs unchanged, keep white background, no shadow, no text"
+      },
+      "audio_ebird_code": "tropar",
+      "gbif_taxon_key": 7341895,
+      "pendientes": [
+        "Lorum negro en la hembra: Wikipedia (en) dice que las hembras de la subespecie de México no tienen la máscara negra, pero no lo aclara para la subespecie de Argentina — se mantuvo en el recolor F, revisar",
+        "Vientre: la UNL dice amarillo; Wikipedia (en) lo da blanco para la subespecie de México — se usó amarillo (UNL)",
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
+        "Código eBird 'tropar' tomado de Wikidata vía Wikipedia (es); la Wikipedia en inglés no lo muestra y eBird no fue accesible — confirmar",
+        "Provincias: la UNL la da hasta el este de Chubut, pero GBIF/eBird tiene 3 registros ahí; Río Negro (18), Neuquén (14) y San Juan (10) también quedan por debajo del criterio — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+      ]
+    },
+    {
+      "id": 112,
+      "num": "#112",
+      "nombre_comun": "Hocó Colorado",
+      "nombre_cientifico": "Tigrisoma lineatum",
+      "familia": "Ardeidae",
+      "orden": "Pelecaniformes",
+      "descripcion": {
+        "D": "Garza grande y robusta, de cuello grueso. Cabeza y cuello castaño rojizos. Por delante del cuello, una franja clara jaspeada de negro y blanco que baja desde la barbilla hasta el pecho. Pico fuerte, amarillo oscuro con la parte de arriba negruzca. Ojo amarillo, con la piel entre el pico y el ojo también amarilla. Dorso gris pardusco con finísimas líneas onduladas ocráceo rojizas. Alas grises, con finas rayas y la punta blanca en algunas plumas. Cola gris pardusca. Costados barrados de blanco y negro. Vientre gris ceniciento con barras canela. Patas amarillo verdosas oscuras. Macho y hembra son iguales.",
+        "J": "El juvenil es muy distinto: castaño ocráceo, todo barrado y jaspeado de pardo oscuro, con aspecto 'atigrado'. Garganta, frente del cuello, pecho y vientre blanquecinos con barras y manchas ocres y pardas. Tarda unos cinco años en tener el plumaje de adulto."
+      },
+      "habitat": [
+        "humedal",
+        "ribereño"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "grande",
+      "largo_cm": "66-76",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Santiago del Estero",
+        "Córdoba",
+        "Mendoza",
+        "Salta",
+        "Jujuy"
+      ],
+      "curiosidades": "Es solitario y de movimientos lentos: se queda quieto, encorvado, en la orilla de bañados, esteros y lagunas con juncales o árboles, esperando que pase un pez, un cangrejo o un insecto acuático. Su llamado principal es un ulular grave y doble que suele dar de noche; entre sus muchos nombres populares están 'toro del agua' y 'garza tigre'. Hace una plataforma de palitos o juncos en árboles o juncales y pone 2 o 3 huevos blancos o celestes pálidos. El juvenil, todo atigrado, tarda unos cinco años en tener el plumaje de adulto.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 70% of canvas height, large stocky heron with a thick neck, dark rufous-chestnut head and neck, a pale buff stripe down the front of the neck streaked with black and white from chin to breast, stout dagger-shaped bill dark yellow with a blackish upper mandible, bright yellow bare skin between the bill and the eye, small yellow eye with a tiny dark pupil, greyish brown back finely vermiculated with rusty buff, grey wings with thin white tips on the flight feathers, short greyish brown tail, flanks barred black and white, ash-grey belly with cinnamon bars, dull greenish yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the whole head, neck, back, wings and tail rusty buff boldly barred with dark brown and black for a tiger-striped look, make the throat, front of the neck, breast and belly whitish barred and spotted with ochre and brown, keep the white wing tips, the bill, the yellow eye and the legs unchanged, keep white background, no shadow, no text"
+      },
+      "audio_ebird_code": "ruther1",
+      "gbif_taxon_key": 2480869,
+      "pendientes": [
+        "Cola: la UNL dice gris pardusca; Wikipedia (en) dice negra con barras blancas finas — se usó la UNL",
+        "Vientre: la UNL dice gris ceniciento con barras canela; Wikipedia (en) dice pardo anteado — se usó la UNL",
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
+        "Provincias: Formosa (1533 registros) y Catamarca (42) tienen presencia en GBIF/eBird pero no figuran en la distribución de la UNL; Tucumán (15) y San Juan (2) están en la UNL pero quedan por debajo del criterio — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+      ]
     }
   ]
 }
