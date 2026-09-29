@@ -2,17 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (100 cargadas).
+`aviario_data.json` (103 cargadas).
 
 
-**Faltan: 259 especies**
+**Faltan: 256 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 88 | Benteveo Rayado | *Myiodynastes maculatus* | #779 |
-| 89 | Martín Pescador Chico | *Chloroceryle americana* | #486 |
-| 90 | Pecho Colorado | *Leistes superciliaris* | #934 |
 | 91 | Golondrina Ceja Blanca | *Tachycineta leucorrhoa* | #867 |
 | 94 | Pato Cuchara | *Spatula platalea* | #46 |
 | 95 | Pava de Monte Ribereña | *Penelope obscura* | #64 |

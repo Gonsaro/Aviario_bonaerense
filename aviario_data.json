@@ -4910,6 +4910,169 @@
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Provincias: la UNL lo da en La Pampa, Santa Fe, Formosa y Chaco, pero GBIF/eBird tiene 10, 6, 6 y 4 registros; Río Negro (29 registros, la UNL solo menciona un avistaje en Bariloche) y Neuquén (27, fuera del rango UNL) tienen presencia en GBIF — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
       ]
+    },
+    {
+      "id": 101,
+      "num": "#101",
+      "nombre_comun": "Benteveo Rayado",
+      "nombre_cientifico": "Myiodynastes maculatus",
+      "familia": "Tyrannidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Del tamaño de un benteveo, pero todo rayado. Corona negruzca, con una mancha amarilla escondida que casi nunca se ve. Ceja blanca, una banda oscura que cruza el ojo como un antifaz y una línea blanca debajo. Pico negro, fuerte, con la base de la parte de abajo más clara. Ojo pardo. Dorso pardo oscuro con estrías blanquecinas. Alas pardas con bordes blanquecinos en las plumas. Cola parda con los bordes de las plumas castaño rojizos. Partes de abajo blanquecinas con tono ocráceo, todas cubiertas de estrías pardo oscuras. Patas negras. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "bosque",
+        "monte",
+        "urbano"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "20-23",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "La Pampa",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Catamarca",
+        "La Rioja",
+        "San Juan"
+      ],
+      "curiosidades": "Llega en primavera desde el norte de Sudamérica para criar, y en otoño vuelve a migrar hacia Perú, Ecuador y Brasil. No construye su propio nido: usa huecos de árboles, nidos viejos o rotos de horneros y carpinteros, y hasta cajas nido, donde pone 3 o 4 huevos manchados. Se queda quieto en las ramas altas y sale a cazar insectos al vuelo, pero también come muchos frutos. Se lo ubica fácil por su grito agudo y fuerte, parecido a un 'squiii-zip' o al chirrido de una bisagra.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium flycatcher with a large head, blackish crown, white eyebrow, dark brown mask through the eye with a white stripe below it, stout black bill with a paler base on the lower mandible, small dark brown eye with a tiny dark pupil, dark brown back with whitish streaks, brown wings with whitish edges on the coverts and inner flight feathers, brown tail with rufous outer edges, whitish underparts washed with buff and heavily streaked dark brown from throat to belly, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "strfly1",
+      "gbif_taxon_key": 2483497,
+      "pendientes": [
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
+        "Rabadilla: Wikipedia (en) la da castaño rojiza para la subespecie típica, pero la subespecie de Argentina (solitarius) es 'mucho menos rojiza' y la UNL no la menciona — omitida en descripción y prompt",
+        "Mancha amarilla de la corona (escondida) omitida en el prompt D",
+        "Provincias: Mendoza tiene 68 registros en GBIF/eBird pero la UNL da la distribución solo hasta San Juan, La Rioja, San Luis y La Pampa — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+      ]
+    },
+    {
+      "id": 102,
+      "num": "#102",
+      "nombre_comun": "Martín Pescador Chico",
+      "nombre_cientifico": "Chloroceryle americana",
+      "familia": "Alcedinidae",
+      "orden": "Coraciiformes",
+      "descripcion": {
+        "M": "El más chico de los tres martines pescadores comunes en Buenos Aires. Cabeza grande, sin copete marcado, verde bronceada. Pico largo, recto y puntiagudo, negro con la base de la parte de abajo amarillenta pálida. Ojo pardo. Dorso verde bronceado. Alas verdes con varias hileras de puntos blancos. Cola verde con manchas blancas en las plumas de los costados. Garganta y collar blancos. Pecho castaño rojizo. Vientre blanco, con manchas verdes en los costados. Patas cortas, grises.",
+        "F": "La hembra no tiene el pecho castaño: tiene la garganta y el pecho blanquecinos o apenas anteados, cruzados por dos bandas verdes, como un doble collar. El resto es igual al macho."
+      },
+      "habitat": [
+        "ribereño",
+        "humedal"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "19-22",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Catamarca"
+      ],
+      "curiosidades": "Se posa en ramas bajas, postes o alambres junto al agua y desde ahí se tira de cabeza para atrapar pececitos; mientras espera, mueve la cabeza y la cola de forma acompasada. Vuela rápido y bajo, al ras del agua. Macho y hembra cavan juntos un túnel de hasta un metro en la barranca de un arroyo o río, con una cámara al fondo donde la hembra pone de 4 a 5 huevos blancos, sin ningún material de nido. Los pichones dejan el túnel unas cuatro semanas después de nacer, y al poco tiempo los padres los echan del territorio.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thin branch, white background, 1024x1024 pixels, bird filling 60% of canvas height, small kingfisher with a large head and a short tail, bronze-green head without a crest, long straight pointed black bill with a pale yellow base on the lower mandible, small dark brown eye with a tiny dark pupil, bronze-green back, green wings with several rows of small distinct white spots, short green tail with white patches on the outer feathers, white throat and white collar, rich chestnut breast, white belly with a few green spots on the flanks, short grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: replace the chestnut breast with pale buffy white crossed by two separate green bands, one below the collar and one lower on the breast, keep the green upperparts, the white spots on the wings, the white throat, collar and belly, the bill and the grey legs unchanged, keep white background, no shadow, no text"
+      },
+      "audio_ebird_code": "grnkin",
+      "gbif_taxon_key": 2475486,
+      "pendientes": [
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
+        "Base del pico: la UNL dice amarillo pálido en la base de la parte de abajo; Wikipedia (en) dice color hueso — se usó la UNL",
+        "Pecho de la hembra: la UNL la describe con doble collar verde; Wikipedia (en) con garganta y pecho anteados y una banda de pintas verdes — el prompt F pide dos bandas verdes sobre fondo blanco anteado, revisar",
+        "Juvenil (como la hembra pero más apagado, con pintitas anteadas en la corona y las alas, según Wikipedia en) sin variante propia — decidir",
+        "Provincias: San Juan tiene 70 registros en GBIF/eBird pero no figura en la distribución de la UNL; Mendoza está en la UNL pero tiene 9 registros en GBIF; La Pampa, 10 registros — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+      ]
+    },
+    {
+      "id": 103,
+      "num": "#103",
+      "nombre_comun": "Pecho Colorado",
+      "nombre_cientifico": "Leistes superciliaris",
+      "familia": "Icteridae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "M": "Pajarito de campo, robusto, de cola corta. Macho casi todo negro, con una ceja blanca bien marcada detrás del ojo. Pico negro, puntiagudo, con la base de la parte de abajo grisácea. Ojo pardo oscuro. Dorso, alas y cola negros, con los 'hombros' rojos. Garganta, frente del cuello y pecho de un rojo intenso; resto de abajo negro. Patas negruzcas. Fuera de la época de cría las plumas negras tienen bordes gris pardusco y el macho se ve más apagado.",
+        "F": "La hembra es muy distinta: parda con estrías ocráceas en el dorso, ceja y garganta ocráceas, pecho ocráceo con un tinte rosado, y pecho, vientre y costados jaspeados de oscuro. Alas pardas con bordes ocráceos y cola con barras pardo oscuras y claras."
+      },
+      "habitat": [
+        "pastizal",
+        "agrícola"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "18",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "La Pampa",
+        "Mendoza",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Catamarca"
+      ],
+      "curiosidades": "En primavera el macho sube volando hasta unos 10 metros y se deja caer con las alas plegadas como un paracaídas mientras canta un zumbido seguido de notas cortadas; también canta desde postes, alambrados y yuyos altos. Vive en pastizales, alfalfares y sembrados, y fuera de la época de cría anda en bandadas que pueden ser muy grandes. Hace el nido en el suelo, una tacita de pasto escondida entre los yuyos. Sufre mucho a los tordos, que le dejan sus huevos: una vez se encontró un nido con 19 huevos de tordo y uno solo de pecho colorado.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on the ground, white background, 1024x1024 pixels, bird filling 60% of canvas height, small stocky meadowlark with a short tail, black head with a bold white eyebrow behind the eye, pointed black bill with a grey base on the lower mandible, small dark brown eye with a tiny dark pupil, black back, black wings with a red patch on the shoulder, short black tail, bright red throat, front of neck and breast, black belly and flanks, blackish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the back brown streaked with buff, the eyebrow and throat buff, the breast buff with a faint pink wash, the breast, belly and flanks mottled with dark brown, the wings brown with buff feather edges, the tail barred dark brown and pale brown, remove the red, keep the bill and legs unchanged, keep white background, no shadow, no text"
+      },
+      "audio_ebird_code": "whbbla2",
+      "gbif_taxon_key": 5788766,
+      "pendientes": [
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
+        "GBIF da Leistes superciliaris como sinónimo (usageKey 5788766); el nombre aceptado en GBIF tiene key 2484271 — decidir cuál guardar",
+        "Rojo del macho: la UNL lo limita a garganta, cuello anterior, pecho y hombros; Wikipedia (en) dice que también abarca el vientre — se siguió a la UNL",
+        "Residencia: las poblaciones del sur son parcialmente migratorias (Wikipedia es/en) — confirmar si en Buenos Aires está todo el año",
+        "Código eBird 'whbbla2' tomado de Wikidata vía Wikipedia (es); la Wikipedia en inglés no lo muestra y eBird no fue accesible — confirmar",
+        "Provincias: La Rioja (10 registros), San Juan (10) y Río Negro (5; Wikipedia es lo da hasta Río Negro) quedan por debajo del criterio de GBIF — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+      ]
     }
   ]
 }
