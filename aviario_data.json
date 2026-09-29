@@ -5073,6 +5073,154 @@
         "Código eBird 'whbbla2' tomado de Wikidata vía Wikipedia (es); la Wikipedia en inglés no lo muestra y eBird no fue accesible — confirmar",
         "Provincias: La Rioja (10 registros), San Juan (10) y Río Negro (5; Wikipedia es lo da hasta Río Negro) quedan por debajo del criterio de GBIF — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
       ]
+    },
+    {
+      "id": 104,
+      "num": "#104",
+      "nombre_comun": "Golondrina Ceja Blanca",
+      "nombre_cientifico": "Tachycineta leucorrhoa",
+      "familia": "Hirundinidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Golondrina chica, de alas largas y cola apenas ahorquillada. Corona, nuca y dorso azul brillante con un leve tono verdoso. Una línea blanca fina sale de la base del pico y pasa por encima del ojo, como una ceja corta; la zona entre el pico y el ojo y las mejillas son negras con brillo azulado. Pico chico, negro. Ojo pardo. Alas y cola negruzcas; algunas plumas del ala tienen la punta blanca. Rabadilla blanca. Toda la parte de abajo blanca, incluso debajo de las alas. Patas negras. Macho y hembra son iguales.",
+        "J": "El juvenil es más apagado: el dorso es gris pardusco en lugar de azul brillante y el pecho tiene un tono grisáceo. Conserva la ceja y la rabadilla blancas."
+      },
+      "habitat": [
+        "aéreo",
+        "pastizal",
+        "humedal",
+        "urbano"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "chico",
+      "largo_cm": "13",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "La Pampa",
+        "Mendoza",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Catamarca"
+      ],
+      "curiosidades": "Durante años se la consideró la misma especie que la Golondrina Patagónica; se la distingue por la ceja blanca y porque es blanca debajo de las alas. Vuela bajo, a ras del suelo y del agua, cazando insectos, y toma agua en pleno vuelo rozando la superficie de lagunas y charcos. No cava su nido: aprovecha huecos de árboles, postes, caños, aleros, nidos viejos de horneros y carpinteros o cajas nido, y lo forra con pasto y plumas. En Argentina cría de octubre a febrero; después la mayoría migra al norte para pasar el invierno.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thin wire, white background, 1024x1024 pixels, bird filling 60% of canvas height, small swallow with long pointed wings reaching past the tail, glossy blue crown and nape with a slight green tint, thin white line from the base of the bill over the eye, black lores and cheeks, tiny black bill, small dark brown eye with a tiny dark pupil, glossy blue back, blackish wings with small white tips on the inner flight feathers, white rump, short blackish slightly forked tail, pure white throat, breast and belly, short black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: juvenile duller than the adult, make the glossy blue crown, nape and back dull greyish brown, add a greyish wash across the breast, keep the white line over the eye, the white rump, the white belly and the black bill and legs unchanged, keep white background, no shadow, no text",
+        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, small swallow with long pointed wings, glossy blue crown with a slight green tint, thin white line from the base of the bill over the eye, black lores and cheeks, tiny black bill, small dark brown eye with a tiny dark pupil, glossy blue back, blackish open wings with white underwing coverts, white rump, short blackish slightly forked tail, pure white throat, breast and belly, legs tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "whrswa1",
+      "gbif_taxon_key": 5230761,
+      "pendientes": [
+        "Envergadura sin dato (null): Wikipedia (en) da 115,7 mm de 'wingspan', pero es la medida del ala, no la envergadura — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
+        "Alas y cola: la UNL dice pardas oscuras, Wikipedia (en) dice negras — se usó 'negruzcas'",
+        "Residencia: la mayor parte de la población del sur migra al norte en invierno (Wikipedia es/en); no se confirmó si quedan individuos en Buenos Aires todo el año",
+        "Provincias: Río Negro (19 registros, dentro del rango de la UNL), La Rioja (13) y San Juan (11) quedan por debajo del criterio de GBIF — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+      ]
+    },
+    {
+      "id": 105,
+      "num": "#105",
+      "nombre_comun": "Pato Cuchara",
+      "nombre_cientifico": "Spatula platalea",
+      "familia": "Anatidae",
+      "orden": "Anseriformes",
+      "descripcion": {
+        "M": "Pato mediano, fácil de reconocer por su pico negro, largo y muy ancho en la punta, como una cuchara. Cabeza ocrácea clara con pintitas pardas, más oscura en la corona. Ojo blanquecino a amarillo pálido. Dorso moteado de negro. Alas pardas, con las plumas de arriba celestes y una franja blanca, y un espejo verde. Cola parda y ocrácea. Pecho y costados castaño rojizos moteados de negro; vientre más claro. Debajo de la cola, negro con una mancha blanca a los costados. Patas amarillas.",
+        "F": "La hembra es parda, con la cabeza ocrácea con pintitas y rayitas oscuras, la garganta blanquecina, las plumas del dorso bordeadas de canela y la parte de abajo ocrácea acanelada manchada de pardo oscuro. Mismo pico grande. Ojo pardo oscuro, patas grises y el dibujo del ala igual pero más apagado."
+      },
+      "habitat": [
+        "humedal"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "45-56",
+      "envergadura_cm": "66-73",
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Catamarca",
+        "Córdoba",
+        "San Luis",
+        "San Juan",
+        "Mendoza",
+        "La Pampa",
+        "Neuquén",
+        "Río Negro",
+        "Chubut",
+        "Santa Cruz",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "Su pico en forma de cuchara tiene los bordes con laminillas, como un peine, que funcionan de colador: nada con el pico metido en el agua y filtra semillas, plantitas, crustáceos, insectos y otros bichitos chicos. A veces sumerge la cabeza y medio cuerpo para comer. Anda en bandadas grandes en lagunas, esteros y bañados. Hace el nido en el suelo, entre los pastos cerca del agua, forrado con pasto y plumas, y pone hasta 10 huevos color crema. Las poblaciones del sur migran hacia el norte en invierno.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium dabbling duck with a very long black bill widening into a spoon shape at the tip, pale buff head finely peppered with small distinct brown spots and a darker crown, small whitish pale yellow eye with a tiny dark pupil, back mottled with black, folded wing showing pale blue coverts, a white stripe and a green patch, brown and buff tail, cinnamon-rufous breast and flanks peppered with small distinct black spots, paler belly, black undertail with a white patch on the side, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: female duller and browner than the male, make the head buff with dark brown spots and fine streaks and a whitish throat, make the back brown with cinnamon feather edges, make the breast, flanks and belly buffy cinnamon mottled with dark brown, make the undertail brown like the body, make the eye dark brown and the legs grey, make the pale blue and green wing patches duller, keep the black bill, keep white background, no shadow, no text",
+        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, medium dabbling duck with a very long black spoon-shaped bill, neck extended, legs tucked, pale buff head finely peppered with brown spots, small whitish pale yellow eye with a tiny dark pupil, back mottled with black, open wings with pale blue forewing, a white stripe behind it, a green patch on the inner flight feathers and brown outer flight feathers, brown and buff tail, cinnamon-rufous breast and flanks peppered with black spots, black undertail, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "redsho1",
+      "gbif_taxon_key": 9290528,
+      "pendientes": [
+        "Residencia: parcialmente migratorio, las poblaciones del sur migran al norte en invierno (UNL, Wikipedia en) — confirmar si en Buenos Aires está todo el año",
+        "Provincias: Salta (387 registros), Tucumán (236), Jujuy (128), Chaco (67), Corrientes (34) y Formosa (26) tienen presencia en GBIF/eBird pero la UNL da el límite norte en Catamarca, Santiago del Estero, Santa Fe y Entre Ríos; La Rioja tiene 5 registros — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+      ]
+    },
+    {
+      "id": 106,
+      "num": "#106",
+      "nombre_comun": "Pava de Monte Ribereña",
+      "nombre_cientifico": "Penelope obscura",
+      "familia": "Cracidae",
+      "orden": "Galliformes",
+      "descripcion": {
+        "D": "Ave grande, parecida a una gallina de cola larga, de color general oscuro. Frente y corona negras. Cara con piel desnuda gris y una papada de piel roja en la garganta. Pico negruzco. Cuello, pecho y dorso pardos con reflejos verdosos y las plumas bordeadas de blanco, que le dan un aspecto jaspeado. Resto del cuerpo pardo con reflejos verdosos. Cola larga, marrón oscura. Patas gris oscuras. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "ribereño",
+        "bosque"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "grande",
+      "largo_cm": "70-75",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Corrientes"
+      ],
+      "curiosidades": "Vive en los montes que bordean los ríos, como los del delta del Paraná, y pasa casi todo el tiempo en los árboles, donde come hojas, flores, frutos y semillas. Arma un nido en forma de plataforma con palitos y tallos, forrado con hojas, y pone 2 o 3 huevos blancos entre octubre y diciembre; el macho se encarga de construirlo. Cuando hay peligro, los adultos abren la cola para tapar a los pichones, que se esconden debajo mientras se mueven. Aunque no está amenazada a nivel mundial, sufre la caza y la pérdida de los montes ribereños.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on a thick branch, white background, 1024x1024 pixels, bird including its long tail filling about 75% of canvas width, large dark guan with a slim neck, small head and long broad tail, black forehead and crown, bare grey facial skin, small bright red dewlap hanging from the throat, short blackish bill, small eye with a tiny dark pupil, neck, breast and back dark brown with a green gloss and narrow white feather edges forming a scaly pattern, rest of the body and wings dark brown with a green gloss, long dark brown tail, dark grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "dulgua1",
+      "gbif_taxon_key": 2482212,
+      "pendientes": [
+        "Color de ojo: la UNL dice iris pardo; Wikipedia (pt) dice que los adultos tienen los ojos rojos — omitido en el prompt, revisar",
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en/pt); Avibase 403",
+        "Juvenil (garganta blanca, sin manchas blancas arriba, según Wikipedia pt) sin variante propia — decidir",
+        "Provincias: la población del noroeste (Jujuy, Salta, Tucumán) hoy es otra especie, la Pava de Monte Yungueña (Penelope bridgesi), pero GBIF todavía suma esos registros acá (36, 26 y 21) — no se cargaron",
+        "Provincias: la UNL la da en Formosa, Chaco, Misiones y noreste de Santa Fe, pero GBIF/eBird tiene 0, 2, 17 y 0 registros — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+      ]
     }
   ]
 }

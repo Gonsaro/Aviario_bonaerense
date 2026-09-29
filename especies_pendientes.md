@@ -2,17 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (103 cargadas).
+`aviario_data.json` (106 cargadas).
 
 
-**Faltan: 256 especies**
+**Faltan: 253 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 91 | Golondrina Ceja Blanca | *Tachycineta leucorrhoa* | #867 |
-| 94 | Pato Cuchara | *Spatula platalea* | #46 |
-| 95 | Pava de Monte Ribereña | *Penelope obscura* | #64 |
 | 96 | Boyerito | *Icterus pyrrhopterus* | #942 |
 | 97 | Chiricote | *Aramides cajaneus* | #195 |
 | 98 | Mosqueta Estriada | *Myiophobus fasciatus* | #795 |
