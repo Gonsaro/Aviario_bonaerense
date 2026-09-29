@@ -4657,6 +4657,189 @@
         "Provincias: confirmar Catamarca, San Luis, Mendoza, San Juan y La Rioja (pocos registros en GBIF; SIB/avespampa mencionan presencia hasta Mendoza)",
         "No se pudo consultar Avibase, EcoRegistros ni avespampa.com.ar (403 / bloqueados desde el entorno)"
       ]
+    },
+    {
+      "id": 95,
+      "num": "#095",
+      "nombre_comun": "Carpintero Bataraz Chico",
+      "nombre_cientifico": "Veniliornis mixtus",
+      "familia": "Picidae",
+      "orden": "Piciformes",
+      "descripcion": {
+        "M": "Carpintero chiquito, del tamaño de un gorrión grande. Frente y corona pardo negruzcas, con algunas rayitas blancas en el macho, y la nuca roja. Cara blanca, con una franja parda oscura que sale desde atrás del ojo y un bigote fino pardo oscuro. Pico negro. Ojo pardo. Dorso y alas pardo negruzcos con muchas barras blancas; las plumas de vuelo pardas barradas de blanco. Cola pardo negruzca con barritas blancas finas. Garganta, pecho y vientre blancos con un tinte amarillento o acanelado, con estrías pardas oscuras en el pecho y el vientre y barras pardas en los costados. Patas grises.",
+        "F": "La hembra es igual al macho pero con la nuca negra en lugar de roja y la corona toda negra, sin rayitas blancas. Los juveniles son más apagados y oscuros, con más estrías y barras abajo, y los dos sexos tienen algo de rojo en la corona."
+      },
+      "habitat": [
+        "monte",
+        "bosque",
+        "ribereño",
+        "urbano"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "14-15",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "Salta",
+        "Jujuy",
+        "Tucumán",
+        "Catamarca",
+        "La Rioja",
+        "San Juan",
+        "San Luis",
+        "Mendoza",
+        "La Pampa",
+        "Neuquén",
+        "Río Negro"
+      ],
+      "curiosidades": "Es uno de los carpinteros más chicos de la Argentina y fue descripto por primera vez a partir de un ejemplar de Buenos Aires, en 1780, por el naturalista francés Buffon. Busca insectos solo o en pareja, sobre todo en ramitas finas de árboles y arbustos, apoyando la cola dura contra la corteza mientras recorre el tronco; también come semillas. Marca su territorio con un trino agudo 'ti-ti-ti-ti' y con golpeteos en troncos huecos. Macho y hembra excavan juntos el nido en un tronco seco o en una palmera muerta, a 3 a 6 metros del suelo, y crían entre septiembre y noviembre. Su nombre 'mixtus' quiere decir 'mezclado', por el dibujo bataraz blanco y negro.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), clinging upright to a vertical tree trunk with its stiff tail pressed against the bark, white background, 1024x1024 pixels, bird filling 60% of canvas height, small woodpecker, blackish-brown forehead and crown with a few small white streaks, red nape, white face with a dark brown stripe behind the eye and a thin dark brown moustache stripe, straight pointed black bill, small brown eye with a tiny dark pupil, blackish-brown back and wings densely barred with white, brownish-black tail with narrow white bars, white throat, white breast and belly with a faint buff tinge and dark brown streaks, brown bars on the flanks, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: replace the red nape with black, make the crown solid black without white streaks, keep all other colors unchanged, keep white background, no shadow, no text"
+      },
+      "audio_ebird_code": "chewoo3",
+      "gbif_taxon_key": 7340156,
+      "pendientes": [
+        "Colores de pico (negro), ojo (pardo) y patas (grises) confirmados solo por un resumen de búsqueda (fcv.unl.edu.ar / SIB); no se pudo leer la ficha directamente",
+        "Nuca del macho: Wikipedia (en) dice 'roja o rojo anaranjada' con rayitas blancas en la corona; Wikipedia (es) dice solo 'nuca roja' — se usó roja",
+        "Descripción basada en la subespecie nominal (mixtus, NE de Buenos Aires y CABA); berlepschi (SO de Buenos Aires) y malleator (norte) son más oscuras y más estriadas abajo",
+        "Juvenil (más oscuro, con rojo en la corona en ambos sexos) con una sola fuente; se describió dentro de F, sin variante J",
+        "Envergadura sin dato (null)",
+        "Provincias: confirmar Chubut (Wikipedia es la incluye, solo 2 registros en GBIF) y Misiones (10 registros en GBIF, no figura en Wikipedia es)",
+        "No se pudo consultar Avibase ni EcoRegistros (403 / bloqueados desde el entorno)"
+      ]
+    },
+    {
+      "id": 96,
+      "num": "#096",
+      "nombre_comun": "Gallineta Pico Pintado",
+      "nombre_cientifico": "Pardirallus sanguinolentus",
+      "familia": "Rallidae",
+      "orden": "Gruiformes",
+      "descripcion": {
+        "D": "Gallineta mediana, de cuerpo alargado, cola corta y pico largo. Pico verdoso, con la base de arriba celeste y la base de abajo roja: de ahí su nombre de 'pico pintado'. Ojo rojo. Cara gris lisa. Dorso y alas pardo oliváceos. Garganta y pecho gris plomizo; vientre pardo oliváceo. Patas rojas, con dedos largos. Macho y hembra son iguales.",
+        "J": "El juvenil es pardo uniforme, sin el gris del pecho, y tiene el pico y las patas negros."
+      },
+      "habitat": [
+        "humedal",
+        "ribereño",
+        "agrícola"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "30-38",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Chaco",
+        "Santiago del Estero",
+        "Córdoba",
+        "Salta",
+        "Jujuy",
+        "Tucumán",
+        "Catamarca",
+        "San Juan",
+        "San Luis",
+        "Mendoza",
+        "La Pampa",
+        "Neuquén",
+        "Río Negro",
+        "Chubut",
+        "Santa Cruz",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "Es el rálido sudamericano que llega más al sur: se lo encuentra hasta Tierra del Fuego. Vive en juncales, lagunas con vegetación flotante, zanjas y canales, y hasta en arrozales y campos regados, casi siempre cerca de cobertura para esconderse. Se alimenta sobre todo al atardecer, aunque también de día y de noche, buscando larvas, lombrices e insectos en el barro. La pareja canta a dúo: el macho hace una serie de chillidos agudos y ondulantes y la hembra le responde con notas graves 'hu'. Arma un nido simple de pasto seco en el suelo, entre pajonales cerca del agua, donde pone de 4 a 6 huevos.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium rail with an elongated body, short tail and long legs, plain grey face, long straight greenish bill with a sky-blue base on the upper mandible and a bright red base on the lower mandible, small red eye with a tiny dark pupil, plain olive-brown back and wings, short olive-brown tail, lead-grey throat and breast, olive-brown belly, red legs with long toes, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the whole plumage uniform brown including the face, throat and breast, make the bill all black, make the legs black, keep white background, no shadow, no text"
+      },
+      "audio_ebird_code": "plurai1",
+      "gbif_taxon_key": 2474715,
+      "pendientes": [
+        "Vientre: 'gris' según Wikipedia (en) ('gray face and underparts'), 'pardo oliváceo' según SIB — se usó pardo oliváceo con pecho gris",
+        "Dorso: Wikipedia (en) dice 'pardo moteado' en la subespecie nominal; SIB dice 'pardo oliváceo uniforme' — se usó liso",
+        "Color de corona y nuca sin confirmar (omitido en prompt D)",
+        "Color de ojo del juvenil sin confirmar (el recolor J mantiene el ojo rojo del adulto)",
+        "Juvenil (pardo uniforme, pico y patas negros) confirmado por SIB y un resumen de búsqueda; no por Birds of the World",
+        "Largo: 30-38 cm según Wikipedia (en); SIB dice 30 cm",
+        "Residencia: se cargó 'permanente', pero según Wikipedia (en) las poblaciones que crían en la región pampeana podrían moverse al norte en invierno — confirmar",
+        "Envergadura sin dato (null)",
+        "Provincias: SIB dice 'todo el país'; confirmar Misiones, Formosa y La Rioja (pocos registros en GBIF)",
+        "No se pudo consultar Avibase ni EcoRegistros (403 / bloqueados desde el entorno)"
+      ]
+    },
+    {
+      "id": 97,
+      "num": "#097",
+      "nombre_comun": "Gallareta Escudete Rojo",
+      "nombre_cientifico": "Fulica rufifrons",
+      "familia": "Rallidae",
+      "orden": "Gruiformes",
+      "descripcion": {
+        "D": "Gallareta de tamaño intermedio entre la Gallareta Chica y la Gallareta Ligas Rojas. Cabeza y cuello negros. Escudete de la frente rojo oscuro, angosto y terminado en punta hacia arriba; la parte de arriba del pico también es roja y el resto del pico amarillo fuerte. Ojo rojo. Dorso, alas y cola gris plomizo oscuro. Plumas de abajo de la cola blancas a los costados, muy visibles cuando levanta la cola. Pecho y vientre gris plomizo algo más claro. Patas amarillo verdosas u oliváceas; a diferencia de las otras gallaretas, los dedos no tienen lóbulos. Macho y hembra son iguales.",
+        "J": "El juvenil es gris pardusco, con el pico negruzco, pintitas blancas en la garganta y el mismo blanco debajo de la cola."
+      },
+      "habitat": [
+        "humedal"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "38-45",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Córdoba",
+        "Salta",
+        "Jujuy",
+        "Tucumán",
+        "San Juan",
+        "San Luis",
+        "Mendoza",
+        "La Pampa",
+        "Neuquén",
+        "Río Negro",
+        "Chubut",
+        "Santa Cruz"
+      ],
+      "curiosidades": "Se la reconoce entre las otras gallaretas por el escudete rojo oscuro y puntiagudo sobre el pico, y porque levanta la cola mostrando mucho blanco a los costados. Es la única gallareta sin lóbulos en los dedos. Vive en lagunas con juncales y vegetación flotante, como la lenteja de agua, y es muy abundante en los bañados de la región pampeana. Come sobre todo plantas que picotea en la superficie, aunque también se zambulle y sale a pastar a la orilla. Anda en grupos, muchas veces mezclada con la Gallareta Ligas Rojas y la Gallareta Chica. Hace el nido con plantas, flotando o entre los juncos, y el Pato Cabeza Negra suele poner sus huevos en él para que la gallareta se los incube.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium plump coot, black head and neck, narrow pointed dark red frontal shield extending up the forehead, bright yellow bill with a red ridge on top, small red eye with a tiny dark pupil, dark slate-grey back, wings and short tail, bright white patches on the sides of the undertail, slightly paler slate-grey breast and belly, yellowish-olive legs with long toes without lobes, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the head, neck and whole plumage grey-brown, add small white spots on the throat, make the frontal shield and the bill blackish, keep the white patches on the sides of the undertail and the yellowish-olive legs, keep white background, no shadow, no text"
+      },
+      "audio_ebird_code": "refcoo1",
+      "gbif_taxon_key": 2474390,
+      "pendientes": [
+        "Largo: 38-43 cm según Wikipedia (en), 45 cm según SIB, 47 cm según Wikipedia (es) — se cargó 38-45",
+        "Patas: 'oliváceas' según Wikipedia (en), 'amarillo verdosas' según Wikipedia (es) — se usó amarillo oliváceo",
+        "Dedos sin lóbulos: solo lo dice Wikipedia (en), basado en Birds of the World",
+        "Juvenil: se asumió escudete negruzco o ausente (Wikipedia en solo dice 'pico negruzco'); color de ojo y de patas del juvenil sin confirmar (el recolor mantiene los del adulto)",
+        "Envergadura sin dato (null)",
+        "Provincias: SIB dice 'todo el país excepto el NO altoandino'; confirmar La Rioja, Catamarca, Corrientes, Tierra del Fuego, Chaco y Formosa (pocos registros en GBIF)",
+        "No se pudo consultar Avibase ni EcoRegistros (403 / bloqueados desde el entorno)"
+      ]
     }
   ]
 }

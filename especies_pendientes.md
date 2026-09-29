@@ -2,17 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (94 cargadas).
+`aviario_data.json` (97 cargadas).
 
 
-**Faltan: 265 especies**
+**Faltan: 262 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 81 | Carpintero Bataraz Chico | *Veniliornis mixtus* | #504 |
-| 82 | Gallineta Pico Pintado | *Pardirallus sanguinolentus* | #193 |
-| 83 | Gallareta Escudete Rojo | *Fulica rufifrons* | #201 |
 | 84 | Gavilán Planeador | *Circus buffoni* | #431 |
 | 86 | Ostrero Pardo | *Haematopus palliatus* | #221 |
 | 87 | Picaflor Garganta Blanca | *Leucochloris albicollis* | #174 |
