@@ -5221,6 +5221,163 @@
         "Provincias: la población del noroeste (Jujuy, Salta, Tucumán) hoy es otra especie, la Pava de Monte Yungueña (Penelope bridgesi), pero GBIF todavía suma esos registros acá (36, 26 y 21) — no se cargaron",
         "Provincias: la UNL la da en Formosa, Chaco, Misiones y noreste de Santa Fe, pero GBIF/eBird tiene 0, 2, 17 y 0 registros — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
       ]
+    },
+    {
+      "id": 107,
+      "num": "#107",
+      "nombre_comun": "Boyerito",
+      "nombre_cientifico": "Icterus pyrrhopterus",
+      "familia": "Icteridae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro esbelto, de cola larga, todo negro con los 'hombros' canela, como una charretera. Pico negro, fino, recto y puntiagudo. Ojo pardo rojizo. Dorso, alas y cola negros; la mancha canela del hombro se ve bien con el ala plegada. Garganta, pecho y vientre negros. Patas gris plomizo. Macho y hembra son iguales; el juvenil es negro más apagado y tiene la mancha del hombro más pálida."
+      },
+      "habitat": [
+        "monte",
+        "bosque",
+        "urbano"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "19-20",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Catamarca",
+        "La Rioja",
+        "San Juan"
+      ],
+      "curiosidades": "Recorre las ramas y el follaje de los árboles, muchas veces colgado cabeza abajo, buscando insectos, arañas, frutas, flores, néctar y hasta savia. Es común en plazas y arbolados de la ciudad. Teje un nido en forma de bolsita colgante con fibras vegetales o crines, atado a ramas o a la parte de abajo de una hoja grande, como las de las palmeras; a veces lo cuelga en plantas de maceta, en clavel del aire o en nidos abandonados de otras aves. Pone 3 o 4 huevos y los dos padres alimentan a los pichones. Es uno de los pájaros a los que el tordo renegrido les deja sus huevos.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thin branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, slender oriole with a long tail, entirely glossy black head, slender straight pointed black bill, small reddish brown eye with a tiny dark pupil, black back, black wings with a bright cinnamon-chestnut patch on the shoulder, long black tail, black throat, breast and belly, leaden grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "epaori4",
+      "gbif_taxon_key": 7340265,
+      "pendientes": [
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
+        "GBIF da Icterus pyrrhopterus como sinónimo (usageKey 7340265); el nombre aceptado en GBIF tiene key 5229849 — decidir cuál guardar",
+        "Color de la charretera: la UNL dice canela, Wikipedia (en) castaño oscuro para la subespecie de Argentina y Wikipedia (es) 'amarilla a castaña rufa' — se usó canela castaño",
+        "Patas: la UNL y Wikipedia (en) dicen gris plomizo; Wikipedia (es) dice marrón oscuro — se usó gris plomizo",
+        "Provincias: Mendoza tiene 71 registros en GBIF/eBird pero la UNL da la distribución solo hasta San Juan, San Luis, Córdoba, Santa Fe y Buenos Aires; La Pampa tiene 7 registros — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+      ]
+    },
+    {
+      "id": 108,
+      "num": "#108",
+      "nombre_comun": "Chiricote",
+      "nombre_cientifico": "Aramides cajaneus",
+      "familia": "Rallidae",
+      "orden": "Gruiformes",
+      "descripcion": {
+        "D": "Gallineta grande, de patas largas, que camina con el cuerpo erguido y la cola levantada. Cabeza y cuello grises, con la parte de atrás de la cabeza y la nuca más parduscas. Pico largo y fuerte, verde amarillento, más amarillo en la base. Ojo rojo. Dorso y alas pardo oliváceos, con las plumas largas del ala castañas. Rabadilla y cola negras. Garganta blanca. Pecho castaño rojizo. Vientre, costados y la parte de abajo de la cola negros. Patas rojas. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "humedal",
+        "ribereño",
+        "bosque"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "33-40",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Catamarca"
+      ],
+      "curiosidades": "Es muy arisco y se esconde entre los pajonales y la vegetación de bañados, lagunas, ríos y montes húmedos, así que muchas veces se lo escucha antes que verlo: su grito fuerte es una de las mejores pistas para encontrarlo. Come de todo: insectos, arañas, gusanos, caracoles, cangrejitos, pequeños reptiles, semillas y frutos. Hace un nido en forma de plato hondo, con pajas, en arbustos o matorrales, y pone unos 5 huevos crema con pintas. Los pichones nacen cubiertos de plumón negro. Se parece al Ipacaá, pero es más chico y tiene el cuello gris y no rojizo.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, large wood rail with an upright body, long legs and a short raised tail, grey head and neck with a brownish patch on the back of the head, long stout greenish-yellow bill brighter yellow at the base, small red eye with a tiny dark pupil, olive-brown back and wings with chestnut primaries, black rump and short black tail, white throat, rich chestnut breast, black belly, flanks and undertail, long coral-red legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "gycwor1",
+      "gbif_taxon_key": 2474659,
+      "pendientes": [
+        "Costados: la UNL los da negros; Wikipedia (en) dice pecho y costados castaño rojizos — se siguió a la UNL, revisar",
+        "Patas: la UNL y Wikipedia (en) dicen rojas (coral); Wikipedia (es) dice rosadas — se usó rojo coral",
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
+        "GBIF lo encuentra por coincidencia aproximada como Aramides cajanea (key 2474659)",
+        "Provincias: San Luis tiene 70 registros en GBIF/eBird pero no figura en la distribución de la UNL; La Rioja está en la UNL pero tiene 5 registros — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+      ]
+    },
+    {
+      "id": 109,
+      "num": "#109",
+      "nombre_comun": "Mosqueta Estriada",
+      "nombre_cientifico": "Myiophobus fasciatus",
+      "familia": "Tyrannidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pajarito chico, de tonos pardos. Cabeza parda, con una mancha amarilla o anaranjada en la corona que casi siempre está escondida y se ve cuando el ave se excita. Una línea corta blanquecina entre el pico y el ojo. Pico negro, con la base de la parte de abajo gris rosada. Ojo pardo. Dorso pardo con tono canela. Alas pardas con dos bandas ocráceas y bordes ocráceos en las plumas. Cola parda. Garganta y vientre blanquecinos, a veces con tono amarillento en el vientre; pecho y costados con estrías pardas cortas. Patas negras. La hembra tiene la mancha de la corona más chica o no la tiene, y el pecho menos estriado; el juvenil no tiene mancha en la corona."
+      },
+      "habitat": [
+        "monte",
+        "bosque",
+        "urbano"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "chico",
+      "largo_cm": "11-14",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Catamarca",
+        "La Rioja",
+        "San Juan"
+      ],
+      "curiosidades": "Es confiada pero difícil de ver, porque se mueve por las partes sombrías de los arbustos y árboles bajos, donde busca insectos en el follaje y a veces revolotea para atraparlos. Llega en primavera a criar y en otoño migra al norte. La hembra hace un nidito en forma de taza con fibras vegetales y raicillas unidas con telas de araña, colgado de una rama a baja altura y a veces con fibras u hojas colgando por fuera. Pone 2 huevos color crema con una corona de manchitas en el extremo más ancho. El tordo renegrido suele dejarle sus huevos en el nido.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thin branch, white background, 1024x1024 pixels, bird filling 60% of canvas height, small flycatcher, reddish brown head, short pale whitish line between the bill and the eye, small black bill with a pinkish grey base on the lower mandible, small dark brown eye with a tiny dark pupil, cinnamon-brown back, dark brown wings with two bold buff wing bars and thin buff edges on the flight feathers, dark brown tail, dull white throat, whitish breast and flanks with short distinct brown streaks, whitish belly with a faint yellowish tinge, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "brcfly1",
+      "gbif_taxon_key": 5229801,
+      "pendientes": [
+        "Mancha de la corona (semioculta, amarilla o anaranjada) omitida en el prompt D",
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
+        "Provincias: La Pampa (98 registros) y Mendoza (76) tienen presencia en GBIF/eBird pero la UNL da la distribución solo hasta San Juan, San Luis y Buenos Aires — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+      ]
     }
   ]
 }

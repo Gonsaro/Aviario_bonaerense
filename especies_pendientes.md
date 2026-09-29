@@ -2,17 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (106 cargadas).
+`aviario_data.json` (109 cargadas).
 
 
-**Faltan: 253 especies**
+**Faltan: 250 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 96 | Boyerito | *Icterus pyrrhopterus* | #942 |
-| 97 | Chiricote | *Aramides cajaneus* | #195 |
-| 98 | Mosqueta Estriada | *Myiophobus fasciatus* | #795 |
 | 99 | Tordo Pico Corto | *Molothrus rufoaxillaris* | #943 |
 | 101 | Pitiayumí | *Setophaga pitiayumi* | #958 |
 | 102 | Hocó Colorado | *Tigrisoma lineatum* | #382 |
