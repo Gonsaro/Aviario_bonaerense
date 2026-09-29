@@ -3391,7 +3391,8 @@
         "Córdoba",
         "La Pampa",
         "Mendoza",
-        "San Luis"
+        "San Luis",
+        "Santiago del Estero"
       ],
       "curiosidades": "Especie exótica, originaria de Eurasia. Se detectó por primera vez en jardines de la ciudad de Buenos Aires en 1987 y desde entonces se expandió unos 7,5 km por año por la región pampeana. Compite con aves nativas por los huecos para anidar, como carpinteros y golondrinas. Es un gran imitador de sonidos.",
       "sprites": {},
@@ -3402,7 +3403,7 @@
       "audio_ebird_code": "eursta",
       "gbif_taxon_key": 9809229,
       "pendientes": [
-        "Provincias: UNL da presencia en San Juan, Tucumán y Santiago del Estero, pero iNaturalist/ArgentiNat tiene 0, 0 y 1 registros de grado investigación; Río Negro tiene 5 registros en iNaturalist pero la UNL no lo menciona. Las 8 cargadas están confirmadas (UNL o 16+ registros) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
+        "Provincias: la UNL lo da en San Juan y Tucumán, pero GBIF/eBird tiene 13 y 0 registros; Río Negro (72 registros) y Corrientes (21) tienen presencia en GBIF pero la UNL no las menciona — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -3446,7 +3447,9 @@
         "Mendoza",
         "San Juan",
         "La Rioja",
-        "Río Negro"
+        "Río Negro",
+        "Neuquén",
+        "Chubut"
       ],
       "curiosidades": "Vive en grupos ruidosos que se acurrucan juntos en una rama para tomar sol a primera hora de la mañana. Anida en forma comunal: varias hembras ponen en un mismo nido y a veces expulsan los huevos de las otras. Su grito descendente 'pío-pío-pirrrr' es uno de los sonidos típicos del campo bonaerense.",
       "sprites": {},
@@ -3457,7 +3460,6 @@
       "audio_ebird_code": "guicuc1",
       "gbif_taxon_key": 2496462,
       "pendientes": [
-        "Provincias: UNL lo da hasta Chubut; Chubut y Neuquén tienen solo 4 y 3 registros de grado investigación en iNaturalist/ArgentiNat — no se cargaron, decidir — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Envergadura sin dato (null): UNL, oiseaux-birds y avespampa no la dan; solo un sitio de divulgación sin fuente dice ~40 cm — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
       ]
     },
@@ -3512,7 +3514,8 @@
       "gbif_taxon_key": 2487593,
       "pendientes": [
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Plumaje juvenil sin datos (sin variante J) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
+        "Plumaje juvenil sin datos (sin variante J) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
+        "Provincias: Mendoza no está cargada; tiene 69 registros en GBIF/eBird, pero la UNL da la especie solo hasta San Juan, San Luis, Córdoba, La Pampa y Buenos Aires — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -3559,7 +3562,7 @@
       "pendientes": [
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Plumaje juvenil con una sola fuente (Wikipedia en); UNL, avespampa y oiseaux-birds no lo describen — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: la UNL lo da en el sur de Misiones, Chaco, Formosa y Santiago del Estero, pero iNaturalist/ArgentiNat tiene 0, 0, 1 y 0 registros de grado investigación — no se cargaron, decidir. Río Negro está cargada, pero la UNL no la menciona y hay solo 2 registros — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
+        "Provincias: la UNL lo da en el sur de Misiones, Chaco, Formosa y Santiago del Estero, pero GBIF/eBird tiene 10, 9, 1 y 0 registros — no se cargaron. Río Negro está cargada, pero la UNL no la menciona y hay 11 registros — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -3665,7 +3668,7 @@
       "pendientes": [
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Se cargó una sola variante (D): dimorfismo leve (hembra algo más opaca, con la parte baja del vientre grisácea o verdosa según Wikipedia y oiseaux-birds); evaluar si conviene una variante F",
-        "Provincias: La Pampa no está cargada; la UNL la excluye (llega hasta Córdoba, Santiago del Estero, Santa Fe y Buenos Aires), pero iNaturalist/ArgentiNat tiene 21 registros de grado investigación — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
+        "Provincias: La Pampa no está cargada; tiene 24 registros en GBIF/eBird, pero la UNL da la especie solo hasta Córdoba, Santiago del Estero, Santa Fe y Buenos Aires — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -3713,7 +3716,8 @@
         "Neuquén",
         "Río Negro",
         "Chubut",
-        "Santa Cruz"
+        "Santa Cruz",
+        "La Rioja"
       ],
       "curiosidades": "Vive en pastizales, campos cultivados, bordes de bañados y baldíos, donde anda en parejas o en bandadas que a veces son muy grandes. Come semillas e insectos en el suelo y se posa en pastos altos, arbustos y alambrados. En época de cría el macho sube en vuelo y baja lentamente cantando un chorro de trinos y zumbidos. Arma el nido en el suelo, escondido entre pastos o arbustos. Las poblaciones del sur migran hacia el norte en invierno.",
       "sprites": {},
@@ -3728,8 +3732,7 @@
         "Color de patas: rosadas según la UNL, gris oscuro según SIB/otra fuente — omitido en prompts M/F/J — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Residencia: se cargó estival; la UNL y avespampa no precisan movimientos estacionales — verificar si hay individuos todo el año en el NE bonaerense — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Juvenil descripto con una sola fuente; el prompt J asume base del sprite M — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: la UNL lo da desde el norte hasta Santa Cruz, pero La Rioja tiene 0 registros de grado investigación en iNaturalist/ArgentiNat — no se cargó, decidir — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
       ]
     },
     {
@@ -3783,7 +3786,7 @@
         "Mancha blanca del flanco trasero confirmada en el macho; en la hembra sin confirmar (la UNL solo dice subcaudales blancas) — el recolor F no la menciona — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Ubicación exacta de la mancha blanca del ala sin confirmar: Wikipedia (en) dice mancha blanca en el ala; la UNL describe cubiertas superiores negras e inferiores blancas con punta negra — prompt V dice inner wing — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Envergadura 70 cm con una sola fuente (Wikipedia en) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: Catamarca no está cargada; la UNL la excluye (centro-este hasta La Pampa y Buenos Aires), pero iNaturalist/ArgentiNat tiene 7 registros de grado investigación — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
+        "Provincias: Catamarca no está cargada; tiene 34 registros en GBIF/eBird, pero la UNL da la especie por el centro-este hasta La Pampa y Buenos Aires — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -3842,7 +3845,7 @@
         "Se cargó una sola variante (D): dimorfismo leve (hembra con cabeza y cuello más apagados, confirmado por oiseaux-birds); evaluar si conviene una variante F",
         "La ficha describe la subespecie nominal; la subespecie albipennis (extremo NO de Argentina, confirmada por oiseaux-birds) tiene una franja blanca en el ala y menos pintas — decidir si se menciona",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: Chubut no está cargada; la UNL la incluye (hasta Chubut), pero iNaturalist/ArgentiNat tiene solo 3 registros de grado investigación — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
+        "Provincias: Chubut no está cargada; la UNL la incluye (hasta Chubut), pero GBIF/eBird tiene solo 6 registros — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -3883,7 +3886,8 @@
         "Tucumán",
         "Salta",
         "Jujuy",
-        "Catamarca"
+        "Catamarca",
+        "San Juan"
       ],
       "curiosidades": "Casi siempre anda en bandadas, a veces de cientos de individuos, y se mezcla con otros cuervillos y con el ganado. Busca comida en bañados, pastizales inundados y arrozales, clavando el pico curvo en el barro y en el agua para sacar lombrices, caracoles, insectos acuáticos y pececitos; también come granos. Cría en colonias sobre árboles y arbustos de los bañados, junto a garzas, biguás, espátulas y otros cuervillos. El nido es una plataforma de pastos y ramitas donde pone de uno a seis huevos verde azulados, que incuban ambos padres.",
       "sprites": {},
@@ -3938,7 +3942,9 @@
         "Río Negro",
         "Chubut",
         "Santa Cruz",
-        "Tierra del Fuego"
+        "Tierra del Fuego",
+        "Catamarca",
+        "San Juan"
       ],
       "curiosidades": "Su nombre viene de la 'capucha' oscura que contrasta con la cara clara. Es un pato tranquilo que vive en parejas o grupos chicos en lagunas, bañados y charcas de agua dulce, sobre todo las de orillas con juncos y poca vegetación flotante. Come semillas, plantas acuáticas, insectos y otros invertebrados chicos. Hace el nido escondido entre la vegetación de la orilla y pone de 5 a 10 huevos, que se incuban durante 23 a 24 días.",
       "sprites": {},
@@ -3951,7 +3957,7 @@
       "pendientes": [
         "Se cargó una sola variante (D): dimorfismo leve (hembra más apagada, flancos menos barrados, a veces sin amarillo en el pico; juvenil más apagado con la cabeza más parda — oiseaux-birds); evaluar variantes F/J",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: Formosa no está cargada; la UNL la excluye (desde Salta, Chaco y Corrientes hacia el sur), pero iNaturalist/ArgentiNat tiene 5 registros de grado investigación — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
+        "Provincias: Formosa no está cargada; tiene 61 registros en GBIF/eBird, pero la UNL da la especie desde Salta, Chaco y Corrientes hacia el sur — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -3991,7 +3997,8 @@
         "La Pampa",
         "Mendoza",
         "Neuquén",
-        "Río Negro"
+        "Río Negro",
+        "Salta"
       ],
       "curiosidades": "A diferencia de la mayoría de los carpinteros, busca casi toda su comida en el suelo: picotea y escarba hormigueros, termiteros, tierra y troncos caídos, y puede romper termiteros grandes. Hormigas y termitas son la base de su dieta. Anda en parejas o grupos chicos y se lo ve seguido posado en postes y alambrados. Macho y hembra excavan juntos el nido en un termitero, una barranca, un árbol o un poste; ponen 4 o 5 huevos, y en la Argentina crían sobre todo en agosto y septiembre. A veces varias hembras de un grupo ponen en el mismo nido.",
       "sprites": {},
@@ -4045,7 +4052,11 @@
         "Neuquén",
         "Río Negro",
         "Chubut",
-        "Santa Cruz"
+        "Santa Cruz",
+        "Salta",
+        "Jujuy",
+        "Catamarca",
+        "La Rioja"
       ],
       "curiosidades": "Vive en juncales, totorales y la vegetación de la orilla de lagunas y bañados, y fuera de la época de cría también sale a campos barrosos, pastizales y cultivos cercanos. Come sobre todo insectos acuáticos y semillas, además de arañas, crustáceos y caracolitos, y suele andar en bandadas. Cría en colonias: la hembra teje un nido en forma de taza entre juncos o totoras y pone de 2 a 4 huevos claros con manchas oscuras. Es parasitado a menudo por el Tordo Renegrido. En Chile lo llaman 'trile'.",
       "sprites": {},
@@ -4101,7 +4112,8 @@
         "Salta",
         "Jujuy",
         "Mendoza",
-        "Río Negro"
+        "Río Negro",
+        "Catamarca"
       ],
       "curiosidades": "Es muy común en plazas y parques, y abunda sobre todo en la región chaqueña. Anda en parejas, grupos o bandadas de hasta 50, y busca comida mucho en el suelo: semillas de pastos, frutos como los del tala y la mora, e insectos, incluidas hormigas y termitas aladas. Cría de septiembre a febrero en un nido en forma de taza de fibras vegetales, donde pone 3 o 4 huevos verdosos con manchas pardas. Lo parasita el Tordo Renegrido. Por su canto y su color es de los pájaros más buscados como mascota en la Argentina, y fue introducido en Hawái, Puerto Rico y Chile.",
       "sprites": {},
@@ -4115,7 +4127,7 @@
         "Color de pico del juvenil sin confirmar (el recolor J conserva el del adulto); avespampa describe al joven con dorso pardo y copete más claro — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Residencia: se cargó permanente; ninguna fuente lo dice explícitamente — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: Neuquén y Chubut no están cargadas; tienen 52 y 24 registros de grado investigación en iNaturalist/ArgentiNat, pero la UNL da la especie solo hasta Mendoza, La Pampa y Río Negro (probables poblaciones escapadas o introducidas) — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
+        "Provincias: Neuquén y Chubut no están cargadas; tienen 1281 y 414 registros en GBIF/eBird, pero la UNL da la especie solo hasta Mendoza, La Pampa y Río Negro (probables poblaciones escapadas o introducidas) — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -4156,7 +4168,8 @@
         "Salta",
         "Jujuy",
         "Catamarca",
-        "San Juan"
+        "San Juan",
+        "La Rioja"
       ],
       "curiosidades": "Vive en lagunas, bañados, canales y orillas con mucha vegetación, y en parques de ciudad puede volverse bastante confiada. Nada moviendo la cabeza hacia adelante y la cola corta, y sus dedos largos le permiten caminar sobre plantas flotantes como los camalotes. Come de todo: plantas acuáticas, semillas, insectos, caracoles y otros bichitos del agua. Defiende su territorio a los picotazos y patadas. Arma el nido como una canasta entre la vegetación densa, y los dos padres incuban y alimentan a los pichones, que son negros y peludos. Hasta 2011 se la consideraba la misma especie que la polla de agua de Europa.",
       "sprites": {},
@@ -4167,7 +4180,8 @@
       "audio_ebird_code": "comgal1",
       "gbif_taxon_key": 7340222,
       "pendientes": [
-        "Residencia: se cargó permanente para Buenos Aires (inferido); ninguna fuente consultada lo dice para Argentina — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
+        "Residencia: se cargó permanente para Buenos Aires (inferido); ninguna fuente consultada lo dice para Argentina — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
+        "Provincias: Santa Cruz no está cargada; tiene 207 registros en GBIF/eBird, pero la UNL da la especie solo hasta Mendoza, San Luis y Buenos Aires — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -4209,7 +4223,8 @@
         "La Rioja",
         "Tucumán",
         "Salta",
-        "Jujuy"
+        "Jujuy",
+        "San Juan"
       ],
       "curiosidades": "Sube por los troncos en espiral, desde cerca del suelo hasta las ramas altas, revisando la corteza con su pico fino en busca de insectos y arañas; a diferencia de otros trepadores casi no se apoya en la cola. A veces baja al suelo a comer hormigas y hasta se lo vio cazando polillas alrededor de los faroles. Se acercó mucho a la gente: recorre árboles de plazas, frutales y postes de luz o alambrado. Anida en huecos de árboles, a menudo agujeros viejos de carpinteros, y también en estructuras como pilares de puentes; los dos padres incuban 2 a 4 huevos. Su canto es una serie fuerte de silbidos que bajan de tono.",
       "sprites": {},
@@ -4221,7 +4236,8 @@
       "pendientes": [
         "La subespecie de Buenos Aires (praedatus) es según Wikipedia (en) más pardo oliva y menos rojiza por arriba; la UNL dice dorso pardo con tono castaño y avespampa solo pardo — la descripción y el prompt usan pardo rojizo, revisar tono del dorso — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Juvenil (más oscuro, ceja y partes inferiores más ocráceas según Wikipedia en) no justifica variante propia; no se creó J — decidir",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
+        "Provincias: Río Negro no está cargada; tiene 27 registros en GBIF/eBird, pero la UNL da la especie solo hasta La Pampa y el sur de Buenos Aires — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -4258,7 +4274,10 @@
         "La Pampa",
         "Salta",
         "Jujuy",
-        "San Luis"
+        "San Luis",
+        "Tucumán",
+        "Mendoza",
+        "Misiones"
       ],
       "curiosidades": "Come caminando despacio por el agua baja con el pico entreabierto, moviéndolo de un lado a otro para filtrar del barro crustáceos, insectos acuáticos, caracoles, peces chiquitos y semillas. Muchas veces la siguen garzas que aprovechan los bichos que ella espanta. Su color rosado viene de pigmentos de lo que come, como pasa con los flamencos, y puede ir de rosa pálido a magenta. Vuela con el cuello estirado, a diferencia de las garzas. Anida en colonias sobre arbustos o árboles y pone de 2 a 5 huevos blancuzcos con manchas pardas. En el siglo XIX casi desaparece por la caza para sacarle las plumas.",
       "sprites": {},
@@ -4272,7 +4291,7 @@
       "pendientes": [
         "Juvenil: color de patas sin confirmar (el recolor J conserva las del adulto); color de cola inferido del plumaje general blanco rosado pálido (oiseaux-birds) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Residencia: se cargó permanente; no se encontró fuente sobre movimientos estacionales en Buenos Aires — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: la UNL la da en Tucumán, Mendoza, Misiones, Río Negro y Chubut, pero iNaturalist/ArgentiNat tiene 4, 1, 0, 0 y 0 registros de grado investigación; Catamarca tiene 5 registros pero la UNL no la menciona — no se cargaron, decidir — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
+        "Provincias: la UNL la da en Río Negro y Chubut, pero GBIF/eBird tiene 3 y 1 registros; Catamarca tiene 51 registros pero la UNL no la menciona — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -4308,7 +4327,11 @@
         "La Pampa",
         "Salta",
         "Jujuy",
-        "Catamarca"
+        "Catamarca",
+        "Tucumán",
+        "San Luis",
+        "Mendoza",
+        "San Juan"
       ],
       "curiosidades": "Se alimenta casi solo de caracoles de agua, sobre todo los grandes caracoles manzana (ampularias): su pico no cierra del todo cerca de la punta y funciona como una pinza para sacar el caracol de la concha sin romperla. Muchas veces la punta del pico está un poco torcida hacia la derecha, igual que las conchas que abre. Es más fácil oírlo que verlo: su grito fuerte y lastimero, 'carrau', se escucha sobre todo de noche y al amanecer, y le dio su nombre. En Paraguay y el Litoral hay una leyenda que cuenta que era un joven que siguió bailando cuando le avisaron que su madre había muerto y fue castigado a llorar para siempre en los esteros. Camina como si rengueara, y en inglés lo llaman 'limpkin' por eso.",
       "sprites": {},
@@ -4320,7 +4343,7 @@
       "pendientes": [
         "Vientre: la ficha lo da pardo oscuro liso, pero oiseaux-birds dice partes inferiores muy estriadas y manchadas de blanco y Wikipedia (en) 'marcado de blanco salvo la parte trasera'; la UNL no lo describe — revisar descripción y prompt — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Juvenil (manchas blancas más finas, aspecto estriado según oiseaux-birds y Wikipedia) no justifica variante propia; no se creó J ni V — decidir",
-        "Provincias: la UNL la da en San Luis, Mendoza y Río Negro, pero iNaturalist/ArgentiNat tiene 4, 3 y 1 registros de grado investigación — no se cargaron, decidir — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
+        "Provincias: la UNL la da hasta Río Negro, pero GBIF/eBird tiene solo 6 registros ahí — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -4360,7 +4383,11 @@
         "Río Negro",
         "Chubut",
         "Santa Cruz",
-        "Tierra del Fuego"
+        "Tierra del Fuego",
+        "Salta",
+        "Neuquén",
+        "Catamarca",
+        "Jujuy"
       ],
       "curiosidades": "Cría en la tundra del Ártico de Canadá y Alaska y pasa nuestro verano en las costas y lagunas del sur de Sudamérica: es uno de los migrantes más extremos del mundo, con más de 30.000 km de viaje por año y vuelos sin escalas de hasta 4.200 km. Llega en grandes bandadas a playas y marismas patagónicas, como las de Bahía San Antonio o Península Valdés, donde come almejitas, gusanos, crustáceos e insectos que busca picoteando en el barro. Su llamado es un 'tziit' agudo y metálico, parecido al ruido de dos piedritas frotadas. En 2024 fue recategorizado como Vulnerable porque su población cayó casi a la mitad en tres generaciones.",
       "sprites": {},
@@ -4422,7 +4449,7 @@
       "pendientes": [
         "Hembra algo más apagada, más gris parduzca (oiseaux-birds), y juvenil más opaco y oscuro; no se crearon F ni J — decidir si hacen falta",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: La Pampa no está cargada; la UNL la excluye (del noroeste al noreste de Buenos Aires), pero iNaturalist/ArgentiNat tiene 5 registros de grado investigación — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
+        "Provincias: San Juan (26 registros en GBIF/eBird) y Mendoza (20) no están cargadas; la UNL da la especie solo del noroeste al noreste de Buenos Aires — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -4465,7 +4492,7 @@
       "pendientes": [
         "Dimorfismo sexual leve (hembra con pecho más anaranjado y dorso más oliváceo, según resumen de búsqueda de oiseaux-birds; la ficha directa de oiseaux-birds dice sexos similares): no justifica variante F — decidir",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: la UNL lo da en el este de Formosa, pero iNaturalist/ArgentiNat tiene 0 registros de grado investigación — no se cargó, decidir — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
+        "Provincias: la UNL lo da en el este de Formosa, pero GBIF/eBird tiene solo 8 registros — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -4517,7 +4544,7 @@
         "Patas del juvenil: amarillentas según la UNL, oscuras según Wikipedia (en), rojizas en todos los plumajes según eBird — no se creó variante J — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Juvenil (dorso y cubiertas jaspeados de pardo, frente blanca, pico negruzco según la UNL) no se cargó como variante — decidir",
         "Residencia: se cargó permanente (registros en Buenos Aires todo el año en GBIF), pero fuera de la temporada de cría parte de la población se desplaza hacia el norte por la costa atlántica — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: la UNL lo da en Formosa, Corrientes y Neuquén, pero iNaturalist/ArgentiNat tiene 0, 2 y 1 registros de grado investigación — no se cargaron, decidir — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
+        "Provincias: la UNL lo da en Neuquén, Corrientes y Formosa, pero GBIF/eBird tiene 16, 15 y 1 registros — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -4569,7 +4596,7 @@
       "gbif_taxon_key": 2480415,
       "pendientes": [
         "Juvenil parecido a la hembra (corona estriada, ojo pardo; UNL y oiseaux-birds): se describió dentro de F, sin variante J — decidir",
-        "Provincias: la UNL lo da hasta Mendoza, pero iNaturalist/ArgentiNat tiene 1 registro de grado investigación — no se cargó, decidir — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
+        "Provincias: la UNL lo da hasta Mendoza, pero GBIF/eBird tiene solo 4 registros ahí — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -4672,7 +4699,9 @@
         "Río Negro",
         "Chubut",
         "Santa Cruz",
-        "Tierra del Fuego"
+        "Tierra del Fuego",
+        "Misiones",
+        "Formosa"
       ],
       "curiosidades": "Es el rálido sudamericano que llega más al sur: se lo encuentra hasta Tierra del Fuego. Vive en juncales, lagunas con vegetación flotante, zanjas y canales, y hasta en arrozales y campos regados, casi siempre cerca de cobertura para esconderse. Se alimenta sobre todo al atardecer, aunque también de día y de noche, buscando larvas, lombrices e insectos en el barro. La pareja canta a dúo: el macho hace una serie de chillidos agudos y ondulantes y la hembra le responde con notas graves 'hu'. Arma un nido simple de pasto seco en el suelo, entre pajonales cerca del agua, donde pone de 4 a 6 huevos.",
       "sprites": {},
@@ -4724,7 +4753,9 @@
         "Neuquén",
         "Río Negro",
         "Chubut",
-        "Santa Cruz"
+        "Santa Cruz",
+        "La Rioja",
+        "Catamarca"
       ],
       "curiosidades": "Se la reconoce entre las otras gallaretas por el escudete rojo oscuro y puntiagudo sobre el pico, y porque levanta la cola mostrando mucho blanco a los costados. Es la única gallareta sin lóbulos en los dedos. Vive en lagunas con juncales y vegetación flotante, como la lenteja de agua, y es muy abundante en los bañados de la región pampeana. Come sobre todo plantas que picotea en la superficie, aunque también se zambulle y sale a pastar a la orilla. Anda en grupos, muchas veces mezclada con la Gallareta Ligas Rojas y la Gallareta Chica. Hace el nido con plantas, flotando o entre los juncos, y el Pato Cabeza Negra suele poner sus huevos en él para que la gallareta se los incube.",
       "sprites": {},
@@ -4738,7 +4769,7 @@
         "Dedos sin lóbulos: lo dice Wikipedia (en), pero la UNL (ficha de la Pollona Negra) dice que la Gallareta Escudete Rojo tiene los dedos lobados — revisar descripción y prompt D ('long toes without lobes') — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Juvenil: se asumió escudete negruzco o ausente (Wikipedia en solo dice 'pico negruzco'); color de ojo y de patas del juvenil sin confirmar (el recolor mantiene los del adulto) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: la UNL la da en Chaco, Corrientes y Tierra del Fuego, pero iNaturalist/ArgentiNat tiene 0 registros de grado investigación en las tres — no se cargaron, decidir — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
+        "Provincias: la UNL la da en Corrientes, Tierra del Fuego y Chaco, pero GBIF/eBird tiene 13, 13 y 7 registros — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -4792,7 +4823,8 @@
         "Color de ojo: la ficha y los prompts dicen amarillo en el macho, pero la UNL da iris pardo rojizo para la especie; Wikipedia (pt) da amarillo a pardo rojizo en la hembra — revisar — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Cera: la ficha y los prompts dicen gris azulada, pero la UNL dice cera amarilla — revisar — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Forma oscura (casi toda negra, muslos y vientre castaños) e inmaduro (como la hembra, más estriado) confirmados por la UNL; solo se mencionan en la descripción F, sin variante ni prompt propio — decidir",
-        "Estado de conservación: UICN LC, pero SIB indica categoría nacional 'Vulnerable' (2017) — decidir cuál mostrar"
+        "Estado de conservación: UICN LC, pero SIB indica categoría nacional 'Vulnerable' (2017) — decidir cuál mostrar",
+        "Provincias: la UNL lo da hasta Chubut, pero GBIF/eBird tiene solo 2 registros ahí — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -4861,8 +4893,7 @@
         "Entre Ríos",
         "Corrientes",
         "Misiones",
-        "Córdoba",
-        "La Pampa"
+        "Córdoba"
       ],
       "curiosidades": "Es el único integrante de su género, y su nombre científico lo dice todo: 'Leucochloris' quiere decir 'blanco y verde' y 'albicollis', 'cuello blanco'. Se adapta muy bien a plazas, parques y jardines, y en las últimas décadas se fue extendiendo hacia el sur y el oeste de la provincia de Buenos Aires. Toma néctar de muchísimas flores, nativas e introducidas, sobre todo de bromelias como el clavel del aire, y también caza insectos al vuelo. Es muy territorial y persigue a otros picaflores con un trino metálico rápido. Su canto es una serie de notas agudas y zumbadas, 'bziii-bzi-bzi-bzi'. La hembra hace un nidito en forma de taza con pelusa vegetal y telas de araña, cubierto de líquenes, y pone 2 huevos.",
       "sprites": {},
@@ -4877,7 +4908,7 @@
         "Color de patas sin confirmar (omitido en prompt M) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Juvenil (pecho y vientre gris pardusco, puntas de la cola pardas) solo mencionado en F, sin variante J — decidir",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: la UNL lo da en Santa Fe, Chaco y Formosa, pero iNaturalist/ArgentiNat tiene 0 registros de grado investigación en las tres; en Río Negro la UNL solo menciona un avistaje en Bariloche y hay 7 registros — no se cargaron, decidir — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
+        "Provincias: la UNL lo da en La Pampa, Santa Fe, Formosa y Chaco, pero GBIF/eBird tiene 10, 6, 6 y 4 registros; Río Negro (29 registros, la UNL solo menciona un avistaje en Bariloche) y Neuquén (27, fuera del rango UNL) tienen presencia en GBIF — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
       ]
     }
   ]
