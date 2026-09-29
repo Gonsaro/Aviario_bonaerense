@@ -2,17 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (97 cargadas).
+`aviario_data.json` (100 cargadas).
 
 
-**Faltan: 262 especies**
+**Faltan: 259 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 84 | Gavilán Planeador | *Circus buffoni* | #431 |
-| 86 | Ostrero Pardo | *Haematopus palliatus* | #221 |
-| 87 | Picaflor Garganta Blanca | *Leucochloris albicollis* | #174 |
 | 88 | Benteveo Rayado | *Myiodynastes maculatus* | #779 |
 | 89 | Martín Pescador Chico | *Chloroceryle americana* | #486 |
 | 90 | Pecho Colorado | *Leistes superciliaris* | #934 |
