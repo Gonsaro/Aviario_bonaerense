@@ -5715,6 +5715,164 @@
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
         "Provincias: Río Negro (108 registros) y Chubut (20) no están en la distribución de la UNL ('hasta La Pampa'), pero Wikipedia (es/en) la da hasta el noreste de Chubut — se cargaron, revisar; Neuquén (6 registros, Wikipedia da munda hasta Neuquén) — decidir — consultado sep 2026: UNL, Wikipedia y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
       ]
+    },
+    {
+      "id": 116,
+      "num": "#116",
+      "nombre_comun": "Piojito Gris",
+      "nombre_cientifico": "Serpophaga nigricans",
+      "familia": "Tyrannidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pajarito chico, todo gris oscuro, de cola negra. Corona algo más oscura, con una franja blanca en el centro que casi siempre está escondida. Pico negro, corto y fino. Ojo pardo. Dorso gris con un tono pardusco. Alas pardas con los bordes de las plumas blanquecinos, que forman dos bandas claras. Cola negra. Barbilla blanquecina; pecho y vientre grises, más claros que el dorso. Patas negras. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "humedal",
+        "ribereño"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "11-12.5",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Misiones",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "La Pampa",
+        "Catamarca",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Neuquén",
+        "Río Negro"
+      ],
+      "curiosidades": "Siempre anda cerca del agua: recorre las orillas de esteros, lagunas, arroyos y ríos, camina sobre los repollitos de agua y otras plantas acuáticas y hace carreritas por la orilla para atrapar mosquitos. Es inquieto y confiado, y también caza al vuelo o sube por las ramas bajas de los árboles. Hace un nido en forma de tacita colgante, con raicillas y fibras vegetales y forrado con plumas, atado a raíces, tallos o ramas que cuelgan sobre el agua; a veces lo construye debajo de puentes. Pone 3 huevos blancos.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thin reed stem, white background, 1024x1024 pixels, bird filling 60% of canvas height, tiny tyrannulet, dark grey crown slightly darker than the back, short thin black bill, small dark brown eye with a tiny dark pupil, dark grey back with a brownish tinge, brown wings with whitish feather edges forming two pale wing bars, black tail, whitish chin, plain grey breast and belly paler than the back, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "sootyr1",
+      "gbif_taxon_key": 2483958,
+      "pendientes": [
+        "Franja blanca de la corona (casi siempre escondida) omitida en el prompt D",
+        "Bandas del ala: la UNL dice plumas orilladas de blanquecino; Wikipedia (en) dice dos bandas gris pálido y las plumas internas del ala blanquecinas — se pidieron 'two pale wing bars'",
+        "Juvenil no descripto (Wikipedia en)",
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
+        "Provincias: Mendoza (12 registros), San Juan (8), Chaco (5), Chubut (3) y La Rioja (2) quedan por debajo del criterio de GBIF — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+      ]
+    },
+    {
+      "id": 117,
+      "num": "#117",
+      "nombre_comun": "Gaviota Capucho Gris",
+      "nombre_cientifico": "Chroicocephalus cirrocephalus",
+      "familia": "Laridae",
+      "orden": "Charadriiformes",
+      "descripcion": {
+        "D": "Gaviota mediana. Fuera de la época de cría la cabeza es blanca con un gris más claro y reducido, con manchas oscuras alrededor y detrás del ojo. Pico rojo. Ojo claro, blanquecino o amarillento. Dorso y alas grises; la punta del ala es negra con manchas blancas y la base de las plumas largas del ala blanca. Cuello, rabadilla, cola y partes de abajo blancos. Patas rojas.",
+        "R": "En la época de cría tiene un capuchón gris claro que cubre la cabeza y la garganta, separado del cuello blanco por un borde gris más oscuro. A veces el blanco de abajo tiene un tinte rosado.",
+        "J": "El juvenil tiene la cabeza y el dorso blanquecinos moteados de pardo, las alas pardas y la cola blanca con una banda oscura cerca de la punta. El ojo es oscuro. Tarda dos años en tener el plumaje de adulto."
+      },
+      "habitat": [
+        "humedal",
+        "costa",
+        "agrícola",
+        "urbano"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "38-46",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Santiago del Estero",
+        "Córdoba",
+        "Tucumán",
+        "Río Negro"
+      ],
+      "curiosidades": "Además de Sudamérica vive en África y Madagascar. Es muy gritona, sobre todo en las colonias, y su llamado es un 'caa-caa' ronco, parecido al de un cuervo. Come peces, crustáceos, gusanos que saca de la tierra recién arada, carroña y restos que encuentra en basurales. Anida en colonias en esteros e islotes: arma en el suelo una plataforma de palitos, tallos y pajas y pone unos 3 huevos manchados. Fuera de la época de cría pierde el capuchón gris y se parece mucho a la Gaviota Capucho Café.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium slender gull, white head with a faint pale grey wash and a dark grey smudge around and behind the eye, straight red bill, small pale whitish yellow eye with a tiny dark pupil, pale grey back and folded wings, black wingtips with small distinct white spots, white neck, rump and tail, white throat, breast and belly, red legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "R": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: add a pale grey hood covering the whole head and throat with a thin darker grey border where it meets the white neck, remove the dark smudge behind the eye, keep the red bill and legs, the pale eye, the grey wings with black and white wingtips and the white body unchanged, keep white background, no shadow, no text",
+        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the head and back whitish mottled with brown, make the folded wings brown, add a dark brown band near the tip of the white tail, make the eye dark, keep the white breast and belly, keep white background, no shadow, no text"
+      },
+      "audio_ebird_code": "grhgul",
+      "gbif_taxon_key": 6065820,
+      "pendientes": [
+        "Estado de conservación: GBIF devuelve 'no evaluada' (NE); Wikipedia (es) la da como Preocupación menor (UICN 3.1) — se cargó LC, confirmar",
+        "Color de ojo: la UNL dice amarillo; Wikipedia (es) blancuzco con anillo rojo; Wikipedia (en) iris blanco — se pidió 'pale whitish yellow'",
+        "Plumaje de descanso: la UNL dice que conserva capuchón gris y una línea en la nuca; Wikipedia (en) dice que pierde el capuchón y quedan manchas oscuras alrededor y detrás del ojo — la descripción D y el prompt siguen a Wikipedia, revisar",
+        "Color del pico y las patas del juvenil sin confirmar (no se cambiaron en el recolor J)",
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
+        "Provincias: La Pampa (1175 registros), Mendoza (76) y Neuquén (45) tienen presencia en GBIF/eBird pero no figuran en la distribución de la UNL; Chaco (15), Chubut (14), Misiones (11, la UNL la da en el sur de Misiones), Salta (11), Catamarca (6), Formosa (5) y Santa Cruz (4, observada según la UNL) quedan por debajo del criterio — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+      ]
+    },
+    {
+      "id": 118,
+      "num": "#118",
+      "nombre_comun": "Pato Zambullidor Chico",
+      "nombre_cientifico": "Oxyura vittata",
+      "familia": "Anatidae",
+      "orden": "Anseriformes",
+      "descripcion": {
+        "M": "Pato chico y rechoncho, de cuello corto y grueso y cola rígida, que muchas veces lleva levantada. Cabeza y cuello negros. Pico celeste azulado muy llamativo, con la uña de la punta negra. Ojo pardo oscuro. Base del cuello, dorso, pecho y costados castaño rojizos con manchas negras. Alas y cola pardas. Resto de abajo gris pardusco. Patas grisáceas.",
+        "F": "La hembra es muy distinta: parda, con una banda blanquecina debajo del ojo y la garganta blanquecina. Pico pardo. Dorso pardo barrado de ocráceo; pecho y vientre pardos y ocráceos."
+      },
+      "habitat": [
+        "humedal"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "36-46",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "La Pampa",
+        "Mendoza",
+        "San Juan",
+        "La Rioja",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Neuquén",
+        "Río Negro",
+        "Chubut",
+        "Santa Cruz"
+      ],
+      "curiosidades": "Es un gran buceador: se zambulle para buscar semillas, plantas, crustáceos, insectos y caracoles, y nada con la cola rígida levantada y abierta como un abanico. En época de cría el macho hace ruidos como chasquidos y roces para cortejar. Hace un nido grande y profundo con hojas, tallos y juncos, escondido en juncales y totorales de lagunas y esteros, y pone hasta 8 huevos blancos de cáscara áspera, muy grandes para su tamaño; a veces se encuentran nidos con hasta 12 huevos porque pusieron más de una hembra. Solo la hembra los incuba.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 60% of canvas height, small chunky stiff-tailed duck with a short thick neck and a flat head, stiff spiky tail held cocked upward, black head and neck, bright sky-blue bill with a black nail at the tip, small dark brown eye with a tiny dark pupil, chestnut-red back, lower neck, breast and flanks peppered with small distinct black spots, brown wings and tail, greyish brown lower belly, greyish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: female duller and browner than the male, make the head dark brown with a whitish band below the eye and a whitish throat, make the bill brown with a black nail, make the back brown barred with buff, make the breast and belly brown and buff, remove the chestnut and black spots, keep the brown wings and tail and the greyish legs, keep white background, no shadow, no text"
+      },
+      "audio_ebird_code": "lakduc1",
+      "gbif_taxon_key": 5232469,
+      "pendientes": [
+        "Residencia: parcialmente migratorio (Wikipedia es/en) — confirmar si en Buenos Aires está todo el año",
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
+        "Provincias: Corrientes tiene 22 registros en GBIF/eBird, pero la UNL dice que en el noreste es ocasional; Catamarca (8), Tierra del Fuego (2), Misiones (2) y Chaco (1) quedan por debajo del criterio — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+      ]
     }
   ]
 }

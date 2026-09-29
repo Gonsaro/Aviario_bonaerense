@@ -2,17 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (115 cargadas).
+`aviario_data.json` (118 cargadas).
 
 
-**Faltan: 244 especies**
+**Faltan: 241 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 106 | Piojito Gris | *Serpophaga nigricans* | #768 |
-| 107 | Gaviota Capucho Gris | *Chroicocephalus cirrocephalus* | #278 |
-| 110 | Pato Zambullidor Chico | *Oxyura vittata* | #60 |
 | 111 | Cortarramas | *Phytotoma rutila* | #701 |
 | 112 | Espinero Pecho Manchado | *Phacellodomus striaticollis* | #665 |
 | 113 | Becasa de Mar | *Limosa haemastica* | #232 |
