@@ -6027,6 +6027,170 @@
         "Pico: la UNL dice rojizo en la mitad basal; Wikipedia (en) dice rosado con la punta oscura — se usó 'pinkish red'",
         "Provincias: Santiago del Estero (17 registros) y Corrientes (13) quedan por debajo del criterio de GBIF — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
       ]
+    },
+    {
+      "id": 122,
+      "num": "#122",
+      "nombre_comun": "Remolinera Parda",
+      "nombre_cientifico": "Cinclodes fuscus",
+      "familia": "Furnariidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pajarito de suelo, pardo, de pico corto y fino. Ceja clara, ocrácea a blanquecina, bien marcada. Mejillas pardo grisáceas oscuras y una mancha blanca debajo, en la base de la mejilla. Pico pardo negruzco. Ojo pardo oscuro. Corona y dorso pardo oscuros. Alas pardas con bordes claros en las plumas y una banda canela que las cruza, muy visible en vuelo. Cola parda oscura con las puntas de las plumas de los costados ocráceas. Garganta blanquecina punteada de pardo. Pecho pardo claro; vientre blanquecino. Patas pardo oscuras. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "ribereño",
+        "humedal",
+        "costa",
+        "pastizal"
+      ],
+      "residencia": "invernal",
+      "tamanio_categoria": "chico",
+      "largo_cm": "15-19",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "La Pampa",
+        "Mendoza",
+        "San Juan",
+        "La Rioja",
+        "Catamarca",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Neuquén",
+        "Río Negro",
+        "Chubut",
+        "Santa Cruz",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "Cría en la Patagonia, Tierra del Fuego y las montañas del oeste, y en otoño muchas bajan al norte y al este: por eso en Buenos Aires se la ve sobre todo en invierno, caminando por las orillas de lagunas, arroyos, bañados y la costa. Camina y corre por el suelo buscando insectos, crustáceos y caracoles, y a veces se posa en ramas o troncos bajos. En primavera el macho canta y aletea desde una percha para marcar territorio. Hace el nido al fondo de un túnel que cava en una barranca, o en grietas entre rocas y huecos de paredes, y lo acolcha con pasto, pelos y plumas.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on the ground, white background, 1024x1024 pixels, bird filling 60% of canvas height, small plump ground bird with a short thin bill, dark grey-brown crown, bold pale buff eyebrow, dark grey-brown cheeks with a white patch below them, dark brown bill, small dark brown eye with a tiny dark pupil, dark brown back, dark brown wings with pale buff edges on the coverts and a narrow cinnamon band across the flight feathers, dark brown tail with pale buff tips on the outer feathers, whitish throat with small distinct dark brown spots, pale brown breast, whitish buff belly, dark brown legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, small plump ground bird with a short thin bill, dark grey-brown crown, bold pale buff eyebrow, dark brown bill, small dark brown eye with a tiny dark pupil, dark brown back, open dark brown wings crossed by a bold cinnamon band along the flight feathers, dark brown tail with pale buff tips on the outer feathers, whitish throat with small dark spots, pale brown breast, whitish buff belly, legs tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "buwcin1",
+      "gbif_taxon_key": 2485069,
+      "pendientes": [
+        "Residencia: se cargó 'invernal' para Buenos Aires porque la UNL y Wikipedia (en) dicen que en otoño migra hacia el norte; Wikipedia (en) aclara que algunas quedan todo el año en su zona de cría — confirmar",
+        "Ceja: la UNL dice ocrácea, Wikipedia (en) blanquecina anteada — se usó 'pale buff'",
+        "Juvenil (de colores más ricos que el adulto, según Wikipedia en) sin variante propia",
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
+        "Provincias: Chaco tiene 13 registros en GBIF/eBird — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+      ]
+    },
+    {
+      "id": 123,
+      "num": "#123",
+      "nombre_comun": "Arañero Coronado Chico",
+      "nombre_cientifico": "Basileuterus culicivorus",
+      "familia": "Parulidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pajarito chico e inquieto, gris y amarillo. Cabeza gris, con una franja anaranjada o amarilla en el centro de la corona, semioculta, bordeada a cada lado por una línea negra. Ceja blanca o amarillenta y una línea negra que pasa por el ojo. Pico fino, oscuro arriba y más claro abajo. Ojo pardo. Dorso gris oliváceo. Alas y cola pardas. Garganta, pecho y vientre amarillos. Patas anaranjado claro. Macho y hembra son iguales; el juvenil es más apagado y pardusco y casi no tiene el dibujo de la cabeza."
+      },
+      "habitat": [
+        "bosque",
+        "monte",
+        "urbano"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "12-13.5",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Catamarca",
+        "Tucumán",
+        "Salta",
+        "Jujuy"
+      ],
+      "curiosidades": "Recorre los estratos bajo y medio de bosques, selvas y selvas en galería, muy movedizo, buscando insectos y arañas —de ahí su nombre— y también algunos frutos. Su canto es una serie aguda y fina, 'pit-sit-sit-sit-sit', y su llamado un 'tsip' seco. Hace un nido globular de fibras vegetales, raicillas y hojas, con la entrada al costado, escondido en el suelo del bosque bajo la hojarasca o en una barranca, y pone 2 o 3 huevos blancos con manchitas. Si un predador se acerca al nido, los padres fingen estar heridos para alejarlo.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thin branch, white background, 1024x1024 pixels, bird filling 60% of canvas height, small warbler, grey head with an orange-yellow central crown stripe bordered by a black stripe on each side, white eyebrow, thin black line through the eye, grey cheeks, thin bill with a dark upper mandible and a paler lower mandible, small dark brown eye with a tiny dark pupil, olive-grey back, brownish wings and tail, bright yellow throat, breast and belly, pale orange legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "gcrwar",
+      "gbif_taxon_key": 2489770,
+      "pendientes": [
+        "Franja de la corona: la UNL la da semioculta; en el prompt se pidió visible para que el sprite muestre el dibujo de la cabeza — revisar",
+        "Ceja: la UNL dice blanca; Wikipedia (en) amarilla o blanca; Wikipedia (es) de verde oliva a amarillo opaco — se usó blanca (UNL)",
+        "Juvenil sin variante propia",
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
+        "Provincias: La Rioja está en la distribución de la UNL pero tiene 4 registros en GBIF/eBird; Santiago del Estero, 2 — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+      ]
+    },
+    {
+      "id": 124,
+      "num": "#124",
+      "nombre_comun": "Ñandú",
+      "nombre_cientifico": "Rhea americana",
+      "familia": "Rheidae",
+      "orden": "Rheiformes",
+      "descripcion": {
+        "M": "Ave enorme que no vuela, con cuello y patas muy largos y un plumaje suelto y desflecado. Cabeza chica, con la corona negra. Pico gris pardusco, ancho y aplanado. Ojo gris pardusco claro. Dorso gris y pardo. Alas grandes, grises, que usa para equilibrarse al correr. Base del cuello y pecho negros; vientre blanquecino. Patas grisáceas, fuertes, sin plumas, con tres dedos.",
+        "F": "La hembra es algo más chica y más clara, gris con el vientre blanquecino, casi sin negro en la base del cuello y el pecho."
+      },
+      "habitat": [
+        "pastizal",
+        "agrícola"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "grande",
+      "largo_cm": "127-140",
+      "envergadura_cm": null,
+      "estado_conservacion": "NT",
+      "provincias": [
+        "Buenos Aires",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "La Pampa",
+        "Mendoza",
+        "La Rioja",
+        "Catamarca",
+        "Salta",
+        "Jujuy",
+        "Río Negro"
+      ],
+      "curiosidades": "Su nombre viene del guaraní 'ñandu guasu', que quiere decir 'araña grande'. Aunque no puede volar corre muy rápido y usa las alas para no perder el equilibrio en los giros. Come de todo: semillas, frutos, insectos, reptiles, ranas, pequeños mamíferos y pichones. En la época de cría el macho da un bramido parecido a un mugido y corteja a varias hembras; después cava un nido en el suelo, donde todas ellas ponen sus huevos —de 10 a 30 o más— y es él quien los incuba y cuida a los charitos. Mientras empolla puede volverse peligroso. A nivel mundial está considerado Casi Amenazado.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 75% of canvas height, very large flightless bird with a very long neck, long thick bare legs and a bulky rounded body of loose shaggy feathers, small head with a black crown, short broad flat grey-brown bill, small pale greyish brown eye with a tiny dark pupil, grey and brown back, large loose grey wing plumes drooping over the body, black patch at the base of the neck and on the upper breast, whitish belly and thighs, strong greyish legs with three toes, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: female paler than the male, replace the black crown and the black patch at the base of the neck and breast with plain grey, make the body a lighter grey, keep the whitish belly, the bill, the eye and the greyish legs unchanged, keep white background, no shadow, no text"
+      },
+      "audio_ebird_code": "grerhe1",
+      "gbif_taxon_key": 2495165,
+      "pendientes": [
+        "Largo: la UNL da 180 cm; Wikipedia (en) da 127-140 cm de pico a cola y 1,5 m de altura (hasta 1,83 m en machos grandes) — se cargó 127-140, revisar",
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
+        "Pichones (grises con rayas oscuras a lo largo, según Wikipedia en; pardos con dos líneas blancas según la UNL) sin variante J — las fuentes no coinciden",
+        "Provincias: parte de los registros de GBIF/eBird puede corresponder a aves en criaderos o reservas; Neuquén está en la UNL pero tiene 9 registros; San Juan (19), Tucumán (10), Santa Cruz (3) y Chubut (1) quedan por debajo del criterio — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+      ]
     }
   ]
 }

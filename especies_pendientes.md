@@ -2,17 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (121 cargadas).
+`aviario_data.json` (124 cargadas).
 
 
-**Faltan: 238 especies**
+**Faltan: 235 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 114 | Remolinera Parda | *Cinclodes fuscus* | #639 |
-| 115 | Arañero Coronado Chico | *Basileuterus culicivorus* | #965 |
-| 116 | Ñandú | *Rhea americana* | #1 |
 | 117 | Leñatero | *Anumbius annumbi* | #667 |
 | 119 | Tachurí Sietecolores | *Tachuris rubrigastra* | #850 |
 | 120 | Arañero Cara Negra | *Geothlypis velata* | #956 |
