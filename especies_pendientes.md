@@ -2,17 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (118 cargadas).
+`aviario_data.json` (121 cargadas).
 
 
-**Faltan: 241 especies**
+**Faltan: 238 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 111 | Cortarramas | *Phytotoma rutila* | #701 |
-| 112 | Espinero Pecho Manchado | *Phacellodomus striaticollis* | #665 |
-| 113 | Becasa de Mar | *Limosa haemastica* | #232 |
 | 114 | Remolinera Parda | *Cinclodes fuscus* | #639 |
 | 115 | Arañero Coronado Chico | *Basileuterus culicivorus* | #965 |
 | 116 | Ñandú | *Rhea americana* | #1 |

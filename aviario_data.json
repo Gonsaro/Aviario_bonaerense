@@ -5873,6 +5873,160 @@
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
         "Provincias: Corrientes tiene 22 registros en GBIF/eBird, pero la UNL dice que en el noreste es ocasional; Catamarca (8), Tierra del Fuego (2), Misiones (2) y Chaco (1) quedan por debajo del criterio — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
       ]
+    },
+    {
+      "id": 119,
+      "num": "#119",
+      "nombre_comun": "Cortarramas",
+      "nombre_cientifico": "Phytotoma rutila",
+      "familia": "Cotingidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "M": "Pájaro robusto, de pico corto y grueso, y con un copetito corto. Frente castaño rojiza; corona y nuca grises con estrías tenues. Pico negruzco o grisáceo. Ojo amarillo anaranjado. Dorso gris pardusco con estrías tenues. Alas oscuras con dos bandas blancas. Cola oscura con la punta blanca en las plumas de los costados. Garganta, pecho y vientre castaño rojizos, con los costados más grisáceos. Patas pardo grisáceas.",
+        "F": "La hembra es muy distinta: arriba grisácea a pardo oscura con estrías, y abajo canela clara u ocrácea, toda cubierta de estrías pardo oscuras. Alas pardas con bordes claros y bandas blancas finas. Cola parda con blanco en las plumas de los costados."
+      },
+      "habitat": [
+        "monte",
+        "bosque",
+        "agrícola",
+        "urbano"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "18-19.5",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "La Pampa",
+        "Mendoza",
+        "San Juan",
+        "La Rioja",
+        "Catamarca",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Neuquén",
+        "Río Negro",
+        "Chubut"
+      ],
+      "curiosidades": "Come sobre todo vegetales: brotes, hojas, flores, frutos y semillas, además de algunos insectos. Vive en montes, matorrales, arboledas, estepas arbustivas y también en quintas y jardines. Tiene decenas de nombres populares en todo el país, como 'bisagra', 'quejón', 'rechinador', 'corderito del monte' o 'dentudo'. Hace un nido en forma de taza de palitos, a veces con espinas, en arbustos o árboles bajos. Solo la hembra incuba los 2 a 4 huevos, durante unos 15 días, y después los dos padres alimentan a los pichones.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, stocky plantcutter with a short crest, rufous-chestnut forehead, grey crown, nape and cheeks with faint dark streaks, short thick conical blackish bill, small yellow-orange eye with a tiny dark pupil, grey-brown back with faint streaks, dusky wings with two bold white wing bars, dusky tail with white tips on the outer feathers, rufous-chestnut throat, breast and belly, greyish flanks, grey-brown legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the forehead, crown and back greyish brown with dark brown streaks, remove all the rufous-chestnut, make the throat, breast and belly pale cinnamon-buff heavily streaked with dark brown, make the white wing bars thinner, add pale buff edges to the wing feathers, keep the bill, eye, legs and white tail tips unchanged, keep white background, no shadow, no text"
+      },
+      "audio_ebird_code": "whtpla1",
+      "gbif_taxon_key": 2486489,
+      "pendientes": [
+        "Dorso de la hembra: la UNL dice grisáceo con estrías pardo oscuras; Wikipedia (en) dice pardo negruzco con estrías blancas en la cabeza y gris anteadas en el dorso — se usó pardo grisáceo",
+        "Cola: la UNL dice ápice blanco en las plumas externas; Wikipedia (en) dice puntas blancas anchas en todas menos las centrales en el macho",
+        "Residencia: parcialmente migratorio, algunos del sur se desplazan al norte en invierno (Wikipedia en) — confirmar en Buenos Aires",
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
+        "Provincias: Santa Cruz tiene 1 registro en GBIF/eBird — no se cargó — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+      ]
+    },
+    {
+      "id": 120,
+      "num": "#120",
+      "nombre_comun": "Espinero Pecho Manchado",
+      "nombre_cientifico": "Phacellodomus striaticollis",
+      "familia": "Furnariidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro chico, de tonos castaños. Frente y corona pardo rojizas. Ceja blanquecina poco marcada. Pico fino y puntiagudo, pardo arriba y gris claro abajo. Ojo amarillo, muy llamativo. Dorso y alas castaños. Cola con las plumas del centro pardas y las de los costados castañas. Garganta blanquecina. Pecho ocre canela con pintitas castaño oscuras y estrías claras. Vientre blanquecino y costados pardo grisáceos. Patas pardo oliváceas. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "humedal",
+        "ribereño",
+        "monte"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "16-17",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Santiago del Estero",
+        "Córdoba"
+      ],
+      "curiosidades": "Casi siempre vive cerca del agua, en matorrales de orillas, bordes de bañados y montes ribereños. Construye un nido enorme para su tamaño: un bulto alargado de palitos con espinas de hasta medio metro de largo, con un túnel corto y curvo que lleva a la cámara, forrada con pajitas, plumas, pelos y pelusa vegetal. Lo cuelga cerca de la punta de una rama, muchas veces sobre el agua. Su nombre científico lo cuenta: 'Phacellodomus' quiere decir 'casa de palitos amontonados'. Busca insectos y arañas en el suelo y en arbustos bajos.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thin branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, small slender thornbird with a longish tail, rufous-brown forehead and crown, faint whitish eyebrow, thin pointed bill with a brown upper mandible and a pale grey lower mandible, small bright yellow eye with a tiny dark pupil, chestnut-brown back and wings, tail with brown central feathers and rufous-chestnut outer feathers, whitish throat, ochre-cinnamon breast peppered with small distinct dark rufous spots, whitish belly, greyish brown flanks, olive-brown legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "frbtho1",
+      "gbif_taxon_key": 2485123,
+      "pendientes": [
+        "Pintas del pecho: la UNL solo dice pecho ocre canela (y 'pecho manchado' para identificarlo); Wikipedia (en) da estrías claras y pintitas castaño rojizas oscuras — se usó Wikipedia en para el prompt",
+        "Corona: Wikipedia (en) dice castaño parda con pintas blanquecinas; la UNL, parda rojiza sin pintas — se siguió a la UNL",
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
+        "Provincias: San Luis tiene 28 registros en GBIF/eBird pero no figura en la distribución de la UNL; Formosa (6), Misiones (3) y Chaco (1) están en la UNL pero quedan por debajo del criterio; Tucumán (8) y La Pampa (6) tampoco llegan — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+      ]
+    },
+    {
+      "id": 121,
+      "num": "#121",
+      "nombre_comun": "Becasa de Mar",
+      "nombre_cientifico": "Limosa haemastica",
+      "familia": "Scolopacidae",
+      "orden": "Charadriiformes",
+      "descripcion": {
+        "D": "Ave playera grande, de patas largas y postura erguida. Pico muy largo, apenas curvado hacia arriba en la punta, rosado rojizo en la mitad de la base y negro hacia la punta. Ceja y garganta blancas. Ojo pardo oscuro. Dorso gris pardusco. Alas gris parduscas con una banda blanca que se ve en vuelo. Rabadilla blanca y cola negra con la base blanca. Cuello, pecho y costados grises; resto de abajo blanquecino. Patas gris azuladas. Así se ve en Argentina, con plumaje de descanso; con plumaje de cría tiene el dorso moteado de pardo y la parte de abajo castaña."
+      },
+      "habitat": [
+        "costa",
+        "humedal"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "36-42",
+      "envergadura_cm": "74",
+      "estado_conservacion": "VU",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Chaco",
+        "Formosa",
+        "Córdoba",
+        "La Pampa",
+        "Mendoza",
+        "Jujuy",
+        "Neuquén",
+        "Río Negro",
+        "Chubut",
+        "Santa Cruz",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "Es una gran viajera: cría en el norte de Canadá y Alaska y vuela sin escalas sobre el océano Atlántico hasta el sur de Sudamérica. Más de la mitad de la población mundial pasa el verano en Tierra del Fuego, sobre todo en la bahía San Sebastián; otras se quedan en Bahía Blanca, el cabo San Antonio o la laguna Mar Chiquita de Córdoba. Con su pico largo, que puede doblar en la punta, busca gusanos, moluscos, crustáceos e insectos en el barro de las marismas, metida en el agua hasta el vientre. Está considerada Vulnerable.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 70% of canvas height, large upright godwit with long legs, white eyebrow, very long slightly upturned bill pinkish red on the basal half and black toward the tip, small dark brown eye with a tiny dark pupil, plain grey-brown back and folded wings, black tail tip showing below the wings, white throat, grey neck, breast and flanks, whitish belly, long blue-grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, large godwit with long pointed wings, neck extended, legs tucked, very long slightly upturned bill pinkish red at the base and black at the tip, white eyebrow, small dark brown eye with a tiny dark pupil, grey-brown back, open grey-brown wings with a narrow white wing bar and black underwing linings, bright white rump, black tail with a white base, grey breast, whitish belly, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "hudgod",
+      "gbif_taxon_key": 2481680,
+      "pendientes": [
+        "Plumaje de cría (dorso moteado de pardo, pecho y vientre castaños; el macho más vivo que la hembra) sin variante R — decidir",
+        "Pico: la UNL dice rojizo en la mitad basal; Wikipedia (en) dice rosado con la punta oscura — se usó 'pinkish red'",
+        "Provincias: Santiago del Estero (17 registros) y Corrientes (13) quedan por debajo del criterio de GBIF — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+      ]
     }
   ]
 }
