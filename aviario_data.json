@@ -6196,6 +6196,161 @@
       "audio_ebird_code": "masyel5",
       "gbif_taxon_key": 6100791,
       "pendientes": []
+    },
+    {
+      "id": 128,
+      "num": "#128",
+      "nombre_comun": "Milano Blanco",
+      "nombre_cientifico": "Elanus leucurus",
+      "familia": "Accipitridae",
+      "orden": "Accipitriformes",
+      "descripcion": {
+        "D": "Rapaz mediana, gris y blanca, de alas largas y puntiagudas. Cabeza gris clara con la frente blanca y una línea oscura alrededor del ojo. Pico negro y ganchudo, con la base (cera) amarilla. Ojo rojo. Dorso gris. Alas grises con una gran mancha negra en el hombro; por debajo son blancas con una mancha negra en el doblez y las plumas largas grises. Cola blanca, con las dos plumas del centro gris pálido. Garganta, pecho y vientre blancos. Patas amarillas. Macho y hembra son iguales.",
+        "J": "El juvenil tiene la corona y las partes de abajo estriadas de pardo y canela, las plumas de las alas con la punta blanquecina y la cola con una banda grisácea cerca de la punta."
+      },
+      "habitat": [
+        "pastizal",
+        "agrícola",
+        "monte"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "35-43",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "La Pampa",
+        "Mendoza",
+        "San Juan",
+        "La Rioja",
+        "Catamarca",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Neuquén",
+        "Río Negro",
+        "Chubut"
+      ],
+      "curiosidades": "Es el rapaz que 'baila' en el aire: para cazar aletea suspendido en un mismo punto, a cierta altura sobre el campo, y después se deja caer sobre la presa con las alas levantadas y las patas estiradas hacia abajo. Come sobre todo ratones y otros roedores, y también insectos y ranas, por eso en el campo le dicen 'halcón lauchero'. Se lo ve posado en postes, cables o árboles, solo o en pareja. Arma en lo alto de un árbol un nido hondo como un tazón, de palitos con y sin espinas, forrado de pajitas, y pone de 2 a 4 huevos cremas con manchas castañas.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched upright on a fence post, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium slender kite with long pointed wings, pale grey head with a white forehead and a small dark patch around the eye, black hooked bill with a yellow cere, small red eye with a tiny dark pupil, grey back, grey folded wings with a large black shoulder patch, white tail with pale grey central feathers, white throat, breast and belly, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: streak the crown with brown and cinnamon, add brown and cinnamon streaks on the white breast and belly, add whitish tips to the wing feathers, add a greyish band near the tip of the white tail, keep the black shoulder patch, the black bill with yellow cere, the red eye and the yellow legs, keep white background, no shadow, no text",
+        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, hovering, white background, 1024x1024 pixels, medium kite with long pointed wings, head tilted slightly down, legs tucked, pale grey head with a white forehead and a small dark patch around the eye, black hooked bill with a yellow cere, small red eye with a tiny dark pupil, open grey upperwings with a large black shoulder patch, white underwing coverts with a small black patch at the wrist and grey flight feathers, white tail with pale grey central feathers, white breast and belly, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "whtkit",
+      "gbif_taxon_key": 2480367,
+      "pendientes": []
+    },
+    {
+      "id": 129,
+      "num": "#129",
+      "nombre_comun": "Juan Chiviro",
+      "nombre_cientifico": "Cyclarhis gujanensis",
+      "familia": "Vireonidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro chico y robusto, de cabeza grande y pico grueso y ganchudo. Frente y ceja castañas. Corona gris con tono castaño. Cara y collar de la nuca grises. Pico gris. Ojo naranja o rojo. Dorso verde oliva. Alas pardas con bordes oliva. Cola oliva. Garganta blanquecina. Collar amarillo en el pecho. Resto de abajo blanquecino con tono canela. Patas rosadas. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "bosque",
+        "monte",
+        "urbano"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "15",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "La Pampa",
+        "Mendoza",
+        "La Rioja",
+        "Catamarca",
+        "Tucumán",
+        "Salta",
+        "Jujuy"
+      ],
+      "curiosidades": "Se lo oye mucho más de lo que se lo ve: canta todo el año, desde lo alto de los árboles, una frase silbada y fuerte que repite sin cansarse, y de ahí su nombre popular de 'buen cantor'. Anda solo, recorriendo despacio la parte media y alta de los árboles de montes, parques y arboledas de la ciudad, donde revisa ramitas y levanta líquenes en busca de insectos y arañas; también come frutos y semillas. Su nido es una taza colgante atada a ramas horquilladas, hecha de fibras vegetales, forrada con raicillas y cubierta por fuera de líquenes y claveles del aire unidos con tela de araña. Pone 2 o 3 huevos blancos con pintas castañas.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a branch, white background, 1024x1024 pixels, bird filling 60% of canvas height, small stocky bird with a large head and a thick hooked bill, chestnut forehead and broad chestnut eyebrow, grey crown with a brownish tinge, grey face and grey collar on the nape, grey bill, small orange-red eye with a tiny dark pupil, olive green back, brown wings with olive green edges, olive green tail, whitish throat, yellow band across the breast, whitish belly with a cinnamon tinge, pink legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "rubpep1",
+      "gbif_taxon_key": 2487404,
+      "pendientes": []
+    },
+    {
+      "id": 130,
+      "num": "#130",
+      "nombre_comun": "Rayador",
+      "nombre_cientifico": "Rynchops niger",
+      "familia": "Laridae",
+      "orden": "Charadriiformes",
+      "descripcion": {
+        "D": "Ave acuática mediana, parecida a un gaviotín, de alas muy largas y un pico único: largo, aplanado como una tijera, con la parte de abajo más larga que la de arriba. Frente y cara blancas. Pico rojo en la base y negro el resto. Ojo pardo oscuro. Fuera de la época de cría el dorso es pardo oscuro, con un collar blanco en la nuca. Alas largas, oscuras, con las puntas de las plumas de atrás blancas; por debajo son grisáceas. Cola parda con las plumas de los costados blancas. Garganta, pecho y vientre blancos. Patas cortas y rojas. El juvenil tiene el dorso moteado de pardo.",
+        "R": "En plumaje reproductivo la corona, la nuca, el dorso y las alas son negros, sin el collar blanco de la nuca."
+      },
+      "habitat": [
+        "costa",
+        "ribereño",
+        "humedal"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "44-50",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "Mendoza",
+        "Salta",
+        "Río Negro",
+        "Chubut",
+        "Santa Cruz",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "Es la única ave que pesca 'arando' el agua: vuela a ras de la superficie con el pico abierto y la parte de abajo, más larga, cortando el agua, y cuando toca un pez cierra el pico de golpe. Por eso le dicen 'cortador de agua' o 'pico tijera'. Anda en bandadas que descansan juntas en bancos de arena y playas, y a menudo pesca al atardecer o de noche. Cría en colonias, a veces junto a gaviotines, en bancos de arena de ríos: el nido es apenas un pocito excavado en el suelo, donde pone hasta 4 huevos cremas con pintas castañas, pardas y grises.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 60% of canvas height, medium tern-like waterbird with very long pointed wings and short legs, long blade-like laterally flattened bill with the lower mandible clearly longer than the upper, dark brown crown, white forehead and face, white collar on the nape, bill red at the base and black on the outer half, small dark brown eye with a tiny dark pupil, dark brown back, long dark brown folded wings with a thin white trailing edge, dark brown tail with white outer feathers, white throat, breast and belly, short red legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "R": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the crown, nape, back, wings and tail black instead of dark brown, remove the white collar on the nape so the black crown joins the black back, keep the white forehead, face and underparts, the red and black bill and the red legs, keep white background, no shadow, no text",
+        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight low over the water with wings raised mid-flap, white background, 1024x1024 pixels, tern-like waterbird with very long narrow pointed wings, neck extended, legs tucked, long blade-like bill with the lower mandible clearly longer than the upper, bill red at the base and black on the outer half, black crown and nape, white forehead and face, small dark brown eye with a tiny dark pupil, open black upperwings with a white trailing edge on the inner wing, greyish underwings, short dark tail with white outer feathers, white underparts, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "blkski",
+      "gbif_taxon_key": 2481209,
+      "pendientes": []
     }
   ]
 }

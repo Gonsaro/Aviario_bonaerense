@@ -2,17 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (127 cargadas).
+`aviario_data.json` (130 cargadas).
 
 
-**Faltan: 232 especies**
+**Faltan: 229 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 121 | Milano Blanco | *Elanus leucurus* | #415 |
-| 122 | Juan Chiviro | *Cyclarhis gujanensis* | #851 |
-| 123 | Rayador | *Rynchops niger* | #274 |
 | 124 | Frutero Azul | *Stephanophorus diadematus* | #1064 |
 | 125 | Inambú Campestre | *Nothura maculosa* | #14 |
 | 126 | Calandria Real | *Mimus triurus* | #898 |
