@@ -3340,7 +3340,6 @@
         "Salta",
         "Jujuy",
         "Catamarca",
-        "La Rioja",
         "San Juan",
         "Mendoza",
         "San Luis",
@@ -3360,7 +3359,9 @@
       },
       "audio_ebird_code": "barswa",
       "gbif_taxon_key": 9515886,
-      "pendientes": []
+      "pendientes": [
+        "Provincias: La Rioja (13) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
+      ]
     },
     {
       "id": 72,
@@ -3392,7 +3393,9 @@
         "La Pampa",
         "Mendoza",
         "San Luis",
-        "Santiago del Estero"
+        "Santiago del Estero",
+        "Corrientes",
+        "Río Negro"
       ],
       "curiosidades": "Especie exótica, originaria de Eurasia. Se detectó por primera vez en jardines de la ciudad de Buenos Aires en 1987 y desde entonces se expandió unos 7,5 km por año por la región pampeana. Compite con aves nativas por los huecos para anidar, como carpinteros y golondrinas. Es un gran imitador de sonidos.",
       "sprites": {},
@@ -3403,7 +3406,7 @@
       "audio_ebird_code": "eursta",
       "gbif_taxon_key": 9809229,
       "pendientes": [
-        "Provincias: la UNL lo da en San Juan y Tucumán, pero GBIF/eBird tiene 13 y 0 registros; Río Negro (72 registros) y Corrientes (21) tienen presencia en GBIF pero la UNL no las menciona — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Provincias: Catamarca (10), San Juan (13) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -3502,7 +3505,8 @@
         "La Rioja",
         "San Juan",
         "San Luis",
-        "La Pampa"
+        "La Pampa",
+        "Mendoza"
       ],
       "curiosidades": "Recorre sin descanso ramas y arbustos a los saltitos y en vuelos cortos, buscando insectos, larvas y arañas; a menudo se suma a bandadas mixtas con otros pajaritos. La hembra construye un nido en forma de taza con raicillas, telas de araña y plumas, y lo recubre por fuera con trocitos de corteza que lo camuflan en la rama. Pone hasta cuatro huevos celestes con pintas rojizas.",
       "sprites": {},
@@ -3515,7 +3519,7 @@
       "pendientes": [
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Plumaje juvenil sin datos (sin variante J) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: Mendoza no está cargada; tiene 69 registros en GBIF/eBird, pero la UNL da la especie solo hasta San Juan, San Luis, Córdoba, La Pampa y Buenos Aires — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Provincias: Neuquén (16), Río Negro (18) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -3547,8 +3551,7 @@
         "Corrientes",
         "Córdoba",
         "San Luis",
-        "La Pampa",
-        "Río Negro"
+        "La Pampa"
       ],
       "curiosidades": "Muy sociable: anda en parejas o en grupos de hasta 25-30 individuos que buscan insectos, lombrices, larvas, crustáceos y semillas en el suelo cerca de lagunas y bañados, mientras uno de ellos vigila posado en un junco o una rama. Vuela bajo, con aleteos repetidos y cortos planeos, mostrando el amarillo de los hombros. Arma un nido en forma de taza con ramitas y barro.",
       "sprites": {},
@@ -3562,7 +3565,7 @@
       "pendientes": [
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Plumaje juvenil con una sola fuente (Wikipedia en); UNL, avespampa y oiseaux-birds no lo describen — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: la UNL lo da en el sur de Misiones, Chaco, Formosa y Santiago del Estero, pero GBIF/eBird tiene 10, 9, 1 y 0 registros — no se cargaron. Río Negro está cargada, pero la UNL no la menciona y hay 11 registros — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Provincias: Misiones (10), Río Negro (11) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -3656,7 +3659,8 @@
         "Córdoba",
         "Tucumán",
         "Salta",
-        "Jujuy"
+        "Jujuy",
+        "La Pampa"
       ],
       "curiosidades": "Es uno de los picaflores más comunes en plazas, parques y jardines del noreste bonaerense. Toma néctar de una enorme variedad de flores nativas y exóticas, y también caza insectos al vuelo y roba arañitas de las telas. Su canto es un trino agudo y repetido, parecido al de un grillo. La hembra arma sola un nidito en forma de taza con fibras vegetales y telas de araña, decorado por fuera con líquenes y trocitos de hojas, sobre una rama fina y horizontal.",
       "sprites": {},
@@ -3668,7 +3672,7 @@
       "pendientes": [
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Se cargó una sola variante (D): dimorfismo leve (hembra algo más opaca, con la parte baja del vientre grisácea o verdosa según Wikipedia y oiseaux-birds); evaluar si conviene una variante F",
-        "Provincias: La Pampa no está cargada; tiene 24 registros en GBIF/eBird, pero la UNL da la especie solo hasta Córdoba, Santiago del Estero, Santa Fe y Buenos Aires — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Provincias: Mendoza (11) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -3770,7 +3774,8 @@
         "La Pampa",
         "Tucumán",
         "Salta",
-        "Jujuy"
+        "Jujuy",
+        "Catamarca"
       ],
       "curiosidades": "A diferencia de la mayoría de los patos, se posa en ramas: tiene uñas largas y puntiagudas en los dedos. Prefiere lagunas y arroyos rodeados de árboles, porque anida en huecos de troncos y a veces en los grandes nidos de la cotorra. Las parejas son muy unidas y el macho ayuda a criar a los patitos, que al nacer se tiran del nido al suelo. Su voz es un maullido suave en la hembra y un silbido largo en el macho.",
       "sprites": {},
@@ -3785,8 +3790,7 @@
         "Rabadilla: negra según la UNL, clara contrastante según Wikipedia (en); avespampa no la menciona — omitida en descripción y prompts — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Mancha blanca del flanco trasero confirmada en el macho; en la hembra sin confirmar (la UNL solo dice subcaudales blancas) — el recolor F no la menciona — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Ubicación exacta de la mancha blanca del ala sin confirmar: Wikipedia (en) dice mancha blanca en el ala; la UNL describe cubiertas superiores negras e inferiores blancas con punta negra — prompt V dice inner wing — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Envergadura 70 cm con una sola fuente (Wikipedia en) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: Catamarca no está cargada; tiene 34 registros en GBIF/eBird, pero la UNL da la especie por el centro-este hasta La Pampa y Buenos Aires — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Envergadura 70 cm con una sola fuente (Wikipedia en) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
       ]
     },
     {
@@ -3845,7 +3849,7 @@
         "Se cargó una sola variante (D): dimorfismo leve (hembra con cabeza y cuello más apagados, confirmado por oiseaux-birds); evaluar si conviene una variante F",
         "La ficha describe la subespecie nominal; la subespecie albipennis (extremo NO de Argentina, confirmada por oiseaux-birds) tiene una franja blanca en el ala y menos pintas — decidir si se menciona",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: Chubut no está cargada; la UNL la incluye (hasta Chubut), pero GBIF/eBird tiene solo 6 registros — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Provincias: Misiones (14) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -3900,7 +3904,8 @@
         "Juvenil (todo negruzco, incluso cara, pico y patas) con una sola fuente (Wikipedia es); la UNL y avespampa no lo describen; no se creó variante J — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "No se creó variante V: plumaje uniforme, sin patrón de ala abierta relevante — decidir si hace falta",
         "Residencia: se cargó permanente; no se confirmó si hay movimientos estacionales en el sur de su distribución — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
+        "Provincias: Río Negro (14) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -3944,7 +3949,8 @@
         "Santa Cruz",
         "Tierra del Fuego",
         "Catamarca",
-        "San Juan"
+        "San Juan",
+        "Formosa"
       ],
       "curiosidades": "Su nombre viene de la 'capucha' oscura que contrasta con la cara clara. Es un pato tranquilo que vive en parejas o grupos chicos en lagunas, bañados y charcas de agua dulce, sobre todo las de orillas con juncos y poca vegetación flotante. Come semillas, plantas acuáticas, insectos y otros invertebrados chicos. Hace el nido escondido entre la vegetación de la orilla y pone de 5 a 10 huevos, que se incuban durante 23 a 24 días.",
       "sprites": {},
@@ -3956,8 +3962,7 @@
       "gbif_taxon_key": 9305555,
       "pendientes": [
         "Se cargó una sola variante (D): dimorfismo leve (hembra más apagada, flancos menos barrados, a veces sin amarillo en el pico; juvenil más apagado con la cabeza más parda — oiseaux-birds); evaluar variantes F/J",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: Formosa no está cargada; tiene 61 registros en GBIF/eBird, pero la UNL da la especie desde Salta, Chaco y Corrientes hacia el sur — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
       ]
     },
     {
@@ -4012,7 +4017,8 @@
       "pendientes": [
         "Color de las tapadas (ala por debajo): amarillento con punta y borde posterior más oscuros según oiseaux-birds (una sola fuente); omitido en prompt V — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Juvenil: más apagado, con barras negras más anchas y el amarillo más pálido (oiseaux-birds y Wikipedia); evaluar si conviene una variante J",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
+        "Provincias: La Rioja (13) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -4070,7 +4076,8 @@
       "pendientes": [
         "Juvenil sin confirmar (solo resúmenes de búsqueda: como la hembra con hombro pardo); UNL y avespampa no lo describen; no se creó variante J — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Residencia: se cargó permanente para Buenos Aires (inferido); Birds of the World indica que las poblaciones del sur migran al norte en invierno; la UNL y avespampa no lo precisan — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
+        "Provincias: Chaco (14), Tucumán (18) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -4113,7 +4120,9 @@
         "Jujuy",
         "Mendoza",
         "Río Negro",
-        "Catamarca"
+        "Catamarca",
+        "Neuquén",
+        "Chubut"
       ],
       "curiosidades": "Es muy común en plazas y parques, y abunda sobre todo en la región chaqueña. Anda en parejas, grupos o bandadas de hasta 50, y busca comida mucho en el suelo: semillas de pastos, frutos como los del tala y la mora, e insectos, incluidas hormigas y termitas aladas. Cría de septiembre a febrero en un nido en forma de taza de fibras vegetales, donde pone 3 o 4 huevos verdosos con manchas pardas. Lo parasita el Tordo Renegrido. Por su canto y su color es de los pájaros más buscados como mascota en la Argentina, y fue introducido en Hawái, Puerto Rico y Chile.",
       "sprites": {},
@@ -4126,8 +4135,7 @@
       "pendientes": [
         "Color de pico del juvenil sin confirmar (el recolor J conserva el del adulto); avespampa describe al joven con dorso pardo y copete más claro — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Residencia: se cargó permanente; ninguna fuente lo dice explícitamente — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: Neuquén y Chubut no están cargadas; tienen 1281 y 414 registros en GBIF/eBird, pero la UNL da la especie solo hasta Mendoza, La Pampa y Río Negro (probables poblaciones escapadas o introducidas) — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
       ]
     },
     {
@@ -4169,7 +4177,8 @@
         "Jujuy",
         "Catamarca",
         "San Juan",
-        "La Rioja"
+        "La Rioja",
+        "Santa Cruz"
       ],
       "curiosidades": "Vive en lagunas, bañados, canales y orillas con mucha vegetación, y en parques de ciudad puede volverse bastante confiada. Nada moviendo la cabeza hacia adelante y la cola corta, y sus dedos largos le permiten caminar sobre plantas flotantes como los camalotes. Come de todo: plantas acuáticas, semillas, insectos, caracoles y otros bichitos del agua. Defiende su territorio a los picotazos y patadas. Arma el nido como una canasta entre la vegetación densa, y los dos padres incuban y alimentan a los pichones, que son negros y peludos. Hasta 2011 se la consideraba la misma especie que la polla de agua de Europa.",
       "sprites": {},
@@ -4181,7 +4190,7 @@
       "gbif_taxon_key": 7340222,
       "pendientes": [
         "Residencia: se cargó permanente para Buenos Aires (inferido); ninguna fuente consultada lo dice para Argentina — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: Santa Cruz no está cargada; tiene 207 registros en GBIF/eBird, pero la UNL da la especie solo hasta Mendoza, San Luis y Buenos Aires — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Provincias: Tierra del Fuego (12) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -4224,7 +4233,8 @@
         "Tucumán",
         "Salta",
         "Jujuy",
-        "San Juan"
+        "San Juan",
+        "Río Negro"
       ],
       "curiosidades": "Sube por los troncos en espiral, desde cerca del suelo hasta las ramas altas, revisando la corteza con su pico fino en busca de insectos y arañas; a diferencia de otros trepadores casi no se apoya en la cola. A veces baja al suelo a comer hormigas y hasta se lo vio cazando polillas alrededor de los faroles. Se acercó mucho a la gente: recorre árboles de plazas, frutales y postes de luz o alambrado. Anida en huecos de árboles, a menudo agujeros viejos de carpinteros, y también en estructuras como pilares de puentes; los dos padres incuban 2 a 4 huevos. Su canto es una serie fuerte de silbidos que bajan de tono.",
       "sprites": {},
@@ -4236,8 +4246,7 @@
       "pendientes": [
         "La subespecie de Buenos Aires (praedatus) es según Wikipedia (en) más pardo oliva y menos rojiza por arriba; la UNL dice dorso pardo con tono castaño y avespampa solo pardo — la descripción y el prompt usan pardo rojizo, revisar tono del dorso — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Juvenil (más oscuro, ceja y partes inferiores más ocráceas según Wikipedia en) no justifica variante propia; no se creó J — decidir",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: Río Negro no está cargada; tiene 27 registros en GBIF/eBird, pero la UNL da la especie solo hasta La Pampa y el sur de Buenos Aires — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
       ]
     },
     {
@@ -4277,7 +4286,8 @@
         "San Luis",
         "Tucumán",
         "Mendoza",
-        "Misiones"
+        "Misiones",
+        "Catamarca"
       ],
       "curiosidades": "Come caminando despacio por el agua baja con el pico entreabierto, moviéndolo de un lado a otro para filtrar del barro crustáceos, insectos acuáticos, caracoles, peces chiquitos y semillas. Muchas veces la siguen garzas que aprovechan los bichos que ella espanta. Su color rosado viene de pigmentos de lo que come, como pasa con los flamencos, y puede ir de rosa pálido a magenta. Vuela con el cuello estirado, a diferencia de las garzas. Anida en colonias sobre arbustos o árboles y pone de 2 a 5 huevos blancuzcos con manchas pardas. En el siglo XIX casi desaparece por la caza para sacarle las plumas.",
       "sprites": {},
@@ -4291,7 +4301,7 @@
       "pendientes": [
         "Juvenil: color de patas sin confirmar (el recolor J conserva las del adulto); color de cola inferido del plumaje general blanco rosado pálido (oiseaux-birds) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Residencia: se cargó permanente; no se encontró fuente sobre movimientos estacionales en Buenos Aires — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: la UNL la da en Río Negro y Chubut, pero GBIF/eBird tiene 3 y 1 registros; Catamarca tiene 51 registros pero la UNL no la menciona — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Provincias: La Rioja (10), San Juan (13) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -4343,7 +4353,7 @@
       "pendientes": [
         "Vientre: la ficha lo da pardo oscuro liso, pero oiseaux-birds dice partes inferiores muy estriadas y manchadas de blanco y Wikipedia (en) 'marcado de blanco salvo la parte trasera'; la UNL no lo describe — revisar descripción y prompt — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Juvenil (manchas blancas más finas, aspecto estriado según oiseaux-birds y Wikipedia) no justifica variante propia; no se creó J ni V — decidir",
-        "Provincias: la UNL la da hasta Río Negro, pero GBIF/eBird tiene solo 6 registros ahí — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Provincias: La Rioja (13) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -4437,7 +4447,9 @@
         "La Rioja",
         "Tucumán",
         "Salta",
-        "Jujuy"
+        "Jujuy",
+        "San Juan",
+        "Mendoza"
       ],
       "curiosidades": "Es uno de los pájaros más comunes de las ciudades del este de Sudamérica: anda en parejas o grupitos por árboles de plazas y frutales, y come frutas, semillas, flores, brotes e insectos. Hasta come hojas de algunas plantas, algo poco común en pájaros. Hace un nido en forma de taza con fibras vegetales sobre las ramas y pone unos 3 huevos verdosos o crema con pintitas; la pareja incuba unos 14 días y los pichones dejan el nido a las dos semanas. Su canto es una mezcla apurada de silbidos agudos, algo desafinados. En Argentina y Paraguay también lo llaman 'chogüí', y algunas clasificaciones lo ubican en el género Tangara.",
       "sprites": {},
@@ -4449,7 +4461,7 @@
       "pendientes": [
         "Hembra algo más apagada, más gris parduzca (oiseaux-birds), y juvenil más opaco y oscuro; no se crearon F ni J — decidir si hacen falta",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: San Juan (26 registros en GBIF/eBird) y Mendoza (20) no están cargadas; la UNL da la especie solo del noroeste al noreste de Buenos Aires — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Provincias: Neuquén (11) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -4491,8 +4503,7 @@
       "gbif_taxon_key": 2491143,
       "pendientes": [
         "Dimorfismo sexual leve (hembra con pecho más anaranjado y dorso más oliváceo, según resumen de búsqueda de oiseaux-birds; la ficha directa de oiseaux-birds dice sexos similares): no justifica variante F — decidir",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: la UNL lo da en el este de Formosa, pero GBIF/eBird tiene solo 8 registros — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
       ]
     },
     {
@@ -4544,7 +4555,7 @@
         "Patas del juvenil: amarillentas según la UNL, oscuras según Wikipedia (en), rojizas en todos los plumajes según eBird — no se creó variante J — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Juvenil (dorso y cubiertas jaspeados de pardo, frente blanca, pico negruzco según la UNL) no se cargó como variante — decidir",
         "Residencia: se cargó permanente (registros en Buenos Aires todo el año en GBIF), pero fuera de la temporada de cría parte de la población se desplaza hacia el norte por la costa atlántica — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: la UNL lo da en Neuquén, Corrientes y Formosa, pero GBIF/eBird tiene 16, 15 y 1 registros — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Provincias: Corrientes (15), Neuquén (16) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -4595,8 +4606,7 @@
       "audio_ebird_code": "snakit",
       "gbif_taxon_key": 2480415,
       "pendientes": [
-        "Juvenil parecido a la hembra (corona estriada, ojo pardo; UNL y oiseaux-birds): se describió dentro de F, sin variante J — decidir",
-        "Provincias: la UNL lo da hasta Mendoza, pero GBIF/eBird tiene solo 4 registros ahí — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Juvenil parecido a la hembra (corona estriada, ojo pardo; UNL y oiseaux-birds): se describió dentro de F, sin variante J — decidir"
       ]
     },
     {
@@ -4654,7 +4664,8 @@
       "pendientes": [
         "Descripción basada en la subespecie nominal (mixtus, NE de Buenos Aires y CABA); berlepschi (SO de Buenos Aires) y malleator (norte) son más oscuras y más estriadas abajo — decidir si se mencionan",
         "Juvenil (más oscuro, con rojo en la corona en ambos sexos) con una sola fuente; se describió dentro de F, sin variante J — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
+        "Provincias: Misiones (10) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -4714,7 +4725,8 @@
       "pendientes": [
         "Color de ojo del juvenil sin confirmar (el recolor J mantiene el ojo rojo del adulto) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Residencia: se cargó permanente, pero según Wikipedia (en) las poblaciones que crían en la región pampeana podrían moverse al norte en invierno; la UNL y avespampa no lo precisan — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
+        "Provincias: La Rioja (12) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -4769,7 +4781,7 @@
         "Dedos sin lóbulos: lo dice Wikipedia (en), pero la UNL (ficha de la Pollona Negra) dice que la Gallareta Escudete Rojo tiene los dedos lobados — revisar descripción y prompt D ('long toes without lobes') — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Juvenil: se asumió escudete negruzco o ausente (Wikipedia en solo dice 'pico negruzco'); color de ojo y de patas del juvenil sin confirmar (el recolor mantiene los del adulto) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: la UNL la da en Corrientes, Tierra del Fuego y Chaco, pero GBIF/eBird tiene 13, 13 y 7 registros — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Provincias: Corrientes (13), Tierra del Fuego (13) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -4824,7 +4836,7 @@
         "Cera: la ficha y los prompts dicen gris azulada, pero la UNL dice cera amarilla — revisar — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Forma oscura (casi toda negra, muslos y vientre castaños) e inmaduro (como la hembra, más estriado) confirmados por la UNL; solo se mencionan en la descripción F, sin variante ni prompt propio — decidir",
         "Estado de conservación: UICN LC, pero SIB indica categoría nacional 'Vulnerable' (2017) — decidir cuál mostrar",
-        "Provincias: la UNL lo da hasta Chubut, pero GBIF/eBird tiene solo 2 registros ahí — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Provincias: Tucumán (14) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -4893,7 +4905,9 @@
         "Entre Ríos",
         "Corrientes",
         "Misiones",
-        "Córdoba"
+        "Córdoba",
+        "Neuquén",
+        "Río Negro"
       ],
       "curiosidades": "Es el único integrante de su género, y su nombre científico lo dice todo: 'Leucochloris' quiere decir 'blanco y verde' y 'albicollis', 'cuello blanco'. Se adapta muy bien a plazas, parques y jardines, y en las últimas décadas se fue extendiendo hacia el sur y el oeste de la provincia de Buenos Aires. Toma néctar de muchísimas flores, nativas e introducidas, sobre todo de bromelias como el clavel del aire, y también caza insectos al vuelo. Es muy territorial y persigue a otros picaflores con un trino metálico rápido. Su canto es una serie de notas agudas y zumbadas, 'bziii-bzi-bzi-bzi'. La hembra hace un nidito en forma de taza con pelusa vegetal y telas de araña, cubierto de líquenes, y pone 2 huevos.",
       "sprites": {},
@@ -4908,7 +4922,7 @@
         "Color de patas sin confirmar (omitido en prompt M) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Juvenil (pecho y vientre gris pardusco, puntas de la cola pardas) solo mencionado en F, sin variante J — decidir",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: la UNL lo da en La Pampa, Santa Fe, Formosa y Chaco, pero GBIF/eBird tiene 10, 6, 6 y 4 registros; Río Negro (29 registros, la UNL solo menciona un avistaje en Bariloche) y Neuquén (27, fuera del rango UNL) tienen presencia en GBIF — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Provincias: La Pampa (10) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -4949,7 +4963,8 @@
         "Jujuy",
         "Catamarca",
         "La Rioja",
-        "San Juan"
+        "San Juan",
+        "Mendoza"
       ],
       "curiosidades": "Llega en primavera desde el norte de Sudamérica para criar, y en otoño vuelve a migrar hacia Perú, Ecuador y Brasil. No construye su propio nido: usa huecos de árboles, nidos viejos o rotos de horneros y carpinteros, y hasta cajas nido, donde pone 3 o 4 huevos manchados. Se queda quieto en las ramas altas y sale a cazar insectos al vuelo, pero también come muchos frutos. Se lo ubica fácil por su grito agudo y fuerte, parecido a un 'squiii-zip' o al chirrido de una bisagra.",
       "sprites": {},
@@ -4961,8 +4976,7 @@
       "pendientes": [
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
         "Rabadilla: Wikipedia (en) la da castaño rojiza para la subespecie típica, pero la subespecie de Argentina (solitarius) es 'mucho menos rojiza' y la UNL no la menciona — omitida en descripción y prompt",
-        "Mancha amarilla de la corona (escondida) omitida en el prompt D",
-        "Provincias: Mendoza tiene 68 registros en GBIF/eBird pero la UNL da la distribución solo hasta San Juan, La Rioja, San Luis y La Pampa — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Mancha amarilla de la corona (escondida) omitida en el prompt D"
       ]
     },
     {
@@ -5000,7 +5014,8 @@
         "Tucumán",
         "Salta",
         "Jujuy",
-        "Catamarca"
+        "Catamarca",
+        "San Juan"
       ],
       "curiosidades": "Se posa en ramas bajas, postes o alambres junto al agua y desde ahí se tira de cabeza para atrapar pececitos; mientras espera, mueve la cabeza y la cola de forma acompasada. Vuela rápido y bajo, al ras del agua. Macho y hembra cavan juntos un túnel de hasta un metro en la barranca de un arroyo o río, con una cámara al fondo donde la hembra pone de 4 a 5 huevos blancos, sin ningún material de nido. Los pichones dejan el túnel unas cuatro semanas después de nacer, y al poco tiempo los padres los echan del territorio.",
       "sprites": {},
@@ -5015,7 +5030,7 @@
         "Base del pico: la UNL dice amarillo pálido en la base de la parte de abajo; Wikipedia (en) dice color hueso — se usó la UNL",
         "Pecho de la hembra: la UNL la describe con doble collar verde; Wikipedia (en) con garganta y pecho anteados y una banda de pintas verdes — el prompt F pide dos bandas verdes sobre fondo blanco anteado, revisar",
         "Juvenil (como la hembra pero más apagado, con pintitas anteadas en la corona y las alas, según Wikipedia en) sin variante propia — decidir",
-        "Provincias: San Juan tiene 70 registros en GBIF/eBird pero no figura en la distribución de la UNL; Mendoza está en la UNL pero tiene 9 registros en GBIF; La Pampa, 10 registros — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Provincias: La Pampa (10) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -5071,7 +5086,7 @@
         "Rojo del macho: la UNL lo limita a garganta, cuello anterior, pecho y hombros; Wikipedia (en) dice que también abarca el vientre — se siguió a la UNL",
         "Residencia: las poblaciones del sur son parcialmente migratorias (Wikipedia es/en) — confirmar si en Buenos Aires está todo el año",
         "Código eBird 'whbbla2' tomado de Wikidata vía Wikipedia (es); la Wikipedia en inglés no lo muestra y eBird no fue accesible — confirmar",
-        "Provincias: La Rioja (10 registros), San Juan (10) y Río Negro (5; Wikipedia es lo da hasta Río Negro) quedan por debajo del criterio de GBIF — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Provincias: La Rioja (10), San Juan (10) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -5128,7 +5143,7 @@
         "Envergadura sin dato (null): Wikipedia (en) da 115,7 mm de 'wingspan', pero es la medida del ala, no la envergadura — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
         "Alas y cola: la UNL dice pardas oscuras, Wikipedia (en) dice negras — se usó 'negruzcas'",
         "Residencia: la mayor parte de la población del sur migra al norte en invierno (Wikipedia es/en); no se confirmó si quedan individuos en Buenos Aires todo el año",
-        "Provincias: Río Negro (19 registros, dentro del rango de la UNL), La Rioja (13) y San Juan (11) quedan por debajo del criterio de GBIF — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Provincias: La Rioja (13), San Juan (11), Río Negro (19) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -5166,7 +5181,13 @@
         "Río Negro",
         "Chubut",
         "Santa Cruz",
-        "Tierra del Fuego"
+        "Tierra del Fuego",
+        "Corrientes",
+        "Chaco",
+        "Formosa",
+        "Tucumán",
+        "Salta",
+        "Jujuy"
       ],
       "curiosidades": "Su pico en forma de cuchara tiene los bordes con laminillas, como un peine, que funcionan de colador: nada con el pico metido en el agua y filtra semillas, plantitas, crustáceos, insectos y otros bichitos chicos. A veces sumerge la cabeza y medio cuerpo para comer. Anda en bandadas grandes en lagunas, esteros y bañados. Hace el nido en el suelo, entre los pastos cerca del agua, forrado con pasto y plumas, y pone hasta 10 huevos color crema. Las poblaciones del sur migran hacia el norte en invierno.",
       "sprites": {},
@@ -5178,8 +5199,7 @@
       "audio_ebird_code": "redsho1",
       "gbif_taxon_key": 9290528,
       "pendientes": [
-        "Residencia: parcialmente migratorio, las poblaciones del sur migran al norte en invierno (UNL, Wikipedia en) — confirmar si en Buenos Aires está todo el año",
-        "Provincias: Salta (387 registros), Tucumán (236), Jujuy (128), Chaco (67), Corrientes (34) y Formosa (26) tienen presencia en GBIF/eBird pero la UNL da el límite norte en Catamarca, Santiago del Estero, Santa Fe y Entre Ríos; La Rioja tiene 5 registros — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Residencia: parcialmente migratorio, las poblaciones del sur migran al norte en invierno (UNL, Wikipedia en) — confirmar si en Buenos Aires está todo el año"
       ]
     },
     {
@@ -5218,8 +5238,8 @@
         "Color de ojo: la UNL dice iris pardo; Wikipedia (pt) dice que los adultos tienen los ojos rojos — omitido en el prompt, revisar",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en/pt); Avibase 403",
         "Juvenil (garganta blanca, sin manchas blancas arriba, según Wikipedia pt) sin variante propia — decidir",
-        "Provincias: la población del noroeste (Jujuy, Salta, Tucumán) hoy es otra especie, la Pava de Monte Yungueña (Penelope bridgesi), pero GBIF todavía suma esos registros acá (36, 26 y 21) — no se cargaron",
-        "Provincias: la UNL la da en Formosa, Chaco, Misiones y noreste de Santa Fe, pero GBIF/eBird tiene 0, 2, 17 y 0 registros — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Provincias: Misiones (17) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia",
+        "Provincias: Jujuy (36), Salta (26) y Tucumán (21) no se cargaron: son registros del noroeste que hoy corresponden a la Pava de Monte Yungueña (Penelope bridgesi), que GBIF todavía suma acá — decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -5259,7 +5279,8 @@
         "Jujuy",
         "Catamarca",
         "La Rioja",
-        "San Juan"
+        "San Juan",
+        "Mendoza"
       ],
       "curiosidades": "Recorre las ramas y el follaje de los árboles, muchas veces colgado cabeza abajo, buscando insectos, arañas, frutas, flores, néctar y hasta savia. Es común en plazas y arbolados de la ciudad. Teje un nido en forma de bolsita colgante con fibras vegetales o crines, atado a ramas o a la parte de abajo de una hoja grande, como las de las palmeras; a veces lo cuelga en plantas de maceta, en clavel del aire o en nidos abandonados de otras aves. Pone 3 o 4 huevos y los dos padres alimentan a los pichones. Es uno de los pájaros a los que el tordo renegrido les deja sus huevos.",
       "sprites": {},
@@ -5272,8 +5293,7 @@
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
         "GBIF da Icterus pyrrhopterus como sinónimo (usageKey 7340265); el nombre aceptado en GBIF tiene key 5229849 — decidir cuál guardar",
         "Color de la charretera: la UNL dice canela, Wikipedia (en) castaño oscuro para la subespecie de Argentina y Wikipedia (es) 'amarilla a castaña rufa' — se usó canela castaño",
-        "Patas: la UNL y Wikipedia (en) dicen gris plomizo; Wikipedia (es) dice marrón oscuro — se usó gris plomizo",
-        "Provincias: Mendoza tiene 71 registros en GBIF/eBird pero la UNL da la distribución solo hasta San Juan, San Luis, Córdoba, Santa Fe y Buenos Aires; La Pampa tiene 7 registros — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Patas: la UNL y Wikipedia (en) dicen gris plomizo; Wikipedia (es) dice marrón oscuro — se usó gris plomizo"
       ]
     },
     {
@@ -5299,8 +5319,8 @@
       "provincias": [
         "Buenos Aires",
         "CABA",
-        "Entre Ríos",
         "Santa Fe",
+        "Entre Ríos",
         "Corrientes",
         "Misiones",
         "Chaco",
@@ -5310,7 +5330,8 @@
         "Tucumán",
         "Salta",
         "Jujuy",
-        "Catamarca"
+        "Catamarca",
+        "San Luis"
       ],
       "curiosidades": "Es muy arisco y se esconde entre los pajonales y la vegetación de bañados, lagunas, ríos y montes húmedos, así que muchas veces se lo escucha antes que verlo: su grito fuerte es una de las mejores pistas para encontrarlo. Come de todo: insectos, arañas, gusanos, caracoles, cangrejitos, pequeños reptiles, semillas y frutos. Hace un nido en forma de plato hondo, con pajas, en arbustos o matorrales, y pone unos 5 huevos crema con pintas. Los pichones nacen cubiertos de plumón negro. Se parece al Ipacaá, pero es más chico y tiene el cuello gris y no rojizo.",
       "sprites": {},
@@ -5323,8 +5344,7 @@
         "Costados: la UNL los da negros; Wikipedia (en) dice pecho y costados castaño rojizos — se siguió a la UNL, revisar",
         "Patas: la UNL y Wikipedia (en) dicen rojas (coral); Wikipedia (es) dice rosadas — se usó rojo coral",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
-        "GBIF lo encuentra por coincidencia aproximada como Aramides cajanea (key 2474659)",
-        "Provincias: San Luis tiene 70 registros en GBIF/eBird pero no figura en la distribución de la UNL; La Rioja está en la UNL pero tiene 5 registros — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "GBIF lo encuentra por coincidencia aproximada como Aramides cajanea (key 2474659)"
       ]
     },
     {
@@ -5364,7 +5384,9 @@
         "Jujuy",
         "Catamarca",
         "La Rioja",
-        "San Juan"
+        "San Juan",
+        "Mendoza",
+        "La Pampa"
       ],
       "curiosidades": "Es confiada pero difícil de ver, porque se mueve por las partes sombrías de los arbustos y árboles bajos, donde busca insectos en el follaje y a veces revolotea para atraparlos. Llega en primavera a criar y en otoño migra al norte. La hembra hace un nidito en forma de taza con fibras vegetales y raicillas unidas con telas de araña, colgado de una rama a baja altura y a veces con fibras u hojas colgando por fuera. Pone 2 huevos color crema con una corona de manchitas en el extremo más ancho. El tordo renegrido suele dejarle sus huevos en el nido.",
       "sprites": {},
@@ -5375,8 +5397,7 @@
       "gbif_taxon_key": 5229801,
       "pendientes": [
         "Mancha de la corona (semioculta, amarilla o anaranjada) omitida en el prompt D",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
-        "Provincias: La Pampa (98 registros) y Mendoza (76) tienen presencia en GBIF/eBird pero la UNL da la distribución solo hasta San Juan, San Luis y Buenos Aires — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403"
       ]
     },
     {
@@ -5434,8 +5455,7 @@
         "Juvenil distinto (la UNL solo dice que se parece al Tordo Músico) sin variante propia ni descripción detallada — falta fuente con el plumaje juvenil",
         "Plumas castañas debajo del ala omitidas en el prompt D (no se ven con el ala plegada)",
         "Largo: la UNL da 17 cm y Wikipedia (en) 18-21 cm — se cargó 17-21",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
-        "Provincias: Chubut está en la distribución de la UNL ('hasta Chubut') pero tiene 2 registros en GBIF/eBird — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403"
       ]
     },
     {
@@ -5492,7 +5512,7 @@
         "Vientre: la UNL dice amarillo; Wikipedia (en) lo da blanco para la subespecie de México — se usó amarillo (UNL)",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
         "Código eBird 'tropar' tomado de Wikidata vía Wikipedia (es); la Wikipedia en inglés no lo muestra y eBird no fue accesible — confirmar",
-        "Provincias: la UNL la da hasta el este de Chubut, pero GBIF/eBird tiene 3 registros ahí; Río Negro (18), Neuquén (14) y San Juan (10) también quedan por debajo del criterio — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Provincias: San Juan (10), Neuquén (14), Río Negro (18) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -5527,7 +5547,9 @@
         "Córdoba",
         "Mendoza",
         "Salta",
-        "Jujuy"
+        "Jujuy",
+        "Formosa",
+        "Catamarca"
       ],
       "curiosidades": "Es solitario y de movimientos lentos: se queda quieto, encorvado, en la orilla de bañados, esteros y lagunas con juncales o árboles, esperando que pase un pez, un cangrejo o un insecto acuático. Su llamado principal es un ulular grave y doble que suele dar de noche; entre sus muchos nombres populares están 'toro del agua' y 'garza tigre'. Hace una plataforma de palitos o juncos en árboles o juncales y pone 2 o 3 huevos blancos o celestes pálidos. El juvenil, todo atigrado, tarda unos cinco años en tener el plumaje de adulto.",
       "sprites": {},
@@ -5541,7 +5563,7 @@
         "Cola: la UNL dice gris pardusca; Wikipedia (en) dice negra con barras blancas finas — se usó la UNL",
         "Vientre: la UNL dice gris ceniciento con barras canela; Wikipedia (en) dice pardo anteado — se usó la UNL",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
-        "Provincias: Formosa (1533 registros) y Catamarca (42) tienen presencia en GBIF/eBird pero no figuran en la distribución de la UNL; Tucumán (15) y San Juan (2) están en la UNL pero quedan por debajo del criterio — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Provincias: Tucumán (15) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -5595,7 +5617,7 @@
         "Vientre negro descripto para la subespecie típica; la subespecie de Córdoba y San Luis (obscurus) tiene menos rojo abajo y la del noroeste (catamarcanus) es más pálida — sin variante propia",
         "GBIF da Leistes loyca como sinónimo (usageKey 9667237); el nombre aceptado en GBIF tiene key 2484272 — decidir cuál guardar",
         "Envergadura sin dato (null)",
-        "Provincias: La Rioja tiene 11 registros en GBIF/eBird y CABA 5 — decidir — consultado sep 2026: Wikipedia (es/en) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Provincias: La Rioja (13) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -5655,7 +5677,7 @@
         "Base del pico: la UNL dice base amarilla; Wikipedia (en) solo dice pico oscuro — se pidió 'yellowish base' en el prompt",
         "Ala abierta sin banda blanca: la UNL lo usa para distinguirlo de la Becasa de Mar, que sí tiene bandas alares blancas; el resto del dibujo del ala abierta no está confirmado",
         "Plumaje reproductivo (más negro en hombros y dorso, pecho más manchado, según Wikipedia en) sin variante — en Argentina se ve casi siempre en plumaje de descanso",
-        "Provincias: Misiones tiene 16 registros en GBIF/eBird — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Provincias: Misiones (16) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -5712,8 +5734,7 @@
         "Plumas blancas de la corona (casi siempre escondidas) omitidas en el prompt D",
         "Patas: la UNL dice negras, Wikipedia (en) grises — se usó 'dark legs'",
         "La subespecie del oeste (munda, antes especie aparte) es más grande, más gris, con bandas alares blancas y vientre blanco: sin variante propia — decidir",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
-        "Provincias: Río Negro (108 registros) y Chubut (20) no están en la distribución de la UNL ('hasta La Pampa'), pero Wikipedia (es/en) la da hasta el noreste de Chubut — se cargaron, revisar; Neuquén (6 registros, Wikipedia da munda hasta Neuquén) — decidir — consultado sep 2026: UNL, Wikipedia y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403"
       ]
     },
     {
@@ -5766,7 +5787,7 @@
         "Bandas del ala: la UNL dice plumas orilladas de blanquecino; Wikipedia (en) dice dos bandas gris pálido y las plumas internas del ala blanquecinas — se pidieron 'two pale wing bars'",
         "Juvenil no descripto (Wikipedia en)",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
-        "Provincias: Mendoza (12 registros), San Juan (8), Chaco (5), Chubut (3) y La Rioja (2) quedan por debajo del criterio de GBIF — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Provincias: Mendoza (12) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -5801,7 +5822,10 @@
         "Santiago del Estero",
         "Córdoba",
         "Tucumán",
-        "Río Negro"
+        "Río Negro",
+        "Mendoza",
+        "La Pampa",
+        "Neuquén"
       ],
       "curiosidades": "Además de Sudamérica vive en África y Madagascar. Es muy gritona, sobre todo en las colonias, y su llamado es un 'caa-caa' ronco, parecido al de un cuervo. Come peces, crustáceos, gusanos que saca de la tierra recién arada, carroña y restos que encuentra en basurales. Anida en colonias en esteros e islotes: arma en el suelo una plataforma de palitos, tallos y pajas y pone unos 3 huevos manchados. Fuera de la época de cría pierde el capuchón gris y se parece mucho a la Gaviota Capucho Café.",
       "sprites": {},
@@ -5818,7 +5842,7 @@
         "Plumaje de descanso: la UNL dice que conserva capuchón gris y una línea en la nuca; Wikipedia (en) dice que pierde el capuchón y quedan manchas oscuras alrededor y detrás del ojo — la descripción D y el prompt siguen a Wikipedia, revisar",
         "Color del pico y las patas del juvenil sin confirmar (no se cambiaron en el recolor J)",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
-        "Provincias: La Pampa (1175 registros), Mendoza (76) y Neuquén (45) tienen presencia en GBIF/eBird pero no figuran en la distribución de la UNL; Chaco (15), Chubut (14), Misiones (11, la UNL la da en el sur de Misiones), Salta (11), Catamarca (6), Formosa (5) y Santa Cruz (4, observada según la UNL) quedan por debajo del criterio — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Provincias: Misiones (11), Chaco (15), Salta (11), Chubut (14) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -5858,7 +5882,8 @@
         "Neuquén",
         "Río Negro",
         "Chubut",
-        "Santa Cruz"
+        "Santa Cruz",
+        "Corrientes"
       ],
       "curiosidades": "Es un gran buceador: se zambulle para buscar semillas, plantas, crustáceos, insectos y caracoles, y nada con la cola rígida levantada y abierta como un abanico. En época de cría el macho hace ruidos como chasquidos y roces para cortejar. Hace un nido grande y profundo con hojas, tallos y juncos, escondido en juncales y totorales de lagunas y esteros, y pone hasta 8 huevos blancos de cáscara áspera, muy grandes para su tamaño; a veces se encuentran nidos con hasta 12 huevos porque pusieron más de una hembra. Solo la hembra los incuba.",
       "sprites": {},
@@ -5870,8 +5895,7 @@
       "gbif_taxon_key": 5232469,
       "pendientes": [
         "Residencia: parcialmente migratorio (Wikipedia es/en) — confirmar si en Buenos Aires está todo el año",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
-        "Provincias: Corrientes tiene 22 registros en GBIF/eBird, pero la UNL dice que en el noreste es ocasional; Catamarca (8), Tierra del Fuego (2), Misiones (2) y Chaco (1) quedan por debajo del criterio — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403"
       ]
     },
     {
@@ -5931,8 +5955,7 @@
         "Dorso de la hembra: la UNL dice grisáceo con estrías pardo oscuras; Wikipedia (en) dice pardo negruzco con estrías blancas en la cabeza y gris anteadas en el dorso — se usó pardo grisáceo",
         "Cola: la UNL dice ápice blanco en las plumas externas; Wikipedia (en) dice puntas blancas anchas en todas menos las centrales en el macho",
         "Residencia: parcialmente migratorio, algunos del sur se desplazan al norte en invierno (Wikipedia en) — confirmar en Buenos Aires",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
-        "Provincias: Santa Cruz tiene 1 registro en GBIF/eBird — no se cargó — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403"
       ]
     },
     {
@@ -5962,7 +5985,8 @@
         "Santa Fe",
         "Corrientes",
         "Santiago del Estero",
-        "Córdoba"
+        "Córdoba",
+        "San Luis"
       ],
       "curiosidades": "Casi siempre vive cerca del agua, en matorrales de orillas, bordes de bañados y montes ribereños. Construye un nido enorme para su tamaño: un bulto alargado de palitos con espinas de hasta medio metro de largo, con un túnel corto y curvo que lleva a la cámara, forrada con pajitas, plumas, pelos y pelusa vegetal. Lo cuelga cerca de la punta de una rama, muchas veces sobre el agua. Su nombre científico lo cuenta: 'Phacellodomus' quiere decir 'casa de palitos amontonados'. Busca insectos y arañas en el suelo y en arbustos bajos.",
       "sprites": {},
@@ -5974,8 +5998,7 @@
       "pendientes": [
         "Pintas del pecho: la UNL solo dice pecho ocre canela (y 'pecho manchado' para identificarlo); Wikipedia (en) da estrías claras y pintitas castaño rojizas oscuras — se usó Wikipedia en para el prompt",
         "Corona: Wikipedia (en) dice castaño parda con pintas blanquecinas; la UNL, parda rojiza sin pintas — se siguió a la UNL",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
-        "Provincias: San Luis tiene 28 registros en GBIF/eBird pero no figura en la distribución de la UNL; Formosa (6), Misiones (3) y Chaco (1) están en la UNL pero quedan por debajo del criterio; Tucumán (8) y La Pampa (6) tampoco llegan — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403"
       ]
     },
     {
@@ -6025,7 +6048,7 @@
       "pendientes": [
         "Plumaje de cría (dorso moteado de pardo, pecho y vientre castaños; el macho más vivo que la hembra) sin variante R — decidir",
         "Pico: la UNL dice rojizo en la mitad basal; Wikipedia (en) dice rosado con la punta oscura — se usó 'pinkish red'",
-        "Provincias: Santiago del Estero (17 registros) y Corrientes (13) quedan por debajo del criterio de GBIF — decidir — consultado sep 2026: UNL (fcv.unl.edu.ar) y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Provincias: Corrientes (13), Santiago del Estero (17) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -6086,7 +6109,7 @@
         "Ceja: la UNL dice ocrácea, Wikipedia (en) blanquecina anteada — se usó 'pale buff'",
         "Juvenil (de colores más ricos que el adulto, según Wikipedia en) sin variante propia",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
-        "Provincias: Chaco tiene 13 registros en GBIF/eBird — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Provincias: Chaco (13) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -6134,8 +6157,7 @@
         "Franja de la corona: la UNL la da semioculta; en el prompt se pidió visible para que el sprite muestre el dibujo de la cabeza — revisar",
         "Ceja: la UNL dice blanca; Wikipedia (en) amarilla o blanca; Wikipedia (es) de verde oliva a amarillo opaco — se usó blanca (UNL)",
         "Juvenil sin variante propia",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
-        "Provincias: La Rioja está en la distribución de la UNL pero tiene 4 registros en GBIF/eBird; Santiago del Estero, 2 — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403"
       ]
     },
     {
@@ -6189,7 +6211,8 @@
         "Largo: la UNL da 180 cm; Wikipedia (en) da 127-140 cm de pico a cola y 1,5 m de altura (hasta 1,83 m en machos grandes) — se cargó 127-140, revisar",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
         "Pichones (grises con rayas oscuras a lo largo, según Wikipedia en; pardos con dos líneas blancas según la UNL) sin variante J — las fuentes no coinciden",
-        "Provincias: parte de los registros de GBIF/eBird puede corresponder a aves en criaderos o reservas; Neuquén está en la UNL pero tiene 9 registros; San Juan (19), Tucumán (10), Santa Cruz (3) y Chubut (1) quedan por debajo del criterio — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Provincias: Tucumán (10), San Juan (19) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia",
+        "Provincias: parte de los registros de GBIF/eBird puede corresponder a aves en criaderos o reservas — revisar las cargadas — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -6240,7 +6263,7 @@
         "Ojo: la UNL dice pardo castaño; Wikipedia (en) pardo a rojizo — se usó 'reddish brown'",
         "Juvenil (sin castaño en la frente, garganta ocrácea y menos rayado, según Wikipedia en) sin variante propia",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (en); Avibase 403",
-        "Provincias: CABA tiene 18 registros en GBIF/eBird; Catamarca 11, Tucumán 4 y Salta 3 (la UNL incluye el este de Salta); Chubut 2 (la UNL dice 'hasta Chubut') — decidir. Mendoza (91) y Neuquén (37) superan el criterio aunque la UNL no las menciona — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Provincias: CABA (18), Catamarca (11) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -6295,7 +6318,7 @@
         "Residencia: Wikipedia (en) dice que es parcialmente migratorio y que las poblaciones del sur se mueven al norte; en Buenos Aires/CABA hay registros en GBIF todos los meses, se cargó 'permanente'",
         "Hembra (más apagada, con la mancha de la corona más chica) y juvenil sin variante propia",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (en); Avibase 403",
-        "Provincias: Misiones tiene 12 registros en GBIF/eBird y Tucumán 1 — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Provincias: Misiones (12) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -6355,8 +6378,7 @@
         "Hembra: la UNL dice dorso pardo grisáceo y vientre amarillo pálido; Wikipedia (en) agrega corona y mejillas con tinte gris y un anillo ocular amarillento (omitido por §6) — revisar el color de la cabeza en el recolor",
         "Patas: la UNL dice rosadas; el artículo de Wikipedia (en) de G. velata no las describe — se usó 'pink'",
         "Juvenil sin variante propia",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (en); Avibase 403",
-        "Provincias: Río Negro tiene 1 registro en GBIF/eBird — decidir — consultado sep 2026: UNL y GBIF (incluye eBird), criterio: 20 o más registros = presencia"
+        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (en); Avibase 403"
       ]
     }
   ]
