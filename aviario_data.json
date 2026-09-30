@@ -3965,7 +3965,7 @@
       "familia": "Picidae",
       "orden": "Piciformes",
       "descripcion": {
-        "M": "Carpintero mediano que anda mucho por el suelo. Corona y nuca negras. Cara, costados del cuello y parte alta del pecho amarillo intenso. Bigote rojo. Garganta blanca (la forma de Buenos Aires; más al norte es negra). Pico largo, negro y algo curvo. Ojo pardo rojizo. Dorso pardo oscuro barrado de blanquecino; rabadilla blanca con algunas barritas oscuras. Plumas del ala pardas con los ejes amarillos. Cola negruzca. Pecho y vientre blanquecinos barrados de pardo oscuro. Patas grises.",
+        "M": "Carpintero mediano que anda mucho por el suelo. Corona y nuca negras. Cara, costados del cuello y parte alta del pecho amarillo intenso. Bigote rojo. Garganta blanca (la forma de Buenos Aires; más al norte es negra). Pico largo, negro y algo curvo. Ojo pardo rojizo. Dorso pardo oscuro barrado de blanquecino; rabadilla blanca con algunas barritas oscuras. Plumas del ala pardas con los ejes amarillos. Cola negruzca. Pecho y vientre blanquecinos barrados de pardo oscuro. Patas grises. Por debajo, las alas son amarillentas, con la punta y el borde de atrás más oscuros.",
         "F": "Igual al macho pero sin rojo en el bigote: la banda malar es punteada de blanco y negro. El resto del plumaje es igual."
       },
       "habitat": [
@@ -4007,7 +4007,6 @@
       "audio_ebird_code": "camfli1",
       "gbif_taxon_key": 2478233,
       "pendientes": [
-        "Color de las tapadas (ala por debajo): amarillento con punta y borde posterior más oscuros según oiseaux-birds (una sola fuente); omitido en prompt V — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Juvenil: más apagado, con barras negras más anchas y el amarillo más pálido (oiseaux-birds y Wikipedia); evaluar si conviene una variante J",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Provincias: La Rioja (13) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
@@ -4721,7 +4720,7 @@
       "orden": "Gruiformes",
       "descripcion": {
         "D": "Gallareta de tamaño intermedio entre la Gallareta Chica y la Gallareta Ligas Rojas. Cabeza y cuello negros. Escudete de la frente rojo oscuro, angosto y terminado en punta hacia arriba; la parte de arriba del pico también es roja y el resto del pico amarillo fuerte. Ojo rojo. Dorso, alas y cola gris plomizo oscuro. Plumas de abajo de la cola blancas a los costados, muy visibles cuando levanta la cola. Pecho y vientre gris plomizo algo más claro. Patas verdes, con los dedos lobulados. Macho y hembra son iguales.",
-        "J": "El juvenil es gris pardusco, con el pico negruzco, pintitas blancas en la garganta y el mismo blanco debajo de la cola."
+        "J": "El juvenil es gris pardusco, con el pico negruzco, pintitas blancas en la garganta y el mismo blanco debajo de la cola. Ya tiene el escudete de la frente terminado en punta."
       },
       "habitat": [
         "humedal"
@@ -4761,7 +4760,6 @@
       "audio_ebird_code": "refcoo1",
       "gbif_taxon_key": 2474390,
       "pendientes": [
-        "Juvenil: se asumió escudete negruzco o ausente (Wikipedia en solo dice 'pico negruzco'); color de ojo y de patas del juvenil sin confirmar (el recolor mantiene los del adulto) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local — BOW (sep 2026): juvenil gris pardo uniforme, con escudete puntiagudo, subcaudales blancas y pico negruzco; no da color de ojo ni patas",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Provincias: Corrientes (13), Tierra del Fuego (13) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
@@ -4854,9 +4852,7 @@
       },
       "audio_ebird_code": "ameoys",
       "gbif_taxon_key": 2480273,
-      "pendientes": [
-        "Franja blanca del ala plegada asumida para el prompt D: oiseaux-birds confirma la banda blanca ancha en el ala abierta, pero no cómo se ve con el ala plegada — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
-      ]
+      "pendientes": []
     },
     {
       "id": 100,
@@ -4955,8 +4951,7 @@
       "gbif_taxon_key": 2483497,
       "pendientes": [
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
-        "Rabadilla: Wikipedia (en) la da castaño rojiza para la subespecie típica, pero la subespecie de Argentina (solitarius) es 'mucho menos rojiza' y la UNL no la menciona — omitida en descripción y prompt — BOW (sep 2026): parte baja de la rabadilla y supracaudales canela rufas estriadas de oscuro (descripción general, sin separar solitarius)",
-        "Mancha amarilla de la corona (escondida) omitida en el prompt D"
+        "Rabadilla: Wikipedia (en) la da castaño rojiza para la subespecie típica, pero la subespecie de Argentina (solitarius) es 'mucho menos rojiza' y la UNL no la menciona — omitida en descripción y prompt — BOW (sep 2026): parte baja de la rabadilla y supracaudales canela rufas estriadas de oscuro (descripción general, sin separar solitarius)"
       ]
     },
     {
@@ -5421,7 +5416,6 @@
       "gbif_taxon_key": 9506351,
       "pendientes": [
         "Juvenil distinto (la UNL solo dice que se parece al Tordo Músico) sin variante propia ni descripción detallada — falta fuente con el plumaje juvenil — BOW (sep 2026): el juvenil imita al del Tordo Músico (plumaje \"aliblanco\"), confirma la UNL; no trae descripción detallada",
-        "Plumas castañas debajo del ala omitidas en el prompt D (no se ven con el ala plegada)",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403"
       ]
     },
@@ -5589,7 +5583,7 @@
       "familia": "Scolopacidae",
       "orden": "Charadriiformes",
       "descripcion": {
-        "D": "Ave playera mediana y esbelta, de patas muy largas. Es como el Pitotoy Chico pero más grande y con el pico proporcionalmente más largo. Ceja y garganta blanquecinas; los lados de la cabeza jaspeados de pardo. Pico largo y fino, más largo que la cabeza y apenas curvado hacia arriba, negro con la base amarilla. Ojo pardo oscuro. Dorso pardo grisáceo salpicado de blanco y pardo oscuro. Alas pardo oscuras con pintas blancas. Rabadilla blanca, que se ve bien en vuelo. Cola blanca barrada de pardo. Frente y costados del cuello, pecho y costados finamente jaspeados de pardo; resto de abajo blanco. Patas amarillas, largas. Así se ve en Argentina, con plumaje de descanso."
+        "D": "Ave playera mediana y esbelta, de patas muy largas. Es como el Pitotoy Chico pero más grande y con el pico proporcionalmente más largo. Ceja y garganta blanquecinas; los lados de la cabeza jaspeados de pardo. Pico largo y fino, más largo que la cabeza y apenas curvado hacia arriba, negro con la base amarilla. Ojo pardo oscuro. Dorso pardo grisáceo salpicado de blanco y pardo oscuro. Alas pardo oscuras con pintas blancas. Rabadilla blanca, que se ve bien en vuelo. Cola blanca barrada de pardo. Frente y costados del cuello, pecho y costados finamente jaspeados de pardo; resto de abajo blanco. Patas amarillas, largas. Así se ve en Argentina, con plumaje de descanso. En vuelo, el ala no muestra banda blanca, a diferencia de la Becasa de Mar."
       },
       "habitat": [
         "humedal",
@@ -5635,7 +5629,6 @@
       "gbif_taxon_key": 2481720,
       "pendientes": [
         "Estado de conservación: la categoría UICN que publica GBIF es NT (casi amenazado) — confirmar con la ficha UICN vigente",
-        "Ala abierta sin banda blanca: la UNL lo usa para distinguirlo de la Becasa de Mar, que sí tiene bandas alares blancas; el resto del dibujo del ala abierta no está confirmado",
         "Plumaje reproductivo (más negro en hombros y dorso, pecho más manchado, según Wikipedia en) sin variante — en Argentina se ve casi siempre en plumaje de descanso",
         "Provincias: Misiones (16) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
@@ -5691,7 +5684,6 @@
       "audio_ebird_code": "y01036",
       "gbif_taxon_key": 2483966,
       "pendientes": [
-        "Plumas blancas de la corona (casi siempre escondidas) omitidas en el prompt D",
         "La subespecie del oeste (munda, antes especie aparte) es más grande, más gris, con bandas alares blancas y vientre blanco: sin variante propia — decidir",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403"
       ]
@@ -5742,7 +5734,6 @@
       "audio_ebird_code": "sootyr1",
       "gbif_taxon_key": 2483958,
       "pendientes": [
-        "Franja blanca de la corona (casi siempre escondida) omitida en el prompt D",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
         "Provincias: Mendoza (12) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
