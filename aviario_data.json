@@ -4959,7 +4959,7 @@
       "gbif_taxon_key": 2483497,
       "pendientes": [
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
-        "Rabadilla: Wikipedia (en) la da castaño rojiza para la subespecie típica, pero la subespecie de Argentina (solitarius) es 'mucho menos rojiza' y la UNL no la menciona — omitida en descripción y prompt",
+        "Rabadilla: Wikipedia (en) la da castaño rojiza para la subespecie típica, pero la subespecie de Argentina (solitarius) es 'mucho menos rojiza' y la UNL no la menciona — omitida en descripción y prompt — BOW (sep 2026): parte baja de la rabadilla y supracaudales canela rufas estriadas de oscuro (descripción general, sin separar solitarius)",
         "Mancha amarilla de la corona (escondida) omitida en el prompt D"
       ]
     },
@@ -5066,7 +5066,6 @@
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
         "GBIF da Leistes superciliaris como sinónimo (usageKey 5788766); el nombre aceptado en GBIF tiene key 2484271 — decidir cuál guardar",
         "Residencia: las poblaciones del sur son parcialmente migratorias (Wikipedia es/en) — confirmar si en Buenos Aires está todo el año",
-        "Código eBird 'whbbla2' tomado de Wikidata vía Wikipedia (es); la Wikipedia en inglés no lo muestra y eBird no fue accesible — confirmar",
         "Provincias: La Rioja (10), San Juan (10) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
@@ -5122,7 +5121,6 @@
       "gbif_taxon_key": 5230761,
       "pendientes": [
         "Envergadura sin dato (null): Wikipedia (en) da 115,7 mm de 'wingspan', pero es la medida del ala, no la envergadura — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
-        "Residencia: la mayor parte de la población del sur migra al norte en invierno (Wikipedia es/en); no se confirmó si quedan individuos en Buenos Aires todo el año",
         "Provincias: La Rioja (13), San Juan (11), Río Negro (19) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
@@ -5371,7 +5369,6 @@
       "audio_ebird_code": "brcfly1",
       "gbif_taxon_key": 5229801,
       "pendientes": [
-        "Mancha de la corona (semioculta, amarilla o anaranjada) omitida en el prompt D",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403"
       ]
     },
@@ -5427,7 +5424,7 @@
       "audio_ebird_code": "scrcow1",
       "gbif_taxon_key": 9506351,
       "pendientes": [
-        "Juvenil distinto (la UNL solo dice que se parece al Tordo Músico) sin variante propia ni descripción detallada — falta fuente con el plumaje juvenil",
+        "Juvenil distinto (la UNL solo dice que se parece al Tordo Músico) sin variante propia ni descripción detallada — falta fuente con el plumaje juvenil — BOW (sep 2026): el juvenil imita al del Tordo Músico (plumaje \"aliblanco\"), confirma la UNL; no trae descripción detallada",
         "Plumas castañas debajo del ala omitidas en el prompt D (no se ven con el ala plegada)",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403"
       ]
@@ -5484,7 +5481,6 @@
       "pendientes": [
         "Lorum negro en la hembra: Wikipedia (en) dice que las hembras de la subespecie de México no tienen la máscara negra, pero no lo aclara para la subespecie de Argentina — se mantuvo en el recolor F, revisar",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
-        "Código eBird 'tropar' tomado de Wikidata vía Wikipedia (es); la Wikipedia en inglés no lo muestra y eBird no fue accesible — confirmar",
         "Provincias: San Juan (10), Neuquén (14), Río Negro (18) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
@@ -5583,8 +5579,6 @@
       "audio_ebird_code": "lotmea1",
       "gbif_taxon_key": 9667237,
       "pendientes": [
-        "Sin ficha en la UNL: descripción y prompts armados solo con Wikipedia (es/en, esta última citando Birds of the World) — consultado sep 2026; Avibase 403",
-        "Pico: Wikipedia (en) dice blanquecino azulado con la punta pardo negruzca; Wikipedia (es) dice grisáceo — se usó la versión en inglés",
         "Vientre negro descripto para la subespecie típica; la subespecie de Córdoba y San Luis (obscurus) tiene menos rojo abajo y la del noroeste (catamarcanus) es más pálida — sin variante propia",
         "GBIF da Leistes loyca como sinónimo (usageKey 9667237); el nombre aceptado en GBIF tiene key 2484272 — decidir cuál guardar",
         "Envergadura sin dato (null)",
@@ -5753,7 +5747,7 @@
       "gbif_taxon_key": 2483958,
       "pendientes": [
         "Franja blanca de la corona (casi siempre escondida) omitida en el prompt D",
-        "Juvenil no descripto (Wikipedia en)",
+        "Juvenil no descripto (Wikipedia en) — BOW (sep 2026): tampoco lo describe",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
         "Provincias: Mendoza (12) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
@@ -5779,7 +5773,7 @@
       "residencia": "permanente",
       "tamanio_categoria": "mediano",
       "largo_cm": "38-46",
-      "envergadura_cm": null,
+      "envergadura_cm": "100-105",
       "estado_conservacion": "LC",
       "provincias": [
         "Buenos Aires",
@@ -5807,7 +5801,6 @@
       "pendientes": [
         "Estado de conservación: GBIF devuelve 'no evaluada' (NE); Wikipedia (es) la da como Preocupación menor (UICN 3.1) — se cargó LC, confirmar",
         "Color del pico y las patas del juvenil sin confirmar (no se cambiaron en el recolor J)",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
         "Provincias: Misiones (11), Chaco (15), Salta (11), Chubut (14) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia",
         "Variante R: según la UNL el capuchón gris se conserva todo el año, así que R casi no se diferencia de D (solo el borde más oscuro del capuchón) — decidir si se mantiene"
       ]
@@ -5961,7 +5954,6 @@
       "audio_ebird_code": "frbtho1",
       "gbif_taxon_key": 2485123,
       "pendientes": [
-        "Pintas del pecho: la UNL solo dice pecho ocre canela (y 'pecho manchado' para identificarlo); Wikipedia (en) da estrías claras y pintitas castaño rojizas oscuras — se usó Wikipedia en para el prompt",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403"
       ]
     },
