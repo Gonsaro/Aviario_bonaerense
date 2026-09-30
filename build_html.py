@@ -72,6 +72,7 @@ for bird in data['especies']:
         'audio_ebird_code': bird.get('audio_ebird_code', ''),
         'mapa': mapa,
         'thumb_sprite': VARIANT_LABEL.get(bird.get('thumb_sprite', ''), ''),
+        'exotica': bool(bird.get('exotica')),
     }
     birds_js_parts.append('{' + ','.join(f'{k}:{jstr(v)}' for k, v in b.items()) + '}')
 

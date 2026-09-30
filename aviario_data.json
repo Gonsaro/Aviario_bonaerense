@@ -587,7 +587,8 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on ground, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium compact pigeon, blue-grey head and body, green and violet iridescent neck patch, grey back with two black wing bars, pale grey underparts, grey tail with black terminal band, thin grey bill with white cere, red legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "audio_ebird_code": "rocpig"
+      "audio_ebird_code": "rocpig",
+      "exotica": true
     },
     {
       "nombre_comun": "Paloma Picazuró",
@@ -2863,7 +2864,8 @@
         "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, small stocky sparrow, grey crown with chestnut-brown lateral stripes, grey face, black bib on throat and breast, brown-streaked back with black streaks, brown wings with single white wing bar, pale grey underparts, short conical dark bill, pinkish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
         "F": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, small stocky sparrow, plain brown-grey head, prominent pale buff supercilium, no black bib, streaked brown back, brown wings, pale grey-buff underparts, short conical pale bill, pinkish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "audio_ebird_code": "houspa"
+      "audio_ebird_code": "houspa",
+      "exotica": true
     },
     {
       "nombre_comun": "Cabecitanegra",
@@ -3373,7 +3375,8 @@
       "orden": "Passeriformes",
       "descripcion": {
         "D": "Pájaro robusto, de cola corta, alas triangulares y pico largo y puntiagudo. Plumaje negro con brillos violáceos y verdosos, densamente salpicado de pintas blancas en cabeza, pecho y vientre, y de pintas ocráceas en dorso y alas. Plumas de las alas con bordes ocre. Pico negruzco. Patas rosado-rojizas. Iris pardo intenso en el macho, pardo-grisáceo en la hembra.",
-        "R": "Con el desgaste de las plumas en primavera, las pintas casi desaparecen y el plumaje luce negro lustroso con reflejos violetas y verdes. Pico amarillo, con la base gris-azulada en el macho y rosada en la hembra. Patas rosado-rojizas."
+        "R": "Con el desgaste de las plumas en primavera, las pintas casi desaparecen y el plumaje luce negro lustroso con reflejos violetas y verdes. Pico amarillo, con la base gris-azulada en el macho y rosada en la hembra. Patas rosado-rojizas.",
+        "J": "El juvenil es muy distinto: pardo grisáceo parejo, sin pintas ni brillo, algo más pálido abajo y con la barbilla blanquecina. Plumas del ala y de la cola orilladas de canela. Pico negruzco."
       },
       "habitat": [
         "urbano",
@@ -3402,11 +3405,13 @@
       "sprites": {},
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on the ground, white background, 1024x1024 pixels, bird filling 65% of canvas height, stocky short-tailed songbird with a long pointed bill, black head with a purple and green gloss peppered with small distinct white spots, small dark brown eye with a tiny dark pupil, long pointed blackish bill, black back and wing coverts peppered with small distinct buff spots, dark flight feathers with buff edges, short square black tail with buff edges, black throat, breast and belly with purple and green gloss peppered with small distinct white spots, pinkish-red legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
-        "R": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: remove almost all the white and buff spots so the plumage is glossy black with strong purple and green iridescence, keep only a few faint buff edges on the wing feathers, change the blackish bill to bright yellow with a blue-grey base, keep the pinkish-red legs, keep white background, no shadow, no text"
+        "R": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: remove almost all the white and buff spots so the plumage is glossy black with strong purple and green iridescence, keep only a few faint buff edges on the wing feathers, change the blackish bill to bright yellow with a blue-grey base, keep the pinkish-red legs, keep white background, no shadow, no text",
+        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the whole plumage plain uniform greyish brown with no white or buff spots and no gloss, slightly paler on the breast and belly, make the chin and throat whitish, give the wing and tail feathers thin cinnamon edges, make the bill blackish, keep the pinkish-red legs, keep white background, no shadow, no text"
       },
       "audio_ebird_code": "eursta",
       "gbif_taxon_key": 9809229,
-      "pendientes": []
+      "pendientes": [],
+      "exotica": true
     },
     {
       "id": 73,
