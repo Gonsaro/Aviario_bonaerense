@@ -3354,14 +3354,14 @@
       "sprites": {},
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thin wire, white background, 1024x1024 pixels, bird including its long tail filling about 75% of canvas width, slender swallow with long pointed wings, chestnut-red forehead, chin and throat, glossy steel-blue crown, nape and face around the eye, small dark eye, short black bill, glossy steel-blue back and rump, long blackish wings with a blue gloss folded past the body, deeply forked blackish tail with very long thin outer streamers, a narrow dark blue breast band below the chestnut throat, cinnamon to orange-buff breast and belly, short blackish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
-        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the forehead, chin and throat pale cinnamon, make the crown, nape, back, wings and tail a dull brownish steel-blue with little gloss, add a narrow dull brownish breast band below the throat, make the breast and belly whitish with a faint buff wash, keep the small dark eye, the short black bill and the dark legs, keep white background, no shadow, no text",
+        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged except for the tail, only change the colors: make the glossy steel-blue upperparts a duller brownish-blue with little gloss, make the chestnut forehead and throat pale cinnamon, make the dark breast band dull brownish, make the cinnamon breast and belly much paler, nearly whitish with a faint buff wash, and shorten the tail: remove the long thin outer streamers so the tail is a short shallow fork that ends just past the wing tips, keep white background, no shadow, no text",
         "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, slender swallow with long pointed swept-back wings, chestnut-red forehead and throat, short black bill, glossy steel-blue crown, back and upperwings, blackish flight feathers, deeply forked tail spread open with very long thin outer streamers and a row of small white spots near the tail base, narrow dark blue breast band, cinnamon to orange-buff underparts and underwing coverts, legs tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "barswa",
       "gbif_taxon_key": 9515886,
       "pendientes": [],
       "recolor_base": {
-        "J": "Progne_chalybea_M.png"
+        "J": "Hirundo_rustica_D.png"
       }
     },
     {

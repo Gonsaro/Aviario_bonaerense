@@ -145,6 +145,7 @@ Usar image-to-image cuando el sujeto a generar comparte la misma estructura con 
 recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: <cambios concretos>, keep white background, no shadow, no text
 ```
 Cuando la base no es obvia (otra especie u otra variante), se anota en el campo `recolor_base` de la ficha: `{"<variante>": "<archivo base en Sprites/>"}`, ej. Tordo Pico Corto J → `Agelaioides_badius_D.png`. Se pasa con `--base-image Sprites/<archivo>`.
+El modo edición también tolera cambios chicos de forma sobre la misma especie si se piden explícitamente (ej. Tijerita J: recolor de la D pidiendo "shorten the tail… remove the long outer streamers" funcionó). Los backups de sprites reemplazados van en `Sprites/backup/` (el build no los toma).
 No es una regla de "llamativo vs apagado" — es una regla de estructura compartida. No aplica si difieren proporciones, largo de cola, forma de pico o postura.
 
 ### Nomenclatura
