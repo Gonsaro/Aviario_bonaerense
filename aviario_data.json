@@ -3354,12 +3354,15 @@
       "sprites": {},
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thin wire, white background, 1024x1024 pixels, bird including its long tail filling about 75% of canvas width, slender swallow with long pointed wings, chestnut-red forehead, chin and throat, glossy steel-blue crown, nape and face around the eye, small dark eye, short black bill, glossy steel-blue back and rump, long blackish wings with a blue gloss folded past the body, deeply forked blackish tail with very long thin outer streamers, a narrow dark blue breast band below the chestnut throat, cinnamon to orange-buff breast and belly, short blackish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
-        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the glossy steel-blue upperparts a duller brownish-blue with little gloss, make the chestnut forehead and throat pale cinnamon, make the cinnamon underparts much paler, nearly whitish, make the breast band dull brownish, shorten the tail streamers to a short forked tail, keep white background, no shadow, no text",
+        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the forehead, chin and throat pale cinnamon, make the crown, nape, back, wings and tail a dull brownish steel-blue with little gloss, add a narrow dull brownish breast band below the throat, make the breast and belly whitish with a faint buff wash, keep the small dark eye, the short black bill and the dark legs, keep white background, no shadow, no text",
         "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, slender swallow with long pointed swept-back wings, chestnut-red forehead and throat, short black bill, glossy steel-blue crown, back and upperwings, blackish flight feathers, deeply forked tail spread open with very long thin outer streamers and a row of small white spots near the tail base, narrow dark blue breast band, cinnamon to orange-buff underparts and underwing coverts, legs tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "barswa",
       "gbif_taxon_key": 9515886,
-      "pendientes": []
+      "pendientes": [],
+      "recolor_base": {
+        "J": "Progne_chalybea_M.png"
+      }
     },
     {
       "id": 72,
@@ -3651,11 +3654,14 @@
       "curiosidades": "Es uno de los picaflores más comunes en plazas, parques y jardines del noreste bonaerense. Toma néctar de una enorme variedad de flores nativas y exóticas, y también caza insectos al vuelo y roba arañitas de las telas. Su canto es un trino agudo y repetido, parecido al de un grillo. La hembra arma sola un nidito en forma de taza con fibras vegetales y telas de araña, decorado por fuera con líquenes y trocitos de hojas, sobre una rama fina y horizontal.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thin twig, white background, 1024x1024 pixels, bird filling 60% of canvas height, small hummingbird, iridescent golden-green crown and face, straight coral-red bill of medium length with a black tip, small black eye with a tiny white spot just behind it, iridescent golden-green back and folded wings, glittering golden-bronze tail, pale rufous chin, iridescent golden-green throat, breast and belly, tiny black feet, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: small hummingbird, iridescent golden-green crown and face, straight coral-red bill of medium length with a black tip, small black eye with a tiny white spot just behind it, iridescent golden-green back and folded wings, glittering golden-bronze tail, pale rufous chin, iridescent golden-green throat, breast and belly, tiny black feet, keep white background, no shadow, no text"
       },
       "audio_ebird_code": "gilhum1",
       "gbif_taxon_key": 5228562,
-      "pendientes": []
+      "pendientes": [],
+      "recolor_base": {
+        "D": "Chlorostilbon_lucidus_M.png"
+      }
     },
     {
       "id": 78,
@@ -3707,12 +3713,15 @@
       "curiosidades": "Vive en pastizales, campos cultivados, bordes de bañados y baldíos, donde anda en parejas o en bandadas que a veces son muy grandes. Come semillas e insectos en el suelo y se posa en pastos altos, arbustos y alambrados. En época de cría el macho sube en vuelo y baja lentamente cantando un chorro de trinos y zumbidos. Arma el nido en el suelo, escondido entre pastos o arbustos. Las poblaciones del sur migran hacia el norte en invierno.",
       "sprites": {},
       "prompts_pixelart": {
-        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a grass stem, white background, 1024x1024 pixels, bird filling 60% of canvas height, small seedeater with a short conical pinkish-grey bill, olive-brown crown and nape finely streaked with blackish, bright yellow patch between the bill and the eye and around the eye, small brown eye with a tiny dark pupil, olive-brown back streaked with blackish, olive rump, brown wings with pale feather edges and a small yellowish patch at the bend of the wing, brown tail, bright yellow throat, breast washed with olive-brown, bright yellow belly, whitish undertail, pink legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "M": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: small seedeater with a short conical pinkish-grey bill, olive-brown crown and nape finely streaked with blackish, bright yellow patch between the bill and the eye and around the eye, small brown eye with a tiny dark pupil, olive-brown back streaked with blackish, olive rump, brown wings with pale feather edges and a small yellowish patch at the bend of the wing, brown tail, bright yellow throat, breast washed with olive-brown, bright yellow belly, whitish undertail, pink legs, keep white background, no shadow, no text",
         "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: female duller and browner than the male, make the upperparts browner, make the throat, breast and flanks light buffy brown instead of yellow and olive, keep the belly yellow but duller, keep white background, no shadow, no text"
       },
       "audio_ebird_code": "gryfin1",
       "gbif_taxon_key": 2491846,
-      "pendientes": []
+      "pendientes": [],
+      "recolor_base": {
+        "M": "Sicalis_flaveola_M.png"
+      }
     },
     {
       "id": 79,
@@ -3755,13 +3764,16 @@
       "curiosidades": "A diferencia de la mayoría de los patos, se posa en ramas: tiene uñas largas y puntiagudas en los dedos. Prefiere lagunas y arroyos rodeados de árboles, porque anida en huecos de troncos y a veces en los grandes nidos de la cotorra. Las parejas son muy unidas y el macho ayuda a criar a los patitos, que al nacer se tiran del nido al suelo. Su voz es un maullido suave en la hembra y un silbido largo en el macho.",
       "sprites": {},
       "prompts_pixelart": {
-        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, small duck, black stripe running from the crown down the back of the neck and ending in a black half-collar at the base of the neck, pale grey face finely speckled with brown, short pale blue bill, small dark brown eye with a tiny dark pupil, rich chestnut back and shoulders, folded wing showing a white patch and a metallic green patch on the flight feathers, black rump, dark tail, pinkish breast peppered with small distinct black spots, pale grey flanks with fine dark barring and a white patch at the rear of the flank, whitish belly, pink legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "M": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: small duck, black stripe running from the crown down the back of the neck and ending in a black half-collar at the base of the neck, pale grey face finely speckled with brown, short pale blue bill, small dark brown eye with a tiny dark pupil, rich chestnut back and shoulders, folded wing showing a white patch and a metallic green patch on the flight feathers, black rump, dark tail, pinkish breast peppered with small distinct black spots, pale grey flanks with fine dark barring and a white patch at the rear of the flank, whitish belly, pink legs, keep white background, no shadow, no text",
         "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: female duller and browner than the male, make the head brown with a white eyebrow and white patches on the cheek and throat, remove the black crown stripe and black half-collar, make the back and shoulders olive-brown, make the breast, flanks and belly pale whitish finely barred with brown instead of pink with black spots, make the pale blue bill a duller leaden blue-grey, keep the white wing patch, the white patch on the rear flank, green wing patch and pink legs, keep white background, no shadow, no text",
         "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, small duck, black stripe from the crown down the back of the neck, pale grey face, short pale blue bill, neck extended, rich chestnut back, dark upperwing with a large rounded white patch on the inner wing and a metallic green patch on the flight feathers, black rump, dark tail, pinkish breast peppered with small distinct black spots, pale grey finely barred flanks, whitish belly, pink legs tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "rintea1",
       "gbif_taxon_key": 2498384,
-      "pendientes": []
+      "pendientes": [],
+      "recolor_base": {
+        "M": "Amazonetta_brasiliensis_M.png"
+      }
     },
     {
       "id": 80,
@@ -3810,12 +3822,16 @@
       "curiosidades": "Es una de las palomas grandes más comunes del centro del país y está ampliando su distribución gracias al avance de los cultivos. Anda en bandadas que buscan semillas y granos en el suelo, como girasol y arroz, y a veces se mezcla con otras palomas. Al levantar vuelo hace mucho ruido con las alas. Puede criar en casi cualquier época del año: arma un nido frágil de palitos en un árbol y pone uno o dos huevos blancos. En los altos Andes del noroeste vive otra subespecie, con una ancha franja blanca en el ala.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, large pigeon, forehead, crown and nape washed dull purplish pink, grey face, blackish bill with a white base, small pale grey eye with a tiny dark pupil, dark brown upper back and wing coverts peppered with small distinct creamy white spots, blackish flight feathers, bluish-grey lower back and rump, dark grey tail with a black tip band, dull purplish pink breast, grey belly and undertail, red legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
-        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, large pigeon, crown and nape washed dull purplish pink, grey face, blackish bill with a white base, neck extended, dark brown upper back and wing coverts peppered with small distinct creamy white spots, blackish flight feathers, pale grey underwing, bluish-grey lower back and rump, dark grey tail with a black tip band, dull purplish pink breast, grey belly, red legs tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: large pigeon, forehead, crown and nape washed dull purplish pink, grey face, blackish bill with a white base, small pale grey eye with a tiny dark pupil, dark brown upper back and wing coverts peppered with small distinct creamy white spots, blackish flight feathers, bluish-grey lower back and rump, dark grey tail with a black tip band, dull purplish pink breast, grey belly and undertail, red legs, keep white background, no shadow, no text",
+        "V": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: large pigeon, crown and nape washed dull purplish pink, grey face, blackish bill with a white base, neck extended, dark brown upper back and wing coverts peppered with small distinct creamy white spots, blackish flight feathers, pale grey underwing, bluish-grey lower back and rump, dark grey tail with a black tip band, dull purplish pink breast, grey belly, red legs tucked, keep white background, no shadow, no text"
       },
       "audio_ebird_code": "spwpig3",
       "gbif_taxon_key": 2495335,
-      "pendientes": []
+      "pendientes": [],
+      "recolor_base": {
+        "D": "Patagioenas_picazuro_D.png",
+        "V": "Patagioenas_picazuro_V.png"
+      }
     },
     {
       "id": 81,
@@ -3861,11 +3877,14 @@
       "curiosidades": "Casi siempre anda en bandadas, a veces de cientos de individuos, y se mezcla con otros cuervillos y con el ganado. Busca comida en bañados, pastizales inundados y arrozales, clavando el pico curvo en el barro y en el agua para sacar lombrices, caracoles, insectos acuáticos y pececitos; también come granos. Cría en colonias sobre árboles y arbustos de los bañados, junto a garzas, biguás, espátulas y otros cuervillos. El nido es una plataforma de pastos y ramitas donde pone de uno a seis huevos verde azulados, que incuban ambos padres.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium-sized ibis, bare reddish-pink facial skin from the base of the bill to behind the eye, long down-curved pink bill, small reddish-brown eye with a tiny dark pupil, dull blackish head and neck with a faint green gloss, dull blackish back, blackish wings and tail with a green and bronze gloss, dull blackish throat, breast and belly, pink legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: medium-sized ibis, bare reddish-pink facial skin from the base of the bill to behind the eye, long down-curved pink bill, small reddish-brown eye with a tiny dark pupil, dull blackish head and neck with a faint green gloss, dull blackish back, blackish wings and tail with a green and bronze gloss, dull blackish throat, breast and belly, pink legs, keep white background, no shadow, no text"
       },
       "audio_ebird_code": "bafibi1",
       "gbif_taxon_key": 2480812,
-      "pendientes": []
+      "pendientes": [],
+      "recolor_base": {
+        "D": "Plegadis_chihi_D.png"
+      }
     },
     {
       "id": 82,
@@ -3914,12 +3933,15 @@
       "curiosidades": "Su nombre viene de la 'capucha' oscura que contrasta con la cara clara. Es un pato tranquilo que vive en parejas o grupos chicos en lagunas, bañados y charcas de agua dulce, sobre todo las de orillas con juncos y poca vegetación flotante. Come semillas, plantas acuáticas, insectos y otros invertebrados chicos. Hace el nido escondido entre la vegetación de la orilla y pone de 5 a 10 huevos, que se incuban durante 23 a 24 días.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, small duck, blackish-brown cap and nape extending just below the eye, pale cream face, throat and upper neck, pale blue bill with a black ridge and black tip and a yellow spot at the base, small dark brown eye with a tiny dark pupil, dark brown back with buff feather edges, folded wing showing a metallic green patch bordered with white, rump finely vermiculated black and white, buff breast peppered with small distinct black spots, flanks barred black, grey and white, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: small duck, blackish-brown cap and nape extending just below the eye, pale cream face, throat and upper neck, pale blue bill with a black ridge and black tip and a yellow spot at the base, small dark brown eye with a tiny dark pupil, dark brown back with buff feather edges, folded wing showing a metallic green patch bordered with white, rump finely vermiculated black and white, buff breast peppered with small distinct black spots, flanks barred black, grey and white, grey legs, keep white background, no shadow, no text",
         "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, small duck, blackish-brown cap and nape, pale cream face and throat, pale blue bill with a black ridge and a yellow spot at the base, small dark brown eye, neck extended, dark brown back with buff feather edges, dark upperwing with a metallic green speculum bordered with white in front and behind, rump finely vermiculated black and white, buff breast peppered with small distinct black spots, flanks barred black, grey and white, grey legs tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "siltea1",
       "gbif_taxon_key": 9305555,
-      "pendientes": []
+      "pendientes": [],
+      "recolor_base": {
+        "D": "Anas_flavirostris_D.png"
+      }
     },
     {
       "id": 83,
@@ -3964,13 +3986,16 @@
       "curiosidades": "A diferencia de la mayoría de los carpinteros, busca casi toda su comida en el suelo: picotea y escarba hormigueros, termiteros, tierra y troncos caídos, y puede romper termiteros grandes. Hormigas y termitas son la base de su dieta. Anda en parejas o grupos chicos y se lo ve seguido posado en postes y alambrados. Macho y hembra excavan juntos el nido en un termitero, una barranca, un árbol o un poste; ponen 4 o 5 huevos, y en la Argentina crían sobre todo en agosto y septiembre. A veces varias hembras de un grupo ponen en el mismo nido.",
       "sprites": {},
       "prompts_pixelart": {
-        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched upright on a wooden fence post with its stiff tail pressed against the post, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium-sized woodpecker, black crown and nape, bright yellow face and sides of the neck, red moustachial stripe, long slightly curved black bill, small reddish-brown eye with a tiny dark pupil, dark brown back barred with whitish, white rump with a few narrow dark bars, brown wings with yellow feather shafts, blackish tail, white throat, bright yellow upper breast, whitish lower breast and belly barred with dark brown, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "M": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: medium-sized woodpecker, black crown and nape, bright yellow face and sides of the neck, red moustachial stripe, long slightly curved black bill, small reddish-brown eye with a tiny dark pupil, dark brown back barred with whitish, white rump with a few narrow dark bars, brown wings with yellow feather shafts, blackish tail, white throat, bright yellow upper breast, whitish lower breast and belly barred with dark brown, grey legs, keep white background, no shadow, no text",
         "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: replace the red moustachial stripe with a stripe of the same shape and position speckled black and white, keep all other colors unchanged, keep white background, no shadow, no text",
         "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, medium-sized woodpecker, black crown and nape, bright yellow face and sides of the neck, red moustachial stripe, long black bill, neck extended, dark brown back barred with whitish, conspicuous white rump, open brown wings with yellow feather shafts, blackish tail, white throat, bright yellow upper breast, whitish belly barred with dark brown, grey legs tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "camfli1",
       "gbif_taxon_key": 2478233,
-      "pendientes": []
+      "pendientes": [],
+      "recolor_base": {
+        "M": "Colaptes_melanochloros_M.png"
+      }
     },
     {
       "id": 84,
@@ -4018,13 +4043,16 @@
       "curiosidades": "Vive en juncales, totorales y la vegetación de la orilla de lagunas y bañados, y fuera de la época de cría también sale a campos barrosos, pastizales y cultivos cercanos. Come sobre todo insectos acuáticos y semillas, además de arañas, crustáceos y caracolitos, y suele andar en bandadas. Cría en colonias: la hembra teje un nido en forma de taza entre juncos o totoras y pone de 2 a 4 huevos claros con manchas oscuras. Es parasitado a menudo por el Tordo Renegrido. En Chile lo llaman 'trile'.",
       "sprites": {},
       "prompts_pixelart": {
-        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched upright on a reed stem, white background, 1024x1024 pixels, bird filling 60% of canvas height, small blackbird, black head, pointed conical black bill, small brown eye with a tiny dark pupil, black back, black wings with a bright yellow shoulder patch, black tail, black throat, breast and belly, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "M": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: small blackbird, black head, pointed conical black bill, small brown eye with a tiny dark pupil, black back, black wings with a bright yellow shoulder patch, black tail, black throat, breast and belly, black legs, keep white background, no shadow, no text",
         "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: replace the black crown with dark brown, add a wide whitish eyebrow stripe, dark brown cheeks, back brown with dusky streaks and a few chestnut feather edges, wings dark brown with paler feather edges, tail dark brown, pale unstreaked chin and throat, breast and belly light buff-brown with dark streaks, keep the black bill, brown eye and black legs, keep white background, no shadow, no text",
         "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, small blackbird, black head, pointed conical black bill, neck extended, black back, open black wings with a bright yellow shoulder patch and bright yellow underwing coverts, black tail, black throat, breast and belly, black legs tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "yewbla2",
       "gbif_taxon_key": 2484205,
-      "pendientes": []
+      "pendientes": [],
+      "recolor_base": {
+        "M": "Chrysomus_ruficapillus_M.png"
+      }
     },
     {
       "id": 85,
@@ -4126,7 +4154,7 @@
       "sprites": {},
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on a floating leaf, white background, 1024x1024 pixels, bird filling 60% of canvas height, compact marsh bird, bright red frontal shield, short red bill with a yellow tip, small red eye with a tiny dark pupil, blackish head and neck, dark slate-grey back washed olive-brown on the lower back, brown wings, short cocked tail, slate grey breast and belly, bold white stripe along the flank, white patches on both sides of the undertail, long yellowish-green legs with very long toes and a small red band at the top of the leg, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
-        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: replace the red frontal shield and red bill with dull greenish-brown and make the frontal shield smaller, make the red eye brownish, make the yellowish-green legs olive-grey, make the head, neck and body plumage paler and browner overall (duller than the adult), remove the red band on the legs, keep the white flank stripe, the white undertail patches and the white background, no shadow, no text"
+        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: replace the red frontal shield and red bill with dull greenish-brown and make the frontal shield dull and dark, keeping its size, make the red eye brownish, make the yellowish-green legs olive-grey, make the head, neck and body plumage paler and browner overall (duller than the adult), remove the red band on the legs, keep the white flank stripe, the white undertail patches and the white background, no shadow, no text"
       },
       "audio_ebird_code": "comgal1",
       "gbif_taxon_key": 7340222,
@@ -4381,11 +4409,14 @@
       "curiosidades": "Es uno de los pájaros más comunes de las ciudades del este de Sudamérica: anda en parejas o grupitos por árboles de plazas y frutales, y come frutas, semillas, flores, brotes e insectos. Hasta come hojas de algunas plantas, algo poco común en pájaros. Hace un nido en forma de taza con fibras vegetales sobre las ramas y pone unos 3 huevos verdosos o crema con pintitas; la pareja incuba unos 14 días y los pichones dejan el nido a las dos semanas. Su canto es una mezcla apurada de silbidos agudos, algo desafinados. En Argentina y Paraguay también lo llaman 'chogüí', y algunas clasificaciones lo ubican en el género Tangara.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a branch, white background, 1024x1024 pixels, bird filling 60% of canvas height, compact tanager, grey head with a light blue tint, short thick blue-grey bill with a black tip on the upper mandible, small dark brown eye with a tiny dark pupil, grey back with a blue-green tint, dark brown wings with bright turquoise blue-green feather edges and coverts, blackish tail edged blue-green, pale grey breast with a light blue tint, whitish belly, blue-grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: compact tanager, grey head with a light blue tint, short thick blue-grey bill with a black tip on the upper mandible, small dark brown eye with a tiny dark pupil, grey back with a blue-green tint, dark brown wings with bright turquoise blue-green feather edges and coverts, blackish tail edged blue-green, pale grey breast with a light blue tint, whitish belly, blue-grey legs, keep white background, no shadow, no text"
       },
       "audio_ebird_code": "saytan1",
       "gbif_taxon_key": 2488622,
-      "pendientes": []
+      "pendientes": [],
+      "recolor_base": {
+        "D": "Rauenia_bonariensis_M.png"
+      }
     },
     {
       "id": 92,
@@ -4675,12 +4706,15 @@
       "curiosidades": "Se la reconoce entre las otras gallaretas por el escudete rojo oscuro y puntiagudo sobre el pico, y porque levanta la cola mostrando mucho blanco a los costados. Es la única gallareta sin lóbulos en los dedos. Vive en lagunas con juncales y vegetación flotante, como la lenteja de agua, y es muy abundante en los bañados de la región pampeana. Come sobre todo plantas que picotea en la superficie, aunque también se zambulle y sale a pastar a la orilla. Anda en grupos, muchas veces mezclada con la Gallareta Ligas Rojas y la Gallareta Chica. Hace el nido con plantas, flotando o entre los juncos, y el Pato Cabeza Negra suele poner sus huevos en él para que la gallareta se los incube.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium plump coot, black head and neck, narrow pointed dark red frontal shield extending up the forehead, bright yellow bill with a red ridge on top, small red eye with a tiny dark pupil, dark slate-grey back, wings and short tail, bright white patches on the sides of the undertail, slightly paler slate-grey breast and belly, green legs with long lobed toes, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: medium plump coot, black head and neck, narrow pointed dark red frontal shield extending up the forehead, bright yellow bill with a red ridge on top, small red eye with a tiny dark pupil, dark slate-grey back, wings and short tail, bright white patches on the sides of the undertail, slightly paler slate-grey breast and belly, green legs with long lobed toes, keep white background, no shadow, no text",
         "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the head, neck and whole plumage grey-brown, add small white spots on the throat, make the frontal shield and the bill blackish, keep the white patches on the sides of the undertail and the green legs, keep white background, no shadow, no text"
       },
       "audio_ebird_code": "refcoo1",
       "gbif_taxon_key": 2474390,
-      "pendientes": []
+      "pendientes": [],
+      "recolor_base": {
+        "D": "Fulica_leucoptera_D.png"
+      }
     },
     {
       "id": 98,
@@ -4863,11 +4897,14 @@
       "curiosidades": "Llega en primavera desde el norte de Sudamérica para criar, y en otoño vuelve a migrar hacia Perú, Ecuador y Brasil. No construye su propio nido: usa huecos de árboles, nidos viejos o rotos de horneros y carpinteros, y hasta cajas nido, donde pone 3 o 4 huevos manchados. Se queda quieto en las ramas altas y sale a cazar insectos al vuelo, pero también come muchos frutos. Se lo ubica fácil por su grito agudo y fuerte, parecido a un 'squiii-zip' o al chirrido de una bisagra.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium flycatcher with a large head, blackish crown, white eyebrow, dark brown mask through the eye with a white stripe below it, stout black bill with a paler base on the lower mandible, small dark brown eye with a tiny dark pupil, dark brown back with whitish streaks, brown wings with whitish edges on the coverts and inner flight feathers, brown tail with rufous outer edges, whitish underparts washed with buff and heavily streaked dark brown from throat to belly, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: medium flycatcher with a large head, blackish crown, white eyebrow, dark brown mask through the eye with a white stripe below it, stout black bill with a paler base on the lower mandible, small dark brown eye with a tiny dark pupil, dark brown back with whitish streaks, brown wings with whitish edges on the coverts and inner flight feathers, brown tail with rufous outer edges, whitish underparts washed with buff and heavily streaked dark brown from throat to belly, black legs, keep white background, no shadow, no text"
       },
       "audio_ebird_code": "strfly1",
       "gbif_taxon_key": 2483497,
-      "pendientes": []
+      "pendientes": [],
+      "recolor_base": {
+        "D": "Pitangus_sulphuratus_D.png"
+      }
     },
     {
       "id": 102,
@@ -4910,12 +4947,15 @@
       "curiosidades": "Se posa en ramas bajas, postes o alambres junto al agua y desde ahí se tira de cabeza para atrapar pececitos; mientras espera, mueve la cabeza y la cola de forma acompasada. Vuela rápido y bajo, al ras del agua. Macho y hembra cavan juntos un túnel de hasta un metro en la barranca de un arroyo o río, con una cámara al fondo donde la hembra pone de 4 a 5 huevos blancos, sin ningún material de nido. Los pichones dejan el túnel unas cuatro semanas después de nacer, y al poco tiempo los padres los echan del territorio.",
       "sprites": {},
       "prompts_pixelart": {
-        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thin branch, white background, 1024x1024 pixels, bird filling 60% of canvas height, small kingfisher with a large head and a short tail, bronze-green head without a crest, long straight pointed black bill with a pale yellow base on the lower mandible, small dark brown eye with a tiny dark pupil, bronze-green back, green wings with several rows of small distinct white spots, short green tail with white patches on the outer feathers, white throat and white collar, rich chestnut breast, white belly with a few green spots on the flanks, short grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "M": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: small kingfisher with a large head and a short tail, bronze-green head without a crest, long straight pointed black bill with a pale yellow base on the lower mandible, small dark brown eye with a tiny dark pupil, bronze-green back, green wings with several rows of small distinct white spots, short green tail with white patches on the outer feathers, white throat and white collar, rich chestnut breast, white belly with a few green spots on the flanks, short grey legs, keep white background, no shadow, no text",
         "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: replace the chestnut breast with pale buffy white crossed by two separate green bands, one below the collar and one lower on the breast, keep the green upperparts, the white spots on the wings, the white throat, collar and belly, the bill and the grey legs unchanged, keep white background, no shadow, no text"
       },
       "audio_ebird_code": "grnkin",
       "gbif_taxon_key": 2475486,
-      "pendientes": []
+      "pendientes": [],
+      "recolor_base": {
+        "M": "Chloroceryle_amazona_M.png"
+      }
     },
     {
       "id": 103,
@@ -5010,13 +5050,18 @@
       "curiosidades": "Durante años se la consideró la misma especie que la Golondrina Patagónica; se la distingue por la ceja blanca y porque es blanca debajo de las alas. Vuela bajo, a ras del suelo y del agua, cazando insectos, y toma agua en pleno vuelo rozando la superficie de lagunas y charcos. No cava su nido: aprovecha huecos de árboles, postes, caños, aleros, nidos viejos de horneros y carpinteros o cajas nido, y lo forra con pasto y plumas. En Argentina cría de octubre a febrero; después la mayoría migra al norte para pasar el invierno.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thin wire, white background, 1024x1024 pixels, bird filling 60% of canvas height, small swallow with long pointed wings reaching past the tail, glossy blue crown and nape with a slight green tint, thin white line from the base of the bill over the eye, black lores and cheeks, tiny black bill, small dark brown eye with a tiny dark pupil, glossy blue back, dark brown wings with small white tips on the inner flight feathers, white rump, short dark brown slightly forked tail, pure white throat, breast and belly, short black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the crown, nape and back glossy blue with a slight green tint, add a thin white line from the base of the bill over the eye, make the lores and cheeks black with a blue gloss, make the wings and tail dark brown with small white tips on the inner flight feathers, add a white rump, make the throat, breast and belly pure white, keep the small dark eye, the tiny black bill and the black legs, keep white background, no shadow, no text",
         "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: juvenile duller than the adult, make the glossy blue crown, nape and back dull greyish brown, add a greyish wash across the breast, keep the white line over the eye, the white rump, the white belly and the black bill and legs unchanged, keep white background, no shadow, no text",
-        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, small swallow with long pointed wings, glossy blue crown with a slight green tint, thin white line from the base of the bill over the eye, black lores and cheeks, tiny black bill, small dark brown eye with a tiny dark pupil, glossy blue back, dark brown open wings with white underwing coverts, white rump, short dark brown slightly forked tail, pure white throat, breast and belly, legs tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "V": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the crown and back glossy blue with a slight green tint, add a thin white line from the base of the bill over the eye, make the lores and cheeks black, make the open wings and the tail dark brown, make the underwing coverts white, add a white rump, make the throat, breast and belly pure white, keep white background, no shadow, no text"
       },
       "audio_ebird_code": "whrswa1",
       "gbif_taxon_key": 5230761,
-      "pendientes": []
+      "pendientes": [],
+      "recolor_base": {
+        "D": "Progne_chalybea_M.png",
+        "J": "Tachycineta_leucorrhoa_D.png",
+        "V": "Progne_chalybea_V.png"
+      }
     },
     {
       "id": 105,
@@ -5299,14 +5344,15 @@
       "curiosidades": "No hace nido ni cría a sus pichones: pone sus huevos en el nido de otras aves, casi siempre del Tordo Músico. Es el único parásito de cría conocido cuyos pichones imitan a los del ave que los cría: tienen casi el mismo plumaje y hasta copian los pedidos de comida de los pichones de Tordo Músico. En un solo nido pueden aparecer muchos huevos, porque varias hembras llegan a poner en el mismo. Suele andar en parejas o en bandadas junto con el Tordo Músico, y busca semillas e insectos en el suelo, muchas veces cerca del ganado. Su voz es un grito fuerte, explosivo y penetrante.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on the ground, white background, 1024x1024 pixels, bird filling 65% of canvas height, stocky cowbird with a short conical black bill, entirely black plumage with a faint dull sheen and no purple gloss, small reddish brown eye with a tiny dark pupil, black back, wings and tail, black throat, breast and belly, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: stocky cowbird with a short conical black bill, entirely black plumage with a faint dull sheen and no purple gloss, small reddish brown eye with a tiny dark pupil, black back, wings and tail, black throat, breast and belly, black legs, keep white background, no shadow, no text",
         "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: keep the grey-brown head, body and tail and the rufous wings of this bird, make the short conical bill black, make the lores and the area around the eye dark, make the legs black, keep white background, no shadow, no text"
       },
       "audio_ebird_code": "scrcow1",
       "gbif_taxon_key": 9506351,
       "pendientes": [],
       "recolor_base": {
-        "J": "Agelaioides_badius_D.png"
+        "J": "Agelaioides_badius_D.png",
+        "D": "Molothrus_bonariensis_M.png"
       }
     },
     {
@@ -5648,12 +5694,15 @@
       "curiosidades": "Además de Sudamérica vive en África y Madagascar. Es muy gritona, sobre todo en las colonias, y su llamado es un 'caa-caa' ronco, parecido al de un cuervo. Come peces, crustáceos, gusanos que saca de la tierra recién arada, carroña y restos que encuentra en basurales. Anida en colonias en esteros e islotes: arma en el suelo una plataforma de palitos, tallos y pajas y pone unos 3 huevos manchados. Fuera de la época de cría pierde el capuchón gris y se parece mucho a la Gaviota Capucho Café.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium slender gull, pale grey hood covering the head and throat with a thin dark line on the nape, straight red bill, small yellow eye with a tiny dark pupil, pale grey back and folded wings, black wingtips with small distinct white spots, white neck, rump and tail, white throat, breast and belly, red legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: medium slender gull, pale grey hood covering the head and throat with a thin dark line on the nape, straight red bill, small yellow eye with a tiny dark pupil, pale grey back and folded wings, black wingtips with small distinct white spots, white neck, rump and tail, white throat, breast and belly, red legs, keep white background, no shadow, no text",
         "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the head and back whitish mottled with brown, make the folded wings brown, add a dark brown band near the tip of the white tail, make the eye dark, make the bill dull dark orange-brown with a blackish tip, make the legs dull brownish orange, keep the white breast and belly, keep white background, no shadow, no text"
       },
       "audio_ebird_code": "grhgul",
       "gbif_taxon_key": 6065820,
-      "pendientes": []
+      "pendientes": [],
+      "recolor_base": {
+        "D": "Chroicocephalus_maculipennis_R.png"
+      }
     },
     {
       "id": 118,
@@ -5754,7 +5803,7 @@
       "sprites": {},
       "prompts_pixelart": {
         "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, stocky plantcutter with a short crest, rufous-chestnut forehead, grey crown, nape and cheeks with faint dark streaks, short thick conical blackish bill, small yellow-orange eye with a tiny dark pupil, grey-brown back with faint streaks, dusky wings with two bold white wing bars, dusky tail with white tips on the outer feathers, rufous-chestnut throat, breast and belly, greyish flanks, grey-brown legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
-        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the forehead, crown and back greyish with dark brown streaks, remove all the rufous-chestnut, make the throat, breast and belly pale cinnamon-buff heavily streaked with dark brown, make the white wing bars thinner, add pale buff edges to the wing feathers, keep the bill, eye, legs and white tail tips unchanged, keep white background, no shadow, no text"
+        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the forehead, crown and back greyish with dark brown streaks, remove all the rufous-chestnut, make the throat, breast and belly pale cinnamon-buff heavily streaked with dark brown, add pale buff edges to the wing feathers, keep the bill, eye, legs and white tail tips unchanged, keep white background, no shadow, no text"
       },
       "audio_ebird_code": "whtpla1",
       "gbif_taxon_key": 2486489,
