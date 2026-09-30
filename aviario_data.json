@@ -3510,9 +3510,7 @@
       },
       "audio_ebird_code": "masgna1",
       "gbif_taxon_key": 2487593,
-      "pendientes": [
-        "Plumaje juvenil sin datos (sin variante J) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
-      ]
+      "pendientes": []
     },
     {
       "id": 75,
@@ -3657,9 +3655,7 @@
       },
       "audio_ebird_code": "gilhum1",
       "gbif_taxon_key": 5228562,
-      "pendientes": [
-        "Se cargó una sola variante (D): dimorfismo leve (hembra algo más opaca, con la parte baja del vientre grisácea o verdosa según Wikipedia y oiseaux-birds); evaluar si conviene una variante F"
-      ]
+      "pendientes": []
     },
     {
       "id": 78,
@@ -3727,7 +3723,7 @@
       "orden": "Anseriformes",
       "descripcion": {
         "M": "Pato chico y muy vistoso. Cara gris pálida finamente jaspeada; una franja negra baja desde la corona por la nuca y forma un semicollar en la base del cuello. Pico celeste. Ojo pardo oscuro. Dorso y hombros castaño rojizo intenso. En el ala tiene una mancha blanca redondeada, muy llamativa en vuelo, y un espejo verde metálico. Rabadilla negra. Cola oscura. Pecho rosado con pequeñas pintas negras; flancos gris claro con barrado fino y una mancha blanca en la parte trasera. Vientre blanquecino. Patas rosadas.",
-        "F": "La hembra es más parda y tiene el pico plomizo azulado, más apagado que el del macho: dorso pardo oliváceo, cabeza parda con ceja blanca y manchas blancas en la cara y el cuello; partes inferiores claras con barrado fino pardo. Conserva la mancha blanca del ala y las patas rosadas."
+        "F": "La hembra es más parda y tiene el pico plomizo azulado, más apagado que el del macho: dorso pardo oliváceo, cabeza parda con ceja blanca y manchas blancas en la cara y el cuello; partes inferiores claras con barrado fino pardo. Conserva la mancha blanca del ala, la mancha blanca atrás del flanco y las patas rosadas."
       },
       "habitat": [
         "humedal",
@@ -3760,14 +3756,12 @@
       "sprites": {},
       "prompts_pixelart": {
         "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, small duck, black stripe running from the crown down the back of the neck and ending in a black half-collar at the base of the neck, pale grey face finely speckled with brown, short pale blue bill, small dark brown eye with a tiny dark pupil, rich chestnut back and shoulders, folded wing showing a white patch and a metallic green patch on the flight feathers, black rump, dark tail, pinkish breast peppered with small distinct black spots, pale grey flanks with fine dark barring and a white patch at the rear of the flank, whitish belly, pink legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
-        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: female duller and browner than the male, make the head brown with a white eyebrow and white patches on the cheek and throat, remove the black crown stripe and black half-collar, make the back and shoulders olive-brown, make the breast, flanks and belly pale whitish finely barred with brown instead of pink with black spots, make the pale blue bill a duller leaden blue-grey, keep the white wing patch, green wing patch and pink legs, keep white background, no shadow, no text",
+        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: female duller and browner than the male, make the head brown with a white eyebrow and white patches on the cheek and throat, remove the black crown stripe and black half-collar, make the back and shoulders olive-brown, make the breast, flanks and belly pale whitish finely barred with brown instead of pink with black spots, make the pale blue bill a duller leaden blue-grey, keep the white wing patch, the white patch on the rear flank, green wing patch and pink legs, keep white background, no shadow, no text",
         "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, small duck, black stripe from the crown down the back of the neck, pale grey face, short pale blue bill, neck extended, rich chestnut back, dark upperwing with a large rounded white patch on the inner wing and a metallic green patch on the flight feathers, black rump, dark tail, pinkish breast peppered with small distinct black spots, pale grey finely barred flanks, whitish belly, pink legs tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "rintea1",
       "gbif_taxon_key": 2498384,
-      "pendientes": [
-        "Mancha blanca del flanco trasero confirmada en el macho; en la hembra sin confirmar (la UNL solo dice subcaudales blancas) — el recolor F no la menciona — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
-      ]
+      "pendientes": []
     },
     {
       "id": 80,
@@ -3821,9 +3815,7 @@
       },
       "audio_ebird_code": "spwpig3",
       "gbif_taxon_key": 2495335,
-      "pendientes": [
-        "Se cargó una sola variante (D): dimorfismo leve (hembra con cabeza y cuello más apagados, confirmado por oiseaux-birds); evaluar si conviene una variante F"
-      ]
+      "pendientes": []
     },
     {
       "id": 81,
@@ -3873,10 +3865,7 @@
       },
       "audio_ebird_code": "bafibi1",
       "gbif_taxon_key": 2480812,
-      "pendientes": [
-        "Juvenil (todo negruzco, incluso cara, pico y patas) con una sola fuente (Wikipedia es); la UNL y avespampa no lo describen; no se creó variante J — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "No se creó variante V: plumaje uniforme, sin patrón de ala abierta relevante — decidir si hace falta"
-      ]
+      "pendientes": []
     },
     {
       "id": 82,
@@ -3930,9 +3919,7 @@
       },
       "audio_ebird_code": "siltea1",
       "gbif_taxon_key": 9305555,
-      "pendientes": [
-        "Se cargó una sola variante (D): dimorfismo leve (hembra más apagada, flancos menos barrados, a veces sin amarillo en el pico; juvenil más apagado con la cabeza más parda — oiseaux-birds); evaluar variantes F/J"
-      ]
+      "pendientes": []
     },
     {
       "id": 83,
@@ -3983,9 +3970,7 @@
       },
       "audio_ebird_code": "camfli1",
       "gbif_taxon_key": 2478233,
-      "pendientes": [
-        "Juvenil: más apagado, con barras negras más anchas y el amarillo más pálido (oiseaux-birds y Wikipedia); evaluar si conviene una variante J"
-      ]
+      "pendientes": []
     },
     {
       "id": 84,
@@ -4197,9 +4182,7 @@
       },
       "audio_ebird_code": "nabwoo1",
       "gbif_taxon_key": 2486024,
-      "pendientes": [
-        "Juvenil (más oscuro, ceja y partes inferiores más ocráceas según Wikipedia en) no justifica variante propia; no se creó J — decidir"
-      ]
+      "pendientes": []
     },
     {
       "id": 88,
@@ -4210,7 +4193,7 @@
       "orden": "Pelecaniformes",
       "descripcion": {
         "D": "Ave grande de patas largas, inconfundible por su pico largo, chato y ensanchado en la punta como una cuchara. Cabeza pelada de piel verdosa, cruzada por una franja negra en la nuca. Ojo rojo. Cuello, parte alta del dorso y pecho blancos. El resto del cuerpo y las alas rosados, con el hombro y la rabadilla rojo carmín bien intenso. Cola anaranjada. Patas largas rojizas.",
-        "J": "Más pálido que el adulto: cabeza cubierta de plumas blancas, cuerpo blancuzco con tintes rosados apagados, pico amarillento o rosado y ojo amarillo."
+        "J": "Más pálido que el adulto: cabeza cubierta de plumas blancas, cuerpo blancuzco con tintes rosados apagados, pico amarillento o rosado y ojo amarillo. Las patas son oscuras, pardo grisáceas."
       },
       "habitat": [
         "humedal",
@@ -4245,14 +4228,12 @@
       "sprites": {},
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing in shallow water, white background, 1024x1024 pixels, bird filling 65% of canvas height, large long-legged wading bird, bare greenish head without feathers with a black band across the back of the head, long flat grey bill widening into a spoon-shaped tip, small red eye with a tiny dark pupil, white neck and upper back, pink wings with a bright carmine red shoulder patch, carmine red rump, orange tail, white breast, pink belly, long reddish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
-        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: replace the bare greenish head with white feathered head, make the pink wings, belly and rump pale whitish pink, remove the carmine red shoulder patch, make the tail pale whitish pink, make the bill yellowish pink, make the red eye yellow, keep the white neck, keep white background, no shadow, no text",
+        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: replace the bare greenish head with white feathered head, make the pink wings, belly and rump pale whitish pink, remove the carmine red shoulder patch, make the tail pale whitish pink, make the bill yellowish pink, make the red eye yellow, make the legs dark greyish brown, keep the white neck, keep white background, no shadow, no text",
         "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, large wading bird, neck extended straight forward, bare greenish head, long flat grey bill with a spoon-shaped tip, white neck and upper back, open pink wings with bright carmine red coverts along the leading edge, carmine red rump, orange tail, pink belly, long reddish legs extended straight behind the tail, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "rosspo1",
       "gbif_taxon_key": 2480803,
-      "pendientes": [
-        "Juvenil: color de patas sin confirmar (el recolor J conserva las del adulto); color de cola inferido del plumaje general blanco rosado pálido (oiseaux-birds) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
-      ]
+      "pendientes": []
     },
     {
       "id": 89,
@@ -4300,9 +4281,7 @@
       },
       "audio_ebird_code": "limpki",
       "gbif_taxon_key": 2474337,
-      "pendientes": [
-        "Juvenil (manchas blancas más finas, aspecto estriado según oiseaux-birds y Wikipedia) no justifica variante propia; no se creó J ni V — decidir"
-      ]
+      "pendientes": []
     },
     {
       "id": 90,
@@ -4406,9 +4385,7 @@
       },
       "audio_ebird_code": "saytan1",
       "gbif_taxon_key": 2488622,
-      "pendientes": [
-        "Hembra algo más apagada, más gris parduzca (oiseaux-birds), y juvenil más opaco y oscuro; no se crearon F ni J — decidir si hacen falta"
-      ]
+      "pendientes": []
     },
     {
       "id": 92,
@@ -4447,9 +4424,7 @@
       },
       "audio_ebird_code": "barwaf1",
       "gbif_taxon_key": 2491143,
-      "pendientes": [
-        "Dimorfismo sexual leve (hembra con pecho más anaranjado y dorso más oliváceo, según resumen de búsqueda de oiseaux-birds; la ficha directa de oiseaux-birds dice sexos similares): no justifica variante F — decidir"
-      ]
+      "pendientes": []
     },
     {
       "id": 93,
@@ -4545,9 +4520,7 @@
       },
       "audio_ebird_code": "snakit",
       "gbif_taxon_key": 2480415,
-      "pendientes": [
-        "Juvenil parecido a la hembra (corona estriada, ojo pardo; UNL y oiseaux-birds): se describió dentro de F, sin variante J — decidir"
-      ]
+      "pendientes": []
     },
     {
       "id": 95,
@@ -4718,7 +4691,8 @@
       "orden": "Accipitriformes",
       "descripcion": {
         "M": "Rapaz mediana, esbelta, de alas muy largas y cola larga y angosta. Como las lechuzas, tiene un disco de plumas alrededor de la cara. Cabeza negra, con frente, ceja y garganta blancas. Pico negro y ganchudo, con la base (cera) amarilla. Ojo pardo rojizo. Dorso negro; alas grises plateadas con las plumas de vuelo barradas de negro y la punta negra. Rabadilla blanca. Cola larga gris, con varias barras oscuras y la punta blanca. Pecho con un babero negro; resto de abajo blanco con algunas manchas oscuras, sobre todo en los costados. Patas largas y finas, anaranjadas.",
-        "F": "La hembra es algo más grande y más parda: dorso pardo oscuro, garganta salpicada de canela y pecho y vientre blancuzcos con estrías pardas o canela. Mismo dibujo de alas y cola. Hay además una forma oscura, casi toda negra, con muslos y vientre rojizos, que es parecida en los dos sexos."
+        "F": "La hembra es algo más grande y más parda: dorso pardo oscuro, garganta salpicada de canela y pecho y vientre blancuzcos con estrías pardas o canela. Mismo dibujo de alas y cola.",
+        "O": "Forma oscura, igual en los dos sexos: cuerpo negro hollín, sin las marcas blancas de la cara, con muslos y vientre castaños. Conserva la rabadilla blanca, la cola barrada y el dibujo gris de las alas."
       },
       "habitat": [
         "pastizal",
@@ -4752,13 +4726,16 @@
       "prompts_pixelart": {
         "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, slender medium harrier with long wings and a long narrow tail, owl-like facial disc, black head with white forehead, white eyebrow and white throat, black hooked bill with a yellow cere, small reddish-brown eye with a tiny dark pupil, black back, silvery-grey wing coverts, flight feathers barred black with black tips, white rump, long grey tail with several dark bars and a white tip, black breast band, white belly with a few dark spots on the flanks, long thin orange legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
         "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the head, back and breast band dark brown instead of black, speckle the white throat with cinnamon, add brown and cinnamon streaks on the whitish breast and belly, keep the wing and tail pattern, the white rump and the orange legs unchanged, keep white background, no shadow, no text",
+        "O": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the head, face, throat, breast, belly and back sooty black, remove the white forehead, white eyebrow and white throat, make the thighs and lower belly chestnut, keep the white rump, the grey barred tail, the silvery-grey barred wings, the yellow cere and the orange legs unchanged, keep white background, no shadow, no text",
         "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, slender harrier with very long narrow wings held in a shallow V and a long narrow tail, head tilted slightly down, legs tucked, black head with white forehead, white eyebrow and white throat, black hooked bill with a yellow cere, small reddish-brown eye with a tiny dark pupil, black back, open wings with silvery-grey coverts and flight feathers barred black and white with black tips, bright white rump, long grey tail with several dark bars and a white tip, black breast band, white belly, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "lowhar1",
       "gbif_taxon_key": 5229178,
-      "pendientes": [
-        "Forma oscura (casi toda negra, muslos y vientre castaños) e inmaduro (como la hembra, más estriado) confirmados por la UNL; solo se mencionan en la descripción F, sin variante ni prompt propio — decidir"
-      ]
+      "pendientes": [],
+      "recolor_base": {
+        "F": "Circus_buffoni_M.png",
+        "O": "Circus_buffoni_M.png"
+      }
     },
     {
       "id": 99,
@@ -4805,7 +4782,7 @@
       "familia": "Trochilidae",
       "orden": "Apodiformes",
       "descripcion": {
-        "M": "Picaflor chico, algo más grande que el Picaflor Común. Cabeza y dorso verdes con brillo dorado o bronceado. Pico recto, de largo mediano, con la parte de arriba negruzca y la de abajo roja con la punta negra. Alas oscuras. Cola verde en el centro y verde negruzca a los costados, con las puntas blancas. Mentón verde con bordecitos blancos y garganta blanca muy llamativa. Mejillas y pecho verde brillante, formando una banda. Centro del vientre blanco, costados verdes y plumas de abajo de la cola blancas.",
+        "M": "Picaflor chico, algo más grande que el Picaflor Común. Cabeza y dorso verdes con brillo dorado o bronceado. Pico recto, de largo mediano, con la parte de arriba negruzca y la de abajo roja con la punta negra. Alas oscuras. Cola verde en el centro y verde negruzca a los costados, con las puntas blancas. Mentón verde con bordecitos blancos y garganta blanca muy llamativa. Mejillas y pecho verde brillante, formando una banda. Ojo oscuro y patas chiquitas oscuras. Centro del vientre blanco, costados verdes y plumas de abajo de la cola blancas.",
         "F": "La hembra es muy parecida al macho pero menos brillante, con el verde más apagado. Los juveniles tienen el pecho y el vientre gris pardusco, con menos blanco, y las puntas de la cola pardas."
       },
       "habitat": [
@@ -4831,16 +4808,16 @@
       "curiosidades": "Es el único integrante de su género, y su nombre científico lo dice todo: 'Leucochloris' quiere decir 'blanco y verde' y 'albicollis', 'cuello blanco'. Se adapta muy bien a plazas, parques y jardines, y en las últimas décadas se fue extendiendo hacia el sur y el oeste de la provincia de Buenos Aires. Toma néctar de muchísimas flores, nativas e introducidas, sobre todo de bromelias como el clavel del aire, y también caza insectos al vuelo. Es muy territorial y persigue a otros picaflores con un trino metálico rápido. Su canto es una serie de notas agudas y zumbadas, 'bziii-bzi-bzi-bzi'. La hembra hace un nidito en forma de taza con pelusa vegetal y telas de araña, cubierto de líquenes, y pone 2 huevos.",
       "sprites": {},
       "prompts_pixelart": {
-        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thin branch, white background, 1024x1024 pixels, bird filling 60% of canvas height, small hummingbird, glittering golden-green to bronze-green crown and nape, medium-length straight bill with a blackish upper mandible and a red lower mandible with a black tip, bronze-green back, dusky wings, tail golden-green in the center and blackish-green on the sides with white tips, green chin with white feather edges, bright white throat, brilliant green cheeks and breast band, white center of the belly with green flanks, white undertail, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "M": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: keep the dark eye and the tiny dark feet, make the crown, nape and back glittering golden-green to bronze-green, make the upper mandible blackish and the lower mandible red with a black tip, make the throat bright white, make the chin green with white feather edges, make the cheeks and breast band brilliant green, make the center of the belly white with green flanks, make the undertail white, make the tail golden-green in the center and blackish-green on the sides with white tips, keep white background, no shadow, no text",
         "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make all the green plumage duller and less glittery, keep the white throat, white belly center, white tail tips and the bill colors unchanged, keep white background, no shadow, no text"
       },
       "audio_ebird_code": "whthum2",
       "gbif_taxon_key": 2476291,
-      "pendientes": [
-        "Color de ojo sin confirmar (omitido en prompt M); UNL, avespampa y oiseaux-birds no lo dan — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Color de patas sin confirmar (omitido en prompt M) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Juvenil (pecho y vientre gris pardusco, puntas de la cola pardas) solo mencionado en F, sin variante J — decidir"
-      ]
+      "pendientes": [],
+      "recolor_base": {
+        "M": "Chlorostilbon_lucidus_M.png",
+        "F": "Leucochloris_albicollis_M.png"
+      }
     },
     {
       "id": 101,
@@ -4938,9 +4915,7 @@
       },
       "audio_ebird_code": "grnkin",
       "gbif_taxon_key": 2475486,
-      "pendientes": [
-        "Juvenil (como la hembra pero más apagado, con pintitas anteadas en la corona y las alas, según Wikipedia en) sin variante propia — decidir"
-      ]
+      "pendientes": []
     },
     {
       "id": 103,
@@ -5129,9 +5104,7 @@
       },
       "audio_ebird_code": "dulgua1",
       "gbif_taxon_key": 2482212,
-      "pendientes": [
-        "Juvenil (garganta blanca, sin manchas blancas arriba, según Wikipedia pt) sin variante propia — decidir"
-      ]
+      "pendientes": []
     },
     {
       "id": 107,
@@ -5286,7 +5259,8 @@
       "familia": "Icteridae",
       "orden": "Passeriformes",
       "descripcion": {
-        "D": "Tordo mediano, todo negro con un brillo suave, sin el reflejo violáceo del Tordo Renegrido. Pico negro, corto y cónico. Ojo pardo rojizo. Dorso, alas y cola negros. Debajo del ala tiene plumas castañas que casi nunca se ven con el ala cerrada. Garganta, pecho y vientre negros. Patas negras. La hembra es parecida al macho pero algo más apagada. El juvenil es muy distinto: se parece al Tordo Músico."
+        "D": "Tordo mediano, todo negro con un brillo suave, sin el reflejo violáceo del Tordo Renegrido. Pico negro, corto y cónico. Ojo pardo rojizo. Dorso, alas y cola negros. Debajo del ala tiene plumas castañas que casi nunca se ven con el ala cerrada. Garganta, pecho y vientre negros. Patas negras. La hembra es parecida al macho pero algo más apagada.",
+        "J": "El juvenil es muy distinto del adulto: pardo grisáceo con las alas rufas, casi igual al Tordo Músico, que es el que lo cría. Anda en bandadas junto a ellos y cambia al plumaje negro a las pocas semanas."
       },
       "habitat": [
         "pastizal",
@@ -5325,13 +5299,15 @@
       "curiosidades": "No hace nido ni cría a sus pichones: pone sus huevos en el nido de otras aves, casi siempre del Tordo Músico. Es el único parásito de cría conocido cuyos pichones imitan a los del ave que los cría: tienen casi el mismo plumaje y hasta copian los pedidos de comida de los pichones de Tordo Músico. En un solo nido pueden aparecer muchos huevos, porque varias hembras llegan a poner en el mismo. Suele andar en parejas o en bandadas junto con el Tordo Músico, y busca semillas e insectos en el suelo, muchas veces cerca del ganado. Su voz es un grito fuerte, explosivo y penetrante.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on the ground, white background, 1024x1024 pixels, bird filling 65% of canvas height, stocky cowbird with a short conical black bill, entirely black plumage with a faint dull sheen and no purple gloss, small reddish brown eye with a tiny dark pupil, black back, wings and tail, black throat, breast and belly, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on the ground, white background, 1024x1024 pixels, bird filling 65% of canvas height, stocky cowbird with a short conical black bill, entirely black plumage with a faint dull sheen and no purple gloss, small reddish brown eye with a tiny dark pupil, black back, wings and tail, black throat, breast and belly, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: keep the grey-brown head, body and tail and the rufous wings of this bird, make the short conical bill black, make the lores and the area around the eye dark, make the legs black, keep white background, no shadow, no text"
       },
       "audio_ebird_code": "scrcow1",
       "gbif_taxon_key": 9506351,
-      "pendientes": [
-        "Juvenil distinto (la UNL solo dice que se parece al Tordo Músico) sin variante propia ni descripción detallada — falta fuente con el plumaje juvenil — BOW (sep 2026): el juvenil imita al del Tordo Músico (plumaje \"aliblanco\"), confirma la UNL; no trae descripción detallada"
-      ]
+      "pendientes": [],
+      "recolor_base": {
+        "J": "Agelaioides_badius_D.png"
+      }
     },
     {
       "id": 111,
@@ -5342,7 +5318,7 @@
       "orden": "Passeriformes",
       "descripcion": {
         "M": "Pajarito muy chico e inquieto, de cola corta. Cabeza gris azulada, con la zona entre el pico y el ojo negra. Pico fino, negruzco arriba y amarillo abajo. Ojo pardo oscuro. Dorso gris azulado con una mancha verde oliva en la espalda. Alas negruzcas con bordes grises y dos bandas blancas. Cola negruzca con blanco en las plumas de los costados. Garganta y pecho amarillos con un fuerte tono anaranjado. Vientre amarillo. Patas rosadas o rojizas.",
-        "F": "La hembra es parecida al macho pero más apagada, con poco o nada de anaranjado en el pecho."
+        "F": "La hembra es parecida al macho pero más apagada, con poco o nada de anaranjado en el pecho, y sin el negro entre el pico y el ojo."
       },
       "habitat": [
         "monte",
@@ -5378,13 +5354,16 @@
       "sprites": {},
       "prompts_pixelart": {
         "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thin branch, white background, 1024x1024 pixels, bird filling 60% of canvas height, tiny warbler with a short tail, blue-grey crown and face with black lores, thin bill with a blackish upper mandible and a yellow lower mandible, small dark brown eye with a tiny dark pupil, blue-grey back with an olive-green patch on the upper back, blackish wings with grey edges and two bold white wing bars, short blackish tail with white on the outer feathers, bright yellow throat and breast washed with strong orange, yellow belly, pinkish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
-        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: female duller than the male, make the blue-grey upperparts slightly duller, remove most of the orange wash from the throat and breast leaving them plain yellow, keep the white wing bars, the olive back patch, the bill and the pinkish legs unchanged, keep white background, no shadow, no text"
+        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: female duller than the male, make the blue-grey upperparts slightly duller, replace the black lores with blue-grey like the rest of the face, remove most of the orange wash from the throat and breast leaving them plain yellow, keep the white wing bars, the olive back patch, the bill and the pinkish legs unchanged, keep white background, no shadow, no text"
       },
       "audio_ebird_code": "tropar",
       "gbif_taxon_key": 7341895,
       "pendientes": [
-        "Lorum negro en la hembra: Wikipedia (en) dice que las hembras de la subespecie de México no tienen la máscara negra, pero no lo aclara para la subespecie de Argentina — se mantuvo en el recolor F, revisar"
-      ]
+        "Variante F sin máscara negra: al ver el sprite, decidir si queda como hembra o como variante de color (Wikipedia en solo confirma hembras sin máscara en México)"
+      ],
+      "recolor_base": {
+        "F": "Setophaga_pitiayumi_M.png"
+      }
     },
     {
       "id": 112,
@@ -5531,9 +5510,7 @@
       },
       "audio_ebird_code": "greyel",
       "gbif_taxon_key": 2481720,
-      "pendientes": [
-        "Plumaje reproductivo (más negro en hombros y dorso, pecho más manchado, según Wikipedia en) sin variante — en Argentina se ve casi siempre en plumaje de descanso"
-      ]
+      "pendientes": []
     },
     {
       "id": 115,
@@ -5643,7 +5620,7 @@
       "orden": "Charadriiformes",
       "descripcion": {
         "D": "Gaviota mediana. Cabeza y garganta grises, formando un capuchón que conserva todo el año; fuera de la época de cría tiene además una línea oscura en la nuca. Pico rojo. Ojo amarillo. Dorso y alas grises; la punta del ala es negra con manchas blancas y la base de las plumas largas del ala blanca. Cuello, rabadilla, cola y partes de abajo blancos. Patas rojas.",
-        "J": "El juvenil tiene la cabeza y el dorso blanquecinos moteados de pardo, las alas pardas y la cola blanca con una banda oscura cerca de la punta. El ojo es oscuro. Tarda dos años en tener el plumaje de adulto."
+        "J": "El juvenil tiene la cabeza y el dorso blanquecinos moteados de pardo, las alas pardas y la cola blanca con una banda oscura cerca de la punta. El ojo es oscuro, el pico pardo anaranjado oscuro con la punta negruzca y las patas pardo anaranjadas apagadas. Tarda dos años en tener el plumaje de adulto."
       },
       "habitat": [
         "humedal",
@@ -5674,13 +5651,11 @@
       "sprites": {},
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium slender gull, pale grey hood covering the head and throat with a thin dark line on the nape, straight red bill, small yellow eye with a tiny dark pupil, pale grey back and folded wings, black wingtips with small distinct white spots, white neck, rump and tail, white throat, breast and belly, red legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
-        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the head and back whitish mottled with brown, make the folded wings brown, add a dark brown band near the tip of the white tail, make the eye dark, keep the white breast and belly, keep white background, no shadow, no text"
+        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the head and back whitish mottled with brown, make the folded wings brown, add a dark brown band near the tip of the white tail, make the eye dark, make the bill dull dark orange-brown with a blackish tip, make the legs dull brownish orange, keep the white breast and belly, keep white background, no shadow, no text"
       },
       "audio_ebird_code": "grhgul",
       "gbif_taxon_key": 6065820,
-      "pendientes": [
-        "Color del pico y las patas del juvenil sin confirmar (no se cambiaron en el recolor J)"
-      ]
+      "pendientes": []
     },
     {
       "id": 118,
@@ -5834,7 +5809,8 @@
       "familia": "Scolopacidae",
       "orden": "Charadriiformes",
       "descripcion": {
-        "D": "Ave playera grande, de patas largas y postura erguida. Pico muy largo, apenas curvado hacia arriba en la punta, rojizo en la mitad de la base y negro hacia la punta. Ceja y garganta blancas. Ojo pardo oscuro. Dorso gris pardusco. Alas gris parduscas con una banda blanca que se ve en vuelo. Rabadilla blanca y cola negra con la base blanca. Cuello, pecho y costados grises; resto de abajo blanquecino. Patas gris azuladas. Así se ve en Argentina, con plumaje de descanso; con plumaje de cría tiene el dorso moteado de pardo y la parte de abajo castaña."
+        "D": "Ave playera grande, de patas largas y postura erguida. Pico muy largo, apenas curvado hacia arriba en la punta, rojizo en la mitad de la base y negro hacia la punta. Ceja y garganta blancas. Ojo pardo oscuro. Dorso gris pardusco. Alas gris parduscas con una banda blanca que se ve en vuelo. Rabadilla blanca y cola negra con la base blanca. Cuello, pecho y costados grises; resto de abajo blanquecino. Patas gris azuladas. Así se ve en Argentina, con plumaje de descanso.",
+        "R": "Con plumaje de cría, antes de irse al norte, el cuello, el pecho y el vientre son castaño rojizos con barrado fino oscuro, y el dorso es pardo oscuro moteado de canela y blanco. La hembra es más pálida que el macho."
       },
       "habitat": [
         "costa",
@@ -5866,13 +5842,15 @@
       "sprites": {},
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 70% of canvas height, large upright godwit with long legs, white eyebrow, very long slightly upturned bill reddish on the basal half and black toward the tip, small dark brown eye with a tiny dark pupil, plain grey-brown back and folded wings, black tail tip showing below the wings, white throat, grey neck, breast and flanks, whitish belly, long blue-grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "R": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the neck, breast, belly and flanks deep chestnut-red with fine dark barring, make the back and folded wings dark brown spotted with buff and white, make the white eyebrow buffy, keep the bill, eye, black tail tip and blue-grey legs unchanged, keep white background, no shadow, no text",
         "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, large godwit with long pointed wings, neck extended, legs tucked, very long slightly upturned bill reddish at the base and black at the tip, white eyebrow, small dark brown eye with a tiny dark pupil, grey-brown back, open grey-brown wings with a narrow white wing bar and black underwing linings, bright white rump, black tail with a white base, grey breast, whitish belly, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "hudgod",
       "gbif_taxon_key": 2481680,
-      "pendientes": [
-        "Plumaje de cría (dorso moteado de pardo, pecho y vientre castaños; el macho más vivo que la hembra) sin variante R — decidir"
-      ]
+      "pendientes": [],
+      "recolor_base": {
+        "R": "Limosa_haemastica_D.png"
+      }
     },
     {
       "id": 122,
@@ -5927,9 +5905,7 @@
       },
       "audio_ebird_code": "buwcin1",
       "gbif_taxon_key": 2485069,
-      "pendientes": [
-        "Juvenil (de colores más ricos que el adulto, según Wikipedia en) sin variante propia"
-      ]
+      "pendientes": []
     },
     {
       "id": 123,
@@ -5972,9 +5948,7 @@
       },
       "audio_ebird_code": "gcrwar",
       "gbif_taxon_key": 2489770,
-      "pendientes": [
-        "Juvenil sin variante propia"
-      ]
+      "pendientes": []
     },
     {
       "id": 124,
@@ -6024,8 +5998,7 @@
       "audio_ebird_code": "grerhe1",
       "gbif_taxon_key": 2495165,
       "pendientes": [
-        "Provincias: parte de los registros de GBIF/eBird puede corresponder a aves en criaderos o reservas — revisar las cargadas — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia",
-        "Pichones (según la UNL: pardos por arriba con dos líneas blancas, blanquecinos abajo con ocráceo en el cuello y la zona del ojo gris celeste) sin variante J — decidir"
+        "Provincias: parte de los registros de GBIF/eBird puede corresponder a aves en criaderos o reservas — revisar las cargadas — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
@@ -6071,9 +6044,7 @@
       },
       "audio_ebird_code": "firgat1",
       "gbif_taxon_key": 2485086,
-      "pendientes": [
-        "Juvenil (sin castaño en la frente, garganta ocrácea y menos rayado, según Wikipedia en) sin variante propia"
-      ]
+      "pendientes": []
     },
     {
       "id": 126,
@@ -6119,9 +6090,7 @@
       },
       "audio_ebird_code": "mcrtyr1",
       "gbif_taxon_key": 2482651,
-      "pendientes": [
-        "Hembra (más apagada, con la mancha de la corona más chica) y juvenil sin variante propia"
-      ]
+      "pendientes": []
     },
     {
       "id": 127,
@@ -6174,9 +6143,7 @@
       },
       "audio_ebird_code": "masyel5",
       "gbif_taxon_key": 6100791,
-      "pendientes": [
-        "Juvenil sin variante propia"
-      ]
+      "pendientes": []
     }
   ]
 }

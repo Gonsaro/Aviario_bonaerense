@@ -2,7 +2,7 @@ import json
 import subprocess
 from pathlib import Path
 
-VARIANT_LABEL = {'D':'adulto','R':'reproductivo','M':'macho','F':'hembra','J':'juvenil','V':'vuelo'}
+VARIANT_LABEL = {'D':'adulto','R':'reproductivo','M':'macho','F':'hembra','O':'oscuro','J':'juvenil','V':'vuelo'}
 
 data = json.load(open('aviario_data.json', encoding='utf-8'))
 sprites_dir = Path('Sprites')
@@ -38,7 +38,7 @@ for bird in data['especies']:
     parts = bird['nombre_cientifico'].split()
 
     sprites = {}
-    for code in ['D', 'R', 'M', 'F', 'J', 'V']:
+    for code in ['D', 'R', 'M', 'F', 'O', 'J', 'V']:
         key = f'{parts[0]}_{parts[1].lower()}_{code}'
         if key in sp:
             sprites[VARIANT_LABEL[code]] = key

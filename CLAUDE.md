@@ -133,7 +133,8 @@ Cabeza (corona/cresta → cara → pico → ojo) → partes superiores (dorso �
 - No apilar instrucciones que compitan. Si dos marcas similares coexisten, secuenciarlas en una frase.
 
 **§7 Variantes**
-- D=adulto · R=reproductivo · M=macho · F=hembra · J=juvenil · V=vuelo
+- D=adulto · R=reproductivo · M=macho · F=hembra · O=morfo oscuro · J=juvenil · V=vuelo
+- O (morfo oscuro/melánico): solo si el morfo es muy distinto y se ve en Buenos Aires (ej. Gavilán Planeador casi todo negro). Se hace como recolor §8 del sprite base.
 - Hembra/juvenil más apagado: decirlo explícito (`female darker and duskier than the male`)
 - Vuelo: `in flight with wings raised mid-flap`, mostrar patrón ala abierta, cuello extendido, patas recogidas
 - Orden por convención: dimorfismo sexual → macho primero, hembra después; variabilidad por edad → adulto primero, juvenil después. El orden se decide sobre la marcha según el caso.
@@ -143,6 +144,7 @@ Usar image-to-image cuando el sujeto a generar comparte la misma estructura con 
 ```
 recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: <cambios concretos>, keep white background, no shadow, no text
 ```
+Cuando la base no es obvia (otra especie u otra variante), se anota en el campo `recolor_base` de la ficha: `{"<variante>": "<archivo base en Sprites/>"}`, ej. Tordo Pico Corto J → `Agelaioides_badius_D.png`. Se pasa con `--base-image Sprites/<archivo>`.
 No es una regla de "llamativo vs apagado" — es una regla de estructura compartida. No aplica si difieren proporciones, largo de cola, forma de pico o postura.
 
 ### Nomenclatura
