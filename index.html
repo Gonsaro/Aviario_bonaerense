@@ -32,7 +32,7 @@ body{font-family:system-ui,-apple-system,sans-serif;background:#f5f4f0;color:#1a
 .card-img img{max-width:100%;max-height:100%;object-fit:contain;image-rendering:pixelated;image-rendering:crisp-edges}
 .card-body{padding:10px 12px 12px}
 .card-num{font-size:11px;color:#888780;margin-bottom:2px}
-.card-name{font-size:14px;font-weight:500;margin-bottom:3px}.card-name:has(.exo-badge){display:flex;align-items:center;gap:6px}.exo-badge{flex:none;font-size:9px;font-weight:600;letter-spacing:.3px;text-transform:uppercase;padding:1px 5px;border-radius:8px;background:#5a2a14;color:#f0a878;border:1px solid #8a4a2a}
+.card-name{font-size:14px;font-weight:500;margin-bottom:3px}.card-name:has(.exo-badge){display:flex;align-items:center;gap:6px}.exo-badge{flex:none;font-size:9px;font-weight:600;letter-spacing:.3px;text-transform:uppercase;padding:1px 5px;border-radius:8px;background:#c62828;color:#fff;border:1px solid #e53935}
 .card-sci{font-size:11px;color:#888780;font-style:italic;margin-bottom:8px}
 .tags{display:flex;flex-wrap:wrap;gap:4px}
 .tag{font-size:10px;padding:2px 7px;border-radius:10px;cursor:default}
@@ -853,7 +853,7 @@ function render(){
       const badge0=sk0&&sk0.endsWith('_M')?'<span class="sex-badge">&#9794;</span>':sk0&&sk0.endsWith('_F')?'<span class="sex-badge">&#9792;</span>':'';
       const unseen=user&&llActive&&!isSeen(b.id);
       const seenMark=user&&llActive&&isSeen(b.id)?'<span class="seen-badge">✓</span>':'';
-      return `<div class="card${sel===b.id?' active':''}" onclick="pick(${b.id})"><div class="card-img${unseen?' ll-unseen':''}">${src?`<div class="sprite-wrap"><img src="${src}" alt="${b.nombre_comun}">${badge0}${seenMark}</div>`:''}</div><div class="card-body"><div class="card-num">${b.num}</div><div class="card-name">${b.nombre_comun}${b.exotica?'<span class="exo-badge" title="Especie exótica: introducida por el ser humano">exótica</span>':''}</div><div class="card-sci">${b.nombre_cientifico}</div><div class="tags">${iTag(b.estado,false)}<span class="tag ${TC[b.tamanio]}">${b.tamanio}</span></div></div></div>`;
+      return `<div class="card${sel===b.id?' active':''}" onclick="pick(${b.id})"><div class="card-img${unseen?' ll-unseen':''}">${src?`<div class="sprite-wrap"><img src="${src}" alt="${b.nombre_comun}">${badge0}${seenMark}</div>`:''}</div><div class="card-body"><div class="card-num">${b.num}</div><div class="card-name">${b.nombre_comun}${b.exotica?'<span class="exo-badge" title="Especie exótica: introducida por el ser humano">EX</span>':''}</div><div class="card-sci">${b.nombre_cientifico}</div><div class="tags">${iTag(b.estado,false)}<span class="tag ${TC[b.tamanio]}">${b.tamanio}</span></div></div></div>`;
     }).join('');
     h+='</div>';
   }
