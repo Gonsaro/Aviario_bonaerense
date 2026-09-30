@@ -3564,7 +3564,6 @@
       "gbif_taxon_key": 2484213,
       "pendientes": [
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Plumaje juvenil con una sola fuente (Wikipedia en); UNL, avespampa y oiseaux-birds no lo describen — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Provincias: Misiones (10), Río Negro (11) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
@@ -3733,7 +3732,7 @@
       "audio_ebird_code": "gryfin1",
       "gbif_taxon_key": 2491846,
       "pendientes": [
-        "Residencia: se cargó estival; la UNL y avespampa no precisan movimientos estacionales — verificar si hay individuos todo el año en el NE bonaerense — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
+        "Residencia: se cargó estival; la UNL y avespampa no precisan movimientos estacionales — verificar si hay individuos todo el año en el NE bonaerense — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local — BOW (sep 2026): la población del sur (luteiventris) es parcialmente migratoria y forma grandes bandadas fuera de la cría; no precisa si queda todo el año en Buenos Aires",
         "Juvenil descripto con una sola fuente; el prompt J asume base del sprite M — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
       ]
@@ -3787,7 +3786,6 @@
       "gbif_taxon_key": 2498384,
       "pendientes": [
         "Mancha blanca del flanco trasero confirmada en el macho; en la hembra sin confirmar (la UNL solo dice subcaudales blancas) — el recolor F no la menciona — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Ubicación exacta de la mancha blanca del ala sin confirmar: Wikipedia (en) dice mancha blanca en el ala; la UNL describe cubiertas superiores negras e inferiores blancas con punta negra — prompt V dice inner wing — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Envergadura 70 cm con una sola fuente (Wikipedia en) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
       ]
     },
@@ -3901,7 +3899,6 @@
       "pendientes": [
         "Juvenil (todo negruzco, incluso cara, pico y patas) con una sola fuente (Wikipedia es); la UNL y avespampa no lo describen; no se creó variante J — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "No se creó variante V: plumaje uniforme, sin patrón de ala abierta relevante — decidir si hace falta",
-        "Residencia: se cargó permanente; no se confirmó si hay movimientos estacionales en el sur de su distribución — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Provincias: Río Negro (14) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
@@ -4072,8 +4069,6 @@
       "audio_ebird_code": "yewbla2",
       "gbif_taxon_key": 2484205,
       "pendientes": [
-        "Juvenil sin confirmar (solo resúmenes de búsqueda: como la hembra con hombro pardo); UNL y avespampa no lo describen; no se creó variante J — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Residencia: se cargó permanente para Buenos Aires (inferido); Birds of the World indica que las poblaciones del sur migran al norte en invierno; la UNL y avespampa no lo precisan — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Provincias: Chaco (14), Tucumán (18) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
@@ -4087,7 +4082,7 @@
       "orden": "Passeriformes",
       "descripcion": {
         "D": "Pájaro chico y llamativo. Cabeza, copete puntiagudo, garganta y parte alta del pecho rojos; el copete lo levanta cuando se excita. Pico blancuzco o rosado con la punta y la línea de arriba negruzcas. Ojo pardo rojizo. Nuca gris con puntitos blancos. Dorso gris; alas y cola negruzcas. Pecho, vientre y plumas debajo de la cola blancos. Patas negruzcas. Macho y hembra son iguales.",
-        "J": "Como el adulto, pero la cabeza, el copete y el babero son pardo anaranjados apagados en lugar de rojos."
+        "J": "Como el adulto, pero la cabeza, el copete y el babero son pardo anaranjados apagados en lugar de rojos, el dorso gris tiene un lavado pardo y el pico es más oscuro."
       },
       "habitat": [
         "monte",
@@ -4126,12 +4121,11 @@
       "sprites": {},
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched upright on a branch, white background, 1024x1024 pixels, bird filling 60% of canvas height, small songbird, bright red head with a short pointed red crest, pale pinkish-white conical bill with a dark tip, small reddish-brown eye with a tiny dark pupil, grey nape peppered with small distinct white spots, grey back, blackish wings, blackish tail, bright red throat and bib extending onto the upper breast, white lower breast, belly and undertail, blackish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
-        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: replace the bright red head, crest, throat and bib with dull brownish orange, keep all other colors unchanged, keep white background, no shadow, no text"
+        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: replace the bright red head, crest, throat and bib with dull brownish orange, add a light brownish wash to the grey back and wings, make the bill darker grey, keep all other colors unchanged, keep white background, no shadow, no text"
       },
       "audio_ebird_code": "reccar",
       "gbif_taxon_key": 2492081,
       "pendientes": [
-        "Color de pico del juvenil sin confirmar (el recolor J conserva el del adulto); avespampa describe al joven con dorso pardo y copete más claro — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Residencia: se cargó permanente; ninguna fuente lo dice explícitamente — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
       ]
@@ -4309,7 +4303,7 @@
       "familia": "Aramidae",
       "orden": "Gruiformes",
       "descripcion": {
-        "D": "Ave grande de cuello largo y patas largas, parecida a una garza o a un cuervillo. Cabeza y cuello se ven grisáceos por la gran cantidad de estrías blancas; cara y garganta más claras. Pico largo, grueso y apenas curvado hacia abajo, amarillento con la punta más oscura. Ojo pardo. Dorso y alas pardo oscuros con brillo oliva, salpicados de manchitas blancas en forma de triángulo. Cola corta. Pecho pardo con estrías blancas y vientre pardo oscuro liso. Patas largas oscuras. Macho y hembra son iguales."
+        "D": "Ave grande de cuello largo y patas largas, parecida a una garza o a un cuervillo. Cabeza y cuello se ven grisáceos por la gran cantidad de estrías blancas; cara y garganta más claras. Pico largo, grueso y apenas curvado hacia abajo, amarillento con la punta más oscura. Ojo pardo. Dorso y alas pardo oscuros con brillo oliva, salpicados de manchitas blancas en forma de triángulo. Cola corta. Pecho pardo con estrías blancas y vientre pardo oscuro con manchas blancas, más liso hacia la parte trasera. Patas largas oscuras. Macho y hembra son iguales."
       },
       "habitat": [
         "humedal",
@@ -4343,12 +4337,11 @@
       "curiosidades": "Se alimenta casi solo de caracoles de agua, sobre todo los grandes caracoles manzana (ampularias): su pico no cierra del todo cerca de la punta y funciona como una pinza para sacar el caracol de la concha sin romperla. Muchas veces la punta del pico está un poco torcida hacia la derecha, igual que las conchas que abre. Es más fácil oírlo que verlo: su grito fuerte y lastimero, 'carrau', se escucha sobre todo de noche y al amanecer, y le dio su nombre. En Paraguay y el Litoral hay una leyenda que cuenta que era un joven que siguió bailando cuando le avisaron que su madre había muerto y fue castigado a llorar para siempre en los esteros. Camina como si rengueara, y en inglés lo llaman 'limpkin' por eso.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing in shallow water, white background, 1024x1024 pixels, bird filling 65% of canvas height, large long-necked long-legged wading bird, greyish head and neck densely streaked with white, paler face and throat, long heavy slightly downcurved yellowish bill with a darker tip, small brown eye with a tiny dark pupil, dark olive-brown back and wings covered with small distinct white triangular spots, short dark brown tail, brown breast streaked with white, plain dark brown belly, long dark grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing in shallow water, white background, 1024x1024 pixels, bird filling 65% of canvas height, large long-necked long-legged wading bird, greyish head and neck densely streaked with white, paler face and throat, long heavy slightly downcurved yellowish bill with a darker tip, small brown eye with a tiny dark pupil, dark olive-brown back and wings covered with small distinct white triangular spots, short dark brown tail, brown breast streaked with white, dark brown belly marked with small distinct white streaks, plainer toward the tail, long dark grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "limpki",
       "gbif_taxon_key": 2474337,
       "pendientes": [
-        "Vientre: la ficha lo da pardo oscuro liso, pero oiseaux-birds dice partes inferiores muy estriadas y manchadas de blanco y Wikipedia (en) 'marcado de blanco salvo la parte trasera'; la UNL no lo describe — revisar descripción y prompt — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Juvenil (manchas blancas más finas, aspecto estriado según oiseaux-birds y Wikipedia) no justifica variante propia; no se creó J ni V — decidir",
         "Provincias: La Rioja (13) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
@@ -4659,7 +4652,6 @@
       "gbif_taxon_key": 7340156,
       "pendientes": [
         "Descripción basada en la subespecie nominal (mixtus, NE de Buenos Aires y CABA); berlepschi (SO de Buenos Aires) y malleator (norte) son más oscuras y más estriadas abajo — decidir si se mencionan",
-        "Juvenil (más oscuro, con rojo en la corona en ambos sexos) con una sola fuente; se describió dentro de F, sin variante J — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Provincias: Misiones (10) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
@@ -4673,7 +4665,7 @@
       "orden": "Gruiformes",
       "descripcion": {
         "D": "Gallineta mediana, de cuerpo alargado, cola corta y pico largo. Pico verdoso, con la base de arriba celeste y la base de abajo roja: de ahí su nombre de 'pico pintado'. Ojo rojo. Corona y nuca gris parduscas; cara gris lisa. Dorso y alas pardo oliváceos. Garganta, pecho y vientre gris plomizo; parte trasera del vientre, flancos y plumas de abajo de la cola gris parduscos. Patas rojas, con dedos largos. Macho y hembra son iguales.",
-        "J": "El juvenil es pardo uniforme, sin el gris del pecho, y tiene el pico y las patas negros."
+        "J": "El juvenil es pardo uniforme, sin el gris del pecho, y tiene el pico y las patas negros, y el ojo pardo en lugar de rojo."
       },
       "habitat": [
         "humedal",
@@ -4714,12 +4706,11 @@
       "sprites": {},
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium rail with an elongated body, short tail and long legs, greyish-brown crown and nape, plain grey face, long straight greenish bill with a sky-blue base on the upper mandible and a bright red base on the lower mandible, small red eye with a tiny dark pupil, plain olive-brown back and wings, short olive-brown tail, lead-grey throat, breast and belly, greyish-brown rear flanks and undertail, red legs with long toes, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
-        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the whole plumage uniform brown including the face, throat and breast, make the bill all black, make the legs black, keep white background, no shadow, no text"
+        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the whole plumage uniform brown including the face, throat and breast, make the bill all black, make the legs black, make the eye dark brown instead of red, keep white background, no shadow, no text"
       },
       "audio_ebird_code": "plurai1",
       "gbif_taxon_key": 2474715,
       "pendientes": [
-        "Color de ojo del juvenil sin confirmar (el recolor J mantiene el ojo rojo del adulto) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Residencia: se cargó permanente, pero según Wikipedia (en) las poblaciones que crían en la región pampeana podrían moverse al norte en invierno; la UNL y avespampa no lo precisan — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Provincias: La Rioja (12) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
@@ -4774,7 +4765,7 @@
       "audio_ebird_code": "refcoo1",
       "gbif_taxon_key": 2474390,
       "pendientes": [
-        "Juvenil: se asumió escudete negruzco o ausente (Wikipedia en solo dice 'pico negruzco'); color de ojo y de patas del juvenil sin confirmar (el recolor mantiene los del adulto) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
+        "Juvenil: se asumió escudete negruzco o ausente (Wikipedia en solo dice 'pico negruzco'); color de ojo y de patas del juvenil sin confirmar (el recolor mantiene los del adulto) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local — BOW (sep 2026): juvenil gris pardo uniforme, con escudete puntiagudo, subcaudales blancas y pico negruzco; no da color de ojo ni patas",
         "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Provincias: Corrientes (13), Tierra del Fuego (13) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
