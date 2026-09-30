@@ -5358,9 +5358,7 @@
       },
       "audio_ebird_code": "tropar",
       "gbif_taxon_key": 7341895,
-      "pendientes": [
-        "Variante F sin máscara negra: al ver el sprite, decidir si queda como hembra o como variante de color (Wikipedia en solo confirma hembras sin máscara en México)"
-      ],
+      "pendientes": [],
       "recolor_base": {
         "F": "Setophaga_pitiayumi_M.png"
       }
@@ -5983,7 +5981,6 @@
         "San Luis",
         "La Pampa",
         "Mendoza",
-        "La Rioja",
         "Catamarca",
         "Salta",
         "Jujuy",
@@ -5997,9 +5994,7 @@
       },
       "audio_ebird_code": "grerhe1",
       "gbif_taxon_key": 2495165,
-      "pendientes": [
-        "Provincias: parte de los registros de GBIF/eBird puede corresponder a aves en criaderos o reservas — revisar las cargadas — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
-      ]
+      "pendientes": []
     },
     {
       "id": 125,
