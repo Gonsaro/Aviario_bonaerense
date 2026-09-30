@@ -3514,11 +3514,14 @@
       "sprites": {},
       "prompts_pixelart": {
         "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thin branch, white background, 1024x1024 pixels, bird including its long tail filling about 75% of canvas width, tiny slender songbird with a very long graduated tail about as long as the body, blue-grey crown and nape, black mask covering only the forehead, lores and the area around the eye back to the ear-coverts, a thin white line along the lower edge of the mask, pale grey chin and throat below the white line with no black on the chin or throat, thin fairly long straight dark lead-grey bill, small dark brown eye within the black mask, blue-grey back, dusky blackish wings with white-edged coverts and secondaries, very long black tail with white outer tail feathers, pale grey breast fading to a whitish belly, dark lead-grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
-        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: remove all the black from the face so the forehead, lores, area around the eye and ear-coverts are pale grey and whitish, add only one short black crescent line at the rear edge of the whitish ear-coverts, well behind the eye and not touching it, keep the small dark eye, make the blue-grey upperparts duller and less bluish, make the grey throat and breast paler, keep white background, no shadow, no text"
+        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: remove the black mask so the forehead, lores and area around the eye are blue-grey like the crown, make the ear-coverts whitish, add only one short black crescent line at the rear edge of the whitish ear-coverts, well behind the eye and not touching it, keep the blue-grey crown, nape and back almost as bluish as in this sprite, only very slightly duller, keep the blackish wings with white edges, the black and white tail, the pale grey throat and breast and the whitish belly unchanged, keep white background, no shadow, no text"
       },
       "audio_ebird_code": "masgna1",
       "gbif_taxon_key": 2487593,
-      "pendientes": []
+      "pendientes": [],
+      "recolor_base": {
+        "F": "Polioptila_dumicola_M.png"
+      }
     },
     {
       "id": 75,
