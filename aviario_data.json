@@ -5761,7 +5761,6 @@
       "orden": "Charadriiformes",
       "descripcion": {
         "D": "Gaviota mediana. Cabeza y garganta grises, formando un capuchón que conserva todo el año; fuera de la época de cría tiene además una línea oscura en la nuca. Pico rojo. Ojo amarillo. Dorso y alas grises; la punta del ala es negra con manchas blancas y la base de las plumas largas del ala blanca. Cuello, rabadilla, cola y partes de abajo blancos. Patas rojas.",
-        "R": "En la época de cría tiene un capuchón gris claro que cubre la cabeza y la garganta, separado del cuello blanco por un borde gris más oscuro. A veces el blanco de abajo tiene un tinte rosado.",
         "J": "El juvenil tiene la cabeza y el dorso blanquecinos moteados de pardo, las alas pardas y la cola blanca con una banda oscura cerca de la punta. El ojo es oscuro. Tarda dos años en tener el plumaje de adulto."
       },
       "habitat": [
@@ -5793,7 +5792,6 @@
       "sprites": {},
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium slender gull, pale grey hood covering the head and throat with a thin dark line on the nape, straight red bill, small yellow eye with a tiny dark pupil, pale grey back and folded wings, black wingtips with small distinct white spots, white neck, rump and tail, white throat, breast and belly, red legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
-        "R": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the grey hood slightly darker with a thin darker grey border where it meets the white neck, remove the dark line on the nape, keep the red bill and legs, the yellow eye, the grey wings with black and white wingtips and the white body unchanged, keep white background, no shadow, no text",
         "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the head and back whitish mottled with brown, make the folded wings brown, add a dark brown band near the tip of the white tail, make the eye dark, keep the white breast and belly, keep white background, no shadow, no text"
       },
       "audio_ebird_code": "grhgul",
@@ -5801,8 +5799,7 @@
       "pendientes": [
         "Estado de conservación: GBIF devuelve 'no evaluada' (NE); Wikipedia (es) la da como Preocupación menor (UICN 3.1) — se cargó LC, confirmar",
         "Color del pico y las patas del juvenil sin confirmar (no se cambiaron en el recolor J)",
-        "Provincias: Misiones (11), Chaco (15), Salta (11), Chubut (14) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia",
-        "Variante R: según la UNL el capuchón gris se conserva todo el año, así que R casi no se diferencia de D (solo el borde más oscuro del capuchón) — decidir si se mantiene"
+        "Provincias: Misiones (11), Chaco (15), Salta (11), Chubut (14) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
       ]
     },
     {
