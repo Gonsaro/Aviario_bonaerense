@@ -3822,8 +3822,7 @@
       "audio_ebird_code": "spwpig3",
       "gbif_taxon_key": 2495335,
       "pendientes": [
-        "Se cargó una sola variante (D): dimorfismo leve (hembra con cabeza y cuello más apagados, confirmado por oiseaux-birds); evaluar si conviene una variante F",
-        "La ficha describe la subespecie nominal; la subespecie albipennis (extremo NO de Argentina, confirmada por oiseaux-birds) tiene una franja blanca en el ala y menos pintas — decidir si se menciona"
+        "Se cargó una sola variante (D): dimorfismo leve (hembra con cabeza y cuello más apagados, confirmado por oiseaux-birds); evaluar si conviene una variante F"
       ]
     },
     {
@@ -4558,7 +4557,7 @@
       "familia": "Picidae",
       "orden": "Piciformes",
       "descripcion": {
-        "M": "Carpintero chiquito, del tamaño de un gorrión grande. Frente y corona pardo negruzcas, con algunas rayitas blancas en el macho, y la nuca roja. Cara blanca, con una franja parda oscura que sale desde atrás del ojo y un bigote fino pardo oscuro. Pico negro. Ojo pardo. Dorso y alas pardo negruzcos con muchas barras blancas; las plumas de vuelo pardas barradas de blanco. Cola pardo negruzca con barritas blancas finas. Garganta, pecho y vientre blancos con un tinte amarillento o acanelado, con estrías pardas oscuras en el pecho y el vientre y barras pardas en los costados. Patas grises.",
+        "M": "Carpintero chiquito, del tamaño de un gorrión grande. Frente y corona pardo negruzcas, con algunas rayitas blancas en el macho, y la nuca roja. Cara blanca, con una franja parda oscura que sale desde atrás del ojo y un bigote fino pardo oscuro. Pico negro. Ojo pardo. Dorso y alas pardo negruzcos con muchas barras blancas; las plumas de vuelo pardas barradas de blanco. Cola pardo negruzca con barritas blancas finas. Garganta, pecho y vientre blancos con un tinte amarillento o acanelado, con estrías pardas oscuras en el pecho y el vientre y barras pardas en los costados. Patas grises. En el sudoeste de la provincia de Buenos Aires es más oscuro y más estriado abajo.",
         "F": "La hembra es igual al macho pero con la nuca negra en lugar de roja y la corona toda negra, sin rayitas blancas. Los juveniles son más apagados y oscuros, con más estrías y barras abajo, y los dos sexos tienen algo de rojo en la corona."
       },
       "habitat": [
@@ -4602,9 +4601,7 @@
       },
       "audio_ebird_code": "chewoo3",
       "gbif_taxon_key": 7340156,
-      "pendientes": [
-        "Descripción basada en la subespecie nominal (mixtus, NE de Buenos Aires y CABA); berlepschi (SO de Buenos Aires) y malleator (norte) son más oscuras y más estriadas abajo — decidir si se mencionan"
-      ]
+      "pendientes": []
     },
     {
       "id": 96,
@@ -4853,7 +4850,7 @@
       "familia": "Tyrannidae",
       "orden": "Passeriformes",
       "descripcion": {
-        "D": "Del tamaño de un benteveo, pero todo rayado. Corona negruzca, con una mancha amarilla escondida que casi nunca se ve. Ceja blanca, una banda oscura que cruza el ojo como un antifaz y una línea blanca debajo. Pico negro, fuerte, con la base de la parte de abajo más clara. Ojo pardo. Dorso pardo oscuro con estrías blanquecinas. Alas pardas con bordes blanquecinos en las plumas. Cola parda con los bordes de las plumas castaño rojizos. Partes de abajo blanquecinas con tono ocráceo, todas cubiertas de estrías pardo oscuras. Patas negras. Macho y hembra son iguales."
+        "D": "Del tamaño de un benteveo, pero todo rayado. Corona negruzca, con una mancha amarilla escondida que casi nunca se ve. Ceja blanca, una banda oscura que cruza el ojo como un antifaz y una línea blanca debajo. Pico negro, fuerte, con la base de la parte de abajo más clara. Ojo pardo. Dorso pardo oscuro con estrías blanquecinas. Rabadilla canela, estriada de oscuro. Alas pardas con bordes blanquecinos en las plumas. Cola parda con los bordes de las plumas castaño rojizos. Partes de abajo blanquecinas con tono ocráceo, todas cubiertas de estrías pardo oscuras. Patas negras. Macho y hembra son iguales."
       },
       "habitat": [
         "bosque",
@@ -4893,9 +4890,7 @@
       },
       "audio_ebird_code": "strfly1",
       "gbif_taxon_key": 2483497,
-      "pendientes": [
-        "Rabadilla: Wikipedia (en) la da castaño rojiza para la subespecie típica, pero la subespecie de Argentina (solitarius) es 'mucho menos rojiza' y la UNL no la menciona — omitida en descripción y prompt — BOW (sep 2026): parte baja de la rabadilla y supracaudales canela rufas estriadas de oscuro (descripción general, sin separar solitarius)"
-      ]
+      "pendientes": []
     },
     {
       "id": 102,
@@ -5482,9 +5477,7 @@
       },
       "audio_ebird_code": "lotmea1",
       "gbif_taxon_key": 9667237,
-      "pendientes": [
-        "Vientre negro descripto para la subespecie típica; la subespecie de Córdoba y San Luis (obscurus) tiene menos rojo abajo y la del noroeste (catamarcanus) es más pálida — sin variante propia"
-      ]
+      "pendientes": []
     },
     {
       "id": 114,
@@ -5592,9 +5585,7 @@
       },
       "audio_ebird_code": "y01036",
       "gbif_taxon_key": 2483966,
-      "pendientes": [
-        "La subespecie del oeste (munda, antes especie aparte) es más grande, más gris, con bandas alares blancas y vientre blanco: sin variante propia — decidir"
-      ]
+      "pendientes": []
     },
     {
       "id": 116,
