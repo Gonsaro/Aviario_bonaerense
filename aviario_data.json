@@ -3359,9 +3359,7 @@
       },
       "audio_ebird_code": "barswa",
       "gbif_taxon_key": 9515886,
-      "pendientes": [
-        "Provincias: La Rioja (13) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
-      ]
+      "pendientes": []
     },
     {
       "id": 72,
@@ -3405,9 +3403,7 @@
       },
       "audio_ebird_code": "eursta",
       "gbif_taxon_key": 9809229,
-      "pendientes": [
-        "Provincias: Catamarca (10), San Juan (13) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
-      ]
+      "pendientes": []
     },
     {
       "id": 73,
@@ -3462,9 +3458,7 @@
       },
       "audio_ebird_code": "guicuc1",
       "gbif_taxon_key": 2496462,
-      "pendientes": [
-        "Envergadura sin dato (null): UNL, oiseaux-birds y avespampa no la dan; solo un sitio de divulgación sin fuente dice ~40 cm — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
-      ]
+      "pendientes": []
     },
     {
       "id": 74,
@@ -3517,9 +3511,7 @@
       "audio_ebird_code": "masgna1",
       "gbif_taxon_key": 2487593,
       "pendientes": [
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Plumaje juvenil sin datos (sin variante J) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: Neuquén (16), Río Negro (18) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
+        "Plumaje juvenil sin datos (sin variante J) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
       ]
     },
     {
@@ -3562,10 +3554,7 @@
       },
       "audio_ebird_code": "baymar1",
       "gbif_taxon_key": 2484213,
-      "pendientes": [
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: Misiones (10), Río Negro (11) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
-      ]
+      "pendientes": []
     },
     {
       "id": 76,
@@ -3669,9 +3658,7 @@
       "audio_ebird_code": "gilhum1",
       "gbif_taxon_key": 5228562,
       "pendientes": [
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Se cargó una sola variante (D): dimorfismo leve (hembra algo más opaca, con la parte baja del vientre grisácea o verdosa según Wikipedia y oiseaux-birds); evaluar si conviene una variante F",
-        "Provincias: Mendoza (11) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
+        "Se cargó una sola variante (D): dimorfismo leve (hembra algo más opaca, con la parte baja del vientre grisácea o verdosa según Wikipedia y oiseaux-birds); evaluar si conviene una variante F"
       ]
     },
     {
@@ -3691,7 +3678,7 @@
         "humedal",
         "urbano"
       ],
-      "residencia": "estival",
+      "residencia": "permanente",
       "tamanio_categoria": "chico",
       "largo_cm": "11-14",
       "envergadura_cm": null,
@@ -3729,10 +3716,7 @@
       },
       "audio_ebird_code": "gryfin1",
       "gbif_taxon_key": 2491846,
-      "pendientes": [
-        "Residencia: se cargó estival; la UNL y avespampa no precisan movimientos estacionales — verificar si hay individuos todo el año en el NE bonaerense — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local — BOW (sep 2026): la población del sur (luteiventris) es parcialmente migratoria y forma grandes bandadas fuera de la cría; no precisa si queda todo el año en Buenos Aires",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
-      ]
+      "pendientes": []
     },
     {
       "id": 79,
@@ -3753,7 +3737,7 @@
       "residencia": "permanente",
       "tamanio_categoria": "mediano",
       "largo_cm": "35-38",
-      "envergadura_cm": 70,
+      "envergadura_cm": null,
       "estado_conservacion": "LC",
       "provincias": [
         "Buenos Aires",
@@ -3782,8 +3766,7 @@
       "audio_ebird_code": "rintea1",
       "gbif_taxon_key": 2498384,
       "pendientes": [
-        "Mancha blanca del flanco trasero confirmada en el macho; en la hembra sin confirmar (la UNL solo dice subcaudales blancas) — el recolor F no la menciona — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Envergadura 70 cm con una sola fuente (Wikipedia en) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
+        "Mancha blanca del flanco trasero confirmada en el macho; en la hembra sin confirmar (la UNL solo dice subcaudales blancas) — el recolor F no la menciona — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
       ]
     },
     {
@@ -3840,9 +3823,7 @@
       "gbif_taxon_key": 2495335,
       "pendientes": [
         "Se cargó una sola variante (D): dimorfismo leve (hembra con cabeza y cuello más apagados, confirmado por oiseaux-birds); evaluar si conviene una variante F",
-        "La ficha describe la subespecie nominal; la subespecie albipennis (extremo NO de Argentina, confirmada por oiseaux-birds) tiene una franja blanca en el ala y menos pintas — decidir si se menciona",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: Misiones (14) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
+        "La ficha describe la subespecie nominal; la subespecie albipennis (extremo NO de Argentina, confirmada por oiseaux-birds) tiene una franja blanca en el ala y menos pintas — decidir si se menciona"
       ]
     },
     {
@@ -3895,9 +3876,7 @@
       "gbif_taxon_key": 2480812,
       "pendientes": [
         "Juvenil (todo negruzco, incluso cara, pico y patas) con una sola fuente (Wikipedia es); la UNL y avespampa no lo describen; no se creó variante J — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "No se creó variante V: plumaje uniforme, sin patrón de ala abierta relevante — decidir si hace falta",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: Río Negro (14) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
+        "No se creó variante V: plumaje uniforme, sin patrón de ala abierta relevante — decidir si hace falta"
       ]
     },
     {
@@ -3953,8 +3932,7 @@
       "audio_ebird_code": "siltea1",
       "gbif_taxon_key": 9305555,
       "pendientes": [
-        "Se cargó una sola variante (D): dimorfismo leve (hembra más apagada, flancos menos barrados, a veces sin amarillo en el pico; juvenil más apagado con la cabeza más parda — oiseaux-birds); evaluar variantes F/J",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
+        "Se cargó una sola variante (D): dimorfismo leve (hembra más apagada, flancos menos barrados, a veces sin amarillo en el pico; juvenil más apagado con la cabeza más parda — oiseaux-birds); evaluar variantes F/J"
       ]
     },
     {
@@ -4007,9 +3985,7 @@
       "audio_ebird_code": "camfli1",
       "gbif_taxon_key": 2478233,
       "pendientes": [
-        "Juvenil: más apagado, con barras negras más anchas y el amarillo más pálido (oiseaux-birds y Wikipedia); evaluar si conviene una variante J",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: La Rioja (13) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
+        "Juvenil: más apagado, con barras negras más anchas y el amarillo más pálido (oiseaux-birds y Wikipedia); evaluar si conviene una variante J"
       ]
     },
     {
@@ -4064,10 +4040,7 @@
       },
       "audio_ebird_code": "yewbla2",
       "gbif_taxon_key": 2484205,
-      "pendientes": [
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: Chaco (14), Tucumán (18) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
-      ]
+      "pendientes": []
     },
     {
       "id": 85,
@@ -4121,10 +4094,7 @@
       },
       "audio_ebird_code": "reccar",
       "gbif_taxon_key": 2492081,
-      "pendientes": [
-        "Residencia: se cargó permanente; ninguna fuente lo dice explícitamente — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
-      ]
+      "pendientes": []
     },
     {
       "id": 86,
@@ -4176,10 +4146,7 @@
       },
       "audio_ebird_code": "comgal1",
       "gbif_taxon_key": 7340222,
-      "pendientes": [
-        "Residencia: se cargó permanente para Buenos Aires (inferido); ninguna fuente consultada lo dice para Argentina — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: Tierra del Fuego (12) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
-      ]
+      "pendientes": []
     },
     {
       "id": 87,
@@ -4232,8 +4199,7 @@
       "audio_ebird_code": "nabwoo1",
       "gbif_taxon_key": 2486024,
       "pendientes": [
-        "Juvenil (más oscuro, ceja y partes inferiores más ocráceas según Wikipedia en) no justifica variante propia; no se creó J — decidir",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
+        "Juvenil (más oscuro, ceja y partes inferiores más ocráceas según Wikipedia en) no justifica variante propia; no se creó J — decidir"
       ]
     },
     {
@@ -4252,7 +4218,7 @@
         "ribereño",
         "costa"
       ],
-      "residencia": "permanente",
+      "residencia": "estival",
       "tamanio_categoria": "grande",
       "largo_cm": "71-86",
       "envergadura_cm": "120-133",
@@ -4286,9 +4252,7 @@
       "audio_ebird_code": "rosspo1",
       "gbif_taxon_key": 2480803,
       "pendientes": [
-        "Juvenil: color de patas sin confirmar (el recolor J conserva las del adulto); color de cola inferido del plumaje general blanco rosado pálido (oiseaux-birds) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Residencia: se cargó permanente; no se encontró fuente sobre movimientos estacionales en Buenos Aires — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: La Rioja (10), San Juan (13) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
+        "Juvenil: color de patas sin confirmar (el recolor J conserva las del adulto); color de cola inferido del plumaje general blanco rosado pálido (oiseaux-birds) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
       ]
     },
     {
@@ -4338,8 +4302,7 @@
       "audio_ebird_code": "limpki",
       "gbif_taxon_key": 2474337,
       "pendientes": [
-        "Juvenil (manchas blancas más finas, aspecto estriado según oiseaux-birds y Wikipedia) no justifica variante propia; no se creó J ni V — decidir",
-        "Provincias: La Rioja (13) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
+        "Juvenil (manchas blancas más finas, aspecto estriado según oiseaux-birds y Wikipedia) no justifica variante propia; no se creó J ni V — decidir"
       ]
     },
     {
@@ -4445,9 +4408,7 @@
       "audio_ebird_code": "saytan1",
       "gbif_taxon_key": 2488622,
       "pendientes": [
-        "Hembra algo más apagada, más gris parduzca (oiseaux-birds), y juvenil más opaco y oscuro; no se crearon F ni J — decidir si hacen falta",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: Neuquén (11) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
+        "Hembra algo más apagada, más gris parduzca (oiseaux-birds), y juvenil más opaco y oscuro; no se crearon F ni J — decidir si hacen falta"
       ]
     },
     {
@@ -4488,8 +4449,7 @@
       "audio_ebird_code": "barwaf1",
       "gbif_taxon_key": 2491143,
       "pendientes": [
-        "Dimorfismo sexual leve (hembra con pecho más anaranjado y dorso más oliváceo, según resumen de búsqueda de oiseaux-birds; la ficha directa de oiseaux-birds dice sexos similares): no justifica variante F — decidir",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local"
+        "Dimorfismo sexual leve (hembra con pecho más anaranjado y dorso más oliváceo, según resumen de búsqueda de oiseaux-birds; la ficha directa de oiseaux-birds dice sexos similares): no justifica variante F — decidir"
       ]
     },
     {
@@ -4537,10 +4497,7 @@
       },
       "audio_ebird_code": "truter",
       "gbif_taxon_key": 5229263,
-      "pendientes": [
-        "Residencia: se cargó permanente (registros en Buenos Aires todo el año en GBIF), pero fuera de la temporada de cría parte de la población se desplaza hacia el norte por la costa atlántica — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: Corrientes (15), Neuquén (16) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
-      ]
+      "pendientes": []
     },
     {
       "id": 94,
@@ -4646,9 +4603,7 @@
       "audio_ebird_code": "chewoo3",
       "gbif_taxon_key": 7340156,
       "pendientes": [
-        "Descripción basada en la subespecie nominal (mixtus, NE de Buenos Aires y CABA); berlepschi (SO de Buenos Aires) y malleator (norte) son más oscuras y más estriadas abajo — decidir si se mencionan",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: Misiones (10) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
+        "Descripción basada en la subespecie nominal (mixtus, NE de Buenos Aires y CABA); berlepschi (SO de Buenos Aires) y malleator (norte) son más oscuras y más estriadas abajo — decidir si se mencionan"
       ]
     },
     {
@@ -4705,11 +4660,7 @@
       },
       "audio_ebird_code": "plurai1",
       "gbif_taxon_key": 2474715,
-      "pendientes": [
-        "Residencia: se cargó permanente, pero según Wikipedia (en) las poblaciones que crían en la región pampeana podrían moverse al norte en invierno; la UNL y avespampa no lo precisan — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: La Rioja (12) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
-      ]
+      "pendientes": []
     },
     {
       "id": 97,
@@ -4759,10 +4710,7 @@
       },
       "audio_ebird_code": "refcoo1",
       "gbif_taxon_key": 2474390,
-      "pendientes": [
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: Corrientes (13), Tierra del Fuego (13) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
-      ]
+      "pendientes": []
     },
     {
       "id": 98,
@@ -4812,9 +4760,7 @@
       "audio_ebird_code": "lowhar1",
       "gbif_taxon_key": 5229178,
       "pendientes": [
-        "Forma oscura (casi toda negra, muslos y vientre castaños) e inmaduro (como la hembra, más estriado) confirmados por la UNL; solo se mencionan en la descripción F, sin variante ni prompt propio — decidir",
-        "Estado de conservación: UICN LC, pero SIB indica categoría nacional 'Vulnerable' (2017) — decidir cuál mostrar",
-        "Provincias: Tucumán (14) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
+        "Forma oscura (casi toda negra, muslos y vientre castaños) e inmaduro (como la hembra, más estriado) confirmados por la UNL; solo se mencionan en la descripción F, sin variante ni prompt propio — decidir"
       ]
     },
     {
@@ -4896,9 +4842,7 @@
       "pendientes": [
         "Color de ojo sin confirmar (omitido en prompt M); UNL, avespampa y oiseaux-birds no lo dan — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
         "Color de patas sin confirmar (omitido en prompt M) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Juvenil (pecho y vientre gris pardusco, puntas de la cola pardas) solo mencionado en F, sin variante J — decidir",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), oiseaux-birds, avespampa, iNaturalist/ArgentiNat API; Avibase 403 también desde PC local",
-        "Provincias: La Pampa (10) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
+        "Juvenil (pecho y vientre gris pardusco, puntas de la cola pardas) solo mencionado en F, sin variante J — decidir"
       ]
     },
     {
@@ -4950,7 +4894,6 @@
       "audio_ebird_code": "strfly1",
       "gbif_taxon_key": 2483497,
       "pendientes": [
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
         "Rabadilla: Wikipedia (en) la da castaño rojiza para la subespecie típica, pero la subespecie de Argentina (solitarius) es 'mucho menos rojiza' y la UNL no la menciona — omitida en descripción y prompt — BOW (sep 2026): parte baja de la rabadilla y supracaudales canela rufas estriadas de oscuro (descripción general, sin separar solitarius)"
       ]
     },
@@ -5001,9 +4944,7 @@
       "audio_ebird_code": "grnkin",
       "gbif_taxon_key": 2475486,
       "pendientes": [
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
-        "Juvenil (como la hembra pero más apagado, con pintitas anteadas en la corona y las alas, según Wikipedia en) sin variante propia — decidir",
-        "Provincias: La Pampa (10) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
+        "Juvenil (como la hembra pero más apagado, con pintitas anteadas en la corona y las alas, según Wikipedia en) sin variante propia — decidir"
       ]
     },
     {
@@ -5021,7 +4962,7 @@
         "pastizal",
         "agrícola"
       ],
-      "residencia": "permanente",
+      "residencia": "estival",
       "tamanio_categoria": "chico",
       "largo_cm": "18",
       "envergadura_cm": null,
@@ -5053,12 +4994,7 @@
       },
       "audio_ebird_code": "whbbla2",
       "gbif_taxon_key": 5788766,
-      "pendientes": [
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
-        "GBIF da Leistes superciliaris como sinónimo (usageKey 5788766); el nombre aceptado en GBIF tiene key 2484271 — decidir cuál guardar",
-        "Residencia: las poblaciones del sur son parcialmente migratorias (Wikipedia es/en) — confirmar si en Buenos Aires está todo el año",
-        "Provincias: La Rioja (10), San Juan (10) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
-      ]
+      "pendientes": []
     },
     {
       "id": 104,
@@ -5110,10 +5046,7 @@
       },
       "audio_ebird_code": "whrswa1",
       "gbif_taxon_key": 5230761,
-      "pendientes": [
-        "Envergadura sin dato (null): Wikipedia (en) da 115,7 mm de 'wingspan', pero es la medida del ala, no la envergadura — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
-        "Provincias: La Rioja (13), San Juan (11), Río Negro (19) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
-      ]
+      "pendientes": []
     },
     {
       "id": 105,
@@ -5167,9 +5100,7 @@
       },
       "audio_ebird_code": "redsho1",
       "gbif_taxon_key": 9290528,
-      "pendientes": [
-        "Residencia: parcialmente migratorio, las poblaciones del sur migran al norte en invierno (UNL, Wikipedia en) — confirmar si en Buenos Aires está todo el año"
-      ]
+      "pendientes": []
     },
     {
       "id": 106,
@@ -5204,10 +5135,7 @@
       "audio_ebird_code": "dulgua1",
       "gbif_taxon_key": 2482212,
       "pendientes": [
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en/pt); Avibase 403",
-        "Juvenil (garganta blanca, sin manchas blancas arriba, según Wikipedia pt) sin variante propia — decidir",
-        "Provincias: Misiones (17) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia",
-        "Provincias: Jujuy (36), Salta (26) y Tucumán (21) no se cargaron: son registros del noroeste que hoy corresponden a la Pava de Monte Yungueña (Penelope bridgesi), que GBIF todavía suma acá — decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
+        "Juvenil (garganta blanca, sin manchas blancas arriba, según Wikipedia pt) sin variante propia — decidir"
       ]
     },
     {
@@ -5257,10 +5185,7 @@
       },
       "audio_ebird_code": "epaori4",
       "gbif_taxon_key": 7340265,
-      "pendientes": [
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
-        "GBIF da Icterus pyrrhopterus como sinónimo (usageKey 7340265); el nombre aceptado en GBIF tiene key 5229849 — decidir cuál guardar"
-      ]
+      "pendientes": []
     },
     {
       "id": 108,
@@ -5306,10 +5231,7 @@
       },
       "audio_ebird_code": "gycwor1",
       "gbif_taxon_key": 2474659,
-      "pendientes": [
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
-        "GBIF lo encuentra por coincidencia aproximada como Aramides cajanea (key 2474659)"
-      ]
+      "pendientes": []
     },
     {
       "id": 109,
@@ -5359,9 +5281,7 @@
       },
       "audio_ebird_code": "brcfly1",
       "gbif_taxon_key": 5229801,
-      "pendientes": [
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403"
-      ]
+      "pendientes": []
     },
     {
       "id": 110,
@@ -5415,8 +5335,7 @@
       "audio_ebird_code": "scrcow1",
       "gbif_taxon_key": 9506351,
       "pendientes": [
-        "Juvenil distinto (la UNL solo dice que se parece al Tordo Músico) sin variante propia ni descripción detallada — falta fuente con el plumaje juvenil — BOW (sep 2026): el juvenil imita al del Tordo Músico (plumaje \"aliblanco\"), confirma la UNL; no trae descripción detallada",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403"
+        "Juvenil distinto (la UNL solo dice que se parece al Tordo Músico) sin variante propia ni descripción detallada — falta fuente con el plumaje juvenil — BOW (sep 2026): el juvenil imita al del Tordo Músico (plumaje \"aliblanco\"), confirma la UNL; no trae descripción detallada"
       ]
     },
     {
@@ -5469,9 +5388,7 @@
       "audio_ebird_code": "tropar",
       "gbif_taxon_key": 7341895,
       "pendientes": [
-        "Lorum negro en la hembra: Wikipedia (en) dice que las hembras de la subespecie de México no tienen la máscara negra, pero no lo aclara para la subespecie de Argentina — se mantuvo en el recolor F, revisar",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
-        "Provincias: San Juan (10), Neuquén (14), Río Negro (18) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
+        "Lorum negro en la hembra: Wikipedia (en) dice que las hembras de la subespecie de México no tienen la máscara negra, pero no lo aclara para la subespecie de Argentina — se mantuvo en el recolor F, revisar"
       ]
     },
     {
@@ -5518,10 +5435,7 @@
       },
       "audio_ebird_code": "ruther1",
       "gbif_taxon_key": 2480869,
-      "pendientes": [
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
-        "Provincias: Tucumán (15) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
-      ]
+      "pendientes": []
     },
     {
       "id": 113,
@@ -5569,10 +5483,7 @@
       "audio_ebird_code": "lotmea1",
       "gbif_taxon_key": 9667237,
       "pendientes": [
-        "Vientre negro descripto para la subespecie típica; la subespecie de Córdoba y San Luis (obscurus) tiene menos rojo abajo y la del noroeste (catamarcanus) es más pálida — sin variante propia",
-        "GBIF da Leistes loyca como sinónimo (usageKey 9667237); el nombre aceptado en GBIF tiene key 2484272 — decidir cuál guardar",
-        "Envergadura sin dato (null)",
-        "Provincias: La Rioja (13) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
+        "Vientre negro descripto para la subespecie típica; la subespecie de Córdoba y San Luis (obscurus) tiene menos rojo abajo y la del noroeste (catamarcanus) es más pálida — sin variante propia"
       ]
     },
     {
@@ -5628,9 +5539,7 @@
       "audio_ebird_code": "greyel",
       "gbif_taxon_key": 2481720,
       "pendientes": [
-        "Estado de conservación: la categoría UICN que publica GBIF es NT (casi amenazado) — confirmar con la ficha UICN vigente",
-        "Plumaje reproductivo (más negro en hombros y dorso, pecho más manchado, según Wikipedia en) sin variante — en Argentina se ve casi siempre en plumaje de descanso",
-        "Provincias: Misiones (16) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
+        "Plumaje reproductivo (más negro en hombros y dorso, pecho más manchado, según Wikipedia en) sin variante — en Argentina se ve casi siempre en plumaje de descanso"
       ]
     },
     {
@@ -5684,8 +5593,7 @@
       "audio_ebird_code": "y01036",
       "gbif_taxon_key": 2483966,
       "pendientes": [
-        "La subespecie del oeste (munda, antes especie aparte) es más grande, más gris, con bandas alares blancas y vientre blanco: sin variante propia — decidir",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403"
+        "La subespecie del oeste (munda, antes especie aparte) es más grande, más gris, con bandas alares blancas y vientre blanco: sin variante propia — decidir"
       ]
     },
     {
@@ -5733,10 +5641,7 @@
       },
       "audio_ebird_code": "sootyr1",
       "gbif_taxon_key": 2483958,
-      "pendientes": [
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
-        "Provincias: Mendoza (12) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
-      ]
+      "pendientes": []
     },
     {
       "id": 117,
@@ -5783,9 +5688,7 @@
       "audio_ebird_code": "grhgul",
       "gbif_taxon_key": 6065820,
       "pendientes": [
-        "Estado de conservación: GBIF devuelve 'no evaluada' (NE); Wikipedia (es) la da como Preocupación menor (UICN 3.1) — se cargó LC, confirmar",
-        "Color del pico y las patas del juvenil sin confirmar (no se cambiaron en el recolor J)",
-        "Provincias: Misiones (11), Chaco (15), Salta (11), Chubut (14) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
+        "Color del pico y las patas del juvenil sin confirmar (no se cambiaron en el recolor J)"
       ]
     },
     {
@@ -5836,10 +5739,7 @@
       },
       "audio_ebird_code": "lakduc1",
       "gbif_taxon_key": 5232469,
-      "pendientes": [
-        "Residencia: parcialmente migratorio (Wikipedia es/en) — confirmar si en Buenos Aires está todo el año",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403"
-      ]
+      "pendientes": []
     },
     {
       "id": 119,
@@ -5858,7 +5758,7 @@
         "agrícola",
         "urbano"
       ],
-      "residencia": "permanente",
+      "residencia": "invernal",
       "tamanio_categoria": "chico",
       "largo_cm": "18-19.5",
       "envergadura_cm": null,
@@ -5894,10 +5794,7 @@
       },
       "audio_ebird_code": "whtpla1",
       "gbif_taxon_key": 2486489,
-      "pendientes": [
-        "Residencia: parcialmente migratorio, algunos del sur se desplazan al norte en invierno (Wikipedia en) — confirmar en Buenos Aires",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403"
-      ]
+      "pendientes": []
     },
     {
       "id": 120,
@@ -5936,9 +5833,7 @@
       },
       "audio_ebird_code": "frbtho1",
       "gbif_taxon_key": 2485123,
-      "pendientes": [
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403"
-      ]
+      "pendientes": []
     },
     {
       "id": 121,
@@ -5985,8 +5880,7 @@
       "audio_ebird_code": "hudgod",
       "gbif_taxon_key": 2481680,
       "pendientes": [
-        "Plumaje de cría (dorso moteado de pardo, pecho y vientre castaños; el macho más vivo que la hembra) sin variante R — decidir",
-        "Provincias: Corrientes (13), Santiago del Estero (17) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
+        "Plumaje de cría (dorso moteado de pardo, pecho y vientre castaños; el macho más vivo que la hembra) sin variante R — decidir"
       ]
     },
     {
@@ -6043,9 +5937,7 @@
       "audio_ebird_code": "buwcin1",
       "gbif_taxon_key": 2485069,
       "pendientes": [
-        "Juvenil (de colores más ricos que el adulto, según Wikipedia en) sin variante propia",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
-        "Provincias: Chaco (13) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
+        "Juvenil (de colores más ricos que el adulto, según Wikipedia en) sin variante propia"
       ]
     },
     {
@@ -6090,8 +5982,7 @@
       "audio_ebird_code": "gcrwar",
       "gbif_taxon_key": 2489770,
       "pendientes": [
-        "Juvenil sin variante propia",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403"
+        "Juvenil sin variante propia"
       ]
     },
     {
@@ -6142,8 +6033,6 @@
       "audio_ebird_code": "grerhe1",
       "gbif_taxon_key": 2495165,
       "pendientes": [
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (es/en); Avibase 403",
-        "Provincias: Tucumán (10), San Juan (19) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia",
         "Provincias: parte de los registros de GBIF/eBird puede corresponder a aves en criaderos o reservas — revisar las cargadas — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia",
         "Pichones (según la UNL: pardos por arriba con dos líneas blancas, blanquecinos abajo con ocráceo en el cuello y la zona del ojo gris celeste) sin variante J — decidir"
       ]
@@ -6192,9 +6081,7 @@
       "audio_ebird_code": "firgat1",
       "gbif_taxon_key": 2485086,
       "pendientes": [
-        "Juvenil (sin castaño en la frente, garganta ocrácea y menos rayado, según Wikipedia en) sin variante propia",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (en); Avibase 403",
-        "Provincias: CABA (18), Catamarca (11) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
+        "Juvenil (sin castaño en la frente, garganta ocrácea y menos rayado, según Wikipedia en) sin variante propia"
       ]
     },
     {
@@ -6242,10 +6129,7 @@
       "audio_ebird_code": "mcrtyr1",
       "gbif_taxon_key": 2482651,
       "pendientes": [
-        "Residencia: Wikipedia (en) dice que es parcialmente migratorio y que las poblaciones del sur se mueven al norte; en Buenos Aires/CABA hay registros en GBIF todos los meses, se cargó 'permanente'",
-        "Hembra (más apagada, con la mancha de la corona más chica) y juvenil sin variante propia",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (en); Avibase 403",
-        "Provincias: Misiones (12) tienen entre 10 y 19 registros — no se cargaron, decidir — consultado sep 2026: GBIF (incluye eBird e iNaturalist), criterio: 20 o más registros = presencia"
+        "Hembra (más apagada, con la mancha de la corona más chica) y juvenil sin variante propia"
       ]
     },
     {
@@ -6300,10 +6184,7 @@
       "audio_ebird_code": "masyel5",
       "gbif_taxon_key": 6100791,
       "pendientes": [
-        "Taxonomía: la UNL la trata como Geothlypis aequinoctialis; IOC/Clements la separan como G. velata (se usó G. velata, lista oficial #956). La UICN no la evaluó por separado: el LC corresponde a G. aequinoctialis en sentido amplio",
-        "Residencia: se cargó 'estival' — en Buenos Aires/CABA GBIF tiene pocos registros de mayo a agosto (28-63 por mes contra más de 2.500 en octubre-noviembre), así que algunas pasan el invierno — confirmar",
-        "Juvenil sin variante propia",
-        "Envergadura sin dato (null) — consultado sep 2026: UNL (fcv.unl.edu.ar), Wikipedia (en); Avibase 403"
+        "Juvenil sin variante propia"
       ]
     }
   ]

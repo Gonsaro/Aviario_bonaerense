@@ -94,7 +94,17 @@ Verificar rasgos antes de describir colores de ojo, pico, patas o patrones de pl
 2. Solo para lo que la UNL no dice: oiseaux-birds.com (`/card-<english-name>.html`, basado en HBW), avespampa.com.ar, Wikipedia (en/es), Birds of the World. Si estas se contradicen entre sí y la UNL no lo dice, va a `pendientes`.
 3. Avibase (https://avibase.bsc-eoc.org) da 403 desde la nube y desde la PC local: no reintentar.
 
-**Distribución por provincia: mandan los registros, no la UNL.** Usar GBIF, que incluye eBird e iNaturalist: `https://api.gbif.org/v1/occurrence/search?country=AR&limit=0&facet=stateProvince&facetLimit=200&scientificName=<Genus%20species>` (normalizar variantes de nombre de provincia, ej. "Ciudad Autónoma de Buenos Aires" → CABA). 20 o más registros = presencia (se carga); menos de 20 = no se carga. Solo van a `pendientes` los casos límite (entre 10 y 19 registros) o los sospechosos de escapes o criaderos. La distribución de la UNL no se usa para decidir.
+**Distribución por provincia: mandan los registros, no la UNL.** Usar GBIF, que incluye eBird e iNaturalist: `https://api.gbif.org/v1/occurrence/search?country=AR&limit=0&facet=stateProvince&facetLimit=200&scientificName=<Genus%20species>` (normalizar variantes de nombre de provincia, ej. "Ciudad Autónoma de Buenos Aires" → CABA). 20 o más registros = presencia (se carga); menos de 20 = no se carga, y no es pendiente. Solo van a `pendientes` los sospechosos de escapes o criaderos. La distribución de la UNL no se usa para decidir.
+
+**Residencia en Buenos Aires: mandan los registros GBIF por mes.** Facet `month` con `stateProvince` = Buenos Aires, Ciudad Autónoma de Buenos Aires y Ciudad de Buenos Aires. Normalizar cada mes contra el Benteveo (*Pitangus sulphuratus*, taxonKey 2482755), porque en verano se observa más. Si el índice promedio de jun–ago es menor al 30% del de dic–feb: `estival`; si es más del triple: `invernal`; si no: `permanente`. No es pendiente.
+
+**Envergadura:** solo con dato de la UNL o de Birds of the World. Si no, `null`, y no es pendiente.
+
+**Nomenclatura:** manda la lista oficial (ver Nomenclatura); no se anotan como pendiente las diferencias con GBIF.
+
+**Estado de conservación:** categoría global de la UICN (iucnredlist.org). La categoría nacional no se usa.
+
+**Variantes y rasgos:** se crea una variante F, J o R solo si cambia algo visible a 128 px (color de cabeza, pecho u ojo, o patrón general). Si no, el rasgo se menciona en la descripción y no es pendiente. Lo mismo para rasgos que no se ven en el sprite (coronas escondidas, cara inferior del ala): van en la descripción.
 
 **§1 Solo rasgos visuales**
 El prompt contiene únicamente color, forma, posición, contraste, textura. Prohibido: `from a distance`, `striking in flight`, `visible when perched`, `unmistakable`, `typical of the species`. No usar comparaciones de especie (`NOT a wren`) salvo como parche documentado cuando una tirada falla repetidamente en algo concreto.
