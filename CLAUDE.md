@@ -133,8 +133,9 @@ Cabeza (corona/cresta → cara → pico → ojo) → partes superiores (dorso �
 - No apilar instrucciones que compitan. Si dos marcas similares coexisten, secuenciarlas en una frase.
 
 **§7 Variantes**
-- D=adulto · R=reproductivo · M=macho · F=hembra · O=morfo oscuro · J=juvenil · V=vuelo
+- D=adulto · R=reproductivo · M=macho · F=hembra · O=morfo oscuro · J=juvenil · V=vuelo · A=postura alternativa
 - O (morfo oscuro/melánico): solo si el morfo es muy distinto y se ve en Buenos Aires (ej. Gavilán Planeador casi todo negro). Se hace como recolor §8 del sprite base.
+- A (postura alternativa): una segunda pose típica de la especie, con el mismo plumaje que la D (ej. Hocó Colorado estirado con el pico hacia arriba).
 - Hembra/juvenil más apagado: decirlo explícito (`female darker and duskier than the male`)
 - Vuelo: `in flight with wings raised mid-flap`, mostrar patrón ala abierta, cuello extendido, patas recogidas
 - Orden por convención: dimorfismo sexual → macho primero, hembra después; variabilidad por edad → adulto primero, juvenil después. El orden se decide sobre la marcha según el caso.

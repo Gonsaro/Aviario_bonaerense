@@ -309,7 +309,7 @@ def build_parser() -> argparse.ArgumentParser:
     )
     p.add_argument("--species", "-s",
                    help="Especie: número (001 / #001), id, nombre científico o común")
-    p.add_argument("--variant", "-v", choices=["D", "R", "M", "F", "O", "J", "V"],
+    p.add_argument("--variant", "-v", choices=["D", "R", "M", "F", "O", "J", "V", "A"],
                    help="Variante a generar (omitir = todas)")
     p.add_argument("--no-normalize", action="store_true",
                    help="No normalizar escala entre variantes")
