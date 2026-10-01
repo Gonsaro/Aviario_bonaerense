@@ -1,4 +1,4 @@
-const CACHE = 'aviario-v79';
+const CACHE = 'aviario-v80';
 const ASSETS = [
   './index.html',
   './manifest.json',
