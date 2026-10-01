@@ -6376,6 +6376,154 @@
       "audio_ebird_code": "blkski",
       "gbif_taxon_key": 2481209,
       "pendientes": []
+    },
+    {
+      "id": 131,
+      "num": "#131",
+      "nombre_comun": "Frutero Azul",
+      "nombre_cientifico": "Stephanophorus diadematus",
+      "familia": "Thraupidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro chico y robusto, de pico corto y grueso. Corona blanca como una diadema, con una pequeña mancha roja en la parte de adelante. Frente, cara y barbilla negras, como un antifaz. Pico negro. Ojo pardo. Resto del cuerpo azul violáceo brillante, que con poca luz se ve casi negro. Alas y cola negruzcas con los bordes de las plumas azules. Patas grisáceas. Macho y hembra son parecidos.",
+        "J": "El juvenil es más apagado y oscuro, sin la corona blanca o con muy poco blanco, y sin la mancha roja."
+      },
+      "habitat": [
+        "bosque",
+        "monte",
+        "urbano"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "19",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Corrientes",
+        "Misiones"
+      ],
+      "curiosidades": "Es uno de los pájaros más vistosos de las arboledas del Delta y la ribera, pero con poca luz su azul violáceo se apaga y parece un pájaro negro con la corona blanca. Come frutos, brotes, flores y semillas, y también algunos insectos; suele bajar a comederos y a frutales de quintas y jardines, sobre todo en invierno. Canta desde una rama alta una frase melodiosa y variada. En Buenos Aires vive todo el año en montes ribereños, selvas en galería y parques arbolados. Arma un nido en forma de taza en arbustos o árboles.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a branch, white background, 1024x1024 pixels, bird filling 60% of canvas height, small stocky bird with a short thick conical bill, snow-white crown with a small red patch at the front of the crown, black forehead, face and chin forming a mask, black bill, small brown eye with a tiny dark pupil, glossy violet-blue back, blackish wings with blue feather edges, blackish tail with blue feather edges, glossy violet-blue throat, breast and belly, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the whole plumage duller and darker, dusky blackish blue instead of glossy violet-blue, remove the red patch on the crown and replace the white crown with dull dusky blue so only a faint trace of white remains, keep the black bill, brown eye and grey legs, keep white background, no shadow, no text"
+      },
+      "audio_ebird_code": "diatan1",
+      "gbif_taxon_key": 5230725,
+      "pendientes": [
+        "Sin ficha en la UNL: los rasgos salen de Wikipedia (es/en) y fichas secundarias.",
+        "Plumaje juvenil: Wikipedia (es) lo describe más apagado y oscuro, sin corona o muy reducida; otras fichas secundarias lo describen con tonos verdosos o grisáceos. Se usó la versión de Wikipedia."
+      ]
+    },
+    {
+      "id": 132,
+      "num": "#132",
+      "nombre_comun": "Inambú Campestre",
+      "nombre_cientifico": "Nothura maculosa",
+      "familia": "Tinamidae",
+      "orden": "Tinamiformes",
+      "descripcion": {
+        "D": "Ave de suelo mediana, rechoncha, de cuello fino, cabeza chica y cola casi invisible, parecida a una perdiz. Frente y corona oscuras con rayitas ocráceas. Cuello ocráceo con estrías oscuras. Pico pardo. Ojo amarillo o pardo anaranjado. Dorso pardo manchado de negro, blanco y ocre. Alas pardas rayadas de ocre rojizo; las plumas de vuelo pardas con barras rojizas. Cola parda. Garganta blanca. Pecho ocráceo canela con manchitas pardas. Costados con barras pardas. Vientre ocráceo. Patas pardo amarillentas. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "pastizal",
+        "agrícola"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "20-25",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "La Pampa",
+        "Mendoza",
+        "Catamarca",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Neuquén",
+        "Río Negro"
+      ],
+      "curiosidades": "Es la 'perdiz chica' o 'perdiz común' de los campos pampeanos, aunque no es una perdiz verdadera sino un inambú, pariente lejano del ñandú. Anda sola o en pareja entre los pastos y, ante un peligro, se queda quieta confiando en su plumaje que se confunde con el suelo; si se la acerca demasiado sale volando de golpe, con un aleteo ruidoso, y vuelve a bajar a poca distancia. Come semillas, brotes e insectos. Su voz es una serie de silbidos agudos y acelerados que se escucha mucho en primavera. Hace el nido en el suelo, escondido entre los pastos, y como en todos los inambúes es el macho el que incuba los huevos, de color vinoso brillante.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on the ground, white background, 1024x1024 pixels, bird filling 60% of canvas height, plump partridge-like ground bird with a small head, thin neck, rounded body and almost no visible tail, dark crown with fine buff streaks, buff neck with dark streaks, slender slightly decurved brown bill, small yellow-orange eye with a tiny dark pupil, brown back peppered with small distinct black, white and buff spots, brown wings barred with rufous buff, white throat, buff cinnamon breast peppered with small distinct brown spots, flanks barred with brown, plain buff belly, yellowish brown legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "sponot1",
+      "gbif_taxon_key": 2477600,
+      "pendientes": []
+    },
+    {
+      "id": 133,
+      "num": "#133",
+      "nombre_comun": "Calandria Real",
+      "nombre_cientifico": "Mimus triurus",
+      "familia": "Mimidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro mediano y esbelto, de cola larga, parecido a la Calandria Grande pero con mucho blanco en alas y cola. Corona gris parda. Ceja blanca y una línea oscura que pasa por el ojo. Pico negro, fino y algo curvo. Ojo pardo. Dorso gris pardusco. Rabadilla canela. Alas pardas oscuras con una gran banda blanca, que se ve con el ala cerrada y resalta mucho en vuelo. Cola con las plumas del centro negras y las de los costados blancas. Garganta blanca. Pecho y vientre ocráceos, más canela en los costados. Patas negras. Macho y hembra son iguales.",
+        "J": "El juvenil es parecido al adulto, pero tiene el pecho con pintas oscuras y menos blanco en el ala."
+      },
+      "habitat": [
+        "monte",
+        "pastizal",
+        "agrícola",
+        "urbano"
+      ],
+      "residencia": "invernal",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "22",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "La Pampa",
+        "Mendoza",
+        "San Juan",
+        "La Rioja",
+        "Catamarca",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Neuquén",
+        "Río Negro",
+        "Chubut"
+      ],
+      "curiosidades": "Le dicen 'calandria de invierno' porque en Buenos Aires se la ve sobre todo en los meses fríos, cuando llega desde el centro y el oeste del país, donde cría. Cuando vuela se abre como un abanico blanco y negro: la gran banda blanca de las alas y los costados blancos de la cola la hacen inconfundible. Pasa mucho tiempo en el suelo, donde camina y corre detrás de insectos, y también come semillas y frutos que busca hasta unos 5 m de altura. Su canto es complejo y variado, e imita las voces de otras aves.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a branch, white background, 1024x1024 pixels, bird including its long tail filling about 75% of canvas width, slender mockingbird with a long tail, grey-brown crown, white eyebrow, dark line through the eye, thin slightly curved black bill, small brown eye with a tiny dark pupil, smoky grey-brown back, cinnamon rump, dark brown wings with a broad white band across the folded wing, long tail with black central feathers and white outer feathers, white throat, buff breast and belly with cinnamon flanks, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: add small distinct dark spots on the buff breast, make the white band on the folded wing narrower and smaller, keep everything else the same, keep white background, no shadow, no text",
+        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, slender mockingbird with a long fanned tail, neck extended, legs tucked, grey-brown crown, white eyebrow, dark line through the eye, thin black bill, small brown eye with a tiny dark pupil, smoky grey-brown back, cinnamon rump, open blackish wings with a large white patch across the inner half of each wing, long fanned tail with black central feathers and broad white outer feathers, white throat, buff underparts with cinnamon flanks, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "whbmoc1",
+      "gbif_taxon_key": 5231682,
+      "pendientes": [
+        "Santa Cruz en caso límite: 18 registros en GBIF, no se cargó."
+      ]
     }
   ]
 }

@@ -2,17 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (130 cargadas).
+`aviario_data.json` (133 cargadas).
 
 
-**Faltan: 229 especies**
+**Faltan: 226 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 124 | Frutero Azul | *Stephanophorus diadematus* | #1064 |
-| 125 | Inambú Campestre | *Nothura maculosa* | #14 |
-| 126 | Calandria Real | *Mimus triurus* | #898 |
 | 127 | Pollona Pintada | *Porphyriops melanops* | #197 |
 | 128 | Gaviota Cangrejera | *Larus atlanticus* | #283 |
 | 129 | Sobrepuesto Austral | *Lessonia rufa* | #808 |
