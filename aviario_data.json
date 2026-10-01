@@ -5133,7 +5133,10 @@
       },
       "audio_ebird_code": "redsho1",
       "gbif_taxon_key": 9290528,
-      "pendientes": []
+      "pendientes": [],
+      "recolor_base": {
+        "M": "Netta_peposaca_M.png"
+      }
     },
     {
       "id": 106,
@@ -6056,12 +6059,15 @@
       "curiosidades": "Su nombre viene del guaraní 'ñandu guasu', que quiere decir 'araña grande'. Aunque no puede volar corre muy rápido y usa las alas para no perder el equilibrio en los giros. Come de todo: semillas, frutos, insectos, reptiles, ranas, pequeños mamíferos y pichones. En la época de cría el macho da un bramido parecido a un mugido y corteja a varias hembras; después cava un nido en el suelo, donde todas ellas ponen sus huevos —de 10 a 30 o más— y es él quien los incuba y cuida a los charitos. Mientras empolla puede volverse peligroso. A nivel mundial está considerado Casi Amenazado.",
       "sprites": {},
       "prompts_pixelart": {
-        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 75% of canvas height, very large flightless bird with a very long neck, long thick bare legs and a bulky rounded body of loose shaggy feathers, small head with a black crown, short broad flat grey-brown bill, small pale greyish brown eye with a tiny dark pupil, grey and brown back, large loose grey wing plumes drooping over the body, black patch at the base of the neck and on the upper breast, whitish belly and thighs, strong greyish legs with three toes, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
-        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: female paler than the male, replace the black crown and the black patch at the base of the neck and breast with plain grey, make the body a lighter grey, keep the whitish belly, the bill, the eye and the greyish legs unchanged, keep white background, no shadow, no text"
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 80% of canvas height, very large flightless bird with a very long thin slender neck about as long as its legs and held upright in a gentle curve, a very small flattened head, short broad flat grey-brown bill, small pale greyish-brown eye with a tiny dark pupil, black crown, grey head and upper neck, black lower neck at the base and black upper breast, bulky rounded egg-shaped body of loose shaggy grey and brown feathers, large loose grey wing plumes drooping over the sides, whitish belly and thighs, long strong bare greyish legs with three thick toes, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: replace the black crown with grey like the rest of the head, replace the black lower neck and black upper breast with the same grey as the upper neck, keep the grey and brown shaggy body plumage, the grey wing plumes, the whitish belly and thighs, the bill, the eye and the greyish legs exactly as they are, keep white background, no shadow, no text"
       },
       "audio_ebird_code": "grerhe1",
       "gbif_taxon_key": 2495165,
-      "pendientes": []
+      "pendientes": [],
+      "recolor_base": {
+        "F": "Rhea_americana_M.png"
+      }
     },
     {
       "id": 125,
