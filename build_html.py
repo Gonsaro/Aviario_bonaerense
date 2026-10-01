@@ -1,3 +1,4 @@
+import hashlib
 import json
 import subprocess
 from pathlib import Path
@@ -8,12 +9,14 @@ data = json.load(open('aviario_data.json', encoding='utf-8'))
 sprites_dir = Path('Sprites')
 maps_dir = Path('Maps')
 
-# SP: relative paths to PNG files — keeps HTML small, browser loads images normally
+# SP: relative paths to PNG files — keeps HTML small, browser loads images normally.
+# ?v=<hash> cambia solo si cambia el archivo, para que el navegador no muestre un sprite viejo.
 sp = {}
 for p in sorted(sprites_dir.glob('*.png')):
     if '(' in p.name:
         continue
-    sp[p.stem] = f'Sprites/{p.name}'
+    v = hashlib.md5(p.read_bytes()).hexdigest()[:8]
+    sp[p.stem] = f'Sprites/{p.name}?v={v}'
 print(f'Sprites cargados: {len(sp)}')
 
 sp_js = 'const SP={' + ',\n'.join(f"'{k}': '{v}'" for k, v in sp.items()) + '}'
