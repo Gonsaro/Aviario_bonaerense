@@ -3739,7 +3739,7 @@
       "familia": "Anatidae",
       "orden": "Anseriformes",
       "descripcion": {
-        "M": "Pato chico y muy vistoso. Cara gris pálida finamente jaspeada; una franja negra baja desde la corona por la nuca y forma un semicollar en la base del cuello. Pico celeste. Ojo pardo oscuro. Dorso y hombros castaño rojizo intenso. En el ala tiene una mancha blanca redondeada, muy llamativa en vuelo, y un espejo verde metálico. Rabadilla negra. Cola oscura. Pecho rosado con pequeñas pintas negras; flancos gris claro con barrado fino y una mancha blanca en la parte trasera. Vientre blanquecino. Patas rosadas.",
+        "M": "Pato chico y muy vistoso. Cara gris ocrácea finamente jaspeada de pardo; la corona negra sigue por la nuca y forma un semicollar negro en la base del cuello. Pico celeste. Ojo pardo oscuro. Dorso pardo oliváceo, con los hombros castaños. En el ala tiene una mancha blanca redondeada, muy llamativa en vuelo, y un espejo verde metálico. Rabadilla negra. Pecho rosado con lunares negros. Flancos finamente barrados de negro y blanco, que de lejos se ven grises. Abdomen blanquecino con finas estrías pardas. Plumas de abajo de la cola negras con la parte final blanca. Patas rosadas.",
         "F": "La hembra es más parda y tiene el pico plomizo azulado, más apagado que el del macho: dorso pardo oliváceo, cabeza parda con ceja blanca y manchas blancas en la cara y el cuello; partes inferiores claras con barrado fino pardo. Conserva la mancha blanca del ala, la mancha blanca atrás del flanco y las patas rosadas."
       },
       "habitat": [
@@ -3772,7 +3772,7 @@
       "curiosidades": "A diferencia de la mayoría de los patos, se posa en ramas: tiene uñas largas y puntiagudas en los dedos. Prefiere lagunas y arroyos rodeados de árboles, porque anida en huecos de troncos y a veces en los grandes nidos de la cotorra. Las parejas son muy unidas y el macho ayuda a criar a los patitos, que al nacer se tiran del nido al suelo. Su voz es un maullido suave en la hembra y un silbido largo en el macho.",
       "sprites": {},
       "prompts_pixelart": {
-        "M": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: small duck, black stripe running from the crown down the back of the neck and ending in a black half-collar at the base of the neck, pale grey face finely speckled with brown, short pale blue bill, small dark brown eye with a tiny dark pupil, rich chestnut back and shoulders, folded wing showing a white patch and a metallic green patch on the flight feathers, black rump, dark tail, pinkish breast peppered with small distinct black spots, pale grey flanks with fine dark barring and a white patch at the rear of the flank, whitish belly, pink legs, keep white background, no shadow, no text",
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, small elegant duck, black crown continuing down the back of the neck into a black half-collar at the base of the neck, grey-ochre face finely speckled with brown, short pale sky-blue bill, small dark brown eye with a tiny dark pupil, olive-brown back with rich chestnut shoulders, folded wing showing a white patch and a metallic green speculum, black rump, warm rosy-pink breast with small distinct black dots, flanks finely barred black and white giving a soft grey look, whitish belly with fine brown bars, black undertail with a white patch at the rear, pink legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
         "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: female duller and browner than the male, make the head brown with a white eyebrow and white patches on the cheek and throat, remove the black crown stripe and black half-collar, make the back and shoulders olive-brown, make the breast, flanks and belly pale whitish finely barred with brown instead of pink with black spots, make the pale blue bill a duller leaden blue-grey, keep the white wing patch, the white patch on the rear flank, green wing patch and pink legs, keep white background, no shadow, no text",
         "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, small duck, black stripe from the crown down the back of the neck, pale grey face, short pale blue bill, neck extended, rich chestnut back, dark upperwing with a large rounded white patch on the inner wing and a metallic green patch on the flight feathers, black rump, dark tail, pinkish breast peppered with small distinct black spots, pale grey finely barred flanks, whitish belly, pink legs tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
@@ -3780,7 +3780,7 @@
       "gbif_taxon_key": 2498384,
       "pendientes": [],
       "recolor_base": {
-        "M": "Amazonetta_brasiliensis_M.png"
+        "F": "Callonetta_leucophrys_M.png"
       }
     },
     {
