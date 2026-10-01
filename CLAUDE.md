@@ -151,3 +151,9 @@ No es una regla de "llamativo vs apagado" — es una regla de estructura compart
 ### Nomenclatura
 
 Sigue `lista_especies_aves_argentinas_oficial.md` (lista Monteleone & Pagano 2022).
+
+### Orden de las especies
+
+- La app muestra las especies en el orden de la lista oficial (N° de `lista_especies_aves_argentinas_oficial.md`). `build_html.py` ordena y calcula el número visible (`num` = posición correlativa #001, #002…) y `n_lista`; el `num` de `aviario_data.json` no se usa para mostrar.
+- El `id` es fijo y nunca se renumera (el historial `aviario_seen` en localStorage depende de él). Las especies nuevas se agregan al final del array con id max+1; el orden lo resuelve el build.
+- Toda especie nueva debe estar en la lista oficial (si no, el build falla).

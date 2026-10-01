@@ -33,8 +33,20 @@ def jstr(v):
     if isinstance(v, dict):
         return '{' + ','.join(f'{k}:{jstr(w)}' for k, w in v.items()) + '}'
 
+# Orden taxonómico: N° de la lista oficial (Monteleone & Pagano 2022)
+import re
+N_LISTA = {}
+for line in open('lista_especies_aves_argentinas_oficial.md', encoding='utf-8'):
+    m = re.match(r'\|\s*(\d+)\s*\|\s*\*(.+?)\*', line)
+    if m:
+        N_LISTA[m.group(2).strip()] = int(m.group(1))
+faltan = [e['nombre_cientifico'] for e in data['especies'] if e['nombre_cientifico'] not in N_LISTA]
+if faltan:
+    raise SystemExit(f'Especies que no están en la lista oficial: {faltan}')
+especies_ordenadas = sorted(data['especies'], key=lambda e: N_LISTA[e['nombre_cientifico']])
+
 birds_js_parts = []
-for bird in data['especies']:
+for pos, bird in enumerate(especies_ordenadas, start=1):
     parts = bird['nombre_cientifico'].split()
 
     sprites = {}
@@ -54,7 +66,8 @@ for bird in data['especies']:
 
     b = {
         'id': bird['id'],
-        'num': bird['num'],
+        'num': f'#{pos:03d}',
+        'n_lista': N_LISTA[bird['nombre_cientifico']],
         'nombre_comun': bird['nombre_comun'],
         'nombre_cientifico': bird['nombre_cientifico'],
         'familia': bird['familia'],
