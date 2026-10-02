@@ -2,17 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (133 cargadas).
+`aviario_data.json` (136 cargadas).
 
 
-**Faltan: 226 especies**
+**Faltan: 223 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 127 | Pollona Pintada | *Porphyriops melanops* | #197 |
-| 128 | Gaviota Cangrejera | *Larus atlanticus* | #283 |
-| 129 | Sobrepuesto Austral | *Lessonia rufa* | #808 |
 | 130 | Pato Gargantilla | *Anas bahamensis* | #52 |
 | 131 | Loro Barranquero | *Cyanoliseus patagonus* | #558 |
 | 132 | Halcón Plomizo | *Falco femoralis* | #539 |

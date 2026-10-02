@@ -6529,6 +6529,152 @@
       "pendientes": [
         "Santa Cruz en caso límite: 18 registros en GBIF, no se cargó."
       ]
+    },
+    {
+      "id": 134,
+      "num": "#134",
+      "nombre_comun": "Pollona Pintada",
+      "nombre_cientifico": "Porphyriops melanops",
+      "familia": "Rallidae",
+      "orden": "Gruiformes",
+      "descripcion": {
+        "D": "Ave acuática mediana, más chica que la Pollona Negra, de cola corta que suele llevar levantada. Frente, la zona entre el pico y el ojo y el centro de la corona negros; el resto de la cabeza gris pardusco. Pico y escudete de la frente verdes. Ojo rojo. Dorso pardo oliváceo. Alas pardas oscuras con las cubiertas castañas. Cola parda olivácea. Cuello, pecho y partes de abajo gris plomizo, con el vientre blanquecino. Costados pardos con lunares blancos. Plumas de debajo de la cola blancas. Patas verde amarillentas, de dedos largos. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "humedal"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "28-30",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Misiones",
+        "Chaco",
+        "Formosa",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "La Pampa",
+        "Mendoza",
+        "Salta",
+        "Jujuy",
+        "Neuquén",
+        "Río Negro",
+        "Chubut"
+      ],
+      "curiosidades": "Su nombre viene de los lunares blancos que salpican sus costados, como si estuviera 'pintada'. Vive en lagunas, bañados y zanjas con mucha vegetación flotante, sobre la que camina apoyándose en sus dedos largos. Nada moviendo la cabeza y la cola a compás, y anda sola, en pareja o en grupitos dispersos. Es bastante tímida y ante un peligro se mete enseguida entre los juncos. En la ciudad de Buenos Aires es fácil de ver en las reservas con lagunas, donde se acostumbra a la gente.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on floating water plants with the short tail cocked up, white background, 1024x1024 pixels, bird filling 65% of canvas height, compact gallinule with a short cocked tail and long toes, black forehead, black area between bill and eye and black center of the crown, rest of the head brownish grey, short pointed bright green bill with a green frontal shield, small red eye with a tiny dark pupil, olive brown back, dark brown wings with chestnut wing coverts, short olive brown tail, plain lead grey neck and breast, whitish belly, brown flanks peppered with small distinct round white spots, white undertail feathers, greenish yellow legs with long toes, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "spfgal1",
+      "gbif_taxon_key": 2474784,
+      "pendientes": [
+        "Tucumán en caso límite: 18 registros en GBIF, no se cargó.",
+        "Catamarca en caso límite: 14 registros en GBIF, no se cargó."
+      ]
+    },
+    {
+      "id": 135,
+      "num": "#135",
+      "nombre_comun": "Gaviota Cangrejera",
+      "nombre_cientifico": "Larus atlanticus",
+      "familia": "Laridae",
+      "orden": "Charadriiformes",
+      "descripcion": {
+        "D": "Gaviota grande, parecida a la Gaviota Cocinera. Fuera de la época de cría la cabeza es pardusca. Pico amarillo y grueso, con una franja negra y la punta roja. Ojo pardo oscuro, con párpados blancos. Dorso y cubiertas de las alas negros. Plumas de vuelo largas de la punta del ala negras; las de la parte interna grises con puntas blancas. Rabadilla blanca. Cola blanca con una ancha banda negra cerca de la punta. Cuello y partes de abajo blancos. Patas amarillas. Macho y hembra son iguales.",
+        "R": "En época de cría la cabeza es completamente blanca.",
+        "J": "El juvenil es muy distinto: partes de arriba moteadas de pardo y partes de abajo blanquecinas jaspeadas de pardo. Pico amarillo con la punta negra. Patas grisáceas. Tarda varios años en tener el plumaje de adulto."
+      },
+      "habitat": [
+        "costa",
+        "marino"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "49-56",
+      "envergadura_cm": null,
+      "estado_conservacion": "NT",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Río Negro",
+        "Chubut",
+        "Santa Cruz"
+      ],
+      "curiosidades": "Se llama así porque se alimenta sobre todo de cangrejos, que caza en las marismas y planicies de barro de la costa durante la marea baja. Solo cría en la costa atlántica argentina, en unas pocas colonias del sur de Buenos Aires y la Patagonia; por eso está considerada casi amenazada. Fuera de la época de cría se dispersa hacia el norte por la costa, y en invierno es cuando más se la ve en la provincia de Buenos Aires. También se la conoce como Gaviota de Olrog, en honor al ornitólogo Claes Olrog, que la describió en 1958.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on a mudflat, white background, 1024x1024 pixels, bird filling 65% of canvas height, large stocky gull with a heavy bill, dusky brownish head, thick yellow bill with a black band near the tip and a red tip, small dark brown eye with a tiny dark pupil, black back and black folded wings, black wingtips, grey inner flight feathers with white tips showing as a white line along the folded wing, white rump, white tail with a broad black band near the tip, white neck, breast and belly, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "R": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the whole head pure white with no brownish wash, keep everything else the same, keep white background, no shadow, no text",
+        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the back and wings brown mottled with pale buff feather edges, make the breast and belly whitish mottled with brown, make the bill yellow with a black tip and no red, make the legs greyish, keep white background, no shadow, no text",
+        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, large stocky gull with long broad wings, neck extended, legs tucked, dusky brownish head, thick yellow bill with a black band near the tip and a red tip, small dark brown eye with a tiny dark pupil, black back, open wings black above with black wingtips and a white trailing edge formed by grey white-tipped inner flight feathers, white rump, white tail with a broad black band near the tip, white underparts, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "olrgul1",
+      "gbif_taxon_key": 2481162,
+      "pendientes": []
+    },
+    {
+      "id": 136,
+      "num": "#136",
+      "nombre_comun": "Sobrepuesto Austral",
+      "nombre_cientifico": "Lessonia rufa",
+      "familia": "Tyrannidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "M": "Pájaro chico y terrícola. El macho es todo negro, con el dorso castaño rojizo como una montura. Pico negro y fino. Ojo pardo. Patas negras.",
+        "F": "La hembra es mucho más apagada: corona parda, dorso castaño, rabadilla y cola pardas oscuras, alas pardas oscuras. Cara y partes de abajo blanquecinas ocráceas, con las plumas de debajo de la cola blanquecinas. Pico y patas negros, ojo pardo."
+      },
+      "habitat": [
+        "pastizal",
+        "costa",
+        "humedal"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "12",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Entre Ríos",
+        "Santa Fe",
+        "Corrientes",
+        "Santiago del Estero",
+        "Córdoba",
+        "San Luis",
+        "La Pampa",
+        "Mendoza",
+        "San Juan",
+        "La Rioja",
+        "Catamarca",
+        "Tucumán",
+        "Salta",
+        "Jujuy",
+        "Neuquén",
+        "Río Negro",
+        "Chubut",
+        "Santa Cruz",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "Su nombre viene del parche castaño del lomo del macho, que parece 'sobrepuesto' sobre el plumaje negro; en el campo le dicen negrito, colegial o potro ensillado. Cría sobre todo en la Patagonia, y en Buenos Aires es mucho más común entre fines del verano y el invierno, mientras que en noviembre y diciembre casi no se lo ve. Pasa casi todo el tiempo en el suelo, en costas, orillas de lagunas y pastos cortos, donde corre detrás de los insectos y abre y cierra rápidamente las alas y la cola. A veces se posa en yuyos o arbustos bajos.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on the ground, white background, 1024x1024 pixels, bird filling 60% of canvas height, small slender ground tyrant with long thin legs and an upright stance, all black head, thin pointed black bill, small dark brown eye with a tiny dark pupil, bright rufous chestnut back forming a saddle between the black wings, black wings, black tail, black throat, breast and belly, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: female much duller than the male, brown crown, pale buffy whitish face, chestnut back, dark brown rump, tail and wings, pale buffy whitish throat, breast and belly, whitish undertail feathers, keep the bill and legs black, keep white background, no shadow, no text"
+      },
+      "audio_ebird_code": "ausneg1",
+      "gbif_taxon_key": 5229770,
+      "pendientes": [
+        "Formosa en caso límite: 13 registros en GBIF, no se cargó."
+      ]
     }
   ]
 }
