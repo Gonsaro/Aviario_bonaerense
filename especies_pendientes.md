@@ -2,22 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (192 cargadas).
+`aviario_data.json` (200 cargadas).
 
 
-**Faltan: 167 especies**
+**Faltan: 159 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 190 | Espartillero Enano | *Spartonoica maluroides* | #685 |
-| 191 | Estornino Crestado Asiático | *Acridotheres cristatellus* | #900 |
-| 192 | Aguilucho Alas Largas | *Geranoaetus albicaudatus* | #445 |
-| 193 | Zorzal Patagónico | *Turdus falcklandii* | #884 |
-| 194 | Gaviotín Sudamericano | *Sterna hirundinacea* | #296 |
-| 195 | Ñacurutú | *Bubo virginianus* | #463 |
-| 196 | Albatros Ceja Negra | *Thalassarche melanophris* | #322 |
-| 198 | Burlisto Pico Canela | *Myiarchus swainsoni* | #791 |
 | 199 | Gaviotín Golondrina | *Sterna hirundo* | #294 |
 | 200 | Urraca Criolla | *Cyanocorax chrysops* | #856 |
 | 201 | Caburé Chico | *Glaucidium brasilianum* | #471 |
