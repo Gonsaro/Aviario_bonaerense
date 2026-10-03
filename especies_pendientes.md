@@ -2,22 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (168 cargadas).
+`aviario_data.json` (176 cargadas).
 
 
-**Faltan: 191 especies**
+**Faltan: 183 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 165 | Ganso Común | *Anser anser* | #24 (doméstica, marcar exotica: true) |
-| 166 | Garcita Bueyera | *Ardea ibis* | #391 (como *Bubulcus ibis*) |
-| 167 | Aguilucho Langostero | *Buteo swainsoni* | #453 |
-| 168 | Lechuza de Campanario | *Tyto furcata* | #456 |
-| 169 | Chotoy | *Schoeniophylax phryganophilus* | #689 |
-| 170 | Cachirla Goteada | *Anthus correndera* | #906 |
-| 171 | Carpinterito Barrado | *Picumnus cirratus* | #496 |
-| 172 | Ratona Aperdizada | *Cistothorus platensis* | #875 |
 | 174 | Choca Corona Negruzca | *Thamnophilus caerulescens* | #577 |
 | 175 | Pato Cabeza Negra | *Heteronetta atricapilla* | #57 |
 | 176 | Pepitero Verdoso | *Saltator similis* | #1033 |
