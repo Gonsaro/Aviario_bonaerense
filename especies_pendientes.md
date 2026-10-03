@@ -2,22 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (184 cargadas).
+`aviario_data.json` (192 cargadas).
 
 
-**Faltan: 175 especies**
+**Faltan: 167 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 182 | Pajonalera Pico Curvo | *Limnornis curvirostris* | #635 |
-| 183 | Tachurí Canela | *Polystictus pectoralis* | #761 |
-| 184 | Yerutí Gris | *Leptotila verreauxi* | #90 |
-| 185 | Golondrina Negra | *Progne elegans* | #865 |
-| 186 | Falaropo Común | *Phalaropus tricolor* | #253 |
-| 187 | Carpintero Blanco | *Melanerpes candidus* | #499 |
-| 188 | Curutié Ocráceo | *Limnoctites sulphuriferus* | #679 |
-| 189 | Águila Mora | *Geranoaetus melanoleucus* | #447 |
 | 190 | Espartillero Enano | *Spartonoica maluroides* | #685 |
 | 191 | Estornino Crestado Asiático | *Acridotheres cristatellus* | #900 |
 | 192 | Aguilucho Alas Largas | *Geranoaetus albicaudatus* | #445 |
