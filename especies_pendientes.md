@@ -2,22 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (176 cargadas).
+`aviario_data.json` (184 cargadas).
 
 
-**Faltan: 183 especies**
+**Faltan: 175 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 174 | Choca Corona Negruzca | *Thamnophilus caerulescens* | #577 |
-| 175 | Pato Cabeza Negra | *Heteronetta atricapilla* | #57 |
-| 176 | Pepitero Verdoso | *Saltator similis* | #1033 |
-| 177 | Gaviotín Real | *Thalasseus maximus* | #300 |
-| 178 | Burrito Canela | *Laterallus melanophaius* | #184 |
-| 179 | Monterita Litoraleña | *Microspingus cabanisi* | #1051 |
-| 180 | Cuclillo Canela | *Coccyzus melacoryphus* | #115 |
-| 181 | Pijuí Plomizo | *Synallaxis spixi* | #693 |
 | 182 | Pajonalera Pico Curvo | *Limnornis curvirostris* | #635 |
 | 183 | Tachurí Canela | *Polystictus pectoralis* | #761 |
 | 184 | Yerutí Gris | *Leptotila verreauxi* | #90 |
