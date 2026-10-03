@@ -203,7 +203,6 @@ body{font-family:system-ui,-apple-system,sans-serif;background:#f5f4f0;color:#1a
 .fam-tiers img{width:22px;height:22px;object-fit:contain;image-rendering:pixelated;opacity:0.22}
 .fam-tiers img.earned{opacity:1}
 .tc-icon img{width:110px;height:110px;object-fit:contain;image-rendering:pixelated}
-.tc-icon img.tc-small{width:72px;height:72px}
 .trophy-lb{display:none;position:fixed;inset:0;background:rgba(0,0,0,0.9);z-index:10200;align-items:center;justify-content:center;cursor:zoom-out;flex-direction:column;gap:14px}
 .trophy-lb.open{display:flex}
 .trophy-lb img{max-width:80vw;max-height:75vh;object-fit:contain;image-rendering:pixelated}
@@ -868,16 +867,19 @@ function markSeen(id){
     showTrophyCel(justUnlocked);
   }
 }
-// Un solo cartel aunque se desbloqueen varios logros a la vez
-function showTrophyCel(ts){
-  const many=ts.length>1;
-  document.getElementById('tc-label').textContent=many?`¡${ts.length} logros nuevos!`:'¡Nuevo logro desbloqueado!';
-  document.getElementById('tc-icon').innerHTML=ts.map(t=>`<img src="Trofeos/${t.img}" alt="${t.name}"${many?' class="tc-small"':''}>`).join('');
-  document.getElementById('tc-name').textContent=ts.map(t=>t.name).join(' · ');
-  document.getElementById('tc-cond').textContent=many?'':ts[0].cond;
+// Si se desbloquean varios logros a la vez, se muestran en fila: al cerrar uno aparece el siguiente
+let celQueue=[];
+function showTrophyCel(ts){celQueue=celQueue.concat(ts);if(!document.getElementById('trophy-cel-overlay').classList.contains('open'))showNextCel();}
+function showNextCel(){
+  const t=celQueue.shift();
+  if(!t)return;
+  document.getElementById('tc-label').textContent='¡Nuevo logro desbloqueado!'+(celQueue.length?` (quedan ${celQueue.length})`:'');
+  document.getElementById('tc-icon').innerHTML=t.img?`<img src="Trofeos/${t.img}" alt="${t.name}">`:'';
+  document.getElementById('tc-name').textContent=t.name;
+  document.getElementById('tc-cond').textContent=t.cond;
   document.getElementById('trophy-cel-overlay').classList.add('open');
 }
-function closeTrophyCel(){document.getElementById('trophy-cel-overlay').classList.remove('open');}
+function closeTrophyCel(){document.getElementById('trophy-cel-overlay').classList.remove('open');if(celQueue.length)setTimeout(showNextCel,250);}
 function openTrophyLb(img,name,cond){
   document.getElementById('trophy-lb-img').src='Trofeos/'+img;
   document.getElementById('trophy-lb-img').alt=name;
