@@ -5635,11 +5635,12 @@
       "curiosidades": "Pesa apenas entre 6 y 9 gramos. Se mueve sin parar entre arbustos y árboles bajos, revisando ramas y hojas en busca de insectos, arañas y larvas, y a veces revolotea para atraparlos. Su canto es un trino rápido, casi mecánico, 'psi-psi-psiiiii', y entre sus nombres populares están 'tiquitiqui', 'titirití' y 'turí-turí'. Macho y hembra construyen juntos una tacita de fibras vegetales cubierta por fuera con líquenes y a veces con bolsitas de huevos de araña, y forrada con plumas y pelos; la esconden en arbustos, muchas veces espinosos.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thin branch, white background, 1024x1024 pixels, bird filling 60% of canvas height, tiny tyrannulet, grey-olive crown with fine blackish streaks, thin white eyebrow, white lores, dusky line through the eye, short thin black bill, small dark brown eye with a tiny dark pupil, grey-olive back, blackish wings with buff feather edges and two pale buff wing bars, blackish tail with whitish outer edges, whitish throat, grey breast, pale yellow belly, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thin branch, white background, 1024x1024 pixels, bird filling 60% of canvas height, tiny tyrannulet with a single slender medium-length tail, grey-olive crown with fine blackish streaks, thin white eyebrow, white lores, dusky line through the eye, short thin black bill, small dark brown eye with a tiny dark pupil, grey-olive back, blackish wings with two pale buff wing bars, one single blackish tail with whitish outer edges, whitish throat, grey breast, pale yellow belly, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "y01036",
       "gbif_taxon_key": 2483966,
-      "pendientes": []
+      "pendientes": [],
+      "recolor_base": null
     },
     {
       "id": 116,
@@ -5682,7 +5683,7 @@
       "curiosidades": "Siempre anda cerca del agua: recorre las orillas de esteros, lagunas, arroyos y ríos, camina sobre los repollitos de agua y otras plantas acuáticas y hace carreritas por la orilla para atrapar mosquitos. Es inquieto y confiado, y también caza al vuelo o sube por las ramas bajas de los árboles. Hace un nido en forma de tacita colgante, con raicillas y fibras vegetales y forrado con plumas, atado a raíces, tallos o ramas que cuelgan sobre el agua; a veces lo construye debajo de puentes. Pone 3 huevos blancos.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thin reed stem, white background, 1024x1024 pixels, bird filling 60% of canvas height, tiny tyrannulet, dark grey crown slightly darker than the back, short thin black bill, small dark brown eye with a tiny dark pupil, dark grey back with a brownish tinge, brown wings with whitish edges on the flight feathers and coverts, black tail, whitish chin, plain grey breast and belly paler than the back, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thin reed stem, white background, 1024x1024 pixels, bird filling 60% of canvas height, tiny tyrannulet with a single slender medium-length tail, dark grey crown slightly darker than the back, short thin black bill, small dark brown eye with a tiny dark pupil, dark grey back with a brownish tinge, brown wings with whitish edges on the flight feathers and coverts, one single black tail, whitish chin, plain grey breast and belly paler than the back, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "sootyr1",
       "gbif_taxon_key": 2483958,
@@ -6122,7 +6123,7 @@
       "curiosidades": "Su nombre viene del enorme nido que construye: un cilindro de palitos espinosos que puede medir más de un metro de alto, muy llamativo en árboles aislados, postes de luz y molinos del campo. Tiene la entrada arriba y un túnel en espiral que baja hasta la cámara, que acolcha con plumas y fibras suaves; en la entrada suele poner plumas, hilos, trozos de nylon o de tela. A veces los jóvenes de la primera cría ayudan a sus padres a armar el nido de la segunda. Anda en pareja, caminando por el suelo y los pastos bajos en busca de insectos y arañas, y la pareja canta a dúo un trino rápido que termina en un chirrido.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thorny twig, white background, 1024x1024 pixels, bird filling 65% of canvas height, slender brown bird with a long graduated tail, dull rufous forehead, brown crown with thin blackish streaks, broad whitish eyebrow, brown stripe behind the eye, light greyish brown cheeks, short pointed bill with a brown upper mandible and a pale grey lower mandible, small chestnut brown eye with a tiny dark pupil, dull brown back with dark streaks on the lower back, brown wings with a cinnamon tinge, tail with pointed dark brown central feathers and blackish outer feathers tipped white, white throat bordered on each side by a line of small distinct black spots, pale buff breast with faint thin brown streaks, pale buff belly, sandy brown flanks, olive-cream legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT, perched on a wooden post, white background, 1024x1024 pixels, slender pale sandy brown bird with a long graduated tail, overall plain pale buff and sandy brown, small dull rufous forehead, crown with fine dark streaks, broad whitish buff eyebrow, short pointed bill, white throat bordered by a thin line of small black dots, sandy brown back with faint darker streaks, brown wings, long tail with pale tips on the outer feathers, plain pale buff breast and belly, pale legs"
       },
       "audio_ebird_code": "firgat1",
       "gbif_taxon_key": 2485086,
@@ -6571,14 +6572,15 @@
       "curiosidades": "Su nombre viene de los lunares blancos que salpican sus costados, como si estuviera 'pintada'. Vive en lagunas, bañados y zanjas con mucha vegetación flotante, sobre la que camina apoyándose en sus dedos largos. Nada moviendo la cabeza y la cola a compás, y anda sola, en pareja o en grupitos dispersos. Es bastante tímida y ante un peligro se mete enseguida entre los juncos. En la ciudad de Buenos Aires es fácil de ver en las reservas con lagunas, donde se acostumbra a la gente.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on floating water plants with the short tail cocked up, white background, 1024x1024 pixels, bird filling 65% of canvas height, compact gallinule with a short cocked tail and long toes, black forehead, black area between bill and eye and black center of the crown, rest of the head brownish grey, short pointed bright green bill with a green frontal shield, small red eye with a tiny dark pupil, olive brown back, dark brown wings with chestnut wing coverts, short olive brown tail, plain lead grey neck and breast, whitish belly, brown flanks peppered with small distinct round white spots, white undertail feathers, greenish yellow legs with long toes, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT, standing on floating water plants with the short tail cocked up, white background, 1024x1024 pixels, compact gallinule, black forehead, black face between bill and eye, grey head and neck, short pointed dull lime yellow-green bill with a small flat matching shield, not neon, small red eye with a tiny dark pupil, chestnut brown back and wings, lead grey breast, brown flanks with rows of small distinct white spots, white and black undertail, greenish yellow legs with long toes"
       },
       "audio_ebird_code": "spfgal1",
       "gbif_taxon_key": 2474784,
       "pendientes": [
         "Tucumán en caso límite: 18 registros en GBIF, no se cargó.",
         "Catamarca en caso límite: 14 registros en GBIF, no se cargó."
-      ]
+      ],
+      "recolor_base": null
     },
     {
       "id": 135,
@@ -6611,14 +6613,15 @@
       "curiosidades": "Se llama así porque se alimenta sobre todo de cangrejos, que caza en las marismas y planicies de barro de la costa durante la marea baja. Solo cría en la costa atlántica argentina, en unas pocas colonias del sur de Buenos Aires y la Patagonia; por eso está considerada casi amenazada. Fuera de la época de cría se dispersa hacia el norte por la costa, y en invierno es cuando más se la ve en la provincia de Buenos Aires. También se la conoce como Gaviota de Olrog, en honor al ornitólogo Claes Olrog, que la describió en 1958.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on a mudflat, white background, 1024x1024 pixels, bird filling 65% of canvas height, large stocky gull with a heavy bill, dusky brownish head, thick yellow bill with a black band near the tip and a red tip, small dark brown eye with a tiny dark pupil, black back and black folded wings, black wingtips, grey inner flight feathers with white tips showing as a white line along the folded wing, white rump, white tail with a broad black band near the tip, white neck, breast and belly, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "D": "pixel art bird sprite, side profile, bird facing LEFT, standing on a mudflat, white background, 1024x1024 pixels, large stocky gull with a heavy bill, white head with a smudgy pale grey-brown hood on the crown and nape, thick yellow bill with a black band near the tip and a red tip, small dark eye with a white eyelid, blackish back and folded wings, black wingtips, white tips on the inner flight feathers forming a white line along the folded wing, white tail with a black band near the tip, white neck, breast and belly, yellow legs",
         "R": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the whole head pure white with no brownish wash, keep everything else the same, keep white background, no shadow, no text",
         "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the back and wings brown mottled with pale buff feather edges, make the breast and belly whitish mottled with brown, make the bill yellow with a black tip and no red, make the legs greyish, keep white background, no shadow, no text",
         "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, large stocky gull with long broad wings, neck extended, legs tucked, dusky brownish head, thick yellow bill with a black band near the tip and a red tip, small dark brown eye with a tiny dark pupil, black back, open wings black above with black wingtips and a white trailing edge formed by grey white-tipped inner flight feathers, white rump, white tail with a broad black band near the tip, white underparts, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "olrgul1",
       "gbif_taxon_key": 2481162,
-      "pendientes": []
+      "pendientes": [],
+      "recolor_base": null
     },
     {
       "id": 136,
