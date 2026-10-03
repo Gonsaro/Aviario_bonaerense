@@ -7160,7 +7160,7 @@
       ],
       "curiosidades": "Vive en pajonales y juncales de bañados y orillas, donde se mueve inquieto entre los tallos. Anda solo o en pareja y, cuando lo molestan, hace vuelos bajos y cortos para volver a esconderse en la vegetación. Come semillas e insectos.",
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), clinging to a reed stem, white background, 1024x1024 pixels, bird filling 70% of canvas height, small slim finch with a long tail, greyish buff head and upper back, whitish eyebrow, grey ear patch, short conical blackish bill, small dark eye with a tiny dark pupil, cinnamon lower back streaked brown, brown wings with buff feather edges, long single brown tail edged buff, plain cinnamon throat, breast and belly, dark pinkish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), body and head both facing left, clinging to a short reed stem no longer than the bird, white background, 1024x1024 pixels, bird filling 75% of canvas height, close-up on the bird, small finch with a long tail and a short thick conical seed-eater bill, grey crown and upper back with an ochre tint, whitish eyebrow, grey ear patch, blackish bill, dark eye, cinnamon back streaked brown, brown wings with buff edges, long brown tail, plain cinnamon orange underparts, dark pink legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "ltrfin1",
       "gbif_taxon_key": 2491907,
@@ -7169,7 +7169,8 @@
       "sprites": {},
       "envergadura_cm": null,
       "estado_conservacion": "LC",
-      "pendientes": []
+      "pendientes": [],
+      "recolor_base": null
     },
     {
       "nombre_comun": "Catita Chirirí",
@@ -7196,11 +7197,9 @@
       ],
       "curiosidades": "Es nativa del noreste argentino, pero en Buenos Aires se estableció a partir de aves escapadas de cautiverio y hoy es común en parques y arboledas de la ciudad. Vuela en grupos muy ruidosos y come frutos, flores, néctar y semillas.",
       "prompts_pixelart": {
-        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: small all green parakeet with a long pointed tail, bright green head and body, a yellow stripe on the folded wing coverts, pale horn-colored bill, small dark eye with a whitish eye ring, green tail, pinkish legs, keep white background, no shadow, no text"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), body and head both facing left, perched on a short branch, white background, 1024x1024 pixels, bird filling 70% of canvas height, small chubby compact parakeet with a rounded body and a medium pointed tail shorter than the body, all bright green, a yellow stripe on the folded wing coverts, small pale horn-pink hooked bill, small dark eye with a thin whitish eye ring, pinkish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "recolor_base": {
-        "D": "Aratinga_nenday_D.png"
-      },
+      "recolor_base": null,
       "audio_ebird_code": "yecpar",
       "gbif_taxon_key": 2479583,
       "pendientes": [
@@ -7253,11 +7252,9 @@
       ],
       "curiosidades": "Llega a Buenos Aires en primavera y se va en otoño. Pesca quieta en la orilla o sobre una rama baja, encogida, y lanza el cuello de golpe para atrapar peces chicos. Es una de las pocas aves que usa herramientas: a veces tira al agua un insecto o una miga como carnada para atraer a los peces.",
       "prompts_pixelart": {
-        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: small compact heron, black crown and short crest with a green gloss, blackish green bill, small yellow eye with a tiny dark pupil, buff throat, front of the neck and breast streaked chestnut and buff, grey sides of the neck, grey back, grey wings with grey-green coverts edged buff, grey tail, grey belly and flanks, yellowish green legs, keep white background, no shadow, no text"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), body and head both facing left, standing on a branch, white background, 1024x1024 pixels, bird filling 70% of canvas height, small slim heron with a long sharp straight dagger bill and a short neck held in, black cap with a short crest, yellow eye, dark greyish bill, grey sides of the neck, buff throat and front of the neck streaked chestnut and white, dark grey back, grey-green wing coverts with thin buff edges, grey belly, bright yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "recolor_base": {
-        "D": "Nycticorax_nycticorax_D.png"
-      },
+      "recolor_base": null,
       "audio_ebird_code": "strher",
       "gbif_taxon_key": 2480824,
       "id": 148,
@@ -7355,7 +7352,7 @@
       ],
       "curiosidades": "Recorre los árboles solo o en pareja, revisando cortezas y flores con su pico largo para sacar insectos. Cuelga un nido largo en forma de bolsa tejida, a menudo sobre el agua. Tiene un canto muy variado, con silbidos, maullidos y sonidos metálicos.",
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, slender all black cacique with a long tail, long thick sharply pointed pale greenish ivory bill with a bluish base, small red eye with a tiny dark pupil, glossy black head, back, wings, single long black tail and underparts, dark grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), body and head both facing left, perched on a branch, white background, 1024x1024 pixels, bird filling 70% of canvas height, slender all black icterid with a long tail, long straight sharply pointed conical pale greenish ivory bill like a dagger, slim and not curved, small red eye, glossy black plumage everywhere, dark grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "sobcac1",
       "gbif_taxon_key": 5229826,
@@ -7364,7 +7361,8 @@
       "sprites": {},
       "envergadura_cm": null,
       "estado_conservacion": "LC",
-      "pendientes": []
+      "pendientes": [],
+      "recolor_base": null
     },
     {
       "nombre_comun": "Chorlo Pampa",
@@ -7457,11 +7455,9 @@
       ],
       "curiosidades": "Su pico grueso le permite comer cangrejos, caracoles y peces más grandes que los otros macás. Cuando se siente amenazado se hunde despacio hasta dejar solo la cabeza afuera, como un submarino. Hace un nido flotante de plantas acuáticas y tapa los huevos con vegetación cuando se aleja.",
       "prompts_pixelart": {
-        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: compact grebe with a short thick chicken-like bill, dark brown crown and back of the neck, buffy brown sides of the head and neck, pale ivory bill with a black band across the middle, small dark eye with a white eye ring, black throat patch, dark brown back, pale greyish buff breast and flanks, keep white background, no shadow, no text"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), swimming on calm water with small ripples, legs hidden under the water, white background, 1024x1024 pixels, bird filling 60% of canvas height, small compact grebe with a rounded body sitting low on the water, almost no tail, fluffy rear end, short thick chicken-like pale ivory bill with a black band across the middle, dark brown head and back of the neck, small dark eye with a white eye ring, black throat patch, plain dull brown body, slightly paler greyish brown flanks, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "recolor_base": {
-        "D": "Rollandia_rolland_D.png"
-      },
+      "recolor_base": null,
       "audio_ebird_code": "pibgre",
       "gbif_taxon_key": 2482077,
       "id": 152,
@@ -7502,11 +7498,9 @@
       ],
       "curiosidades": "Es nativo del norte y noreste del país, y en Buenos Aires hay grupos que se establecieron a partir de aves escapadas de cautiverio. Vuela en bandadas muy ruidosas y duerme en dormideros comunales en árboles altos o edificios. Come frutos, semillas y flores.",
       "prompts_pixelart": {
-        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: medium green parakeet with a long pointed tail, bright green head and body with a few scattered red feathers on the head and neck, pale horn-colored bill, small orange eye with a tiny dark pupil inside a ring of whitish bare skin, red on the leading edge of the folded wing, green tail, greyish legs, keep white background, no shadow, no text"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a branch, white background, 1024x1024 pixels, bird filling 70% of canvas height, medium green parakeet with a long pointed tail, smooth uniform bright green head, body and tail, only one or two small red feathers on the side of the neck, pale horn-colored hooked bill, orange eye inside a ring of whitish bare skin, a red patch on the bend of the folded wing, greyish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "recolor_base": {
-        "D": "Aratinga_nenday_D.png"
-      },
+      "recolor_base": null,
       "audio_ebird_code": "whepar2",
       "gbif_taxon_key": 8317396,
       "pendientes": [
