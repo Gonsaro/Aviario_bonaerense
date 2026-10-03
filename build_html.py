@@ -89,6 +89,7 @@ for pos, bird in enumerate(especies_ordenadas, start=1):
         'mapa': mapa,
         'thumb_sprite': VARIANT_LABEL.get(bird.get('thumb_sprite', ''), ''),
         'exotica': bool(bird.get('exotica')),
+        'amba': bird.get('amba_indice'),
     }
     birds_js_parts.append('{' + ','.join(f'{k}:{jstr(v)}' for k, v in b.items()) + '}')
 

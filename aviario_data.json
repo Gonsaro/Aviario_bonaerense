@@ -101,7 +101,8 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 1024x1024 pixels, bird filling 75% of canvas height, large screamer, pale grey head with shaggy grey crest, small red-orange bill, red eye with red eye ring, single black collar around neck with thin white border on top edge only, blue-grey body and wings with pale scalloping on breast, pale grey-white underparts, long salmon-pink legs with black claws, plump heavy body, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
-      "audio_ebird_code": "souscr1"
+      "audio_ebird_code": "souscr1",
+      "amba_indice": 19.52
     },
     {
       "id": 2,
@@ -141,7 +142,8 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing upright with long neck erect and head raised, white background, 1024x1024 pixels, bird filling 65% of canvas height, face and forehead bright white contrasting sharply with jet black crown and hindneck; lower neck and upper breast deep chestnut-brown; back, wings and tail black; flanks finely barred black and white; belly and undertail black; flat wide black bill; black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "gbif_taxon_key": 2498396
+      "gbif_taxon_key": 2498396,
+      "amba_indice": 14.25
     },
     {
       "id": 3,
@@ -185,7 +187,8 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing with long neck held in a graceful S-curve, white background, 1024x1024 pixels, bird filling 75% of canvas height, head and entire neck jet black; thin white stripe running from just above the eye to the base of the bill along the lore; body and wings entirely white; short pale blue-grey bill with a prominent bright red fleshy knob (caruncle) at the base; pale pink legs and feet, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "gbif_taxon_key": 2498335
+      "gbif_taxon_key": 2498335,
+      "amba_indice": 12.24
     },
     {
       "id": 4,
@@ -228,7 +231,8 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing at water's edge, white background, 1024x1024 pixels, bird filling 65% of canvas height, large white waterfowl with a long graceful neck held upright, entirely white plumage, black tips on the outermost primaries barely visible on the folded wing, short broad bright red coral bill with a small pale nail at the tip, red eye, pale pink-red legs and webbed feet, large elongated body, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "gbif_taxon_key": 2498288
+      "gbif_taxon_key": 2498288,
+      "amba_indice": 17.3
     },
     {
       "id": 5,
@@ -274,7 +278,8 @@
         "F": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, small duck, female darker and browner overall than the male, dark brown crown and nape, dark eye, BLACK bill, TWO small soft white facial spots — one just above and in front of the eye, the other in the lores between eye and bill (small, soft-edged — NOT bright round circles, must NOT look like extra eyes), brown around the eye and ear, whitish-mottled lower face and throat, warm brown breast with the lower sides scattered with small white flecks and black spots, wood-brown flanks, paler brown belly, warm brown back and scapulars with a darker brownish-black lower back, plain folded wing with NO coloured speculum (solid dark brown, no blue or green), black tail, rich PINKISH-ORANGE to orange legs and feet (deeper than pale orange), detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
         "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, small compact duck flying, head mostly uniform warm tawny-brown with rufous face and a soft diffuse pale greyish-white area on the rear cheek and side of neck blending into the brown, dark stripe down the hindneck, bright pink-red coral bill, dark eye, warm cinnamon-tawny body with diffuse dark-barred and spotted breast, dark brown-black wings showing a brilliant iridescent blue-green and purple speculum with a bold white band across the secondaries (very striking in flight), white wing-lining patch, black rump and tail, bright pink-red coral legs tucked, neck extended forward, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "audio_ebird_code": "bratea1"
+      "audio_ebird_code": "bratea1",
+      "amba_indice": 17.34
     },
     {
       "id": 6,
@@ -327,7 +332,8 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing near water, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium dabbling duck, brown head with dark crown, long slender neck, brown body with dark scalloping on back and flanks, pale buff underparts, long black bill with distinctive yellow lateral stripe, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "audio_ebird_code": "yebpin1"
+      "audio_ebird_code": "yebpin1",
+      "amba_indice": 7.81
     },
     {
       "nombre_comun": "Pato Barcino",
@@ -356,7 +362,8 @@
       },
       "id": 7,
       "num": "#007",
-      "audio_ebird_code": "yebtea1"
+      "audio_ebird_code": "yebtea1",
+      "amba_indice": 30.63
     },
     {
       "id": 8,
@@ -400,7 +407,8 @@
         "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), swimming low on water, white background, 1024x1024 pixels, bird filling 60% of canvas height, stocky large-headed duck, black head and neck, red eye, large rosy-pink bill with a prominent rounded crimson knob at the base and a small black nail at the tip, black breast and upper back, pale silvery-grey flanks and sides with fine dark vermiculations, white belly, bright white undertail coverts, dark brown wings with a narrow white wing stripe, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
         "F": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), swimming low on water, white background, 1024x1024 pixels, bird filling 60% of canvas height, stocky duck, overall warm rufous-brown plumage, darker brown on the crown and mantle, pale whitish chin and throat, whitish belly, bright white undertail coverts, dark brown wings, dark bluish-grey bill with a black nail and only a slightly swollen base, brown eye, orange-yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "gbif_taxon_key": 2498181
+      "gbif_taxon_key": 2498181,
+      "amba_indice": 24.69
     },
     {
       "id": 9,
@@ -444,7 +452,8 @@
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing in shallow water, white background, 1024x1024 pixels, bird filling 85% of canvas height, very tall wading bird flamingo, pale pink body and neck, deep rose-red wing coverts, black primary feathers, very long sinuous neck, distinctive strongly downcurved kinked bill with very pale pinkish-white base and large black tip extending beyond the bend, small bright yellow eye, long yellowish-grey legs with contrasting vivid red knees and red feet, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
         "J": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw or change the shape in any way. Change ONLY the colours: replace all pink and rose-red with pale whitish-grey; head and neck brownish-grey (darker than body); body pale white-grey; dorsal feathers pale grey-brown with darker rachis; black primary feathers remain black; no pink or red anywhere; bill strongly curved, bluish-grey base with charcoal-grey tip; legs dark grey (no red knees or feet); keep the same shallow water beneath. White background, no shadow, no text."
       },
-      "audio_ebird_code": "chifla1"
+      "audio_ebird_code": "chifla1",
+      "amba_indice": 0.23
     },
     {
       "id": 10,
@@ -494,7 +503,8 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, floating on water, white background, 1024x1024 pixels, bird filling 65% of canvas height, small compact grebe, black head and neck, white streaked facial plume on cheeks, bright red eye, short straight dark bill, dark black-brown back, rufous-chestnut flanks with dark scalloping, body low in water, lobed grey feet visible just below water surface, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
-      "audio_ebird_code": "whtgre3"
+      "audio_ebird_code": "whtgre3",
+      "amba_indice": 20.5
     },
     {
       "id": 11,
@@ -537,7 +547,8 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird left side visible, swimming on water, white background, 1024x1024 pixels, bird filling 65% of canvas height, large grebe with a distinct long and elongated horizontal body, back length noticeably longer than neck height, remarkably long and slender neck with a graceful thin silhouette, ultra-thin flat dark greenish-grey crown line with a minimal non-bulky crest, wide face with a gradient of light ash-grey and pale silvery-white cheeks, whitish throat, detailed pixel shading on face, long rufous-orange neck front, dark grey upperparts, pale silvery-white underparts, exceptionally long straight pointed sharp bicolor bill with a dark grey upper edge and pale yellowish-horn color on the sides, reddish-brown eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
-      "audio_ebird_code": "gregre1"
+      "audio_ebird_code": "gregre1",
+      "amba_indice": 13.49
     },
     {
       "id": 12,
@@ -589,7 +600,8 @@
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on ground, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium compact pigeon, blue-grey head and body, green and violet iridescent neck patch, grey back with two black wing bars, pale grey underparts, grey tail with black terminal band, thin grey bill with white cere, red legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "rocpig",
-      "exotica": true
+      "exotica": true,
+      "amba_indice": 81.37
     },
     {
       "nombre_comun": "Paloma Picazuró",
@@ -621,7 +633,8 @@
       },
       "id": 13,
       "num": "#013",
-      "audio_ebird_code": "picpig2"
+      "audio_ebird_code": "picpig2",
+      "amba_indice": 106.61
     },
     {
       "id": 14,
@@ -674,7 +687,8 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium slender dove, blue-grey head, two black facial spots (below eye and on cheek), pinkish-violet neck iridescence, greyish-brown back and wings with scattered black spots, pinkish breast fading to pale belly, long graduated grey tail with white outer feather tips, dark bill, red legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "audio_ebird_code": "eardov1"
+      "audio_ebird_code": "eardov1",
+      "amba_indice": 101.38
     },
     {
       "id": 15,
@@ -724,7 +738,8 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on ground, white background, 1024x1024 pixels, bird filling 65% of canvas height, small slender dove, whitish forehead and throat, blue-grey crown and nape, a thin black stripe across the lores in front of the eye, small pale grey eye with a tiny dark pupil, UNIFORM soft pale grey-brown back and wings (smooth and plain, even tone, NOT scaly or busy), only a few small short blackish-blue marks on the wing coverts and a thin white wing edge, soft pinkish-grey neck and breast fading to white belly, long grey-brown tail, dark grey bill, violet-pink legs and feet, detailed feather texture with subtle dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "audio_ebird_code": "pigdov1"
+      "audio_ebird_code": "pigdov1",
+      "amba_indice": 24.3
     },
     {
       "id": 16,
@@ -774,7 +789,8 @@
         "M": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation facing the same direction, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY the colours: replace ALL white and grey underparts (throat, breast, belly) with brilliant iridescent emerald green matching the upperparts, make the entire bird uniformly iridescent emerald-green with golden-green sheen on head and throat, change the bill to red with a dark tip. Keep the white background, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
         "F": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, tiny hummingbird, iridescent green upperparts, white eyebrow, pale grey-white underparts, tail with white terminal spots and corners, straight thin bill, tiny dark feet, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
-      "audio_ebird_code": "glbeme1"
+      "audio_ebird_code": "glbeme1",
+      "amba_indice": 34.91
     },
     {
       "id": 17,
@@ -822,7 +838,8 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 1024x1024 pixels, bird filling 70% of canvas height, large coot, dark slate-grey body and wings, black head and neck, bright yellow bill with red base and red frontal shield, red eye, long yellow-orange legs with lobed grey toes, short rounded tail with white undertail patch, plump rounded body, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
-      "audio_ebird_code": "regcoo1"
+      "audio_ebird_code": "regcoo1",
+      "amba_indice": 20.34
     },
     {
       "id": 18,
@@ -864,7 +881,8 @@
       "prompts_pixelart": {
         "D": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation facing the same direction, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY the colours: keep the body blackish as in the base image, small pale yellow to orange-yellow rounded frontal shield, yellow to greenish-yellow bill with a small dark spot near the tip, red eye, pale sea-green to yellow-green lobed feet with grey to blackish toes and joints. Keep the white background, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "audio_ebird_code": "whwcoo1"
+      "audio_ebird_code": "whwcoo1",
+      "amba_indice": 20.47
     },
     {
       "id": 19,
@@ -922,7 +940,8 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing on ground, white background, 1024x1024 pixels, bird filling 70% of canvas height, large plover, grey head with black forehead, thin black filamentous crest, broad black breast band, grey-brown upperparts with bronze and violet iridescent sheen on wing coverts, white belly, short rounded tail folded closed along body dark with white tips, dark red-orange bill with black tip, bright red eye with red wattle, dark red legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
-      "audio_ebird_code": "soulap1"
+      "audio_ebird_code": "soulap1",
+      "amba_indice": 50.36
     },
     {
       "id": 20,
@@ -968,7 +987,8 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing in shallow water with both feet touching the water surface, white background, 1024x1024 pixels, bird filling 75% of canvas height, large long-legged shorebird, glossy black crown and back of neck, white forehead and small white spot above eye, glossy black back and wings, white face below eye, neck and underparts entirely white, pale grey to sepia tail, red eye, long thin black bill very slightly upcurved, exactly TWO extremely long red legs both clearly standing in water at the same level, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: crown and nape are BLACK not white, only face below eye and body are white, both legs must be firmly planted in water at the same level, bird has exactly TWO legs not three, bird must face LEFT, mirror horizontally if facing right"
       },
-      "audio_ebird_code": "bknsti"
+      "audio_ebird_code": "bknsti",
+      "amba_indice": 6.3
     },
     {
       "id": 21,
@@ -1011,7 +1031,8 @@
         "J": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY the colours: replace the black head and neck with — white face and broad white supercilium above the eye, dark brown cap on top of the head, dark brown stripe through the eye; replace the chestnut-red body and wings with chestnut-brown (slightly duller); change the underparts (chest and belly visible at front) to white; replace the red frontal shield with a tiny rudimentary pale yellowish hint (no red wattles or lappets); keep the yellow-orange bill, grey legs and lily pad unchanged. Keep white background, no shadow, no text",
         "V": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY: move the yellow spur to its correct position — at the leading edge of the wing (the front/top edge), exactly at the carpal bend (wrist joint), the highest and most forward point of the wing arch; the spur is a tiny sharp yellow spike pointing LEFT (toward the bill, not toward the tail). Remove any yellow mark from the lower/inner wing area. Keep the rich chestnut-red body, pale yellowish-cream primaries, black head and neck, red frontal shield, yellow bill, grey trailing legs — all unchanged. Keep white background, no shadow, no text"
       },
-      "audio_ebird_code": "watjac1"
+      "audio_ebird_code": "watjac1",
+      "amba_indice": 25.51
     },
     {
       "id": 22,
@@ -1054,7 +1075,8 @@
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium slender gull non-breeding, white head with dark ear spot behind eye, white body, grey wings with white leading edge and black wingtips, white tail, red bill, red legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
         "R": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium slender gull breeding, full dark chocolate-brown hood covering head and nape, white body, grey wings with white leading edge and black wingtips, white tail, red bill, red legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "audio_ebird_code": "brhgul2"
+      "audio_ebird_code": "brhgul2",
+      "amba_indice": 15.66
     },
     {
       "id": 23,
@@ -1098,7 +1120,8 @@
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, large gull, white head neck and underparts, dark slate-grey back and wings, black wingtips with white spots, white tail, heavy yellow bill with red gonys spot, yellow eye with red orbital ring, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
         "J": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, large gull juvenile, mottled brown plumage with pale scalloping on back and wings, whitish head with brown streaking, dark bill, pinkish legs, dark subterminal tail band, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "audio_ebird_code": "kelgul"
+      "audio_ebird_code": "kelgul",
+      "amba_indice": 8.57
     },
     {
       "nombre_comun": "Pingüino Patagónico",
@@ -1127,7 +1150,8 @@
       },
       "id": 24,
       "num": "#024",
-      "audio_ebird_code": "magpen1"
+      "audio_ebird_code": "magpen1",
+      "amba_indice": 0.0
     },
     {
       "nombre_comun": "Cigüeña Americana",
@@ -1160,7 +1184,8 @@
       },
       "id": 25,
       "num": "#025",
-      "audio_ebird_code": "magsto1"
+      "audio_ebird_code": "magsto1",
+      "amba_indice": 10.0
     },
     {
       "id": 26,
@@ -1211,7 +1236,8 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 1024x1024 pixels, bird filling 70% of canvas height, large cormorant, entirely glossy black plumage with subtle scaly pattern on back and wings, orange-yellow bare facial skin patch at base of bill, turquoise-green eye, long hooked dark bill, long neck held in S-curve, long rounded dark tail, black legs and black webbed feet, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
-      "audio_ebird_code": "neocor"
+      "audio_ebird_code": "neocor",
+      "amba_indice": 41.81
     },
     {
       "id": 27,
@@ -1266,7 +1292,8 @@
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium stocky heron, glossy black-green crown and back, grey wings and tail, white face and underparts, two long thin white nape plumes, vivid red eye, thick black bill, yellow-green legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
         "J": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium stocky heron juvenile, brown upperparts with white spots and streaks on back and wings, white-streaked buff underparts, yellow eye, dark bill with pale base, yellow-green legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "audio_ebird_code": "bcnher"
+      "audio_ebird_code": "bcnher",
+      "amba_indice": 14.63
     },
     {
       "id": 28,
@@ -1319,7 +1346,8 @@
         "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 1024x1024 pixels, bird filling 75% of canvas height, very large heron, black crown, short dark grey occipital crest, white face and neck with fine black streaking on front, uniform yellow bill, pale greenish lores, blue-grey back and wings, large black flank patch, dark grey-green legs, tall elegant posture, neck held in S-curve, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
         "R": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 1024x1024 pixels, bird filling 75% of canvas height, very large heron, black cap, two long thin black plumes drooping from nape, white face and neck, bright orange-pink bill, blue-grey back and wings with no orange tones, distinct black scapular patch over shoulder, long white ornamental breast plumes proportional to body, large black flank patch, pink-salmon legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
-      "audio_ebird_code": "cocher1"
+      "audio_ebird_code": "cocher1",
+      "amba_indice": 29.64
     },
     {
       "id": 29,
@@ -1375,7 +1403,8 @@
         "R": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing in shallow water, white background, 1024x1024 pixels, large white heron, entirely white plumage, yellow straight beak, long black legs, long ornamental scapular plumes extending beyond tail, bright green loral region near eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
         "V": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, flying, white background, 1024x1024 pixels, large white heron, entirely white plumage, yellow straight beak pointing forward, neck tucked in S-shape, long black legs trailing behind tail, wings spread mid-flap, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
-      "audio_ebird_code": "greegr"
+      "audio_ebird_code": "greegr",
+      "amba_indice": 39.1
     },
     {
       "id": 30,
@@ -1420,7 +1449,8 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing in grass, white background, 1024x1024 pixels, bird filling 75% of canvas height, medium heron, black crown and crest, bare bright blue facial skin, rich rufous-cinnamon neck, pearl-grey back and wings, white underparts, long straight yellow bill with dark tip, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "audio_ebird_code": "whiher1"
+      "audio_ebird_code": "whiher1",
+      "amba_indice": 10.49
     },
     {
       "id": 31,
@@ -1465,7 +1495,8 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing upright in alert posture, white background, 1024x1024 pixels, bird filling 70% of canvas height, entirely snow-white plumage; long slender black bill; black legs with vivid bright yellow feet and toes (the yellow feet are the key diagnostic feature — make them clearly yellow and prominent); yellow iris with small dark pupil; long slim neck; slender body, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "gbif_taxon_key": 2480873
+      "gbif_taxon_key": 2480873,
+      "amba_indice": 29.87
     },
     {
       "id": 32,
@@ -1516,7 +1547,8 @@
       "audio_ebird_code": "whfibi",
       "recolor_base": {
         "D": "Plegadis_chihi_R.png"
-      }
+      },
+      "amba_indice": 9.97
     },
     {
       "id": 33,
@@ -1568,7 +1600,8 @@
         "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on post with wings slightly drooped, white background, 1024x1024 pixels, bird filling 65% of canvas height, large vulture, deep black body plumage with brownish-bronze iridescence, small bare red head, short neck, short hooked ivory bill, dark feet, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
         "V": "pixel art bird sprite, bottom-up flight profile, soaring overhead, white background, 1024x1024 pixels, large vulture, black body and wings from below, pale silvery-grey flight feathers contrasting with dark wing coverts, small bare red head, wings held in shallow V dihedral, long tail, detailed feather texture with dithering, clean outline, no shadow, no text"
       },
-      "audio_ebird_code": "turvul"
+      "audio_ebird_code": "turvul",
+      "amba_indice": 0.27
     },
     {
       "id": 34,
@@ -1615,7 +1648,8 @@
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium compact hawk with a small rounded head (NOT falcon-like, no angular crown), very dark chocolate-brown to blackish crown and nape, large perfectly circular dark pupil centered in a pale ivory-white to very pale yellow iris with a thin bright yellow orbital ring, very short hooked bill with dull orange-yellow cere dominating visually over the short dark grey-black hooked tip, rich warm chocolate-brown upperparts and wing coverts with warm rufous-brown feather margins, rufous patch at base of primaries, warm tawny cinnamon-rufous bib on throat and upper breast (a distinct warm wash contrasting with the belly), belly flanks and thighs with dense fine horizontal barring alternating tawny-brown and white-cream, relatively long rufous tail with 4-5 broad black bands ending in a pale tip, robust bare dull orange-yellow legs with long sharp black claws, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird MUST face LEFT with beak pointing LEFT, mirror horizontally if facing right",
         "J": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium compact juvenile hawk, dark brown crown, prominent whitish-cream supercilium extending over the eye contrasting with a dark eye line, cheeks and sides of head heavily streaked dark brown on pale background, dark hazel-brown iris (not pale), short robust strongly hooked bill with bright yellow cere and black tip, dark brown upperparts and wing coverts with strongly marked cream and ochre feather tips and edges giving a mottled jaspered appearance, throat and breast with thick vertical streaks or drop-shaped spots of dark brown on white to buff-ochre background (NOT horizontal barring), belly and lower flanks with streaks widening and transitioning to coarse irregular horizontal bars of brown, tail with crisp well-defined alternating grey and dark bands to feather tips, bright yellow bare robust legs with sharp black claws, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "audio_ebird_code": "roahaw"
+      "audio_ebird_code": "roahaw",
+      "amba_indice": 27.23
     },
     {
       "id": 35,
@@ -1668,7 +1702,8 @@
         "V": "pixel art bird sprite, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings spread wide and slightly raised, white background, 1536x1024 pixels, bird filling 80% of canvas width, large hawk in flight side view, dark blackish-brown body and wing coverts, rich rufous-chestnut patches on upper wing shoulder area and flanks, dark primaries and secondaries with faint barring, white tail base and white tail tip with broad black central band, black hooked bill with yellow cere, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
         "JV": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY the colours to juvenile plumage: replace the dark body/underwing with cream-buff underparts streaked with dark brown; replace the rufous shoulder/flank patches with pale tawny-buff patches; add fine dark barring across all flight feathers (primaries and secondaries); replace the white-base/white-tip tail with a tail showing multiple thin dark bars; keep yellow cere and bill unchanged. Keep white background, no shadow, no text"
       },
-      "audio_ebird_code": "hrshaw"
+      "audio_ebird_code": "hrshaw",
+      "amba_indice": 52.74
     },
     {
       "id": 36,
@@ -1720,7 +1755,8 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, facing FORWARD (front view, body facing the viewer), standing on ground, white background, 1024x1024 pixels, bird filling 65% of canvas height, small burrowing owl, round face without prominent facial disc, brown upperparts with white spots and bars, whitish underparts with brown barring on breast, white supercilium, large round yellow eyes facing forward, long bare brown legs, yellowish-grey bill, detailed feather texture with dithering, clean outline, no shadow, no text"
       },
-      "audio_ebird_code": "burowl"
+      "audio_ebird_code": "burowl",
+      "amba_indice": 3.9
     },
     {
       "id": 37,
@@ -1764,7 +1800,8 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, facing FORWARD (front view, body and face pointing directly at viewer), perched on post, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium owl, rounded head with whitish facial disc bordered dark, vivid yellow-orange eyes with bold black rings, densely streaked buff-brown upperparts and breast, paler streaked belly, short hooked dark bill, detailed feather texture with dithering, clean outline, no shadow, no text"
       },
-      "audio_ebird_code": "sheowl"
+      "audio_ebird_code": "sheowl",
+      "amba_indice": 0.14
     },
     {
       "id": 38,
@@ -1816,7 +1853,8 @@
         "M": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, perched on branch, white background, 1024x1024 pixels, bird filling 70% of canvas height, large kingfisher, spiky blue-grey crest, blue-grey upperparts and wings spangled with white spots, white throat and collar, entirely plain rufous-chestnut breast and belly with no white band, long heavy dark bill with yellowish base, brown eye, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
         "F": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, perched on branch, white background, 1024x1024 pixels, bird filling 70% of canvas height, same scale as male, large kingfisher, spiky blue-grey crest, blue-grey upperparts with white spotting, white throat and collar, blue-grey pectoral band across chest, rufous-chestnut belly, long heavy dark bill with yellowish base, brown eye, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
-      "audio_ebird_code": "rinkin1"
+      "audio_ebird_code": "rinkin1",
+      "amba_indice": 4.01
     },
     {
       "id": 39,
@@ -1862,7 +1900,8 @@
         "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium kingfisher with a compact rounded head and a short erect spiky dark-green crest (NOT a large shaggy crest — small and pointed), dark deep-green head and upperparts and wings, very broad and prominent white collar wrapping around the base of the neck, white chin and throat, rich rufous-chestnut breast patch below the white throat, green flanks, white belly, long straight dark grey-black bill with faint pale base on lower mandible, short dark grey feet, small dark eye, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
         "F": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY the colours: replace the rufous-chestnut breast with white in the centre and dark bottle-green sweeping in from both sides almost meeting in the middle; belly remains white. Everything else — head, crest, collar, upperparts, wings, bill, legs, branch, background — stays identical. White background, no shadow, no text."
       },
-      "audio_ebird_code": "amakin1"
+      "audio_ebird_code": "amakin1",
+      "amba_indice": 1.07
     },
     {
       "id": 40,
@@ -1910,7 +1949,8 @@
         "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), clinging to a tree trunk in typical woodpecker posture with stiff tail pressed against the bark, white background, 1024x1024 pixels, bird filling 65% of canvas height, black forehead; bright red crown and nape; white face with a bold red moustachial stripe on the lower cheek; back and wings yellow-green finely barred with black; bright yellow rump; breast pale yellowish with large round black spots; belly and flanks white barred with black; stiff pointed black tail; long chisel-shaped grey-slate bill; grey-green zygodactyl feet (two toes forward two back), detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
         "F": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY: replace the red moustachial stripe (malar) with a dark grey-black stripe of the same shape and position; keep all other colors completely unchanged: red crown and nape, black forehead, white face, yellow-green barred back, yellow rump, spotted breast, barred belly, grey bill. Keep white background, no shadow, no text"
       },
-      "gbif_taxon_key": 2478272
+      "gbif_taxon_key": 2478272,
+      "amba_indice": 41.22
     },
     {
       "id": 41,
@@ -1969,7 +2009,8 @@
         "J": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, perched on wooden post, white background, 1024x1024 pixels, bird filling 75% of canvas height, same scale as adult, large raptor, short dark brown flat crest, creamy buff face and throat, brown streaked breast and upper mantle, dark brown wings, pale brown belly, large hooked grey-blue bill with pink cere, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
         "V": "pixel art bird sprite, bottom-side profile, flying overhead, white background, 1024x1024 pixels, large raptor, wings fully spread, mostly white primaries visible from below, white tail with black terminal band, dark brown wings and body, long neck extended forward, black cap, creamy white throat and chest barred black and white, pink-orange cere, detailed feather texture with dithering, clean outline, no shadow, no text"
       },
-      "audio_ebird_code": "y00678"
+      "audio_ebird_code": "y00678",
+      "amba_indice": 66.18
     },
     {
       "id": 42,
@@ -2022,7 +2063,8 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, small slender falcon, dark brown upperparts with darker streaking, pale underparts with rufous-brown mottling and barring, barred tail with dark subterminal band and whitish tip, whitish primary base patch, grey hooked bill with yellow cere, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "audio_ebird_code": "chicar1"
+      "audio_ebird_code": "chicar1",
+      "amba_indice": 0.06
     },
     {
       "id": 43,
@@ -2078,7 +2120,8 @@
         "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on post, white background, 1024x1024 pixels, bird filling 65% of canvas height, small falcon, blue-grey crown with rufous central patch, white face with two black moustache stripes, rufous back with black bars, blue-grey wings, rufous tail with black subterminal band and white tip, buff underparts with round black spots, grey hooked bill with yellow cere, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
         "F": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on post, white background, 1024x1024 pixels, bird filling 65% of canvas height, small falcon female, rufous-brown crown, white face with two black moustache stripes, rufous back with black bars, wings with blue-grey tones mixed with brown bars (female kestrels have blue-grey wing coverts, not purely brown), rufous barred tail, buff underparts with brown streaks, grey hooked bill with yellow cere, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "audio_ebird_code": "amekes"
+      "audio_ebird_code": "amekes",
+      "amba_indice": 7.71
     },
     {
       "id": 44,
@@ -2132,7 +2175,8 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium compact parrot, grey forehead face throat and breast, bright green back rump and crown, dull green wings with vivid blue primaries and secondaries, long graduated green tail, thick rounded yellowish-brown bill, dark brown eye, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
-      "audio_ebird_code": "monpar"
+      "audio_ebird_code": "monpar",
+      "amba_indice": 91.56
     },
     {
       "id": 45,
@@ -2171,7 +2215,8 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a short horizontal branch, white background, 1024x1024 pixels, the ENTIRE bird including head beak branch ends and full tail tip must fit completely inside the canvas with white margin on all four sides — nothing clipped, medium parakeet with long tail, bird body occupying upper-centre of canvas with tail extending diagonally down-right, jet black head and face, bluish-green wash on throat and upper chest, bright green body and wings, long pointed tail green with blue tip, small red patch on the thigh, robust curved black bill, dark eye with white eyering, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, beak pointing LEFT"
       },
-      "audio_ebird_code": "bkhpar"
+      "audio_ebird_code": "bkhpar",
+      "amba_indice": 32.93
     },
     {
       "id": 46,
@@ -2230,7 +2275,8 @@
       "prompts_pixelart_extras": {
         "nido": "pixel art sprite, side view, white background, 1024x1024 pixels, hornero mud nest, round domed clay nest with lateral entrance hole, rough textured mud surface with visible cracks and straw, warm ochre-brown tones, perched on tree branch, detailed texture with dithering, clean outline, no shadow, no text"
       },
-      "audio_ebird_code": "rufhor2"
+      "audio_ebird_code": "rufhor2",
+      "amba_indice": 107.75
     },
     {
       "id": 47,
@@ -2272,7 +2318,8 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), clinging UPRIGHT to a vertical green reed stem with body angled slightly upward, white background, 1024x1024 pixels, bird filling 60% of canvas height, tiny COMPACT plump marsh furnariid (NOT a wren, NOT a thrush), rounded head and short neck, short body, blackish crown with broad pale brown streaks, bold cream-buff eyebrow, dark eyeline through and behind the eye, warm cinnamon wash on cheek and sides of neck, medium-length slender straight sharply-pointed bill with dark upper mandible and pale pinkish-horn lower mandible base, upperparts a mix of ASHY GREY and BLACK — grey-edged back feathers with bold black centers — plus a few distinct bright RUFOUS-ORANGE patches on the scapulars and inner wing, blackish flight feathers with grey edges, SHORT graduated stiff-looking brownish tail held straight and pointing down (NOT long, NOT broad, NOT cocked up), white throat, plain pale buffy-grey underparts, cinnamon-washed flanks, long grayish-horn legs with long toes gripping the reed, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "audio_ebird_code": "wrlrus1"
+      "audio_ebird_code": "wrlrus1",
+      "amba_indice": 13.42
     },
     {
       "id": 48,
@@ -2326,7 +2373,8 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium flycatcher, black crown with hidden yellow central patch, broad white supercilium, black face mask, white throat, bright yellow underparts and belly, brown-rufous wings and back with rufous feather edgings, brown tail with rufous edges, long strong black bill, dark legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
-      "audio_ebird_code": "grekis"
+      "audio_ebird_code": "grekis",
+      "amba_indice": 100.0
     },
     {
       "id": 49,
@@ -2369,7 +2417,8 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird left side visible, standing on ground, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium tyrant flycatcher, pale brownish-grey crown, thin dusky eyestripe, sandy-brown to caramel-brown back and wings, whitish throat, bright yellow chest and belly, breast slightly tinged with ochre, long robust legs, short dark bill, dark red eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "audio_ebird_code": "cattyr"
+      "audio_ebird_code": "cattyr",
+      "amba_indice": 41.79
     },
     {
       "id": 50,
@@ -2415,7 +2464,8 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched upright on a branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, large slender elongated tyrant-flycatcher, grey head with dusky lores and auriculars forming a dark mask through the eye, grayish-olive back and rump, blackish-brown wings with grey-edged coverts and whitish-edged secondaries, long brownish-black tail slightly notched at the tip, greyish-white throat shading to pale grey on the foreneck, bright yellow belly and undertail coverts with an olive tinge on the upper chest, heavy broad-based black bill, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "gbif_taxon_key": 5229662
+      "gbif_taxon_key": 5229662,
+      "amba_indice": 23.6
     },
     {
       "nombre_comun": "Tijereta",
@@ -2449,7 +2499,8 @@
       "id": 51,
       "num": "#051",
       "thumb_sprite": "J",
-      "audio_ebird_code": "fotfly"
+      "audio_ebird_code": "fotfly",
+      "amba_indice": 10.06
     },
     {
       "id": 52,
@@ -2506,7 +2557,8 @@
         "M": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY the colours: replace the grey-brown crown with brilliant scarlet-red crown with a slight raised crest; replace the dusky mask and lores with solid black lores and mask through the eye; replace the dark brownish back with dark brownish-black nape, back and rump; keep the dark brown-black wings and tail; replace the whitish streaked breast and throat with brilliant scarlet-red throat, breast and belly; replace the pale salmon-pink belly and undertail with brilliant scarlet-red; keep the short slender black bill and black legs; keep white background, no shadow, no text",
         "F": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY the colours: replace the brilliant scarlet-red crown and crest with grey-brown; replace the black mask and lores with dusky grey-brown blending into the face; keep the dark brownish-black nape, back, wings and tail unchanged; replace the scarlet-red throat and breast with whitish with fine dark brown streaking; replace the scarlet-red belly and undertail with pale salmon-pink to rosy; keep the short slender black bill and black legs unchanged; keep white background, no shadow, no text"
       },
-      "gbif_taxon_key": 2483647
+      "gbif_taxon_key": 2483647,
+      "amba_indice": 6.87
     },
     {
       "nombre_comun": "Pico de Plata",
@@ -2538,7 +2590,8 @@
       },
       "id": 53,
       "num": "#053",
-      "audio_ebird_code": "spetyr1"
+      "audio_ebird_code": "spetyr1",
+      "amba_indice": 8.89
     },
     {
       "id": 54,
@@ -2583,7 +2636,8 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium-sized martin, uniformly matte sandy earth-brown upperparts, crown and face (no gloss, no blue), small dark eye with a tiny dark pupil, short wide dark grey bill, white throat and belly, brownish-grey band across upper breast with a darker brown patch in the centre, brownish wash on flanks, short slightly forked tail in sandy-brown, pale brownish-grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "audio_ebird_code": "brcmar1"
+      "audio_ebird_code": "brcmar1",
+      "amba_indice": 30.39
     },
     {
       "id": 55,
@@ -2642,7 +2696,8 @@
         "F": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium swallow, dull blue-grey upperparts and wings, brownish-grey head and face, pale grey-white underparts with faint streaking on breast, short forked tail, short pointed bill, dark eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
         "V": "pixel art bird sprite, bottom-side profile, flying overhead, white background, 1024x1024 pixels, medium swallow, wings fully spread, deep glossy blue-purple upperparts visible from below, clean white underparts and belly, short forked tail spread open, short pointed bill, detailed feather texture with dithering, clean outline, no shadow, no text"
       },
-      "audio_ebird_code": "gybmar"
+      "audio_ebird_code": "gybmar",
+      "amba_indice": 34.48
     },
     {
       "nombre_comun": "Ratona",
@@ -2672,7 +2727,8 @@
       },
       "id": 56,
       "num": "#056",
-      "audio_ebird_code": "houwre4"
+      "audio_ebird_code": "houwre4",
+      "amba_indice": 63.97
     },
     {
       "id": 57,
@@ -2725,7 +2781,8 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium thrush, dark olive-brown upperparts head and wings, bright orange-rufous breast and belly, long medium-width tail dark brown, yellow-orange bill, pale yellow eye ring, dark legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
-      "audio_ebird_code": "rubthr1"
+      "audio_ebird_code": "rubthr1",
+      "amba_indice": 101.52
     },
     {
       "id": 58,
@@ -2770,7 +2827,8 @@
       "prompts_pixelart": {
         "D": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation facing the same direction, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY the colours: keep olive-brown upperparts, head and wings as in base; replace the bright orange-rufous breast and belly with whitish throat showing fine brown streaks, pale grey-brown breast with faint streaking, and white belly; remove the yellow eye ring entirely; keep yellow-orange bill; drab brown legs. Keep the white background, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "audio_ebird_code": "crbthr1"
+      "audio_ebird_code": "crbthr1",
+      "amba_indice": 37.44
     },
     {
       "id": 59,
@@ -2822,7 +2880,8 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing on ground, white background, 160x128 pixels, bird filling 80% of canvas width, medium-sized mockingbird, prominent white supercilium over dark eye stripe, grey-brown crown and upperparts, wings with two white wingbars and pale feather edging on secondaries, long tail with white-tipped outer feathers held slightly raised, pale buff-white underparts warmer on breast and flanks, thin slightly curved dark bill, long grey legs, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
-      "audio_ebird_code": "chbmoc1"
+      "audio_ebird_code": "chbmoc1",
+      "amba_indice": 79.36
     },
     {
       "id": 60,
@@ -2877,7 +2936,8 @@
         "F": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, small stocky sparrow, plain brown-grey head, prominent pale buff supercilium, no black bib, streaked brown back, brown wings, pale grey-buff underparts, short conical pale bill, pinkish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "houspa",
-      "exotica": true
+      "exotica": true,
+      "amba_indice": 59.46
     },
     {
       "nombre_comun": "Cabecitanegra",
@@ -2910,7 +2970,8 @@
       },
       "id": 61,
       "num": "#061",
-      "audio_ebird_code": "hoosis1"
+      "audio_ebird_code": "hoosis1",
+      "amba_indice": 39.55
     },
     {
       "id": 62,
@@ -2964,7 +3025,8 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, small sparrow with a distinctly peaked raised crown (copete), grey median crown-stripe flanked by bold black lateral crown-stripes, black postocular stripe behind the eye, lower edge of ear-coverts black, warm rufous-orange nape and sides of neck forming a collar, brown streaked mantle and back, two whitish wingbars, white throat, plain greyish-white breast with no spots or patches, white belly, buffy flanks, horn-grey bill with dark culmen and tip, brownish-pink legs, reddish-brown eye, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "audio_ebird_code": "rucspa1"
+      "audio_ebird_code": "rucspa1",
+      "amba_indice": 71.13
     },
     {
       "id": 63,
@@ -3020,7 +3082,8 @@
         "M": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium-sized cowbird, entirely glossy blue-black plumage with strong iridescent blue-purple sheen, black face, short conical dark bill, dark eye, pale grey legs, long tail, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right.",
         "F": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, all body parts (body, wings, tail, neck, head, beak) directed toward the LEFT side of the canvas, standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, same scale as male, medium-sized cowbird, entirely dull grey-brown plumage, slightly paler underparts, short conical dark bill, dark eye, pale grey legs, long tail, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
-      "audio_ebird_code": "shicow"
+      "audio_ebird_code": "shicow",
+      "amba_indice": 51.37
     },
     {
       "id": 64,
@@ -3060,7 +3123,8 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, strict left-facing side profile, body pointing left, head pointing left, beak pointing left — bird right side visible, perched on reed, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium blackbird, vivid orange-scarlet head, throat, upper breast and thighs, rest of body entirely deep black including wings, belly, tail and legs, long pointed dark bill, dark red eye, detailed feather texture with dithering, clean outline, no shadow, no text, IMPORTANT: bird must face LEFT, mirror horizontally if facing right."
       },
-      "audio_ebird_code": "schbla1"
+      "audio_ebird_code": "schbla1",
+      "amba_indice": 2.16
     },
     {
       "nombre_comun": "Tordo Músico",
@@ -3090,7 +3154,8 @@
       },
       "id": 65,
       "num": "#065",
-      "audio_ebird_code": "bawcow4"
+      "audio_ebird_code": "bawcow4",
+      "amba_indice": 57.42
     },
     {
       "id": 66,
@@ -3133,7 +3198,8 @@
         "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched upright on a reed stem, white background, 1024x1024 pixels, bird filling 60% of canvas height, small blackbird, dark chestnut on the forehead and front of the crown only, BLACK nape blending into the black back, a wide BLACK mask covering the lores, face and around the eye, dark chestnut throat patch and a small area on the uppermost breast, all remaining plumage glossy black with a faint bluish sheen on back and wings, short conical black bill, dark brown eye, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
         "F": "recolor this exact sprite, keep the pose, outline, size and composition completely unchanged, only change the colours: replace all black plumage with dark olive-brown, replace the dark chestnut crown and throat with dull yellowish-olive, entire bird becomes olive-yellowish-brown with faint dark streaking on the breast and flanks, wings dark brown with yellowish-olive feather edges, tail dark brown, bill dark grey with paler base on lower mandible, dark greyish-blue legs, white background, no shadow, no text"
       },
-      "gbif_taxon_key": 2484099
+      "gbif_taxon_key": 2484099,
+      "amba_indice": 3.86
     },
     {
       "id": 67,
@@ -3184,7 +3250,8 @@
         "M": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw or change the shape in any way. Change ONLY the colours: make the entire head a uniform warm golden-yellow — the same saturated yellow-gold as the chest and belly, one single consistent colour throughout crown, face and nape, no pale or cream areas, no orange patch; keep the fine brown streaking on the breast and back, the grey bill and dark grey legs unchanged. White background, no shadow, no text.",
         "F": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw or change the shape in any way. Change ONLY the colours: change the pinkish-red legs to dark dusky-grey; add a subtle yellowish-olive tinge to the wing feather edges and tail; keep the brown streaked body and white underparts unchanged. White background, no shadow, no text."
       },
-      "audio_ebird_code": "saffin"
+      "audio_ebird_code": "saffin",
+      "amba_indice": 43.47
     },
     {
       "id": 68,
@@ -3236,7 +3303,8 @@
         "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a grass stem, white background, 1024x1024 pixels, bird filling 50% of canvas height, tiny seedeater with a short thick rounded bill, lead-grey crown and face with darker blackish forehead and moustachial area, small whitish crescent below the eye, black throat patch with a narrow white stripe bordering it on each side, grey-brown back and tail, grey-brown wings, white lower throat and breast with a narrow bold black band across the centre of the breast, whitish belly with faint grey spots on flanks, short thick yellowish bill, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
         "F": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw, reposition, flip or change the shape in any way. Change ONLY the colours: replace the lead-grey crown and face with warm buffy-brown; replace the black forehead and moustachial area with slightly darker dull brown; remove the white crescent below the eye blending it into buffy-brown face; replace the black throat patch and white stripes with uniform paler buff throat; replace the bold black breast band and white breast with warm buff-brown breast and flanks; replace the whitish belly with pale buff belly; replace the grey-brown back and wings with warm buffy-brown upperparts and buff-brown wings and tail; change the bill to dark above with dull yellowish-horn lower mandible; change the black legs to dark grey; keep white background, no shadow, no text"
       },
-      "gbif_taxon_key": 2491376
+      "gbif_taxon_key": 2491376,
+      "amba_indice": 12.81
     },
     {
       "nombre_comun": "Verdón",
@@ -3268,7 +3336,8 @@
       },
       "id": 69,
       "num": "#069",
-      "audio_ebird_code": "grpfin1"
+      "audio_ebird_code": "grpfin1",
+      "amba_indice": 2.36
     },
     {
       "id": 70,
@@ -3318,7 +3387,8 @@
         "M": "Use the provided image as an exact template. Output the SAME bird in the SAME pose, SAME orientation, SAME outline and SAME composition. Do NOT redraw or change the shape in any way. Change ONLY the colours: make the entire head and throat a uniform bright cornflower-blue — crown, nape, cheeks, chin and throat all the SAME blue, no dark or black chin or throat; keep only the small black mask on lores and around the eye; keep the black mantle, blue wings, yellow-orange underparts and pale grey lower mandible unchanged. White background, no shadow, no text.",
         "F": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium-sized tanager, entire bird dull olive-brown throughout — head, back, wings and tail all the same muted olive-brown with no contrasting patches, underparts pale buffy-yellowish (slightly paler than back but not vivid), no blue or grey on wings, no mask, short dark bill with pale grey lower mandible, reddish-brown eye, dark legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "audio_ebird_code": "baytan3"
+      "audio_ebird_code": "baytan3",
+      "amba_indice": 7.0
     },
     {
       "id": 71,
@@ -3379,7 +3449,8 @@
       "pendientes": [],
       "recolor_base": {
         "J": "Hirundo_rustica_D.png"
-      }
+      },
+      "amba_indice": 10.56
     },
     {
       "id": 72,
@@ -3426,7 +3497,8 @@
       "audio_ebird_code": "eursta",
       "gbif_taxon_key": 9809229,
       "pendientes": [],
-      "exotica": true
+      "exotica": true,
+      "amba_indice": 57.62
     },
     {
       "id": 73,
@@ -3481,7 +3553,8 @@
       },
       "audio_ebird_code": "guicuc1",
       "gbif_taxon_key": 2496462,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 17.63
     },
     {
       "id": 74,
@@ -3536,7 +3609,8 @@
       "pendientes": [],
       "recolor_base": {
         "F": "Polioptila_dumicola_M.png"
-      }
+      },
+      "amba_indice": 39.28
     },
     {
       "id": 75,
@@ -3578,7 +3652,8 @@
       },
       "audio_ebird_code": "baymar1",
       "gbif_taxon_key": 2484213,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 2.62
     },
     {
       "id": 76,
@@ -3636,7 +3711,8 @@
       },
       "audio_ebird_code": "lesyel",
       "gbif_taxon_key": 2481721,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 2.63
     },
     {
       "id": 77,
@@ -3684,7 +3760,8 @@
       "pendientes": [],
       "recolor_base": {
         "D": "Chlorostilbon_lucidus_M.png"
-      }
+      },
+      "amba_indice": 32.77
     },
     {
       "id": 78,
@@ -3744,7 +3821,8 @@
       "pendientes": [],
       "recolor_base": {
         "M": "Sicalis_flaveola_M.png"
-      }
+      },
+      "amba_indice": 5.45
     },
     {
       "id": 79,
@@ -3796,7 +3874,8 @@
       "pendientes": [],
       "recolor_base": {
         "F": "Callonetta_leucophrys_M.png"
-      }
+      },
+      "amba_indice": 10.31
     },
     {
       "id": 80,
@@ -3854,7 +3933,8 @@
       "recolor_base": {
         "D": "Patagioenas_picazuro_D.png",
         "V": "Patagioenas_picazuro_V.png"
-      }
+      },
+      "amba_indice": 12.0
     },
     {
       "id": 81,
@@ -3907,7 +3987,8 @@
       "pendientes": [],
       "recolor_base": {
         "D": "Plegadis_chihi_D.png"
-      }
+      },
+      "amba_indice": 15.01
     },
     {
       "id": 82,
@@ -3964,7 +4045,8 @@
       "pendientes": [],
       "recolor_base": {
         "D": "Anas_flavirostris_D.png"
-      }
+      },
+      "amba_indice": 22.73
     },
     {
       "id": 83,
@@ -4017,7 +4099,8 @@
       "pendientes": [],
       "recolor_base": {
         "M": "Colaptes_melanochloros_M.png"
-      }
+      },
+      "amba_indice": 7.44
     },
     {
       "id": 84,
@@ -4074,7 +4157,8 @@
       "pendientes": [],
       "recolor_base": {
         "M": "Chrysomus_ruficapillus_M.png"
-      }
+      },
+      "amba_indice": 10.62
     },
     {
       "id": 85,
@@ -4128,7 +4212,8 @@
       },
       "audio_ebird_code": "reccar",
       "gbif_taxon_key": 2492081,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 31.74
     },
     {
       "id": 86,
@@ -4183,7 +4268,8 @@
       "pendientes": [],
       "recolor_base": {
         "D": "Fulica_leucoptera_D.png"
-      }
+      },
+      "amba_indice": 33.31
     },
     {
       "id": 87,
@@ -4235,7 +4321,8 @@
       },
       "audio_ebird_code": "nabwoo1",
       "gbif_taxon_key": 2486024,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 34.34
     },
     {
       "id": 88,
@@ -4286,7 +4373,8 @@
       },
       "audio_ebird_code": "rosspo1",
       "gbif_taxon_key": 2480803,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 3.26
     },
     {
       "id": 89,
@@ -4334,7 +4422,8 @@
       },
       "audio_ebird_code": "limpki",
       "gbif_taxon_key": 2474337,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 27.38
     },
     {
       "id": 90,
@@ -4388,7 +4477,8 @@
       },
       "audio_ebird_code": "whrsan",
       "gbif_taxon_key": 2481756,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.62
     },
     {
       "id": 91,
@@ -4439,7 +4529,8 @@
       "audio_ebird_code": "saytan1",
       "gbif_taxon_key": 2488622,
       "pendientes": [],
-      "recolor_base": {}
+      "recolor_base": {},
+      "amba_indice": 25.42
     },
     {
       "id": 92,
@@ -4478,7 +4569,8 @@
       },
       "audio_ebird_code": "barwaf1",
       "gbif_taxon_key": 2491143,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 25.33
     },
     {
       "id": 93,
@@ -4525,7 +4617,8 @@
       },
       "audio_ebird_code": "truter",
       "gbif_taxon_key": 5229263,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 2.67
     },
     {
       "id": 94,
@@ -4574,7 +4667,8 @@
       },
       "audio_ebird_code": "snakit",
       "gbif_taxon_key": 2480415,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 6.38
     },
     {
       "id": 95,
@@ -4628,7 +4722,8 @@
       },
       "audio_ebird_code": "chewoo3",
       "gbif_taxon_key": 7340156,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 25.3
     },
     {
       "id": 96,
@@ -4687,7 +4782,8 @@
       "pendientes": [],
       "recolor_base": {
         "D": "Fulica_leucoptera_D.png"
-      }
+      },
+      "amba_indice": 11.18
     },
     {
       "id": 97,
@@ -4740,7 +4836,8 @@
       "pendientes": [],
       "recolor_base": {
         "D": "Fulica_leucoptera_D.png"
-      }
+      },
+      "amba_indice": 17.71
     },
     {
       "id": 98,
@@ -4795,7 +4892,8 @@
       "recolor_base": {
         "F": "Circus_buffoni_M.png",
         "O": "Circus_buffoni_M.png"
-      }
+      },
+      "amba_indice": 3.12
     },
     {
       "id": 99,
@@ -4832,7 +4930,8 @@
       },
       "audio_ebird_code": "ameoys",
       "gbif_taxon_key": 2480273,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.0
     },
     {
       "id": 100,
@@ -4877,7 +4976,8 @@
       "recolor_base": {
         "M": "Chlorostilbon_lucidus_M.png",
         "F": "Leucochloris_albicollis_M.png"
-      }
+      },
+      "amba_indice": 2.99
     },
     {
       "id": 101,
@@ -4928,7 +5028,8 @@
       "audio_ebird_code": "strfly1",
       "gbif_taxon_key": 2483497,
       "pendientes": [],
-      "recolor_base": {}
+      "recolor_base": {},
+      "amba_indice": 13.48
     },
     {
       "id": 102,
@@ -4979,7 +5080,8 @@
       "pendientes": [],
       "recolor_base": {
         "M": "Chloroceryle_amazona_M.png"
-      }
+      },
+      "amba_indice": 5.54
     },
     {
       "id": 103,
@@ -5028,7 +5130,8 @@
       },
       "audio_ebird_code": "whbbla2",
       "gbif_taxon_key": 5788766,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 3.32
     },
     {
       "id": 104,
@@ -5085,7 +5188,8 @@
         "J": "Tachycineta_leucorrhoa_D.png",
         "V": "Progne_chalybea_V.png",
         "D": "Progne_chalybea_M.png"
-      }
+      },
+      "amba_indice": 26.25
     },
     {
       "id": 105,
@@ -5142,7 +5246,8 @@
       "pendientes": [],
       "recolor_base": {
         "M": "Netta_peposaca_M.png"
-      }
+      },
+      "amba_indice": 3.58
     },
     {
       "id": 106,
@@ -5176,7 +5281,8 @@
       },
       "audio_ebird_code": "dulgua1",
       "gbif_taxon_key": 2482212,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 3.34
     },
     {
       "id": 107,
@@ -5225,7 +5331,8 @@
       },
       "audio_ebird_code": "epaori4",
       "gbif_taxon_key": 7340265,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 22.71
     },
     {
       "id": 108,
@@ -5271,7 +5378,8 @@
       },
       "audio_ebird_code": "gycwor1",
       "gbif_taxon_key": 2474659,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 10.96
     },
     {
       "id": 109,
@@ -5321,7 +5429,8 @@
       },
       "audio_ebird_code": "brcfly1",
       "gbif_taxon_key": 5229801,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 9.98
     },
     {
       "id": 110,
@@ -5380,7 +5489,8 @@
       "recolor_base": {
         "J": "Agelaioides_badius_D.png",
         "D": "Molothrus_bonariensis_M.png"
-      }
+      },
+      "amba_indice": 13.83
     },
     {
       "id": 111,
@@ -5434,7 +5544,8 @@
       "pendientes": [],
       "recolor_base": {
         "F": "Setophaga_pitiayumi_M.png"
-      }
+      },
+      "amba_indice": 20.48
     },
     {
       "id": 112,
@@ -5482,7 +5593,8 @@
       "audio_ebird_code": "ruther1",
       "gbif_taxon_key": 2480869,
       "pendientes": [],
-      "recolor_base": null
+      "recolor_base": null,
+      "amba_indice": 23.99
     },
     {
       "id": 113,
@@ -5530,7 +5642,8 @@
       "audio_ebird_code": "lotmea1",
       "gbif_taxon_key": 9667237,
       "pendientes": [],
-      "recolor_base": null
+      "recolor_base": null,
+      "amba_indice": 0.01
     },
     {
       "id": 114,
@@ -5584,7 +5697,8 @@
       },
       "audio_ebird_code": "greyel",
       "gbif_taxon_key": 2481720,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 1.03
     },
     {
       "id": 115,
@@ -5637,7 +5751,8 @@
       "audio_ebird_code": "y01036",
       "gbif_taxon_key": 2483966,
       "pendientes": [],
-      "recolor_base": null
+      "recolor_base": null,
+      "amba_indice": 27.95
     },
     {
       "id": 116,
@@ -5684,7 +5799,8 @@
       },
       "audio_ebird_code": "sootyr1",
       "gbif_taxon_key": 2483958,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 2.61
     },
     {
       "id": 117,
@@ -5733,7 +5849,8 @@
       "pendientes": [],
       "recolor_base": {
         "D": "Chroicocephalus_maculipennis_R.png"
-      }
+      },
+      "amba_indice": 2.86
     },
     {
       "id": 118,
@@ -5786,7 +5903,8 @@
       "pendientes": [],
       "recolor_base": {
         "F": "Oxyura_vittata_M.png"
-      }
+      },
+      "amba_indice": 7.4
     },
     {
       "id": 119,
@@ -5841,7 +5959,8 @@
       },
       "audio_ebird_code": "whtpla1",
       "gbif_taxon_key": 2486489,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 6.11
     },
     {
       "id": 120,
@@ -5880,7 +5999,8 @@
       },
       "audio_ebird_code": "frbtho1",
       "gbif_taxon_key": 2485123,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 8.65
     },
     {
       "id": 121,
@@ -5931,7 +6051,8 @@
       "pendientes": [],
       "recolor_base": {
         "R": "Limosa_haemastica_D.png"
-      }
+      },
+      "amba_indice": 0.06
     },
     {
       "id": 122,
@@ -5985,7 +6106,8 @@
       },
       "audio_ebird_code": "buwcin1",
       "gbif_taxon_key": 2485069,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 2.74
     },
     {
       "id": 123,
@@ -6028,7 +6150,8 @@
       },
       "audio_ebird_code": "gcrwar",
       "gbif_taxon_key": 2489770,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 20.55
     },
     {
       "id": 124,
@@ -6079,7 +6202,8 @@
       "pendientes": [],
       "recolor_base": {
         "F": "Rhea_americana_M.png"
-      }
+      },
+      "amba_indice": 0.03
     },
     {
       "id": 125,
@@ -6124,7 +6248,8 @@
       },
       "audio_ebird_code": "firgat1",
       "gbif_taxon_key": 2485086,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.48
     },
     {
       "id": 126,
@@ -6170,7 +6295,8 @@
       },
       "audio_ebird_code": "mcrtyr1",
       "gbif_taxon_key": 2482651,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 2.55
     },
     {
       "id": 127,
@@ -6223,7 +6349,8 @@
       },
       "audio_ebird_code": "masyel5",
       "gbif_taxon_key": 6100791,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 12.68
     },
     {
       "id": 128,
@@ -6279,7 +6406,8 @@
       },
       "audio_ebird_code": "whtkit",
       "gbif_taxon_key": 2480367,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 1.29
     },
     {
       "id": 129,
@@ -6328,7 +6456,8 @@
       },
       "audio_ebird_code": "rubpep1",
       "gbif_taxon_key": 2487404,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 7.03
     },
     {
       "id": 130,
@@ -6378,7 +6507,8 @@
       },
       "audio_ebird_code": "blkski",
       "gbif_taxon_key": 2481209,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.41
     },
     {
       "id": 131,
@@ -6419,7 +6549,8 @@
       "pendientes": [
         "Sin ficha en la UNL: los rasgos salen de Wikipedia (es/en) y fichas secundarias.",
         "Plumaje juvenil: Wikipedia (es) lo describe más apagado y oscuro, sin corona o muy reducida; otras fichas secundarias lo describen con tonos verdosos o grisáceos. Se usó la versión de Wikipedia."
-      ]
+      ],
+      "amba_indice": 2.55
     },
     {
       "id": 132,
@@ -6467,7 +6598,8 @@
       },
       "audio_ebird_code": "sponot1",
       "gbif_taxon_key": 2477600,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 1.25
     },
     {
       "id": 133,
@@ -6526,7 +6658,8 @@
       "gbif_taxon_key": 5231682,
       "pendientes": [
         "Santa Cruz en caso límite: 18 registros en GBIF, no se cargó."
-      ]
+      ],
+      "amba_indice": 3.89
     },
     {
       "id": 134,
@@ -6577,7 +6710,8 @@
         "Tucumán en caso límite: 18 registros en GBIF, no se cargó.",
         "Catamarca en caso límite: 14 registros en GBIF, no se cargó."
       ],
-      "recolor_base": null
+      "recolor_base": null,
+      "amba_indice": 11.2
     },
     {
       "id": 135,
@@ -6618,7 +6752,8 @@
       "audio_ebird_code": "olrgul1",
       "gbif_taxon_key": 2481162,
       "pendientes": [],
-      "recolor_base": null
+      "recolor_base": null,
+      "amba_indice": 0.28
     },
     {
       "id": 136,
@@ -6674,7 +6809,8 @@
       "gbif_taxon_key": 5229770,
       "pendientes": [
         "Formosa en caso límite: 13 registros en GBIF, no se cargó."
-      ]
+      ],
+      "amba_indice": 0.53
     },
     {
       "id": 137,
@@ -6729,7 +6865,8 @@
       },
       "audio_ebird_code": "whcpin",
       "gbif_taxon_key": 2498090,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.42
     },
     {
       "id": 138,
@@ -6779,7 +6916,8 @@
       "gbif_taxon_key": 2479529,
       "pendientes": [
         "CABA: los registros pueden ser aves escapadas de cautiverio; revisar si se mantiene."
-      ]
+      ],
+      "amba_indice": 0.23
     },
     {
       "id": 139,
@@ -6837,7 +6975,8 @@
       },
       "audio_ebird_code": "aplfal",
       "gbif_taxon_key": 2481006,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.97
     },
     {
       "id": 140,
@@ -6892,7 +7031,8 @@
       "pendientes": [
         "Forma rojiza (más amarronada o castaña): hacer variante O como repaint del D, más adelante."
       ],
-      "recolor_base": null
+      "recolor_base": null,
+      "amba_indice": 1.73
     },
     {
       "id": 141,
@@ -6943,7 +7083,8 @@
       },
       "audio_ebird_code": "smbela1",
       "gbif_taxon_key": 5229612,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 10.51
     },
     {
       "id": 142,
@@ -6987,7 +7128,8 @@
       },
       "audio_ebird_code": "giwrai1",
       "gbif_taxon_key": 2474657,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 8.28
     },
     {
       "id": 143,
@@ -7041,7 +7183,8 @@
       },
       "audio_ebird_code": "heptan",
       "gbif_taxon_key": 2488498,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 6.77
     },
     {
       "id": 144,
@@ -7091,7 +7234,8 @@
       },
       "audio_ebird_code": "chiwig1",
       "gbif_taxon_key": 9508460,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.76
     },
     {
       "nombre_comun": "Chorlito Doble Collar",
@@ -7135,7 +7279,8 @@
       "estado_conservacion": "LC",
       "recolor_base": {
         "D": "Charadrius_falklandicus_R.png"
-      }
+      },
+      "amba_indice": 0.0
     },
     {
       "nombre_comun": "Cachilo Canela",
@@ -7175,7 +7320,8 @@
       "envergadura_cm": null,
       "estado_conservacion": "LC",
       "pendientes": [],
-      "recolor_base": null
+      "recolor_base": null,
+      "amba_indice": 1.42
     },
     {
       "nombre_comun": "Catita Chirirí",
@@ -7214,7 +7360,8 @@
       "num": "#147",
       "sprites": {},
       "envergadura_cm": null,
-      "estado_conservacion": "LC"
+      "estado_conservacion": "LC",
+      "amba_indice": 24.08
     },
     {
       "nombre_comun": "Garcita Azulada",
@@ -7267,7 +7414,8 @@
       "sprites": {},
       "envergadura_cm": null,
       "estado_conservacion": "LC",
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 4.86
     },
     {
       "nombre_comun": "Playerito Pectoral",
@@ -7323,7 +7471,8 @@
       "sprites": {},
       "envergadura_cm": null,
       "estado_conservacion": "LC",
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 1.26
     },
     {
       "nombre_comun": "Boyero Negro",
@@ -7367,7 +7516,8 @@
       "envergadura_cm": null,
       "estado_conservacion": "LC",
       "pendientes": [],
-      "recolor_base": null
+      "recolor_base": null,
+      "amba_indice": 10.67
     },
     {
       "nombre_comun": "Chorlo Pampa",
@@ -7417,7 +7567,8 @@
       "sprites": {},
       "envergadura_cm": null,
       "estado_conservacion": "LC",
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.12
     },
     {
       "nombre_comun": "Macá Pico Grueso",
@@ -7470,7 +7621,8 @@
       "sprites": {},
       "envergadura_cm": null,
       "estado_conservacion": "LC",
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 15.11
     },
     {
       "nombre_comun": "Calancate Ala Roja",
@@ -7515,7 +7667,8 @@
       "num": "#153",
       "sprites": {},
       "envergadura_cm": null,
-      "estado_conservacion": "LC"
+      "estado_conservacion": "LC",
+      "amba_indice": 22.01
     },
     {
       "nombre_comun": "Suirirí Amarillo",
@@ -7559,7 +7712,8 @@
       "sprites": {},
       "envergadura_cm": null,
       "estado_conservacion": "LC",
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 8.87
     },
     {
       "nombre_comun": "Cachilo Ceja Amarilla",
@@ -7605,7 +7759,8 @@
       "sprites": {},
       "envergadura_cm": null,
       "estado_conservacion": "LC",
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.49
     },
     {
       "nombre_comun": "Lechuzón Orejudo",
@@ -7652,7 +7807,8 @@
       "sprites": {},
       "envergadura_cm": null,
       "estado_conservacion": "LC",
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 2.08
     },
     {
       "nombre_comun": "Mosqueta Carasucia",
@@ -7695,7 +7851,8 @@
       "num": "#157",
       "sprites": {},
       "envergadura_cm": null,
-      "estado_conservacion": "LC"
+      "estado_conservacion": "LC",
+      "amba_indice": 2.48
     },
     {
       "nombre_comun": "Sirirí Colorado",
@@ -7739,7 +7896,8 @@
       "sprites": {},
       "envergadura_cm": null,
       "estado_conservacion": "LC",
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 6.24
     },
     {
       "nombre_comun": "Pato Colorado",
@@ -7792,7 +7950,8 @@
       "sprites": {},
       "envergadura_cm": null,
       "estado_conservacion": "LC",
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 1.75
     },
     {
       "nombre_comun": "Choca Corona Rojiza",
@@ -7835,7 +7994,8 @@
       "num": "#160",
       "sprites": {},
       "envergadura_cm": null,
-      "estado_conservacion": "LC"
+      "estado_conservacion": "LC",
+      "amba_indice": 2.11
     },
     {
       "id": 161,
@@ -7883,7 +8043,8 @@
       },
       "audio_ebird_code": "whwbec1",
       "gbif_taxon_key": 5230363,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 8.65
     },
     {
       "id": 162,
@@ -7933,7 +8094,8 @@
       ],
       "recolor_base": {
         "D": "Paroaria_coronata_D.png"
-      }
+      },
+      "amba_indice": 10.96
     },
     {
       "id": 163,
@@ -7986,7 +8148,8 @@
       },
       "audio_ebird_code": "whimon1",
       "gbif_taxon_key": 2482747,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.42
     },
     {
       "id": 164,
@@ -8033,7 +8196,8 @@
       },
       "audio_ebird_code": "woosto",
       "gbif_taxon_key": 2481937,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 1.0
     },
     {
       "id": 165,
@@ -8082,7 +8246,8 @@
       },
       "audio_ebird_code": "bcwfin2",
       "gbif_taxon_key": 9471539,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 12.13
     },
     {
       "id": 166,
@@ -8132,7 +8297,8 @@
       },
       "audio_ebird_code": "sofspi1",
       "gbif_taxon_key": 2484977,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 15.94
     },
     {
       "id": 167,
@@ -8168,7 +8334,8 @@
       },
       "audio_ebird_code": "wardor1",
       "gbif_taxon_key": 2482646,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 2.1
     },
     {
       "id": 168,
@@ -8214,7 +8381,8 @@
       },
       "audio_ebird_code": "grasal3",
       "gbif_taxon_key": 9819034,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 4.41
     },
     {
       "id": 169,
@@ -8262,7 +8430,8 @@
       "pendientes": [
         "UNL no tiene ficha (especie doméstica): descripción y medidas según Wikipedia (Ganso Común silvestre)."
       ],
-      "exotica": true
+      "exotica": true,
+      "amba_indice": 2.84
     },
     {
       "id": 170,
@@ -8323,7 +8492,8 @@
       "pendientes": [],
       "recolor_base": {
         "D": "Egretta_thula_D.png"
-      }
+      },
+      "amba_indice": 2.75
     },
     {
       "id": 171,
@@ -8366,7 +8536,8 @@
       },
       "audio_ebird_code": "swahaw",
       "gbif_taxon_key": 2480562,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.71
     },
     {
       "id": 172,
@@ -8419,7 +8590,8 @@
       },
       "audio_ebird_code": null,
       "gbif_taxon_key": 9568884,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.54
     },
     {
       "id": 173,
@@ -8460,7 +8632,8 @@
       },
       "audio_ebird_code": "chospi2",
       "gbif_taxon_key": 2485908,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 2.38
     },
     {
       "id": 174,
@@ -8508,7 +8681,8 @@
       },
       "audio_ebird_code": "corpip1",
       "gbif_taxon_key": 9286490,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.73
     },
     {
       "id": 175,
@@ -8557,7 +8731,8 @@
       },
       "audio_ebird_code": "whbpic1",
       "gbif_taxon_key": 9587550,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 2.22
     },
     {
       "id": 176,
@@ -8606,7 +8781,8 @@
       },
       "audio_ebird_code": "sedwre",
       "gbif_taxon_key": 2493890,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.04
     },
     {
       "id": 177,
@@ -8654,7 +8830,8 @@
       },
       "audio_ebird_code": "varant1",
       "gbif_taxon_key": 5959215,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 1.0
     },
     {
       "id": 178,
@@ -8703,7 +8880,8 @@
       },
       "audio_ebird_code": "blhduc1",
       "gbif_taxon_key": 2497999,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 3.93
     },
     {
       "id": 179,
@@ -8743,7 +8921,8 @@
       },
       "audio_ebird_code": "grwsal1",
       "gbif_taxon_key": 5230959,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 7.06
     },
     {
       "id": 180,
@@ -8779,7 +8958,8 @@
       },
       "audio_ebird_code": "royter1",
       "gbif_taxon_key": 5789281,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.34
     },
     {
       "id": 181,
@@ -8822,7 +9002,8 @@
       },
       "audio_ebird_code": "ruscra1",
       "gbif_taxon_key": 2474585,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 9.78
     },
     {
       "id": 182,
@@ -8858,7 +9039,8 @@
       },
       "audio_ebird_code": "gytwaf1",
       "gbif_taxon_key": 9297229,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 2.63
     },
     {
       "id": 183,
@@ -8908,7 +9090,8 @@
       },
       "audio_ebird_code": "dabcuc1",
       "gbif_taxon_key": 2496297,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 2.7
     },
     {
       "id": 184,
@@ -8945,7 +9128,8 @@
       },
       "audio_ebird_code": "spispi1",
       "gbif_taxon_key": 2484989,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 6.49
     },
     {
       "id": 185,
@@ -8978,7 +9162,8 @@
       },
       "audio_ebird_code": "cubree1",
       "gbif_taxon_key": 9280911,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 2.04
     },
     {
       "id": 186,
@@ -9018,7 +9203,8 @@
       },
       "audio_ebird_code": "beatac1",
       "gbif_taxon_key": 5229775,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.42
     },
     {
       "id": 187,
@@ -9068,7 +9254,8 @@
       },
       "audio_ebird_code": "whtdov",
       "gbif_taxon_key": 2496060,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 25.18
     },
     {
       "id": 188,
@@ -9125,7 +9312,8 @@
       },
       "audio_ebird_code": "soumar",
       "gbif_taxon_key": 2489140,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.88
     },
     {
       "id": 189,
@@ -9176,7 +9364,8 @@
       },
       "audio_ebird_code": "wilpha",
       "gbif_taxon_key": 5229389,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.47
     },
     {
       "id": 190,
@@ -9221,7 +9410,8 @@
       },
       "audio_ebird_code": "whiwoo1",
       "gbif_taxon_key": 2478144,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.9
     },
     {
       "id": 191,
@@ -9255,7 +9445,8 @@
       },
       "audio_ebird_code": "sutspi1",
       "gbif_taxon_key": 11068544,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 2.61
     },
     {
       "id": 192,
@@ -9310,7 +9501,8 @@
       },
       "audio_ebird_code": "bcbeag1",
       "gbif_taxon_key": 2480668,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.11
     },
     {
       "id": 193,
@@ -9347,12 +9539,13 @@
       },
       "audio_ebird_code": "bcwspi1",
       "gbif_taxon_key": 2485840,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.32
     },
     {
       "id": 194,
       "num": "#194",
-      "nombre_comun": "Estornino Crestado Asiático",
+      "nombre_comun": "Estornino Crestado",
       "nombre_cientifico": "Acridotheres cristatellus",
       "familia": "Sturnidae",
       "orden": "Passeriformes",
@@ -9382,7 +9575,9 @@
       },
       "audio_ebird_code": "cremyn",
       "gbif_taxon_key": 2489010,
-      "pendientes": []
+      "pendientes": [],
+      "exotica": true,
+      "amba_indice": 1.57
     },
     {
       "id": 195,
@@ -9430,7 +9625,8 @@
       },
       "audio_ebird_code": "whthaw",
       "gbif_taxon_key": 7787493,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.52
     },
     {
       "id": 196,
@@ -9470,7 +9666,8 @@
       },
       "audio_ebird_code": "austhr1",
       "gbif_taxon_key": 2490775,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.01
     },
     {
       "id": 197,
@@ -9507,7 +9704,8 @@
       },
       "audio_ebird_code": "soater1",
       "gbif_taxon_key": 5229231,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.08
     },
     {
       "id": 198,
@@ -9549,7 +9747,8 @@
       },
       "audio_ebird_code": "grhowl",
       "gbif_taxon_key": 5959118,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 1.47
     },
     {
       "id": 199,
@@ -9583,7 +9782,8 @@
       },
       "audio_ebird_code": "bkbalb",
       "gbif_taxon_key": 2481410,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.0
     },
     {
       "id": 200,
@@ -9636,7 +9836,8 @@
       },
       "audio_ebird_code": "swafly1",
       "gbif_taxon_key": 2483567,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 2.76
     },
     {
       "id": 201,
@@ -9670,7 +9871,8 @@
       },
       "audio_ebird_code": "comter",
       "gbif_taxon_key": 9367409,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.02
     },
     {
       "id": 202,
@@ -9714,7 +9916,8 @@
       },
       "audio_ebird_code": "plcjay1",
       "gbif_taxon_key": 2482575,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 1.11
     },
     {
       "id": 203,
@@ -9765,7 +9968,8 @@
       },
       "audio_ebird_code": "fepowl",
       "gbif_taxon_key": 5232118,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 3.24
     },
     {
       "id": 204,
@@ -9814,7 +10018,8 @@
       },
       "audio_ebird_code": "bkcmon1",
       "gbif_taxon_key": 11311090,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.26
     },
     {
       "id": 205,
@@ -9848,7 +10053,8 @@
       },
       "audio_ebird_code": "snoshe2",
       "gbif_taxon_key": 5789302,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.0
     },
     {
       "id": 206,
@@ -9894,7 +10100,8 @@
       },
       "audio_ebird_code": "helpip1",
       "gbif_taxon_key": 2490280,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.45
     },
     {
       "id": 207,
@@ -9928,7 +10135,8 @@
       },
       "audio_ebird_code": "greshe",
       "gbif_taxon_key": 8596590,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.0
     },
     {
       "id": 208,
@@ -9976,7 +10184,8 @@
       },
       "audio_ebird_code": "silgre1",
       "gbif_taxon_key": 2482063,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.06
     }
   ]
 }
