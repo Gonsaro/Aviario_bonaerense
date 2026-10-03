@@ -6944,6 +6944,154 @@
       "audio_ebird_code": "smbela1",
       "gbif_taxon_key": 5229612,
       "pendientes": []
+    },
+    {
+      "id": 142,
+      "num": "#142",
+      "nombre_comun": "Ipacaá",
+      "nombre_cientifico": "Aramides ypecaha",
+      "familia": "Rallidae",
+      "orden": "Gruiformes",
+      "descripcion": {
+        "D": "Ave acuática grande, de patas largas, que camina mucho y lleva la cola levantada. Corona pardo grisácea y cara gris. Nuca y parte de atrás del cuello rojizas. Pico amarillo verdoso. Ojo rojo. Dorso pardo oliváceo. Alas pardo oliváceas, con las plumas de vuelo largas rojizas. Garganta blanca. Frente del cuello y pecho grises. Resto de abajo ocre rosado. Costados y plumas de debajo de la cola negros. Patas rojas. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "humedal",
+        "ribereño",
+        "monte"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "43-46",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Chaco",
+        "Corrientes",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "Misiones",
+        "Salta",
+        "Santa Fe"
+      ],
+      "curiosidades": "Es la chiricota más grande de la Argentina y se hace notar por sus gritos fuertes, que suele dar en coro con otros ipacaá, sobre todo al atardecer. Vive en bañados, juncales y montes cercanos al agua, donde camina con la cola levantada y se esconde rápido entre la vegetación. Vuela poco. Come insectos, caracoles, cangrejos, semillas y a veces pequeños vertebrados.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: large rail, grey-brown crown, grey face, rufous nape and back of the neck, yellowish green bill, small red eye with a tiny dark pupil, olive brown back and folded wings with rufous flight feathers, white throat, grey front of the neck and breast, pinkish buff belly, black flanks and black undertail, red legs, keep white background, no shadow, no text"
+      },
+      "recolor_base": {
+        "D": "Aramides_cajaneus_D.png"
+      },
+      "audio_ebird_code": "giwrai1",
+      "gbif_taxon_key": 2474657,
+      "pendientes": []
+    },
+    {
+      "id": 143,
+      "num": "#143",
+      "nombre_comun": "Fueguero",
+      "nombre_cientifico": "Piranga flava",
+      "familia": "Cardinalidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "M": "Pájaro mediano, de pico grueso. El macho es todo rojo anaranjado, un poco más oscuro en el dorso y las alas. Pico con la parte de arriba negra y la de abajo córnea o amarillenta. Ojo pardo. Patas gris parduscas.",
+        "F": "La hembra es amarillo oliva por arriba y amarilla por abajo, con las alas y la cola pardas orilladas de amarillento."
+      },
+      "habitat": [
+        "monte",
+        "bosque",
+        "arbolado",
+        "urbano"
+      ],
+      "residencia": "invernal",
+      "tamanio_categoria": "chico",
+      "largo_cm": "17",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chaco",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "La Rioja",
+        "Misiones",
+        "Salta",
+        "San Juan",
+        "San Luis",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tucumán"
+      ],
+      "curiosidades": "El macho, de un rojo anaranjado intenso, es de los pájaros más vistosos de los montes y arboledas. En Buenos Aires se ve sobre todo en otoño e invierno, cuando llegan individuos desde el norte y aparecen en parques y plazas. Anda solo o en pareja por la parte alta de los árboles, buscando insectos y frutos.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "M": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: medium tanager with a thick bill, entirely bright orange-red plumage, slightly darker red on the back and wings, bill with a blackish upper mandible and a pale horn-colored lower mandible, small dark brown eye with a tiny dark pupil, grey-brown legs, keep white background, no shadow, no text",
+        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the upperparts olive yellow, make the underparts yellow, make the wings and tail brown with yellowish feather edges, keep the bill, eye and legs, keep white background, no shadow, no text"
+      },
+      "recolor_base": {
+        "M": "Thraupis_sayaca_D.png"
+      },
+      "audio_ebird_code": "heptan",
+      "gbif_taxon_key": 2488498,
+      "pendientes": []
+    },
+    {
+      "id": 144,
+      "num": "#144",
+      "nombre_comun": "Pato Overo",
+      "nombre_cientifico": "Mareca sibilatrix",
+      "familia": "Anatidae",
+      "orden": "Anseriformes",
+      "descripcion": {
+        "D": "Pato mediano, con la frente y la cara blancas y una mancha oscura en la nuca y la parte de atrás del cuello con brillos verdes y violetas. Cabeza parda. Pico azulado con la base y la punta negras. Ojo pardo. Dorso pardo oscuro con las plumas bordeadas de blanco. Alas pardas con una gran mancha blanca en las cubiertas. Rabadilla blanca. Pecho barrado de pardo y blanco; resto de abajo blanco, con los costados canela. Patas pardas. La hembra es parecida pero más apagada."
+      },
+      "habitat": [
+        "humedal",
+        "laguna",
+        "costa"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "43-54",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chubut",
+        "Córdoba",
+        "Entre Ríos",
+        "La Pampa",
+        "Mendoza",
+        "Neuquén",
+        "Río Negro",
+        "Salta",
+        "San Juan",
+        "San Luis",
+        "Santa Cruz",
+        "Santa Fe",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "El macho tiene un silbido fuerte y musical, muy distinto del graznido de otros patos. Come sobre todo plantas, pastando en las orillas o arrancando vegetación del agua. Las parejas son muy unidas y el macho ayuda a cuidar a los patitos. Las poblaciones del sur migran hacia el norte en invierno.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: medium dabbling duck, white forehead and face, dark brown head, a dark patch with green and violet gloss on the nape and back of the neck, bluish bill with a black base and black tip, small dark brown eye with a tiny dark pupil, dark brown back with white feather edges, brown folded wing with a large white patch on the coverts, white rump, breast finely barred brown and white, white belly, cinnamon flanks, brown legs, keep white background, no shadow, no text"
+      },
+      "recolor_base": {
+        "D": "Anas_flavirostris_D.png"
+      },
+      "audio_ebird_code": "chiwig1",
+      "gbif_taxon_key": 9508460,
+      "pendientes": []
     }
   ]
 }

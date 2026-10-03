@@ -2,17 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (141 cargadas).
+`aviario_data.json` (144 cargadas).
 
 
-**Faltan: 218 especies**
+**Faltan: 215 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 135 | Ipacaá | *Aramides ypecaha* | #194 |
-| 136 | Fueguero | *Piranga flava* | #967 |
-| 137 | Pato Overo | *Mareca sibilatrix* | #51 |
 | 138 | Chorlito Doble Collar | *Anarhynchus falklandicus* | #219 (como *Charadrius falklandicus*) |
 | 139 | Cachilo Canela | *Donacospiza albifrons* | #1054 |
 | 140 | Catita Chirirí | *Brotogeris chiriri* | #545 |
