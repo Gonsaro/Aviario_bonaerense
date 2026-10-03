@@ -889,6 +889,8 @@ function openTrophyLb(img,name,cond){
 }
 function closeTrophyLb(){document.getElementById('trophy-lb').classList.remove('open');}
 
+// Los logros y medallas de familia cuentan solo familias con al menos FAM_MIN especies
+const FAM_MIN=4;
 const TROPHIES=[
   {id:'primera_pluma',name:'Primera pluma',cond:'Primera ave vista',img:'primera_pluma.jpg'},
   {id:'obs_urbano',name:'Observador urbano',cond:'5 aves urbanas',img:'obs_urbano.jpg'},
@@ -918,7 +920,7 @@ function getUnlockedTrophies(){
   if(seenBirds.length>=25)u.add('conocedor');
   if(seenBirds.length>=50)u.add('guardabosques');
   if(seenBirds.length>=birds.length)u.add('maestro');
-  const qualFams=[...new Set(birds.map(b=>b.familia))].filter(f=>birds.filter(b=>b.familia===f).length>=2);
+  const qualFams=[...new Set(birds.map(b=>b.familia))].filter(f=>birds.filter(b=>b.familia===f).length>=FAM_MIN);
   const famPcts=qualFams.map(f=>{
     const total=birds.filter(b=>b.familia===f).length;
     const seenN=birds.filter(b=>b.familia===f&&seen.has(b.id)).length;
@@ -945,7 +947,7 @@ function openTrophies(){
     {pct:0.50,img:'Familia_completa_plata.jpg',alt:'Plata'},
     {pct:1.00,img:'Familia_completa_oro.jpg',alt:'Oro'},
   ];
-  const qualFams=[...new Set(birds.map(b=>b.familia))].filter(f=>birds.filter(b=>b.familia===f).length>=2);
+  const qualFams=[...new Set(birds.map(b=>b.familia))].filter(f=>birds.filter(b=>b.familia===f).length>=FAM_MIN);
   const famData=qualFams.map(f=>{
     const total=birds.filter(b=>b.familia===f).length;
     const seenN=birds.filter(b=>b.familia===f&&seen.has(b.id)).length;
