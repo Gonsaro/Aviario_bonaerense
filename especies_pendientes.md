@@ -42,7 +42,7 @@ Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) con
 | 162 | Pijuí Frente Gris | *Synallaxis frontalis* | #695 |
 | 163 | Doradito Pampeano | *Pseudocolopteryx flaviventris* | #766 |
 | 164 | Pepitero Gris | *Saltator coerulescens* | #1032 |
-| 165 | Ganso Común | *Anser anser* | #24 |
+| 165 | Ganso Común | *Anser anser* | #24 (doméstica, marcar exotica: true) |
 | 166 | Garcita Bueyera | *Ardea ibis* | #391 (como *Bubulcus ibis*) |
 | 167 | Aguilucho Langostero | *Buteo swainsoni* | #453 |
 | 168 | Lechuza de Campanario | *Tyto furcata* | #456 |
@@ -112,7 +112,7 @@ Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) con
 | 235 | Gaviotín Pico Grueso | *Gelochelidon nilotica* | #291 |
 | 236 | Curutié Blanco | *Cranioleuca pyrrhophia* | #680 |
 | 237 | Chiripepé Cabeza Verde | *Pyrrhura frontalis* | #554 |
-| 238 | Ánade Real | *Anas platyrhynchos* | — **no figura** |
+| 238 | Ánade Real | *Anas platyrhynchos* | #54.5 (agregado propio, doméstica, marcar exotica: true) |
 | 239 | Dormilona Cara Negra | *Muscisaxicola maclovianus* | #822 |
 | 240 | Pepitero de Collar | *Saltator aurantiirostris* | #1035 |
 | 241 | Aguatero | *Nycticryphes semicollaris* | #267 |

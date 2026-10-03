@@ -40,9 +40,9 @@ def jstr(v):
 import re
 N_LISTA = {}
 for line in open('lista_especies_aves_argentinas_oficial.md', encoding='utf-8'):
-    m = re.match(r'\|\s*(\d+)\s*\|\s*\*(.+?)\*', line)
+    m = re.match(r'\|\s*(\d+(?:\.\d+)?)\s*\|\s*\*(.+?)\*', line)
     if m:
-        N_LISTA[m.group(2).strip()] = int(m.group(1))
+        N_LISTA[m.group(2).strip()] = float(m.group(1)) if '.' in m.group(1) else int(m.group(1))
 faltan = [e['nombre_cientifico'] for e in data['especies'] if e['nombre_cientifico'] not in N_LISTA]
 if faltan:
     raise SystemExit(f'Especies que no están en la lista oficial: {faltan}')

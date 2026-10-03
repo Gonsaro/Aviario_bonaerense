@@ -2,6 +2,8 @@
 
 Total: 1074 especies
 
+Agregados propios (no figuran en Monteleone & Pagano 2022, son domésticas o exóticas que se ven en Buenos Aires), con número intermedio para mantener el orden taxonómico: 54.5 *Anas platyrhynchos* (Ánade Real).
+
 | N° | Nombre científico | Nombre vulgar |
 |---|---|---|
 | 1 | *Rhea americana* | Ñandú |
@@ -58,6 +60,7 @@ Total: 1074 especies
 | 52 | *Anas bahamensis* | Pato Gargantilla |
 | 53 | *Anas georgica* | Pato Maicero |
 | 54 | *Anas flavirostris* | Pato Barcino |
+| 54.5 | *Anas platyrhynchos* | Ánade Real |
 | 55 | *Netta peposaca* | Pato Picazo |
 | 56 | *Mergus octosetaceus* | Pato Serrucho |
 | 57 | *Heteronetta atricapilla* | Pato Cabeza Negra |
