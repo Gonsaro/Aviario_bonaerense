@@ -6885,16 +6885,14 @@
       "curiosidades": "Su nombre imita su canto, un trino que termina en dos notas cortas y que se oye de noche, incluso en plazas y parques de la ciudad. De día descansa quieto en un árbol, pegado al tronco y con el cuerpo estirado, y con su plumaje rayado se confunde con la corteza. Caza insectos grandes, ratones y pajaritos. Anida en huecos de árboles.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "recolor this exact sprite, keep the same front-facing symmetric pose, outline, size and composition unchanged except for adding two short pointed ear tufts on top of the head, only change the colors so the bird has: grey facial disc bordered with a dark rim, large yellow eyes with dark pupils, small grey-green bill, greyish brown head and upperparts streaked dark with small white and buff spots, a white line on each shoulder, greyish throat and upper breast with thin dark bars, whitish lower breast and belly with bold dark vertical streaks crossed by thin dark bars, grey-brown feathered legs, keep the wooden post, keep white background, no shadow, no text"
+        "D": "pixel art bird sprite, facing FORWARD (front view, body and face pointing directly at the viewer, symmetric), perched upright on a short wooden post, white background, 1024x1024 pixels, bird filling 70% of canvas height, small compact rounded screech owl with a big round head and short pointed ear tufts, pale greyish facial disc with a bold black rim, whitish eyebrows forming a pale V between the eyes, large yellow eyes with dark pupils, small grey-green bill, grey-brown upperparts finely vermiculated, a row of white spots on the shoulders, whitish breast and belly with fine dark vertical streaks crossed by thin dark bars like a herringbone pattern, feathered greyish legs, detailed feather texture with dithering, clean outline, no shadow, no text"
       },
       "audio_ebird_code": "trsowl",
       "gbif_taxon_key": 2497365,
       "pendientes": [
-        "Forma rojiza (castaña): posible variante O a futuro."
+        "Forma rojiza (más amarronada o castaña): hacer variante O como repaint del D, más adelante."
       ],
-      "recolor_base": {
-        "D": "Asio_flammeus_D.png"
-      }
+      "recolor_base": null
     },
     {
       "id": 141,
