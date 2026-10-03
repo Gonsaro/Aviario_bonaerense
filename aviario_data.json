@@ -8753,8 +8753,8 @@
       "familia": "Laridae",
       "orden": "Charadriiformes",
       "descripcion": {
-        "D": "Gaviotín grande. Fuera de la época de cría tiene la frente blanca y la corona blanca con estrías negras; el negro de la nuca llega hasta el ojo. Pico grueso naranja. Ojo pardo oscuro. Dorso y alas gris muy pálido, con las puntas de las plumas largas algo más oscuras. Rabadilla y cola blancas, la cola apenas ahorquillada. Partes inferiores blancas. Patas negras. Macho y hembra son iguales.",
-        "R": "En época de cría tiene toda la corona negra, con plumas largas en la nuca que forman un copete."
+        "D": "Gaviotín grande. Fuera de la época de cría tiene la frente, la zona entre el pico y el ojo y la corona blancas, a veces con estrías negras, y una máscara negra que une los ojos por la nuca, donde forma un copete corto. Pico grueso anaranjado. Ojo pardo muy oscuro. Dorso y alas gris pálido, más claros hacia la rabadilla; plumas largas del ala gris pálido plateadas. Cola blanca, apenas ahorquillada. Costados de la cabeza, cuello y partes inferiores blanco brillante. Patas negras. Macho y hembra son iguales.",
+        "R": "En época de cría tiene la frente, la corona y la nuca negro brillante, con un copete desgreñado, y la cola más larga y ahorquillada."
       },
       "habitat": [
         "costa",
@@ -8775,7 +8775,7 @@
       "curiosidades": "Pesca volando a unos metros del agua y zambulléndose en picada, sin llegar a sumergirse del todo. Come peces chicos, calamares y camarones. Anida en colonias apretadas sobre playas e islas de la costa, junto a otros gaviotines, y pone uno o dos huevos directamente en el suelo.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on a small sandy patch, white background, 1024x1024 pixels, bird filling 60% of canvas height, large tern, white forehead, white crown streaked black, black shaggy nape patch reaching forward to the eye, thick pointed bright orange bill, small dark brown eye, very pale grey back and folded wings with slightly darker grey outer primaries, white tail slightly forked, white throat, breast and belly, short black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on a small sandy patch, white background, 1024x1024 pixels, bird filling 60% of canvas height, large tern, white forehead, lores and crown, black mask from the eye back across the nape ending in a short shaggy crest, thick pointed orange bill, small dark brown eye, pale grey back and folded wings with silvery grey primaries, white tail slightly forked, white throat, breast and belly, short black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "royter1",
       "gbif_taxon_key": 5789281,
@@ -8839,7 +8839,7 @@
         "ribereño",
         "bosque"
       ],
-      "residencia": "invernal",
+      "residencia": "permanente",
       "tamanio_categoria": "chico",
       "largo_cm": "15",
       "envergadura_cm": null,
