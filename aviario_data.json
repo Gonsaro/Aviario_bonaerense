@@ -6675,6 +6675,111 @@
       "pendientes": [
         "Formosa en caso límite: 13 registros en GBIF, no se cargó."
       ]
+    },
+    {
+      "id": 137,
+      "num": "#137",
+      "nombre_comun": "Pato Gargantilla",
+      "nombre_cientifico": "Anas bahamensis",
+      "familia": "Anatidae",
+      "orden": "Anseriformes",
+      "descripcion": {
+        "D": "Pato mediano, fácil de reconocer por su cara blanca. Frente, corona, nuca y parte de atrás del cuello castaño rojizos con puntitos negros. Mejillas, garganta y frente del cuello blancos. Pico plomizo, con una mancha roja en la base de la parte de arriba. Ojo pardo castaño. Dorso pardo oscuro con las plumas bordeadas de canela. Alas pardas oscuras, con un espejo verde metálico bordeado de canela. Pecho pardo claro con puntos negros; resto de abajo pardo claro. Cola ocrácea, en punta. Patas pardas. Macho y hembra son parecidos; la hembra es algo más apagada."
+      },
+      "habitat": [
+        "humedal",
+        "laguna"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "38-51",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chaco",
+        "Chubut",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "La Pampa",
+        "La Rioja",
+        "Mendoza",
+        "Neuquén",
+        "Río Negro",
+        "Salta",
+        "San Juan",
+        "San Luis",
+        "Santa Cruz",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tierra del Fuego",
+        "Tucumán"
+      ],
+      "curiosidades": "La cara y la garganta blancas, que contrastan con la gorra castaña, lo hacen inconfundible entre los patos. Anda en parejas o grupos chicos, a veces mezclado con otros patos, en lagunas, bañados y también en aguas algo saladas. Come plantas acuáticas, semillas e invertebrados, que busca hundiendo la cabeza o volcándose con la cola para arriba. Hace el nido en el suelo, escondido entre la vegetación cerca del agua.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: medium duck, rufous chestnut crown, nape and back of the neck peppered with small distinct black spots, pure white cheeks, throat and front of the neck, lead grey bill with a red patch at the base of the upper mandible, small dark brown eye with a tiny dark pupil, dark brown back with cinnamon feather edges, dark brown folded wing with a metallic green patch bordered with cinnamon, pointed buff tail, light brown breast peppered with small distinct black spots, light brown belly and flanks, brown legs, keep white background, no shadow, no text"
+      },
+      "recolor_base": {
+        "D": "Anas_flavirostris_D.png"
+      },
+      "audio_ebird_code": "whcpin",
+      "gbif_taxon_key": 2498090,
+      "pendientes": []
+    },
+    {
+      "id": 138,
+      "num": "#138",
+      "nombre_comun": "Loro Barranquero",
+      "nombre_cientifico": "Cyanoliseus patagonus",
+      "familia": "Psittacidae",
+      "orden": "Psittaciformes",
+      "descripcion": {
+        "D": "Loro grande, de cola larga y en punta. Cabeza, mejillas y hombros pardo oliváceos. Pico pardo oliváceo, grueso y ganchudo. Ojo blanco amarillento, rodeado de piel desnuda blanquecina. Garganta y pecho pardo grisáceos, con algunas plumas blanquecinas a los costados del cuello. Parte baja del dorso, rabadilla y costados amarillo claro. Vientre rojo bordeado de amarillo. Alas verdes, con las plumas de vuelo azules. Cola verde oliva. Patas pardas. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "pastizal",
+        "monte",
+        "agrícola"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "40-52",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chubut",
+        "Córdoba",
+        "La Pampa",
+        "La Rioja",
+        "Mendoza",
+        "Neuquén",
+        "Río Negro",
+        "Salta",
+        "San Juan",
+        "San Luis",
+        "Tucumán"
+      ],
+      "curiosidades": "Es el loro más grande del país. Su nombre viene de que anida en barrancas: cava túneles profundos en paredones de tierra, a veces de más de un metro, donde se juntan colonias de cientos o miles de parejas. La mayor colonia conocida del mundo está en los acantilados de El Cóndor, cerca de Viedma. Anda en bandadas ruidosas que recorren grandes distancias para comer semillas y frutos.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: large parrot with a long pointed tail, dark olive-brown head, cheeks and shoulders, thick hooked olive-brown bill, small whitish yellow eye with a tiny dark pupil inside a ring of whitish bare skin, olive-brown throat and breast with a few whitish feathers on the sides of the neck, green folded wings with blue flight feathers, pale yellow lower back, rump and flanks, red belly patch bordered with yellow, long olive-green tail, brown legs, keep white background, no shadow, no text"
+      },
+      "recolor_base": {
+        "D": "Aratinga_nenday_D.png"
+      },
+      "audio_ebird_code": "burpar",
+      "gbif_taxon_key": 2479529,
+      "pendientes": [
+        "CABA: los registros pueden ser aves escapadas de cautiverio; revisar si se mantiene."
+      ]
     }
   ]
 }

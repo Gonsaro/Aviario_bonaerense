@@ -2,16 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (136 cargadas).
+`aviario_data.json` (138 cargadas).
 
 
-**Faltan: 223 especies**
+**Faltan: 221 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 130 | Pato Gargantilla | *Anas bahamensis* | #52 |
-| 131 | Loro Barranquero | *Cyanoliseus patagonus* | #558 |
 | 132 | Halcón Plomizo | *Falco femoralis* | #539 |
 | 133 | Alilicucú Común | *Megascops choliba* | #457 |
 | 134 | Fiofío Pico Corto | *Elaenia parvirostris* | #742 |
