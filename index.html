@@ -46,7 +46,8 @@ body{font-family:system-ui,-apple-system,sans-serif;background:#f5f4f0;color:#1a
 .hab-aereo{background:#F0EEFB;color:#3D2D8A}.hab-laguna{background:#E6F1FB;color:#0C447C}
 .tam-chico{background:#F0EEFB;color:#3D2D8A}.tam-mediano{background:#FFF0E0;color:#7A4010}
 .tam-grande{background:#FCEBEB;color:#791F1F}
-.res-permanente{background:#E1F5EE;color:#085041}.res-estival{background:#FAEEDA;color:#633806}
+.res-permanente{background:#E1F5EE;color:#085041}.res-estival{background:#FAEEDA;color:#633806}.res-invernal{background:#E6F1FB;color:#0C447C}
+.hab-arbolado{background:#E8F5E0;color:#2E5A12}.hab-marino{background:#E0EEF8;color:#0B3A66}
 @media(prefers-color-scheme:dark){
   .hab-humedal{background:#042C53;color:#B5D4F4}.hab-ribere{background:#04342C;color:#9FE1CB}
   .hab-costa{background:#26215C;color:#CECBF6}.hab-pastizal{background:#173404;color:#C0DD97}
@@ -55,7 +56,8 @@ body{font-family:system-ui,-apple-system,sans-serif;background:#f5f4f0;color:#1a
   .hab-aereo{background:#1E1640;color:#C5BCEF}.hab-laguna{background:#042C53;color:#B5D4F4}
   .tam-chico{background:#1E1640;color:#C5BCEF}.tam-mediano{background:#3D2000;color:#F5C090}
   .tam-grande{background:#501313;color:#F7C1C1}
-  .res-permanente{background:#04342C;color:#9FE1CB}.res-estival{background:#412402;color:#FAC775}
+  .res-permanente{background:#04342C;color:#9FE1CB}.res-estival{background:#412402;color:#FAC775}.res-invernal{background:#042C53;color:#B5D4F4}
+  .hab-arbolado{background:#14320A;color:#B2DB94}.hab-marino{background:#08294A;color:#A9CCEF}
 }
 .detail{background:#fff;border-top:0.5px solid rgba(0,0,0,0.1);padding:1.25rem}
 @media(prefers-color-scheme:dark){.detail{background:#2c2c28;border-color:rgba(255,255,255,0.08)}}
@@ -201,6 +203,7 @@ body{font-family:system-ui,-apple-system,sans-serif;background:#f5f4f0;color:#1a
 .fam-tiers img{width:22px;height:22px;object-fit:contain;image-rendering:pixelated;opacity:0.22}
 .fam-tiers img.earned{opacity:1}
 .tc-icon img{width:110px;height:110px;object-fit:contain;image-rendering:pixelated}
+.tc-icon img.tc-small{width:72px;height:72px}
 .trophy-lb{display:none;position:fixed;inset:0;background:rgba(0,0,0,0.9);z-index:10200;align-items:center;justify-content:center;cursor:zoom-out;flex-direction:column;gap:14px}
 .trophy-lb.open{display:flex}
 .trophy-lb img{max-width:80vw;max-height:75vh;object-fit:contain;image-rendering:pixelated}
@@ -297,7 +300,7 @@ body{font-family:system-ui,-apple-system,sans-serif;background:#f5f4f0;color:#1a
 </div>
 <div class="trophy-cel-overlay" id="trophy-cel-overlay" onclick="closeTrophyCel()">
   <div class="trophy-cel" onclick="event.stopPropagation()">
-    <div class="tc-label">¡Nuevo logro desbloqueado!</div>
+    <div class="tc-label" id="tc-label">¡Nuevo logro desbloqueado!</div>
     <div class="tc-icon" id="tc-icon"></div>
     <div class="tc-name" id="tc-name"></div>
     <div class="tc-cond" id="tc-cond"></div>
@@ -602,9 +605,9 @@ const SP={'Acridotheres_cristatellus_D': 'Sprites/Acridotheres_cristatellus_D.pn
 'Xolmis_irupero_D': 'Sprites/Xolmis_irupero_D.png?v=40287eb5',
 'Zenaida_auriculata_D': 'Sprites/Zenaida_auriculata_D.png?v=969e8ece',
 'Zonotrichia_capensis_D': 'Sprites/Zonotrichia_capensis_D.png?v=c823995a'}
-const HC={humedal:'hab-humedal','ribereño':'hab-ribere',costa:'hab-costa',pastizal:'hab-pastizal','agrícola':'hab-agricola',urbano:'hab-urbano',monte:'hab-monte',bosque:'hab-bosque','aéreo':'hab-aereo',laguna:'hab-laguna'};
+const HC={humedal:'hab-humedal','ribereño':'hab-ribere',costa:'hab-costa',pastizal:'hab-pastizal','agrícola':'hab-agricola',urbano:'hab-urbano',monte:'hab-monte',bosque:'hab-bosque','aéreo':'hab-aereo',laguna:'hab-laguna',arbolado:'hab-arbolado',marino:'hab-marino'};
 const TC={chico:'tam-chico',mediano:'tam-mediano',grande:'tam-grande'};
-const RC={permanente:'res-permanente',estival:'res-estival'};
+const RC={permanente:'res-permanente',estival:'res-estival',invernal:'res-invernal'};
 const WIDE=['vuelo','Vuelo'];
 const birds=[
 {id:124,num:"#001",n_lista:1,nombre_comun:"Ñandú",nombre_cientifico:"Rhea americana",familia:"Rheidae",orden:"Rheiformes",descripcion:{macho:"Ave enorme que no vuela, con cuello y patas muy largos y un plumaje suelto y desflecado. Cabeza chica, con la corona negra. Pico gris pardusco, ancho y aplanado. Ojo gris pardusco claro. Dorso gris y pardo. Alas grandes, grises, que usa para equilibrarse al correr. Base del cuello y pecho negros; vientre blanquecino. Patas grisáceas, fuertes, sin plumas, con tres dedos.",hembra:"La hembra es algo más chica y más clara, gris con el vientre blanquecino, casi sin negro en la base del cuello y el pecho."},habitat:["pastizal","agrícola"],residencia:"permanente",tamanio:"grande",largo_cm:180,envergadura_cm:null,estado:"NT",provincias:["Buenos Aires","Entre Ríos","Santa Fe","Corrientes","Misiones","Chaco","Formosa","Santiago del Estero","Córdoba","San Luis","La Pampa","Mendoza","Catamarca","Salta","Jujuy","Río Negro"],curiosidades:"Su nombre viene del guaraní 'ñandu guasu', que quiere decir 'araña grande'. Aunque no puede volar corre muy rápido y usa las alas para no perder el equilibrio en los giros. Come de todo: semillas, frutos, insectos, reptiles, ranas, pequeños mamíferos y pichones. En la época de cría el macho da un bramido parecido a un mugido y corteja a varias hembras; después cava un nido en el suelo, donde todas ellas ponen sus huevos —de 10 a 30 o más— y es él quien los incuba y cuida a los charitos. Mientras empolla puede volverse peligroso. A nivel mundial está considerado Casi Amenazado.",sprites:{macho:"Rhea_americana_M",hembra:"Rhea_americana_F"},audio_ebird_code:"grerhe1",mapa:"Maps/Rhea_americana_map.png",thumb_sprite:"",exotica:false,amba:0.03},
@@ -860,15 +863,18 @@ function markSeen(id){
   const justUnlocked=TROPHIES.filter(t=>curr.has(t.id)&&!celebrated.has(t.id));
   render();
   if(justUnlocked.length>0){
-    celebrated.add(justUnlocked[0].id);
+    justUnlocked.forEach(t=>celebrated.add(t.id));
     saveState();
-    showTrophyCel(justUnlocked[0]);
+    showTrophyCel(justUnlocked);
   }
 }
-function showTrophyCel(t){
-  document.getElementById('tc-icon').innerHTML=t.img?`<img src="Trofeos/${t.img}" alt="${t.name}">`:'';
-  document.getElementById('tc-name').textContent=t.name;
-  document.getElementById('tc-cond').textContent=t.cond;
+// Un solo cartel aunque se desbloqueen varios logros a la vez
+function showTrophyCel(ts){
+  const many=ts.length>1;
+  document.getElementById('tc-label').textContent=many?`¡${ts.length} logros nuevos!`:'¡Nuevo logro desbloqueado!';
+  document.getElementById('tc-icon').innerHTML=ts.map(t=>`<img src="Trofeos/${t.img}" alt="${t.name}"${many?' class="tc-small"':''}>`).join('');
+  document.getElementById('tc-name').textContent=ts.map(t=>t.name).join(' · ');
+  document.getElementById('tc-cond').textContent=many?'':ts[0].cond;
   document.getElementById('trophy-cel-overlay').classList.add('open');
 }
 function closeTrophyCel(){document.getElementById('trophy-cel-overlay').classList.remove('open');}
@@ -883,10 +889,10 @@ function closeTrophyLb(){document.getElementById('trophy-lb').classList.remove('
 
 const TROPHIES=[
   {id:'primera_pluma',name:'Primera pluma',cond:'Primera ave vista',img:'primera_pluma.jpg'},
-  {id:'obs_urbano',name:'Observador urbano',cond:'Primera ave urbana',img:'obs_urbano.jpg'},
-  {id:'orilla',name:'Orilla del agua',cond:'Primera ave acuática',img:'orilla.jpg'},
+  {id:'obs_urbano',name:'Observador urbano',cond:'5 aves urbanas',img:'obs_urbano.jpg'},
+  {id:'orilla',name:'Orilla del agua',cond:'5 aves acuáticas',img:'orilla.jpg'},
   {id:'rapaz',name:'Ojo del rapaz',cond:'Primera rapaz',img:'rapaz.jpg'},
-  {id:'pastizalero',name:'Pastizalero',cond:'Primera ave de pastizal',img:'pastizalero.jpg'},
+  {id:'pastizalero',name:'Pastizalero',cond:'5 aves de pastizal',img:'pastizalero.jpg'},
   {id:'en_peligro',name:'En peligro',cond:'Primera especie NT/VU/EN',img:'en_peligro.jpg'},
   {id:'bandada',name:'Bandada',cond:'10 especies vistas',img:'bandada.jpg'},
   {id:'conocedor',name:'Conocedor',cond:'25 especies vistas',img:'conocedor.jpg'},
@@ -900,10 +906,11 @@ function getUnlockedTrophies(){
   const seenBirds=birds.filter(b=>seen.has(b.id));
   const u=new Set();
   if(seenBirds.length>=1)u.add('primera_pluma');
-  if(seenBirds.some(b=>b.habitat.includes('urbano')))u.add('obs_urbano');
-  if(seenBirds.some(b=>['humedal','ribereño','costa','laguna'].some(h=>b.habitat.includes(h))))u.add('orilla');
+  const HAB_MIN=5;
+  if(seenBirds.filter(b=>b.habitat.includes('urbano')).length>=HAB_MIN)u.add('obs_urbano');
+  if(seenBirds.filter(b=>['humedal','ribereño','costa','laguna','marino'].some(h=>b.habitat.includes(h))).length>=HAB_MIN)u.add('orilla');
   if(seenBirds.some(b=>['Falconiformes','Accipitriformes'].includes(b.orden)))u.add('rapaz');
-  if(seenBirds.some(b=>b.habitat.includes('pastizal')))u.add('pastizalero');
+  if(seenBirds.filter(b=>b.habitat.includes('pastizal')).length>=HAB_MIN)u.add('pastizalero');
   if(seenBirds.some(b=>['NT','VU','EN','CR'].includes(b.estado)))u.add('en_peligro');
   if(seenBirds.length>=10)u.add('bandada');
   if(seenBirds.length>=25)u.add('conocedor');
@@ -919,6 +926,8 @@ function getUnlockedTrophies(){
   if(maxPct>=0.25)u.add('familia_bronce');
   if(maxPct>=0.50)u.add('familia_plata');
   if(famPcts.some(p=>p===1))u.add('familia_unida');
+  // Un logro ya ganado (celebrado) no se pierde aunque crezca el catálogo o se desmarque una especie
+  celebrated.forEach(id=>{if(TROPHIES.some(t=>t.id===id))u.add(id);});
   return u;
 }
 function openTrophies(){

@@ -95,9 +95,9 @@ for pos, bird in enumerate(especies_ordenadas, start=1):
 
 birds_js = 'const birds=[\n' + ',\n'.join(birds_js_parts) + '\n];'
 
-hc = "const HC={humedal:'hab-humedal','ribereño':'hab-ribere',costa:'hab-costa',pastizal:'hab-pastizal','agrícola':'hab-agricola',urbano:'hab-urbano',monte:'hab-monte',bosque:'hab-bosque','aéreo':'hab-aereo',laguna:'hab-laguna'};"
+hc = "const HC={humedal:'hab-humedal','ribereño':'hab-ribere',costa:'hab-costa',pastizal:'hab-pastizal','agrícola':'hab-agricola',urbano:'hab-urbano',monte:'hab-monte',bosque:'hab-bosque','aéreo':'hab-aereo',laguna:'hab-laguna',arbolado:'hab-arbolado',marino:'hab-marino'};"
 tc = "const TC={chico:'tam-chico',mediano:'tam-mediano',grande:'tam-grande'};"
-rc = "const RC={permanente:'res-permanente',estival:'res-estival'};"
+rc = "const RC={permanente:'res-permanente',estival:'res-estival',invernal:'res-invernal'};"
 wide = "const WIDE=['vuelo','Vuelo'];"
 
 # ---------------------------------------------------------------------------
