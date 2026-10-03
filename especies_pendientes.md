@@ -2,17 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (138 cargadas).
+`aviario_data.json` (141 cargadas).
 
 
-**Faltan: 221 especies**
+**Faltan: 218 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 132 | Halcón Plomizo | *Falco femoralis* | #539 |
-| 133 | Alilicucú Común | *Megascops choliba* | #457 |
-| 134 | Fiofío Pico Corto | *Elaenia parvirostris* | #742 |
 | 135 | Ipacaá | *Aramides ypecaha* | #194 |
 | 136 | Fueguero | *Piranga flava* | #967 |
 | 137 | Pato Overo | *Mareca sibilatrix* | #51 |
