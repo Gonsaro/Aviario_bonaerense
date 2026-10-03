@@ -2,18 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (150 cargadas).
+`aviario_data.json` (154 cargadas).
 
 
-**Faltan: 209 especies**
+**Faltan: 205 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 145 | Chorlo Pampa | *Pluvialis dominica* | #208 |
-| 146 | Macá Pico Grueso | *Podilymbus podiceps* | #76 |
-| 147 | Calancate Ala Roja | *Psittacara leucophthalmus* | #568 |
-| 148 | Suirirí Amarillo | *Satrapa icterophrys* | #816 |
 | 149 | Cachilo Ceja Amarilla | *Ammodramus humeralis* | #926 |
 | 151 | Lechuzón Orejudo | *Asio clamator* | #475 |
 | 152 | Mosqueta Carasucia | *Phylloscartes ventralis* | #721 |

@@ -7365,6 +7365,202 @@
       "envergadura_cm": null,
       "estado_conservacion": "LC",
       "pendientes": []
+    },
+    {
+      "nombre_comun": "Chorlo Pampa",
+      "nombre_cientifico": "Pluvialis dominica",
+      "familia": "Charadriidae",
+      "orden": "Charadriiformes",
+      "descripcion": {
+        "D": "Chorlo mediano, de cabeza redonda, pico corto y patas largas. En Buenos Aires se ve con plumaje de descanso: cara, cuello y pecho blanquecinos jaspeados de pardo claro, con la frente y una ceja blanquecinas. Pico negro. Ojo pardo. Dorso pardo oscuro con las plumas bordeadas de blanquecino o dorado. Alas pardo oscuras. Vientre blanquecino. Patas gris oscuras.",
+        "R": "Antes de irse al norte algunos ya muestran el plumaje de cría: cara, cuello y todo el frente negros, bordeados por una franja blanca desde la frente hasta el costado del pecho, y el dorso salpicado de dorado."
+      },
+      "habitat": [
+        "pastizal",
+        "humedal",
+        "costa",
+        "agrícola"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "24-28",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chaco",
+        "Chubut",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "Mendoza",
+        "Río Negro",
+        "Salta",
+        "Santa Cruz",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "Cría en la tundra de Alaska y Canadá y viaja más de 10.000 km para pasar nuestro verano en los pastizales pampeanos, en parte cruzando el Atlántico sin escalas. Anda en grupos que corren, se detienen y picotean en campos de pasto corto y orillas de lagunas.",
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on short grass, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium plover with a rounded head, short black bill and fairly long legs, dark brown crown, whitish forehead and broad whitish eyebrow, pale face, neck and breast mottled with light brown, small dark eye with a tiny dark pupil, dark brown back and wings with whitish and golden feather edges, whitish belly, dark grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "amgplo",
+      "gbif_taxon_key": 2480328,
+      "id": 151,
+      "num": "#151",
+      "sprites": {},
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "pendientes": []
+    },
+    {
+      "nombre_comun": "Macá Pico Grueso",
+      "nombre_cientifico": "Podilymbus podiceps",
+      "familia": "Podicipedidae",
+      "orden": "Podicipediformes",
+      "descripcion": {
+        "D": "Macá mediano y compacto, de pico corto y grueso como de gallina. Cabeza pardo negruzca, con los costados y el cuello pardo ocráceos. Pico color hueso, con una faja negra en el medio en época de cría. Ojo pardo con un anillo blanco. Garganta negra en época de cría y blanquecina el resto del año. Dorso pardo negruzco. Abajo blanquecino con tono gris ocráceo. Patas gris negruzcas."
+      },
+      "habitat": [
+        "humedal",
+        "laguna"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "30",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chaco",
+        "Chubut",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "La Pampa",
+        "La Rioja",
+        "Mendoza",
+        "Misiones",
+        "Neuquén",
+        "Río Negro",
+        "Salta",
+        "San Juan",
+        "San Luis",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tucumán"
+      ],
+      "curiosidades": "Su pico grueso le permite comer cangrejos, caracoles y peces más grandes que los otros macás. Cuando se siente amenazado se hunde despacio hasta dejar solo la cabeza afuera, como un submarino. Hace un nido flotante de plantas acuáticas y tapa los huevos con vegetación cuando se aleja.",
+      "prompts_pixelart": {
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: compact grebe with a short thick chicken-like bill, dark brown crown and back of the neck, buffy brown sides of the head and neck, pale ivory bill with a black band across the middle, small dark eye with a white eye ring, black throat patch, dark brown back, pale greyish buff breast and flanks, keep white background, no shadow, no text"
+      },
+      "recolor_base": {
+        "D": "Rollandia_rolland_D.png"
+      },
+      "audio_ebird_code": "pibgre",
+      "gbif_taxon_key": 2482077,
+      "id": 152,
+      "num": "#152",
+      "sprites": {},
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "pendientes": []
+    },
+    {
+      "nombre_comun": "Calancate Ala Roja",
+      "nombre_cientifico": "Psittacara leucophthalmus",
+      "familia": "Psittacidae",
+      "orden": "Psittaciformes",
+      "descripcion": {
+        "D": "Loro mediano, verde, de cola larga y en punta. Algunas plumas rojas sueltas en la cabeza y el cuello. Pico claro, color hueso. Ojo anaranjado, rodeado de piel desnuda blanquecina. En el ala plegada se ve rojo en el borde de adelante; por debajo, las cubiertas del ala son rojas y amarillas, muy visibles en vuelo. Patas grisáceas. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "urbano",
+        "arbolado",
+        "monte"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "32-35",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chaco",
+        "Corrientes",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "Misiones",
+        "Salta",
+        "Santa Fe"
+      ],
+      "curiosidades": "Es nativo del norte y noreste del país, y en Buenos Aires hay grupos que se establecieron a partir de aves escapadas de cautiverio. Vuela en bandadas muy ruidosas y duerme en dormideros comunales en árboles altos o edificios. Come frutos, semillas y flores.",
+      "prompts_pixelart": {
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: medium green parakeet with a long pointed tail, bright green head and body with a few scattered red feathers on the head and neck, pale horn-colored bill, small orange eye with a tiny dark pupil inside a ring of whitish bare skin, red on the leading edge of the folded wing, green tail, greyish legs, keep white background, no shadow, no text"
+      },
+      "recolor_base": {
+        "D": "Aratinga_nenday_D.png"
+      },
+      "audio_ebird_code": "whepar2",
+      "gbif_taxon_key": 8317396,
+      "pendientes": [
+        "UNL no tiene ficha: descripción según BOW. En Buenos Aires son en parte aves escapadas; la residencia estival sale de GBIF y puede reflejar más observaciones en verano."
+      ],
+      "id": 153,
+      "num": "#153",
+      "sprites": {},
+      "envergadura_cm": null,
+      "estado_conservacion": "LC"
+    },
+    {
+      "nombre_comun": "Suirirí Amarillo",
+      "nombre_cientifico": "Satrapa icterophrys",
+      "familia": "Tyrannidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pajarito mediano. Corona y dorso verde oliváceos, con una ceja amarilla bien marcada. Pico y patas negros. Ojo pardo. Alas y cola pardas, con las cubiertas del ala y las plumas de vuelo internas bordeadas de blanquecino. Partes de abajo amarillas. Macho y hembra son parecidos; la hembra es más apagada."
+      },
+      "habitat": [
+        "monte",
+        "arbolado",
+        "humedal"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "16",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chaco",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "Misiones",
+        "Salta",
+        "Santa Fe",
+        "Tucumán"
+      ],
+      "curiosidades": "Se posa a baja altura en arbustos y árboles y sale volando para atrapar insectos en el aire, volviendo a la misma rama. En época de cría es muy confiado y se deja ver de cerca. Hace un nido en forma de taza en una horqueta.",
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a branch, white background, 1024x1024 pixels, bird filling 70% of canvas height, medium flycatcher, olive green crown and back, bold bright yellow eyebrow, dark olive cheek, thin black bill, small dark eye with a tiny dark pupil, dusky brown wings with whitish edges on the coverts and inner flight feathers, single dusky brown tail, bright yellow throat, breast and belly, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "yebtyr2",
+      "gbif_taxon_key": 2482673,
+      "id": 154,
+      "num": "#154",
+      "sprites": {},
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "pendientes": []
     }
   ]
 }
