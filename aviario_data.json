@@ -6722,7 +6722,7 @@
       "curiosidades": "La cara y la garganta blancas, que contrastan con la gorra castaña, lo hacen inconfundible entre los patos. Anda en parejas o grupos chicos, a veces mezclado con otros patos, en lagunas, bañados y también en aguas algo saladas. Come plantas acuáticas, semillas e invertebrados, que busca hundiendo la cabeza o volcándose con la cola para arriba. Hace el nido en el suelo, escondido entre la vegetación cerca del agua.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: medium duck, rufous chestnut crown, nape and back of the neck peppered with small distinct black spots, pure white cheeks, throat and front of the neck, lead grey bill with a red patch at the base of the upper mandible, small dark brown eye with a tiny dark pupil, dark brown back with cinnamon feather edges, dark brown folded wing with a metallic green patch bordered with cinnamon, pointed buff tail, light brown breast peppered with small distinct black spots, light brown belly and flanks, brown legs, keep white background, no shadow, no text"
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: medium duck, rufous chestnut crown, nape and back of the neck peppered with small distinct black spots, plain pure white cheeks, throat and front of the neck with no spots at all, lead grey bill with a red patch at the base of the upper mandible, small dark brown eye with a tiny dark pupil, dark brown back with cinnamon feather edges, dark brown folded wing with a metallic green patch bordered with cinnamon, pointed buff tail, light brown breast peppered with small distinct black spots, light brown belly and flanks, brown legs, keep white background, no shadow, no text"
       },
       "recolor_base": {
         "D": "Anas_flavirostris_D.png"
@@ -6749,7 +6749,7 @@
       "residencia": "permanente",
       "tamanio_categoria": "mediano",
       "largo_cm": "40-52",
-      "envergadura_cm": null,
+      "envergadura_cm": "65-66.5",
       "estado_conservacion": "LC",
       "provincias": [
         "Buenos Aires",
@@ -6885,13 +6885,16 @@
       "curiosidades": "Su nombre imita su canto, un trino que termina en dos notas cortas y que se oye de noche, incluso en plazas y parques de la ciudad. De día descansa quieto en un árbol, pegado al tronco y con el cuerpo estirado, y con su plumaje rayado se confunde con la corteza. Caza insectos grandes, ratones y pajaritos. Anida en huecos de árboles.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, front view, small owl facing forward, perched upright on a branch, white background, 1024x1024 pixels, bird filling 70% of canvas height, short pointed ear tufts, grey facial disc bordered with a dark rim, large yellow eyes with dark pupils, small grey-green hooked bill, greyish brown head and upperparts streaked dark with small white and buff spots, a white line on each shoulder, greyish throat and upper breast with thin dark bars, whitish lower breast and belly with bold dark vertical streaks crossed by thin dark bars, short tail, grey-brown feathered legs, detailed feather texture with dithering, clean outline, no shadow, no text"
+        "D": "recolor this exact sprite, keep the same front-facing symmetric pose, outline, size and composition unchanged except for adding two short pointed ear tufts on top of the head, only change the colors so the bird has: grey facial disc bordered with a dark rim, large yellow eyes with dark pupils, small grey-green bill, greyish brown head and upperparts streaked dark with small white and buff spots, a white line on each shoulder, greyish throat and upper breast with thin dark bars, whitish lower breast and belly with bold dark vertical streaks crossed by thin dark bars, grey-brown feathered legs, keep the wooden post, keep white background, no shadow, no text"
       },
       "audio_ebird_code": "trsowl",
       "gbif_taxon_key": 2497365,
       "pendientes": [
         "Forma rojiza (castaña): posible variante O a futuro."
-      ]
+      ],
+      "recolor_base": {
+        "D": "Asio_flammeus_D.png"
+      }
     },
     {
       "id": 141,
