@@ -22,7 +22,7 @@ BBOX = 'decimalLatitude=-35.05,-34.35&decimalLongitude=-59.0,-57.85'
 BENTEVEO = 'taxonKey=2482755'
 # Nombres que GBIF no resuelve con scientificName: se consulta por otro nombre o taxonKey
 GBIF_ALIAS = {
-    'Daptrius chimango': 'taxonKey=2481065',
+    'Daptrius chimango': 'verbatimScientificName=Daptrius%20chimango',  # eBird lo publica así y GBIF no lo resuelve
     'Aramides cajaneus': 'scientificName=Aramides%20cajanea',
 }
 

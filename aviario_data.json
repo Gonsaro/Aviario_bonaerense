@@ -2054,7 +2054,10 @@
         "La Rioja",
         "San Juan",
         "Neuquén",
-        "Río Negro"
+        "Río Negro",
+        "Chubut",
+        "Santa Cruz",
+        "Tierra del Fuego"
       ],
       "curiosidades": "El carroñero más común de la pampa. Oportunista por excelencia: come carroña, insectos, frutos, huevos y cualquier resto disponible. Es frecuente verlo caminando por el suelo en campos y basurales. A diferencia del carancho, rara vez caza presas vivas.",
       "sprites": {
@@ -2064,7 +2067,7 @@
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, small slender falcon, dark brown upperparts with darker streaking, pale underparts with rufous-brown mottling and barring, barred tail with dark subterminal band and whitish tip, whitish primary base patch, grey hooked bill with yellow cere, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "chicar1",
-      "amba_indice": 0.06
+      "amba_indice": 56.72
     },
     {
       "id": 43,

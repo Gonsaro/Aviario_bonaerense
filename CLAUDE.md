@@ -98,7 +98,7 @@ Verificar rasgos antes de describir colores de ojo, pico, patas o patrones de pl
 
 **Residencia en Buenos Aires: mandan los registros GBIF por mes.** Facet `month` con `stateProvince` = Buenos Aires, Ciudad Autónoma de Buenos Aires y Ciudad de Buenos Aires. Normalizar cada mes contra el Benteveo (*Pitangus sulphuratus*, taxonKey 2482755), porque en verano se observa más. Si el índice promedio de jun–ago es menor al 30% del de dic–feb: `estival`; si es más del triple: `invernal`; si no: `permanente`. No es pendiente. Excepción: si el cociente queda cerca del umbral (invierno/verano entre 2,5 y 3,5, o entre 0,25 y 0,35) y la lista oficial (sin código de movimiento) y BOW coinciden en que es residente, va `permanente` (ej. Monterita Litoraleña, 3,2×).
 
-**Frecuencia en el AMBA (modo ciudad):** después de agregar fichas, correr `python calcular_amba.py`: completa `amba_indice` (registros GBIF en CABA + conurbano + Gran La Plata, como % de los del Benteveo). El "Modo ciudad" de la app oculta las especies con índice menor a `AMBA_MIN` (0,5, en `index.html`). Si GBIF no resuelve un nombre, agregarlo a `GBIF_ALIAS` en el script.
+**Frecuencia en el AMBA (modo ciudad):** después de agregar fichas, correr `python calcular_amba.py`: completa `amba_indice` (registros GBIF en CABA + conurbano + Gran La Plata, como % de los del Benteveo). El "Modo ciudad" de la app oculta las especies con índice menor a `AMBA_MIN` (0,4, en `index.html`). Si GBIF no resuelve un nombre, agregarlo a `GBIF_ALIAS` en el script.
 
 **Envergadura:** solo con dato de la UNL o de Birds of the World. Si no, `null`, y no es pendiente.
 

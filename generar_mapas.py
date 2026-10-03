@@ -104,11 +104,19 @@ def load_geojson():
     return simplified
 
 
+# Nombres que GBIF no resuelve con scientificName: (parámetro, valor) a usar en su lugar
+GBIF_ALIAS = {
+    'Daptrius chimango': ('verbatimScientificName', 'Daptrius chimango'),  # eBird lo publica así
+    'Aramides cajaneus': ('scientificName', 'Aramides cajanea'),
+}
+
+
 def fetch_occurrences(scientific_name, max_occ=500):
     pts, offset = [], 0
+    name_param, name_value = GBIF_ALIAS.get(scientific_name, ('scientificName', scientific_name))
     while len(pts) < max_occ:
         r = requests.get(GBIF_SEARCH, params={
-            'scientificName': scientific_name,
+            name_param: name_value,
             'country': 'AR',
             'hasCoordinate': 'true',
             'limit': 300,
