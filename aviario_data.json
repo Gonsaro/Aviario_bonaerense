@@ -7099,7 +7099,8 @@
       "familia": "Charadriidae",
       "orden": "Charadriiformes",
       "descripcion": {
-        "D": "Chorlito chico y rechoncho, de patas cortas. Frente blanca; adelante de la corona negro, y la parte de atrás de la corona y del cuello canela rojiza. Pico corto y negro. Ojo pardo. Dorso pardo grisáceo. Abajo blanco, con dos collares negros: uno fino en el cuello y otro ancho sobre el pecho. Patas negras. Fuera de la época de cría, que es como más se lo ve en Buenos Aires, el negro de la cabeza y de los collares se vuelve grisáceo y el canela casi desaparece."
+        "D": "Chorlito chico y rechoncho, de patas cortas. Así se lo ve en Buenos Aires, con plumaje de descanso: frente blanca, cabeza y dorso pardo grisáceos, y dos collares pardo grisáceos sobre el pecho blanco, uno fino en el cuello y otro más ancho. Pico corto y negro. Ojo pardo. Patas negras.",
+        "R": "En plumaje de cría tiene una banda negra adelante de la corona, la parte de atrás de la corona y la nuca canela rojizas, y los dos collares negros. La hembra tiene el canela más apagado y el negro más pardusco."
       },
       "habitat": [
         "costa",
@@ -7119,7 +7120,8 @@
       ],
       "curiosidades": "Cría en la Patagonia y en Malvinas, en pastizales inundados y orillas de lagunas, y en otoño e invierno muchos viajan hacia el norte para pasar la temporada fría en playas y estuarios de Buenos Aires, Uruguay y el sur de Brasil. Corre rápido por la arena o el barro, se detiene de golpe y picotea pequeños invertebrados.",
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on wet sand, white background, 1024x1024 pixels, bird filling 60% of canvas height, small stocky plover with short legs and a short black bill, white forehead, black band across the front of the crown, cinnamon rufous rear crown and nape, small dark brown eye with a tiny dark pupil, plain greyish brown back and wings, white throat, a thin black collar across the lower neck and a broad black band across the breast, white belly, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: non-breeding plumage, make the black band on the front of the crown and both black collars a soft grey-brown, make the cinnamon rufous rear crown and nape plain grey-brown like the back, keep the white forehead, white throat and belly, the greyish brown back and wings, the black bill and legs, keep white background, no shadow, no text",
+        "R": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on wet sand, white background, 1024x1024 pixels, bird filling 60% of canvas height, small stocky plover with short legs and a short black bill, white forehead, black band across the front of the crown, cinnamon rufous rear crown and nape, small dark brown eye with a tiny dark pupil, plain greyish brown back and wings, white throat, a thin black collar across the lower neck and a broad black band across the breast, white belly, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "twbplo1",
       "gbif_taxon_key": 2480287,
@@ -7130,7 +7132,10 @@
       "num": "#145",
       "sprites": {},
       "envergadura_cm": null,
-      "estado_conservacion": "LC"
+      "estado_conservacion": "LC",
+      "recolor_base": {
+        "D": "Charadrius_falklandicus_R.png"
+      }
     },
     {
       "nombre_comun": "Cachilo Canela",
