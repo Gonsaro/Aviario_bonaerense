@@ -7836,6 +7836,382 @@
       "sprites": {},
       "envergadura_cm": null,
       "estado_conservacion": "LC"
+    },
+    {
+      "id": 161,
+      "num": "#161",
+      "nombre_comun": "Anambé Negro",
+      "nombre_cientifico": "Pachyramphus polychopterus",
+      "familia": "Tityridae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "M": "Pájaro chico y robusto, de cabeza grande y redondeada. El macho tiene la frente y la corona negras. Pico gris plateado con la punta oscura. Ojo pardo. Dorso gris pardusco. Alas pardo oscuras con dos franjas blancas. Cola negra con las puntas de las plumas de los costados blancas. Garganta, pecho y vientre grises. Patas grisáceas.",
+        "F": "La hembra no tiene la corona negra: es gris parduzca arriba, gris abajo con el vientre blanquecino, tiene una franja canela en el ala en lugar de las blancas y la cola parda con una mancha canela en las plumas de los costados."
+      },
+      "habitat": [
+        "monte",
+        "bosque",
+        "ribereño"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "chico",
+      "largo_cm": "15",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chaco",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "Misiones",
+        "Salta",
+        "San Luis",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tucumán"
+      ],
+      "curiosidades": "Llega a Buenos Aires en primavera y se va en otoño. Recorre despacio las copas de los árboles buscando insectos entre las hojas y se lo descubre por su canto, una serie de silbidos suaves que se aceleran. Cuelga de una rama alta un nido grande y desprolijo, en forma de bola, hecho con fibras vegetales.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a short twig, white background, 1024x1024 pixels, bird filling 72% of canvas height, small stocky becard with a large rounded head and a short thick bill, black forehead and crown, silvery grey bill with a dark tip, small dark brown eye with a tiny dark pupil, brownish grey back, dark brown wings with two white wing bars, black tail with white tips on the outer feathers, grey throat, breast and belly, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: replace the black forehead and crown with brownish grey like the back, make the belly whitish, replace the two white wing bars with a single cinnamon wing band, make the tail brown with a cinnamon patch on the outer feathers, keep the silvery grey bill with a dark tip and the grey breast, keep white background, no shadow, no text"
+      },
+      "audio_ebird_code": "whwbec1",
+      "gbif_taxon_key": 5230363,
+      "pendientes": []
+    },
+    {
+      "id": 162,
+      "num": "#162",
+      "nombre_comun": "Cardenilla",
+      "nombre_cientifico": "Paroaria capitata",
+      "familia": "Thraupidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro chico parecido a un cardenal pero sin copete. Cabeza roja. Pico naranja amarillento. Ojo rojizo. Dorso gris con tono pardo; alas y cola negruzcas. Garganta negruzca. Costados del cuello y partes inferiores blancos, con los costados y el vientre teñidos de ocráceo. Patas rosado naranja. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "humedal",
+        "ribereño"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "17",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Chaco",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "Misiones",
+        "Neuquén",
+        "Río Negro",
+        "Salta",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tucumán"
+      ],
+      "curiosidades": "Vive cerca del agua y camina con soltura sobre los camalotes y la vegetación flotante de esteros y orillas de ríos, buscando semillas e insectos. Anda en parejas o grupitos. Se la distingue del Cardenal Copete Rojo por no tener copete y por el pico amarillento. Por su color es muy buscada como ave de jaula, y por eso aparecen individuos escapados lejos de su zona.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a short twig, white background, 1024x1024 pixels, bird filling 72% of canvas height, small cardinal-like tanager without a crest, bright red head, short conical orange-yellow bill, small reddish eye with a tiny dark pupil, dark grey back with a brownish tinge, blackish wings and tail, blackish throat patch, white sides of the neck, white breast, buff-tinged flanks and belly, pinkish orange legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "yebcar",
+      "gbif_taxon_key": 2492087,
+      "pendientes": [
+        "Registros GBIF en Neuquén y Río Negro, fuera de su área natural: sospecha de escapes de jaula."
+      ]
+    },
+    {
+      "id": 163,
+      "num": "#163",
+      "nombre_comun": "Monjita Blanca",
+      "nombre_cientifico": "Xolmis irupero",
+      "familia": "Tyrannidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro chico, casi todo blanco puro. Pico negro. Ojo pardo. Alas blancas con las puntas de las plumas largas negras. Cola blanca con la punta negra. Patas negras. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "pastizal",
+        "agrícola",
+        "monte"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "17",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chaco",
+        "Chubut",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "La Pampa",
+        "La Rioja",
+        "Mendoza",
+        "Misiones",
+        "Neuquén",
+        "Río Negro",
+        "Salta",
+        "San Juan",
+        "San Luis",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tucumán"
+      ],
+      "curiosidades": "Su blanco se ve de lejos cuando se posa en alambrados, postes y cables al costado de los caminos rurales, desde donde baja al suelo o sale al vuelo a cazar insectos. Tiene muchísimos nombres populares, como viudita, nievecita, palomita de la Virgen o boyerito blanco. Anida en huecos de árboles o postes y a veces usa nidos viejos de hornero.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a short fence post, white background, 1024x1024 pixels, bird filling 72% of canvas height, small all white tyrant flycatcher with a rounded head, short thin black bill, small dark brown eye with a tiny dark pupil, pure white head, back and body, white folded wings with black tips on the long flight feathers, white tail with a broad black tip, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "whimon1",
+      "gbif_taxon_key": 2482747,
+      "pendientes": []
+    },
+    {
+      "id": 164,
+      "num": "#164",
+      "nombre_comun": "Tuyuyú",
+      "nombre_cientifico": "Mycteria americana",
+      "familia": "Ciconiidae",
+      "orden": "Ciconiiformes",
+      "descripcion": {
+        "D": "Cigüeña grande. Cabeza y parte alta del cuello sin plumas, con la piel pardo negruzca. Pico largo, grueso y apenas curvado hacia abajo, blanquecino. Ojo pardo oscuro. Cuerpo blanco, con las plumas largas de las alas y la cola negras, que forman un borde negro en el ala plegada. Patas largas negruzcas. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "humedal"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "grande",
+      "largo_cm": "95-102",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chaco",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "La Pampa",
+        "La Rioja",
+        "Misiones",
+        "Salta",
+        "San Luis",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tucumán"
+      ],
+      "curiosidades": "Pesca tanteando: camina en el agua barrosa con el pico entreabierto sumergido y lo cierra de golpe, en una fracción de segundo, cuando toca un pez. Por su cabeza pelada le dicen cabeza de hueso. Planea en grupos aprovechando las corrientes de aire caliente y anida en colonias sobre árboles; a Buenos Aires llega sobre todo en los meses cálidos.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 75% of canvas height, large stork with a long thick bill slightly curved down at the tip, bare dark greyish brown scaly skin on the head and upper neck without feathers, whitish bill, small dark brown eye, white back and wing coverts, black flight feathers forming a black rear edge along the folded wing, short black tail, white neck base, breast and belly, long blackish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, large stork with broad wings, neck extended straight forward, long legs trailing straight behind the tail, bare dark greyish brown head and upper neck, long thick whitish bill slightly curved down at the tip, small dark brown eye, white body, open wings white on the front half with black flight feathers on the rear half, short black tail, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "woosto",
+      "gbif_taxon_key": 2481937,
+      "pendientes": []
+    },
+    {
+      "id": 165,
+      "num": "#165",
+      "nombre_comun": "Monterita Cabeza Negra",
+      "nombre_cientifico": "Microspingus melanoleucus",
+      "familia": "Thraupidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "M": "Pájaro chico y esbelto, de cola larga. El macho tiene la cabeza negra. Pico negro. Ojo rojizo. Dorso gris; alas pardas. Cola con las plumas del centro pardas y las de los costados pardo oscuras con el tercio final blanco. Partes inferiores blancas con los costados grises. Patas negruzcas.",
+        "F": "La hembra tiene la cabeza y el dorso grises con tono ocráceo, abajo es blanquecina, y las alas y la cola son pardas."
+      },
+      "habitat": [
+        "monte",
+        "bosque"
+      ],
+      "residencia": "invernal",
+      "tamanio_categoria": "chico",
+      "largo_cm": "13",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chaco",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "La Rioja",
+        "Misiones",
+        "Salta",
+        "San Juan",
+        "San Luis",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tucumán"
+      ],
+      "curiosidades": "Anda en parejas o en grupitos de 6 a 8, muy inquietos, que se mueven rápido entre arbustos y ramas bajas avisándose con llamadas cortas. Busca semillas e insectos desde el suelo hasta unos 5 metros de altura. En Buenos Aires se ve más en otoño e invierno, cuando llega desde el norte.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a short twig, white background, 1024x1024 pixels, bird filling 72% of canvas height, small slender finch-like tanager with a long tail, black head, short sharp black conical bill, small reddish eye with a tiny dark pupil, grey back, brown wings, brown central tail feathers edged grey, dark brown outer tail feathers with broad white tips, white throat, breast and belly, grey flanks, blackish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: replace the black head with buffy grey like the back, give the grey back a buff tinge, make the underparts whitish, keep the black bill, the reddish eye, the brown wings and tail, keep white background, no shadow, no text"
+      },
+      "audio_ebird_code": "bcwfin2",
+      "gbif_taxon_key": 9471539,
+      "pendientes": []
+    },
+    {
+      "id": 166,
+      "num": "#166",
+      "nombre_comun": "Pijuí Frente Gris",
+      "nombre_cientifico": "Synallaxis frontalis",
+      "familia": "Furnariidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro chico y delgado, de cola larga, escalonada y terminada en puntas. Frente gris y corona castaña. Pico fino, oscuro. Ojo pardo castaño. Dorso pardo. Alas pardas y castañas, con las cubiertas castañas. Cola castaña. Mancha negra en la garganta. Pecho y vientre gris ocráceos. Patas pardo grisáceas con tinte oliváceo. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "monte",
+        "ribereño",
+        "urbano"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "16",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chaco",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "La Pampa",
+        "La Rioja",
+        "Mendoza",
+        "Misiones",
+        "Salta",
+        "San Juan",
+        "San Luis",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tucumán"
+      ],
+      "curiosidades": "Su nombre imita su canto, un 'pi-juí' insistente que repite escondido en el matorral. Busca insectos en el follaje y entre los pastos altos, casi siempre a poca altura. Construye un nido enorme para su tamaño, una bola de ramitas espinosas con un tubo de entrada a un costado.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a short twig, white background, 1024x1024 pixels, bird including its long tail filling about 75% of canvas width, small slim spinetail with a long graduated pointed tail, grey forehead, rufous chestnut crown, thin pointed dark bill, small brown eye with a tiny dark pupil, brown back, chestnut wing coverts, brown and chestnut wings, long chestnut tail, small black throat patch, greyish buff breast and belly, olive grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "sofspi1",
+      "gbif_taxon_key": 2484977,
+      "pendientes": []
+    },
+    {
+      "id": 167,
+      "num": "#167",
+      "nombre_comun": "Doradito Pampeano",
+      "nombre_cientifico": "Pseudocolopteryx flaviventris",
+      "familia": "Tyrannidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro muy chico. Cabeza parda, con la frente y el borde de las plumas de la corona castaños. Pico negro con la base de abajo amarillenta. Ojo pardo. Dorso oliváceo. Alas pardas con los bordes de las plumas ocráceos. Cola parda con los bordes oliváceos. Partes inferiores amarillas. Patas negras. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "humedal"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "chico",
+      "largo_cm": "12",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Santa Fe"
+      ],
+      "curiosidades": "Vive en juncales y pajonales de lagunas y bañados, donde se mueve activo entre los tallos y hace vuelos cortos para cazar insectos. Es confiado y suele asomarse a la punta de los juncos. En Buenos Aires se ve sobre todo en primavera y verano, cuando cría.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a short reed stem, white background, 1024x1024 pixels, bird filling 72% of canvas height, tiny tyrant flycatcher, brown head with a rufous chestnut forehead and chestnut-edged crown feathers, short thin black bill with a yellowish base on the lower mandible, small dark brown eye with a tiny dark pupil, olive back, brown wings with buff feather edges, brown tail with olive edges, bright yellow throat, breast and belly, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "wardor1",
+      "gbif_taxon_key": 2482646,
+      "pendientes": []
+    },
+    {
+      "id": 168,
+      "num": "#168",
+      "nombre_comun": "Pepitero Gris",
+      "nombre_cientifico": "Saltator coerulescens",
+      "familia": "Thraupidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro mediano y robusto, de pico grueso y cola larga. Cabeza gris con una ceja blanquecina. Pico negro. Ojo pardo. Dorso gris; alas y cola negruzcas. Garganta ocrácea bordeada de negruzco. Pecho gris y vientre canela. Patas grisáceas. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "monte",
+        "ribereño",
+        "urbano"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "21",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chaco",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "Misiones",
+        "Salta",
+        "San Luis",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tucumán"
+      ],
+      "curiosidades": "Es muy cantor: da silbidos fuertes y melodiosos desde lo alto de los árboles, y en el Delta le dicen chiviro de la isla. Anda en parejas, bullanguero e inquieto, y come frutos, brotes, flores e insectos desde el suelo hasta las copas.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a short twig, white background, 1024x1024 pixels, bird filling 70% of canvas height, medium stout saltator with a long tail, grey head with a short whitish eyebrow, thick heavy black conical bill, small dark brown eye with a tiny dark pupil, grey back, blackish wings and tail, buff throat bordered by a blackish line on each side, grey breast, cinnamon belly and undertail, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "grasal3",
+      "gbif_taxon_key": 9819034,
+      "pendientes": []
     }
   ]
 }

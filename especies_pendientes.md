@@ -2,22 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (160 cargadas).
+`aviario_data.json` (168 cargadas).
 
 
-**Faltan: 199 especies**
+**Faltan: 191 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 156 | Anambé Negro | *Pachyramphus polychopterus* | #713 |
-| 157 | Cardenilla | *Paroaria capitata* | #1063 |
-| 158 | Monjita Blanca | *Xolmis irupero* | #829 |
-| 160 | Tuyuyú | *Mycteria americana* | #368 |
-| 161 | Monterita Cabeza Negra | *Microspingus melanoleucus* | #1053 |
-| 162 | Pijuí Frente Gris | *Synallaxis frontalis* | #695 |
-| 163 | Doradito Pampeano | *Pseudocolopteryx flaviventris* | #766 |
-| 164 | Pepitero Gris | *Saltator coerulescens* | #1032 |
 | 165 | Ganso Común | *Anser anser* | #24 (doméstica, marcar exotica: true) |
 | 166 | Garcita Bueyera | *Ardea ibis* | #391 (como *Bubulcus ibis*) |
 | 167 | Aguilucho Langostero | *Buteo swainsoni* | #453 |
