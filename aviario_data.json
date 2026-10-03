@@ -7560,6 +7560,282 @@
       "envergadura_cm": null,
       "estado_conservacion": "LC",
       "pendientes": []
+    },
+    {
+      "nombre_comun": "Cachilo Ceja Amarilla",
+      "nombre_cientifico": "Ammodramus humeralis",
+      "familia": "Passerellidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pajarito chico de pastizal. Dorso gris con estrías pardas. Ceja amarilla, más marcada delante del ojo. Pico córneo grisáceo con la parte de arriba negruzca. Ojo pardo. Alas pardas con las plumas bordeadas de gris y el borde del ala amarillo. Cola parda, corta, con un fino borde ocráceo. Garganta y partes de abajo blanquecinas, con los costados ocráceos. Patas córneo rosadas. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "pastizal",
+        "agrícola"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "12",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chaco",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "La Pampa",
+        "Misiones",
+        "Salta",
+        "San Luis",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tucumán"
+      ],
+      "curiosidades": "Pasa casi todo el tiempo en el suelo, entre los pastos, por donde corre rápido más que volar. Para cantar sube a un poste, un alambre o un pasto alto, y su canto es un trino agudo y fino, como de insecto.",
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), body and head both facing left, perched on a short grass stem, white background, 1024x1024 pixels, bird filling 75% of canvas height, close-up on the bird, small plump grassland sparrow with a short tail, grey head and back streaked brown, yellow eyebrow brightest in front of the eye, grey horn bill with a dark upper edge, small dark eye, brown wings with grey feather edges and a yellow bend of the wing, short single brown tail, whitish throat and belly, buff flanks, pinkish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "graspa1",
+      "gbif_taxon_key": 2491303,
+      "id": 155,
+      "num": "#155",
+      "sprites": {},
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "pendientes": []
+    },
+    {
+      "nombre_comun": "Lechuzón Orejudo",
+      "nombre_cientifico": "Asio clamator",
+      "familia": "Strigidae",
+      "orden": "Strigiformes",
+      "descripcion": {
+        "D": "Lechuzón mediano, con orejas largas de plumas negras. Cara blanquecina con las mejillas castañas, oscura alrededor de los ojos y bordeada por una línea oscura. Pico gris. Ojo pardo. Corona, nuca y dorso ocres con listas gruesas pardo oscuras. Alas y cola ocres con bandas pardo oscuras. Pecho blanquecino y ocráceo con listones pardo oscuros. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "pastizal",
+        "monte",
+        "urbano",
+        "arbolado"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "30-38",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "La Pampa",
+        "Mendoza",
+        "Misiones",
+        "Neuquén",
+        "Río Negro",
+        "Salta",
+        "Santa Fe",
+        "Tucumán"
+      ],
+      "curiosidades": "Sus largas orejas de plumas no son orejas: son penachos que levanta cuando está alerta y que lo ayudan a camuflarse. Es nocturno y de día descansa en árboles densos, a veces en parques de la ciudad. Caza roedores, aves e insectos grandes, y su llamado es un ladrido o un silbido fuerte.",
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, facing FORWARD (front view, body and face pointing directly at the viewer, symmetric), perched upright on a short wooden post, white background, 1024x1024 pixels, bird filling 70% of canvas height, medium owl with long black ear tufts, whitish facial disc with chestnut cheeks, dark around the eyes, a dark rim around the face, brown eyes, grey bill, buff head and upperparts with bold dark brown streaks, whitish and buff breast and belly with long bold dark brown streaks, feathered buff legs, detailed feather texture with dithering, clean outline, no shadow, no text"
+      },
+      "audio_ebird_code": "strowl1",
+      "gbif_taxon_key": 4843115,
+      "id": 156,
+      "num": "#156",
+      "sprites": {},
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "pendientes": []
+    },
+    {
+      "nombre_comun": "Mosqueta Carasucia",
+      "nombre_cientifico": "Phylloscartes ventralis",
+      "familia": "Tyrannidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pajarito chico y verdoso. Corona, nuca y dorso oliva oscuros. Ceja fina blanquecina, una línea oscura que pasa por el ojo y las mejillas manchadas de blanquecino y oscuro, como sucias. Pico negro, largo, chato y fino, con la base de abajo rosada o amarillenta. Ojo pardo oscuro. Alas oscuras con dos bandas amarillentas y bordes oliva amarillentos. Cola oscura con bordes oliva. Garganta blanquecina; resto de abajo amarillento con tono oliva grisáceo en el pecho. Patas gris pizarra. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "monte",
+        "bosque",
+        "arbolado",
+        "ribereño"
+      ],
+      "residencia": "invernal",
+      "tamanio_categoria": "chico",
+      "largo_cm": "12",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Corrientes",
+        "Entre Ríos",
+        "Jujuy",
+        "Misiones",
+        "Salta",
+        "Tucumán"
+      ],
+      "curiosidades": "Su nombre viene de las mejillas manchadas de claro y oscuro. Se mueve sin parar entre el follaje, con la cola algo levantada, buscando insectos chicos en las hojas. En Buenos Aires se ve sobre todo en otoño e invierno, en montes ribereños y arboledas.",
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), body and head both facing left, perched on a thin branch, white background, 1024x1024 pixels, bird filling 75% of canvas height, close-up on the bird, tiny slim tyrannulet, dark olive crown and back, thin whitish eyebrow, dusky line through the eye, whitish and dusky mottled cheeks, long thin flat black bill with a pinkish base, small dark eye, dusky wings with two yellowish wing bars and olive yellow edges, single dusky tail edged olive, whitish throat, yellowish underparts with an olive grey wash on the breast, slate grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "moctyr2",
+      "gbif_taxon_key": 2483229,
+      "pendientes": [
+        "UNL no tiene ficha: descripción según BOW/Wikipedia (van Perlo, Schulenberg)."
+      ],
+      "id": 157,
+      "num": "#157",
+      "sprites": {},
+      "envergadura_cm": null,
+      "estado_conservacion": "LC"
+    },
+    {
+      "nombre_comun": "Sirirí Colorado",
+      "nombre_cientifico": "Dendrocygna bicolor",
+      "familia": "Anatidae",
+      "orden": "Anseriformes",
+      "descripcion": {
+        "D": "Pato de patas y cuello largos y postura erguida. Cabeza marrón rojiza, con la cara más clara. Cuello blanquecino estriado de pardo grisáceo, con una línea negra por detrás desde la nuca hasta el dorso. Pico y patas grises con tinte celeste. Ojo pardo oscuro. Dorso negro con las puntas de las plumas canela rojizo, que forman un barrado. Alas pardo oscuras con las cubiertas castañas. Rabadilla blanquecina; cola negra. Abajo canela, con los costados ocráceos estriados de crema. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "humedal",
+        "laguna",
+        "agrícola"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "42-50",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Chaco",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "La Pampa",
+        "Mendoza",
+        "Salta",
+        "Santa Fe",
+        "Santiago del Estero"
+      ],
+      "curiosidades": "Su nombre imita su silbido, que da en vuelo y se oye mucho de noche, porque suele moverse entre lagunas y arrozales después del atardecer. Anda en bandadas, camina bien y nada poco; come semillas y brotes de plantas acuáticas.",
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), body and head both facing left, standing upright at the water's edge, white background, 1024x1024 pixels, bird filling 70% of canvas height, upright long-necked whistling duck with long legs, rich rufous brown head with a paler face, a black line down the back of the neck, whitish neck finely streaked grey-brown, grey bill with a bluish tint, small dark eye, black back barred with rufous cinnamon feather tips, dark brown wings with chestnut coverts, black tail, rich cinnamon breast and belly, buff flanks with long cream streaks, long bluish grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "fuwduc",
+      "gbif_taxon_key": 2498402,
+      "id": 158,
+      "num": "#158",
+      "sprites": {},
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "pendientes": []
+    },
+    {
+      "nombre_comun": "Pato Colorado",
+      "nombre_cientifico": "Spatula cyanoptera",
+      "familia": "Anatidae",
+      "orden": "Anseriformes",
+      "descripcion": {
+        "M": "Pato mediano. El macho tiene la corona negra y el resto de la cabeza, el cuello, el pecho y el vientre castaño rojizos. Pico negro. Ojo amarillo a naranja rojizo. Dorso pardo con las plumas bordeadas de ocráceo. Alas pardas con las cubiertas celestes y blancas y un espejo verde, que se ven sobre todo en vuelo. Plumas de debajo de la cola negras. Patas naranjas.",
+        "F": "La hembra es parda, con la corona negruzca, la cara y el cuello ocráceos manchados de pardo, el pecho canela moteado de pardo oscuro y el dorso pardo con bordes ocráceo canela. Ojo pardo, patas grises."
+      },
+      "habitat": [
+        "humedal",
+        "laguna"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "35-48",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chaco",
+        "Chubut",
+        "Córdoba",
+        "Entre Ríos",
+        "Jujuy",
+        "La Pampa",
+        "La Rioja",
+        "Mendoza",
+        "Neuquén",
+        "Río Negro",
+        "Salta",
+        "San Juan",
+        "San Luis",
+        "Santa Cruz",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tierra del Fuego",
+        "Tucumán"
+      ],
+      "curiosidades": "El macho, todo castaño rojizo con el ojo rojo, es de los patos más llamativos de las lagunas. Pariente del Pato Cuchara, come filtrando el agua de la superficie con el pico. Anda en parejas o grupos chicos, a veces mezclado con otros patos.",
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), body and head both facing left, swimming on calm water with small ripples, legs hidden under the water, white background, 1024x1024 pixels, bird filling 60% of canvas height, medium dabbling duck, black crown, rich chestnut red head, neck, breast and flanks, black bill, small orange-red eye with a tiny dark pupil, brown back with buff feather edges, brown folded wing with a small pale blue patch, black undertail, brown tail, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: female much duller, blackish crown, buff face and neck mottled brown, cinnamon breast spotted dark brown, brown back with buff cinnamon edges, brown flanks, dark brown eye, keep the black bill, keep white background, no shadow, no text"
+      },
+      "audio_ebird_code": "cintea",
+      "gbif_taxon_key": 9345027,
+      "id": 159,
+      "num": "#159",
+      "sprites": {},
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "pendientes": []
+    },
+    {
+      "nombre_comun": "Choca Corona Rojiza",
+      "nombre_cientifico": "Thamnophilus ruficapillus",
+      "familia": "Thamnophilidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "M": "Pájaro mediano, de pico grueso y ganchudo y cola larga escalonada. El macho tiene la corona castaña, los costados de la cabeza y la garganta ocráceo pálidos con manchitas oscuras, el dorso pardo oscuro y las alas pardo rojizas. Cola negro parduzca con las puntas blancas. Abajo blanco teñido de ocráceo, con barras negras finas e irregulares en el pecho y los costados.",
+        "F": "La hembra tiene la corona canela parda, la cola pardo rojiza sin blanco y apenas un rastro de barras en el pecho."
+      },
+      "habitat": [
+        "monte",
+        "ribereño",
+        "humedal"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "15-17",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Corrientes",
+        "Entre Ríos",
+        "Jujuy",
+        "Misiones",
+        "Salta",
+        "Tucumán"
+      ],
+      "curiosidades": "Vive escondida en matorrales densos y bordes de monte, y se la descubre más por su canto, una serie de notas que se aceleran, que por verla. Caza insectos entre las ramas con su pico ganchudo, moviéndose despacio.",
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), body and head both facing left, perched on a branch, white background, 1024x1024 pixels, bird filling 70% of canvas height, antshrike with a thick hooked bill and a long graduated tail, chestnut crown, pale buffy face and throat mottled dusky, dark grey hooked bill, small reddish eye, dark brown back, rufous brown wings, single brownish black tail with white tips, white underparts tinged buff with narrow irregular black bars across the breast and sides, olive buff flanks, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: cinnamon brown crown, rufous brown tail with no white, plain buffy underparts with only a hint of barring on the breast, keep white background, no shadow, no text"
+      },
+      "audio_ebird_code": "rucant1",
+      "gbif_taxon_key": 5959211,
+      "pendientes": [
+        "UNL no tiene ficha: descripción según BOW."
+      ],
+      "id": 160,
+      "num": "#160",
+      "sprites": {},
+      "envergadura_cm": null,
+      "estado_conservacion": "LC"
     }
   ]
 }

@@ -2,20 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (154 cargadas).
+`aviario_data.json` (160 cargadas).
 
 
-**Faltan: 205 especies**
+**Faltan: 199 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 149 | Cachilo Ceja Amarilla | *Ammodramus humeralis* | #926 |
-| 151 | Lechuzón Orejudo | *Asio clamator* | #475 |
-| 152 | Mosqueta Carasucia | *Phylloscartes ventralis* | #721 |
-| 153 | Sirirí Colorado | *Dendrocygna bicolor* | #21 |
-| 154 | Pato Colorado | *Spatula cyanoptera* | #50 |
-| 155 | Choca Corona Rojiza | *Thamnophilus ruficapillus* | #576 |
 | 156 | Anambé Negro | *Pachyramphus polychopterus* | #713 |
 | 157 | Cardenilla | *Paroaria capitata* | #1063 |
 | 158 | Monjita Blanca | *Xolmis irupero* | #829 |
