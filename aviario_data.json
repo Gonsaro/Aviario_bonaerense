@@ -7092,6 +7092,279 @@
       "audio_ebird_code": "chiwig1",
       "gbif_taxon_key": 9508460,
       "pendientes": []
+    },
+    {
+      "nombre_comun": "Chorlito Doble Collar",
+      "nombre_cientifico": "Charadrius falklandicus",
+      "familia": "Charadriidae",
+      "orden": "Charadriiformes",
+      "descripcion": {
+        "D": "Chorlito chico y rechoncho, de patas cortas. Frente blanca; adelante de la corona negro, y la parte de atrás de la corona y del cuello canela rojiza. Pico corto y negro. Ojo pardo. Dorso pardo grisáceo. Abajo blanco, con dos collares negros: uno fino en el cuello y otro ancho sobre el pecho. Patas negras. Fuera de la época de cría, que es como más se lo ve en Buenos Aires, el negro de la cabeza y de los collares se vuelve grisáceo y el canela casi desaparece."
+      },
+      "habitat": [
+        "costa",
+        "humedal",
+        "laguna"
+      ],
+      "residencia": "invernal",
+      "tamanio_categoria": "chico",
+      "largo_cm": "18-19",
+      "provincias": [
+        "Buenos Aires",
+        "Chubut",
+        "Neuquén",
+        "Río Negro",
+        "Santa Cruz",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "Cría en la Patagonia y en Malvinas, en pastizales inundados y orillas de lagunas, y en otoño e invierno muchos viajan hacia el norte para pasar la temporada fría en playas y estuarios de Buenos Aires, Uruguay y el sur de Brasil. Corre rápido por la arena o el barro, se detiene de golpe y picotea pequeños invertebrados.",
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on wet sand, white background, 1024x1024 pixels, bird filling 60% of canvas height, small stocky plover with short legs and a short black bill, white forehead, black band across the front of the crown, cinnamon rufous rear crown and nape, small dark brown eye with a tiny dark pupil, plain greyish brown back and wings, white throat, a thin black collar across the lower neck and a broad black band across the breast, white belly, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "twbplo1",
+      "gbif_taxon_key": 2480287,
+      "pendientes": [
+        "Residencia en Buenos Aires: GBIF casi no trae registros con mes para la provincia; se puso invernal según BOW (migrante austral que inverna en costas del norte)."
+      ],
+      "id": 145,
+      "num": "#145",
+      "sprites": {},
+      "envergadura_cm": null,
+      "estado_conservacion": "LC"
+    },
+    {
+      "nombre_comun": "Cachilo Canela",
+      "nombre_cientifico": "Donacospiza albifrons",
+      "familia": "Thraupidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pajarito de cola larga, de color canela. Cabeza y parte alta del dorso grises con tono ocráceo, con una ceja blanquecina y la zona de la oreja gris. Pico negruzco. Ojo pardo oscuro. Resto del dorso canela con estrías pardas. Alas pardas con las plumas bordeadas de ocráceo. Cola larga, parda con los bordes ocráceos. Partes de abajo canela. Patas rosado oscuro. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "humedal",
+        "pastizal"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "16",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Chaco",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Misiones",
+        "Santa Fe"
+      ],
+      "curiosidades": "Vive en pajonales y juncales de bañados y orillas, donde se mueve inquieto entre los tallos. Anda solo o en pareja y, cuando lo molestan, hace vuelos bajos y cortos para volver a esconderse en la vegetación. Come semillas e insectos.",
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), clinging to a reed stem, white background, 1024x1024 pixels, bird filling 70% of canvas height, small slim finch with a long tail, greyish buff head and upper back, whitish eyebrow, grey ear patch, short conical blackish bill, small dark eye with a tiny dark pupil, cinnamon lower back streaked brown, brown wings with buff feather edges, long single brown tail edged buff, plain cinnamon throat, breast and belly, dark pinkish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "ltrfin1",
+      "gbif_taxon_key": 2491907,
+      "id": 146,
+      "num": "#146",
+      "sprites": {},
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "pendientes": []
+    },
+    {
+      "nombre_comun": "Catita Chirirí",
+      "nombre_cientifico": "Brotogeris chiriri",
+      "familia": "Psittacidae",
+      "orden": "Psittaciformes",
+      "descripcion": {
+        "D": "Loro chico, todo verde, de cola larga y en punta. En el ala plegada se ve una franja amarilla, que en vuelo resalta mucho. Pico claro, rosado o color hueso. Ojo oscuro, con un anillo de piel blanquecina. Patas rosadas. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "urbano",
+        "arbolado",
+        "monte"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "22",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Formosa",
+        "Misiones",
+        "Santa Fe"
+      ],
+      "curiosidades": "Es nativa del noreste argentino, pero en Buenos Aires se estableció a partir de aves escapadas de cautiverio y hoy es común en parques y arboledas de la ciudad. Vuela en grupos muy ruidosos y come frutos, flores, néctar y semillas.",
+      "prompts_pixelart": {
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: small all green parakeet with a long pointed tail, bright green head and body, a yellow stripe on the folded wing coverts, pale horn-colored bill, small dark eye with a whitish eye ring, green tail, pinkish legs, keep white background, no shadow, no text"
+      },
+      "recolor_base": {
+        "D": "Aratinga_nenday_D.png"
+      },
+      "audio_ebird_code": "yecpar",
+      "gbif_taxon_key": 2479583,
+      "pendientes": [
+        "UNL no tiene ficha: descripción según BOW. En Buenos Aires y CABA la población viene de aves escapadas; evaluar si se marca como introducida localmente."
+      ],
+      "id": 147,
+      "num": "#147",
+      "sprites": {},
+      "envergadura_cm": null,
+      "estado_conservacion": "LC"
+    },
+    {
+      "nombre_comun": "Garcita Azulada",
+      "nombre_cientifico": "Butorides striata",
+      "familia": "Ardeidae",
+      "orden": "Pelecaniformes",
+      "descripcion": {
+        "D": "Garza chica y compacta, de cuello corto. Corona y copete negros con brillo verdoso. Pico negruzco verdoso. Ojo amarillo. Garganta ocrácea; frente del cuello y pecho rayados de castaño y ocráceo. Resto del cuello, vientre y costados grises. Dorso gris. Alas grises, con las cubiertas gris verdosas bordeadas de ocráceo y castaño. Cola gris. Patas amarillo verdosas. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "humedal",
+        "ribereño",
+        "laguna"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "35-40",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chaco",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "La Pampa",
+        "La Rioja",
+        "Mendoza",
+        "Misiones",
+        "Neuquén",
+        "Río Negro",
+        "Salta",
+        "San Juan",
+        "San Luis",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tucumán"
+      ],
+      "curiosidades": "Llega a Buenos Aires en primavera y se va en otoño. Pesca quieta en la orilla o sobre una rama baja, encogida, y lanza el cuello de golpe para atrapar peces chicos. Es una de las pocas aves que usa herramientas: a veces tira al agua un insecto o una miga como carnada para atraer a los peces.",
+      "prompts_pixelart": {
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: small compact heron, black crown and short crest with a green gloss, blackish green bill, small yellow eye with a tiny dark pupil, buff throat, front of the neck and breast streaked chestnut and buff, grey sides of the neck, grey back, grey wings with grey-green coverts edged buff, grey tail, grey belly and flanks, yellowish green legs, keep white background, no shadow, no text"
+      },
+      "recolor_base": {
+        "D": "Nycticorax_nycticorax_D.png"
+      },
+      "audio_ebird_code": "strher",
+      "gbif_taxon_key": 2480824,
+      "id": 148,
+      "num": "#148",
+      "sprites": {},
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "pendientes": []
+    },
+    {
+      "nombre_comun": "Playerito Pectoral",
+      "nombre_cientifico": "Calidris melanotos",
+      "familia": "Scolopacidae",
+      "orden": "Charadriiformes",
+      "descripcion": {
+        "D": "Playero chico. Dorso pardo oscuro con las plumas bordeadas de pardo claro. Ceja y garganta blanquecinas. Pico negro con la base amarilla. Ojo pardo oscuro. Cuello y pecho jaspeados y manchados de pardo, con un corte neto contra el vientre blanco, como un pechera. Alas pardas oscuras. Patas amarillentas."
+      },
+      "habitat": [
+        "humedal",
+        "laguna",
+        "pastizal"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "chico",
+      "largo_cm": "19-23",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chaco",
+        "Chubut",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "La Pampa",
+        "Mendoza",
+        "Misiones",
+        "Neuquén",
+        "Río Negro",
+        "Salta",
+        "San Luis",
+        "Santa Cruz",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tierra del Fuego",
+        "Tucumán"
+      ],
+      "curiosidades": "Cría en la tundra del Ártico y viaja hasta Sudamérica para pasar nuestro verano, uno de los viajes más largos de las aves. Prefiere pastizales húmedos y orillas con vegetación más que playas abiertas. Su pecho manchado que termina en un corte neto es la mejor marca para reconocerlo.",
+      "prompts_pixelart": {
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors so the bird has: small sandpiper, dark brown crown and back with pale brown feather edges, whitish eyebrow and throat, black bill with a yellowish base, small dark eye, dark brown wings with pale edges, neck and breast densely streaked brown ending in a sharp clean line against the plain white belly, yellowish legs, keep white background, no shadow, no text"
+      },
+      "recolor_base": {
+        "D": "Calidris_fuscicollis_D.png"
+      },
+      "audio_ebird_code": "pecsan",
+      "gbif_taxon_key": 2481744,
+      "id": 149,
+      "num": "#149",
+      "sprites": {},
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "pendientes": []
+    },
+    {
+      "nombre_comun": "Boyero Negro",
+      "nombre_cientifico": "Cacicus solitarius",
+      "familia": "Icteridae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro mediano, todo negro, de cola larga. Pico largo, grueso y puntiagudo, verde pálido con la base celeste, muy llamativo. Ojo rojo. Patas gris oscuras. Macho y hembra son iguales; el macho es apenas más grande."
+      },
+      "habitat": [
+        "monte",
+        "ribereño",
+        "arbolado"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "24-25",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Chaco",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "Misiones",
+        "Salta",
+        "Santa Fe",
+        "Santiago del Estero"
+      ],
+      "curiosidades": "Recorre los árboles solo o en pareja, revisando cortezas y flores con su pico largo para sacar insectos. Cuelga un nido largo en forma de bolsa tejida, a menudo sobre el agua. Tiene un canto muy variado, con silbidos, maullidos y sonidos metálicos.",
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, slender all black cacique with a long tail, long thick sharply pointed pale greenish ivory bill with a bluish base, small red eye with a tiny dark pupil, glossy black head, back, wings, single long black tail and underparts, dark grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "sobcac1",
+      "gbif_taxon_key": 5229826,
+      "id": 150,
+      "num": "#150",
+      "sprites": {},
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "pendientes": []
     }
   ]
 }

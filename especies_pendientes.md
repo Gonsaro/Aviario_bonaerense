@@ -2,20 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (144 cargadas).
+`aviario_data.json` (150 cargadas).
 
 
-**Faltan: 215 especies**
+**Faltan: 209 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 138 | Chorlito Doble Collar | *Anarhynchus falklandicus* | #219 (como *Charadrius falklandicus*) |
-| 139 | Cachilo Canela | *Donacospiza albifrons* | #1054 |
-| 140 | Catita Chirirí | *Brotogeris chiriri* | #545 |
-| 141 | Garcita Azulada | *Butorides striata* | #390 |
-| 143 | Playerito Pectoral | *Calidris melanotos* | #245 |
-| 144 | Boyero Negro | *Cacicus solitarius* | #938 |
 | 145 | Chorlo Pampa | *Pluvialis dominica* | #208 |
 | 146 | Macá Pico Grueso | *Podilymbus podiceps* | #76 |
 | 147 | Calancate Ala Roja | *Psittacara leucophthalmus* | #568 |
