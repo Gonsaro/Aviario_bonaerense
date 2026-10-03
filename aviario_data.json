@@ -9172,7 +9172,7 @@
       "curiosidades": "Cría en América del Norte y pasa el verano austral en lagunas de la Argentina, a veces en bandadas de miles. Nada mucho y gira sobre sí mismo como un trompo para levantar del fondo los bichitos que come. En los falaropos los roles están invertidos: la hembra es más colorida y el macho incuba y cría a los pichones.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), swimming on calm water, white background, 1024x1024 pixels, bird filling 60% of canvas height, slender phalarope with a long needle-thin black bill, pale grey crown and back, white eyebrow, thin dark line through the eye, small brown eye, dark grey wings with whitish-edged coverts, greyish tail, white throat, breast and belly, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing in very shallow water on a small muddy patch, white background, 1024x1024 pixels, bird filling 65% of canvas height, slender phalarope with a long needle-thin black bill, pale grey crown and back, white eyebrow, thin dark line through the eye, small brown eye, dark grey wings with whitish-edged coverts, greyish tail, white throat, breast and belly, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "wilpha",
       "gbif_taxon_key": 5229389,
@@ -9343,7 +9343,7 @@
       "curiosidades": "Vive en pastizales húmedos, espartillares y juncales bajos, donde se mueve escondido entre las matas buscando insectos y arañas. Su canto es un trino fino que parece de insecto. Con la cola larga y en punta levantada, recuerda a una ratona.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), clinging to a grass stem, white background, 1024x1024 pixels, bird filling 65% of canvas height, small wren-spinetail with a long graduated spiky tail often slightly raised, chestnut forehead and front of the crown, whitish eyebrow, thin bill with a dark upper mandible and a pale grey lower mandible, small yellow eye with a tiny dark pupil, olive brown back boldly streaked black, brown wings with a cinnamon band, chestnut tail with a dark brown central stripe, whitish throat and belly, faint cinnamon wash on the breast and flanks, greyish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), clinging to a vertical grass stem, white background, 1024x1024 pixels, bird filling 70% of canvas height, small slim wren-spinetail, chestnut forehead and front of the crown, whitish eyebrow, thin bill with a dark upper mandible and a pale grey lower mandible, small yellow eye with a tiny dark pupil, olive brown back boldly streaked black, brown wings with a cinnamon band, long thin graduated spinetail tail as long as the body hanging down at a steep angle below the perch, the tail feathers narrow and frayed with bare spiky pointed tips, chestnut with a dark brown central stripe, whitish throat and belly, faint cinnamon wash on the breast and flanks, greyish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "bcwspi1",
       "gbif_taxon_key": 2485840,
@@ -9357,7 +9357,7 @@
       "familia": "Sturnidae",
       "orden": "Passeriformes",
       "descripcion": {
-        "D": "Pájaro mediano, casi todo negro, con una cresta corta y desflecada sobre la frente que tapa la base del pico. Pico color marfil amarillento. Ojo anaranjado pálido. Alas negras con una mancha blanca grande en la base de las plumas largas, que se ve mucho en vuelo y a veces con el ala cerrada. Cola negra con las puntas blancas; plumas de debajo de la cola negras con puntas blancas. Partes inferiores negruzcas teñidas de pardo grisáceo. Patas amarillas. Macho y hembra son iguales; la hembra tiene la cresta algo más chica."
+        "D": "Pájaro mediano, negro con reflejos verdosos en la parte de abajo, y una cresta corta y desflecada sobre la frente que tapa la base del pico. Pico color marfil. Ojo naranja o amarillo. Alas negras con una mancha blanca en la base de las plumas largas, que se nota mucho en vuelo y a veces con el ala cerrada. Cola negra con la punta azulina. Plumas de debajo de la cola negras con puntas blancas. Patas amarillas. Macho y hembra son iguales; la hembra tiene la cresta algo más chica."
       },
       "habitat": [
         "urbano",
@@ -9366,7 +9366,7 @@
       ],
       "residencia": "permanente",
       "tamanio_categoria": "mediano",
-      "largo_cm": "25-27",
+      "largo_cm": "25",
       "envergadura_cm": null,
       "estado_conservacion": "LC",
       "provincias": [
@@ -9378,7 +9378,7 @@
       "curiosidades": "Es originario del sur de China y Vietnam. Llegó a Buenos Aires a fines de la década de 1980, probablemente con aves escapadas o liberadas, y desde entonces se expandió por la ciudad y el conurbano. Camina por el pasto como un tordo, anida en huecos de edificios y árboles, y compite por esos sitios con aves nativas.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on the ground, white background, 1024x1024 pixels, bird filling 65% of canvas height, stocky black myna with a short tufted crest on the forehead covering the base of the bill, ivory yellow bill, small pale orange eye with a tiny dark pupil, black head, back and wings, large white patch at the base of the primaries on the folded wing, black tail with white tips, blackish underparts tinged greyish brown, black undertail scaled white, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on the ground, white background, 1024x1024 pixels, bird filling 65% of canvas height, stocky black myna with a short tufted crest on the forehead covering the base of the bill, ivory bill, small orange eye with a tiny dark pupil, black head, back and wings, white patch at the base of the primaries on the folded wing, black tail with a bluish tip, black underparts with a greenish gloss, black undertail scaled white, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "cremyn",
       "gbif_taxon_key": 2489010,
@@ -9579,7 +9579,7 @@
       "curiosidades": "Es el albatros más común en el mar argentino. Cría en colonias en las islas Malvinas, que tienen la mayor parte de la población mundial, y recorre enormes distancias planeando casi sin aletear. Sigue a los barcos pesqueros, y muchos mueren enganchados en los anzuelos de los palangres.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), swimming on calm water, white background, 1024x1024 pixels, bird filling 60% of canvas height, large stocky albatross, white head and neck, a dark blackish brown eyebrow patch broad in front of the eye and tapering behind it, large hooked yellow bill with an orange tip, small dark eye, dark slate grey back, long dark brown folded wings, grey tail, white breast and belly, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, bird facing LEFT (beak pointing to the LEFT side of canvas), gliding in flight seen from slightly above, very long narrow wings fully spread and stiff, white background, 1024x1024 pixels, bird including its wings filling about 90% of canvas width, large albatross, white head, a dark blackish eyebrow patch around the eye, large hooked yellow bill with a pinkish orange tip, small dark eye, white neck and body, white rump, dark blackish brown upperwings and back forming a continuous dark band across the wings, short dark grey tail, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "bkbalb",
       "gbif_taxon_key": 2481410,
