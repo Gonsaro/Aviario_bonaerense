@@ -7924,13 +7924,16 @@
       "curiosidades": "Vive cerca del agua y camina con soltura sobre los camalotes y la vegetación flotante de esteros y orillas de ríos, buscando semillas e insectos. Anda en parejas o grupitos. Se la distingue del Cardenal Copete Rojo por no tener copete y por el pico amarillento. Por su color es muy buscada como ave de jaula, y por eso aparecen individuos escapados lejos de su zona.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a short twig, white background, 1024x1024 pixels, bird filling 72% of canvas height, small cardinal-like tanager without a crest, bright red head, short conical orange-yellow bill, small reddish eye with a tiny dark pupil, dark grey back with a brownish tinge, blackish wings and tail, blackish throat patch, white sides of the neck, white breast, buff-tinged flanks and belly, pinkish orange legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors and the head shape: remove the tall pointed crest completely so the head is smooth and rounded with a low flat red crown, keep the head and cheeks bright red, make the bill orange yellow, small reddish eye with a tiny dark pupil, replace the red throat and upper breast with a small blackish throat patch, white sides of the neck, make the back dark grey with a brownish tinge, blackish wings and tail, white breast, buff-tinged flanks and belly, pinkish orange legs, keep the branch, keep white background, no shadow, no text"
       },
       "audio_ebird_code": "yebcar",
       "gbif_taxon_key": 2492087,
       "pendientes": [
         "Registros GBIF en Neuquén y Río Negro, fuera de su área natural: sospecha de escapes de jaula."
-      ]
+      ],
+      "recolor_base": {
+        "D": "Paroaria_coronata_D.png"
+      }
     },
     {
       "id": 163,
@@ -8221,7 +8224,7 @@
       "familia": "Anatidae",
       "orden": "Anseriformes",
       "descripcion": {
-        "D": "Ganso grande y pesado, de vientre redondeado y cuello grueso. El tipo más parecido a su antepasado silvestre es gris pardo: cabeza y cuello gris pardos, pico grueso naranja con la punta blanquecina y ojo oscuro. Dorso y alas gris pardos con los bordes de las plumas claros, que forman un barrado prolijo. Pecho gris claro, vientre y plumas de debajo de la cola blancos. Patas rosadas. Hay razas domésticas todas blancas o manchadas de blanco y gris. Macho y hembra son iguales."
+        "D": "Ganso grande y pesado, de vientre redondeado y cuello grueso. El tipo más parecido a su antepasado silvestre es gris pardo: cabeza y cuello gris pardos, pico grueso naranja con la punta blanquecina y ojo oscuro. Dorso y alas gris pardos con los bordes de las plumas claros, que forman un barrado prolijo. Pecho gris claro, vientre y plumas de debajo de la cola blancos. Patas anaranjadas. Hay razas domésticas todas blancas o manchadas de blanco y gris. Macho y hembra son iguales."
       },
       "habitat": [
         "urbano",
@@ -8252,7 +8255,7 @@
       "curiosidades": "Desciende del Ganso Común silvestre de Europa y Asia, domesticado hace miles de años para carne, huevos y plumas. En el campo se lo cría suelto en patios y chacras, y en parques y lagunas urbanas vive en grupos semisilvestres. Es muy territorial: grazna fuerte y estira el cuello ante cualquier intruso, por eso se lo usa como 'perro guardián'.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 70% of canvas height, large heavy-bodied domestic goose with a rounded hanging belly and a thick neck, grey brown head and neck, thick orange bill with a whitish tip, small dark eye with a tiny dark pupil, grey brown back and folded wings with pale feather edges forming neat bars, white rump, grey brown tail tipped white, pale grey breast, white belly and undertail, pink legs and feet, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 70% of canvas height, large heavy-bodied domestic goose with a rounded hanging belly and a thick neck, grey brown head and neck, thick orange bill with a whitish tip, small dark eye with a tiny dark pupil, grey brown back and folded wings with pale feather edges forming neat bars, white rump, grey brown tail tipped white, pale grey breast, white belly and undertail, orange legs and feet, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "gragoo",
       "gbif_taxon_key": 2498036,
@@ -8311,13 +8314,16 @@
       "curiosidades": "Acompaña al ganado: camina entre vacas y caballos, y hasta se les sube al lomo, para atrapar los insectos que espantan al moverse. También sigue a los tractores cuando aran. Es originaria de África y llegó sola a Sudamérica a fines del siglo XIX; desde entonces se expandió por todo el continente. Duerme en grandes dormideros, a menudo en eucaliptos.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 65% of canvas height, small stocky white heron with a short thick neck and a rounded head, short thick yellow bill, small yellow eye with a tiny dark pupil, all white plumage on the head, back, folded wings, tail, breast and belly, yellow legs with blackish toes, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "D": "recolor this exact sprite, keep the same pose, outline, size, head, bill shape and composition unchanged, only change the colors: make the whole bill yellow, make the eye yellow with a tiny dark pupil, make the legs yellow with blackish toes, keep all the plumage white, keep white background, no shadow, no text",
         "R": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the crown pale cinnamon buff, add long pale cinnamon buff plumes on the back and on the lower neck and breast, keep the rest of the plumage white, keep the yellow bill, yellow eye and yellow legs, keep white background, no shadow, no text",
         "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, small stocky white heron, neck tucked back in an S shape, legs trailing behind the tail, short thick yellow bill, small yellow eye, all white open wings, white body and tail, yellow legs with blackish toes, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "categr1",
       "gbif_taxon_key": 2480830,
-      "pendientes": []
+      "pendientes": [],
+      "recolor_base": {
+        "D": "Egretta_thula_D.png"
+      }
     },
     {
       "id": 171,
@@ -8327,8 +8333,8 @@
       "familia": "Accipitridae",
       "orden": "Accipitriformes",
       "descripcion": {
-        "D": "Aguilucho mediano de alas largas y anchas. Cabeza parda con la frente blanca. Pico gris oscuro con la base amarilla. Ojo pardo. Dorso y alas pardo oscuros. Cola pardo grisácea con barras oscuras y la punta blanquecina. Garganta blanca y pecho pardo, que forma un babero. Resto de abajo ocráceo jaspeado de pardo. Patas amarillas. En vuelo, por debajo, las cubiertas de las alas son blancas y las plumas largas grises con las puntas pardo oscuras. Hay un morfo oscuro, casi todo pardo oscuro, con la frente y la garganta blancas.",
-        "J": "El inmaduro es pardo por arriba y ocráceo jaspeado de pardo por abajo, sin el babero pardo del pecho."
+        "D": "Aguilucho mediano de alas largas y anchas, cuyas puntas llegan al final de la cola. Cabeza pardo oscura con la frente blanca. Pico gris oscuro con la cera amarilla. Ojo pardo oscuro. Dorso y alas pardo oscuros. Cola gris clara con muchas barras oscuras finas y la punta blanquecina. Garganta blanca. Pecho pardo, jaspeado de manchas pardo rojizas sobre blanco, que forma un babero. Vientre blanco. Patas amarillas. En vuelo, por debajo, las cubiertas de las alas son blancas y contrastan con las plumas largas grises, de puntas oscuras. Hay un morfo oscuro, todo pardo negruzco, con la frente y la garganta blancas.",
+        "J": "El juvenil no tiene el babero. Cabeza estriada de pardo y blanquecino. Dorso pardo con los bordes de las plumas claros. Abajo blanquecino a ocráceo, con manchas pardas en forma de gota o corazón en el pecho y los costados."
       },
       "habitat": [
         "pastizal",
@@ -8354,9 +8360,9 @@
       "curiosidades": "Cría en América del Norte y cada año viaja más de 10.000 km para pasar el verano en la llanura pampeana, en bandadas que pueden sumar miles. Come sobre todo langostas y otros insectos grandes, que caza en el suelo o en el aire, y sigue a los tractores en los campos. En los años 90 murieron miles envenenados por insecticidas en el campo argentino, lo que llevó a prohibir esos productos.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched upright on a fence post, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium hawk with long broad wings whose tips reach the end of the tail, brown head with a white forehead, dark grey hooked bill with a yellow cere, small dark brown eye with a tiny dark pupil, dark brown back and folded wings, brownish grey tail with narrow dark bars and a whitish tip, white throat, dark brown breast band like a bib, buff belly mottled with brown, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
-        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: remove the dark brown breast band so the whole breast and belly are buff mottled with brown, make the back and wings a plainer medium brown, keep the dark grey bill with yellow cere, the brown eye and the yellow legs, keep white background, no shadow, no text",
-        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, medium hawk with long broad wings, head slightly down, legs tucked, brown head with a white forehead, dark grey hooked bill with a yellow cere, small dark brown eye, white throat, dark brown breast band, buff belly mottled with brown, underwing with white coverts contrasting with grey flight feathers tipped dark brown, brownish grey tail with narrow dark bars and a whitish tip, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched upright on a fence post, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium hawk with long broad wings whose tips reach the end of the tail, dark brown head with a white forehead, dark grey hooked bill with a yellow cere, small dark brown eye with a tiny dark pupil, dark brown back and folded wings, pale grey tail with many narrow dark bars and a whitish tip, white throat, upper breast white heavily blotched with rufous brown spots forming a bib, clean white lower breast and belly, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the head streaked brown and whitish, remove the bib, make the breast and flanks whitish buff with bold dark brown teardrop and heart-shaped spots, make the back and wing feathers brown with pale edges, keep the dark grey bill with yellow cere and the yellow legs, keep white background, no shadow, no text",
+        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, medium hawk with long broad wings, head slightly down, legs tucked, dark brown head with a white forehead, dark grey hooked bill with a yellow cere, small dark brown eye, white throat, upper breast white blotched with rufous brown spots forming a bib, white belly, underwing with white coverts contrasting with grey flight feathers tipped dark brown, pale grey tail with many narrow dark bars and a whitish tip, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "swahaw",
       "gbif_taxon_key": 2480562,
@@ -8464,7 +8470,7 @@
       "familia": "Motacillidae",
       "orden": "Passeriformes",
       "descripcion": {
-        "D": "Pájaro chico y esbelto, que camina por el suelo. Cabeza oscura con ceja blanquecina, una línea fina negra como bigote y una raya negruzca en la mejilla. Pico fino, oscuro, con la base de abajo más clara. Ojo oscuro. Dorso oscuro con estrías ocre canela y dos líneas blancas a los costados del lomo. Alas oscuras con dos franjas blanquecinas. Cola oscura con las plumas de los costados blancas. Abajo blanquecino a ocráceo, con gotas grandes oscuras en el pecho y estrías negras en los costados. Patas pardo rosadas. Macho y hembra son iguales."
+        "D": "Pájaro chico y esbelto, que camina por el suelo. Corona estriada de pardo oscuro y ante; cara clara con ceja blanquecina y una raya oscura fina en la mejilla. Pico pardo, con la base de abajo pálida y la punta oscura. Ojo pardo. Dorso pardo oscuro jaspeado de ocre, con dos líneas blancas a los costados del lomo. Alas pardas con las plumas ribeteadas de ocráceo. Cola parda con las plumas de los costados blanquecinas. Garganta y vientre blanquecinos; pecho con un leve tinte ocráceo y manchas pardo oscuras en forma de gota, que siguen como estrías por los costados. Patas rosadas, con la uña de atrás muy larga. Macho y hembra son iguales."
       },
       "habitat": [
         "pastizal",
@@ -8472,7 +8478,7 @@
       ],
       "residencia": "estival",
       "tamanio_categoria": "chico",
-      "largo_cm": "14-16",
+      "largo_cm": "15",
       "envergadura_cm": null,
       "estado_conservacion": "LC",
       "provincias": [
@@ -8498,13 +8504,11 @@
       "curiosidades": "Camina y corre entre los pastos cortos buscando insectos, y al asustarse vuela mostrando los costados blancos de la cola. En primavera el macho sube en vuelo cantando y baja planeando con las alas abiertas. Anida en el suelo, escondido entre las matas de pasto.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on a small patch of short grass, white background, 1024x1024 pixels, bird filling 72% of canvas height, small slim pipit, dusky head with a whitish eyebrow, a thin blackish moustache line and a blackish cheek streak, thin pointed dark bill with a paler base on the lower mandible, small dark eye with a tiny dark pupil, dusky back heavily streaked cinnamon buff with two white stripes along the sides of the back, dusky wings with two buffy white wing bars, dark tail with white outer feathers, buffy white throat, whitish breast with large bold dark spots, black streaks on the flanks, whitish belly, pinkish brown legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on a small patch of short grass, white background, 1024x1024 pixels, bird filling 72% of canvas height, small slim pipit, crown streaked dark brown and buff, pale buff face with a whitish eyebrow and a thin dark cheek line, thin pointed brown bill with a pale pinkish base on the lower mandible and a dark tip, small dark eye, back blackish brown streaked buff with two clear white stripes along the sides of the back, dark brown wing feathers with broad buff edges, brown tail with whitish outer feathers, whitish throat, breast and flanks whitish with a faint ochre wash and bold dark brown spots and streaks, whitish belly, pinkish legs with a very long straight hind claw on each foot, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "corpip1",
       "gbif_taxon_key": 9286490,
-      "pendientes": [
-        "UNL no tiene la ficha publicada: descripción según Wikipedia (basada en Birds of the World)."
-      ]
+      "pendientes": []
     },
     {
       "id": 175,
