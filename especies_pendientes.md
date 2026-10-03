@@ -2,22 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (200 cargadas).
+`aviario_data.json` (208 cargadas).
 
 
-**Faltan: 159 especies**
+**Faltan: 151 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 199 | Gaviotín Golondrina | *Sterna hirundo* | #294 |
-| 200 | Urraca Criolla | *Cyanocorax chrysops* | #856 |
-| 201 | Caburé Chico | *Glaucidium brasilianum* | #471 |
-| 202 | Monjita Coronada | *Neoxolmis coronatus* | #831 |
-| 203 | Paloma Antártica | *Chionis albus* | #226 |
-| 204 | Cachirla Pálida | *Anthus hellmayri* | #908 |
-| 205 | Pardela Cabeza Negra | *Ardenna gravis* | #359 |
-| 206 | Macá Plateado | *Podiceps occipitalis* | #78 |
 | 207 | Curutié Colorado | *Certhiaxis cinnamomeus* | #688 |
 | 208 | Golondrina Barranquera | *Pygochelidon cyanoleuca* | #857 |
 | 209 | Playero Rojizo | *Calidris canutus* | #234 |
