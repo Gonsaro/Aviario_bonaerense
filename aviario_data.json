@@ -10687,7 +10687,7 @@
       "familia": "Icteridae",
       "orden": "Passeriformes",
       "descripcion": {
-        "M": "Pájaro mediano. El macho tiene la cabeza casi toda negra, con una ceja larga roja entre el pico y el ojo que sigue blanca detrás del ojo, y un bigote corto blanco. Pico gris plateado con la punta oscura. Ojo oscuro. Dorso y alas pardo oscuros con estrías pardas; algunas cubiertas del ala rosadas. Cola negruzca con barras finas oliva. Barbilla, garganta y pecho rosado rojizos, con los costados negros. Vientre, costados y debajo de la cola negros. Patas pardo oscuras.",
+        "M": "Pájaro mediano y rechoncho, de cola más corta que la Loica. El macho tiene la cabeza casi toda negra, con una ceja larga roja entre el pico y el ojo que sigue blanca detrás del ojo, y un bigote corto blanco. Pico gris plateado con la punta oscura. Ojo oscuro. Dorso y alas pardo oscuros con estrías pardas; algunas cubiertas del ala rosadas. Cola negruzca con barras finas oliva. Barbilla, garganta y pecho rosado rojizos, con los costados negros. Vientre, costados y debajo de la cola negros. Patas pardo oscuras.",
         "F": "La hembra tiene la ceja toda blanca, es más pálida y parda por arriba, tiene la garganta blanca, el centro del vientre rosa pálido y el resto de abajo muy estriado."
       },
       "habitat": [
@@ -10704,10 +10704,7 @@
       "curiosidades": "Es una de las aves más amenazadas de los pastizales: necesita pastizales naturales altos y no cría en campos agrícolas ni en pasturas implantadas. Antes ocupaba gran parte de la pampa; hoy quedan poblaciones chicas y aisladas, sobre todo en el sudoeste de Buenos Aires y en La Pampa. Se distingue de la Loica por ser más chica y tener las plumas de debajo del ala negras, no blancas.",
       "sprites": {},
       "prompts_pixelart": {
-        "M": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the head mostly black, with a long eyebrow that is red from the bill to the eye and white behind the eye, add a short white moustache mark, make the bill silvery grey with a dark tip, make the back and wings dark dusky brown with brownish streaks and a small rosy red patch on the wing coverts, make the tail blackish with fine olive bars, make the chin, throat and breast rosy red with black sides, make the belly, flanks and undertail black, make the legs dark brown, keep white background, no shadow, no text"
-      },
-      "recolor_base": {
-        "M": "Leistes_loyca_M.png"
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a tall grass stem, white background, 1024x1024 pixels, bird filling 65% of canvas height, stocky chunky meadowlark with a fairly short tail, black head and sides of the neck, long eyebrow that is red in front of the eye and white behind the eye, short white moustache stripe and white lower eyelid, pointed silvery grey bill with a dark ridge and tip, small dark eye, dark dusky brown back and wings with brownish streaks, a small rosy red patch at the bend of the wing, blackish tail with fine olive bars, rosy red chin, throat, breast and center of the belly, black sides of the breast, flanks and undertail, dark brown legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "pammea1",
       "gbif_taxon_key": 9686089,
@@ -10935,8 +10932,8 @@
       ],
       "residencia": "permanente",
       "tamanio_categoria": "grande",
-      "largo_cm": "86-99",
-      "envergadura_cm": null,
+      "largo_cm": "85-100",
+      "envergadura_cm": "150-210",
       "estado_conservacion": "LC",
       "provincias": [
         "Buenos Aires",
