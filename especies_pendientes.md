@@ -2,22 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (239 cargadas).
+`aviario_data.json` (247 cargadas).
 
 
-**Faltan: 120 especies**
+**Faltan: 112 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 239 | Dormilona Cara Negra | *Muscisaxicola maclovianus* | #822 |
-| 240 | Pepitero de Collar | *Saltator aurantiirostris* | #1035 |
-| 241 | Aguatero | *Nycticryphes semicollaris* | #267 |
-| 242 | Espartillero Pampeano | *Asthenes hudsoni* | #671 |
-| 243 | Chorlito Palmado | *Charadrius semipalmatus* | #215 |
-| 244 | Piojito Silbón | *Camptostoma obsoletum* | #738 |
-| 245 | Aguilucho Ñanco | *Geranoaetus polyosoma* | #446 |
-| 246 | Bandurria Austral | *Theristicus melanopis* | #405 |
 | 247 | Colorada | *Rhynchotus rufescens* | #8 |
 | 248 | Halcón Peregrino | *Falco peregrinus* | #540 |
 | 249 | Cachirla Uña Corta | *Anthus furcatus* | #904 |
