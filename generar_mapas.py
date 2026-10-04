@@ -108,6 +108,7 @@ def load_geojson():
 GBIF_ALIAS = {
     'Daptrius chimango': ('verbatimScientificName', 'Daptrius chimango'),  # eBird lo publica así
     'Aramides cajaneus': ('scientificName', 'Aramides cajanea'),
+    'Charadrius collaris': ('verbatimScientificName', 'Anarhynchus collaris'),  # eBird usa el género nuevo
 }
 
 

@@ -2,22 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (208 cargadas).
+`aviario_data.json` (216 cargadas).
 
 
-**Faltan: 151 especies**
+**Faltan: 143 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 207 | Curutié Colorado | *Certhiaxis cinnamomeus* | #688 |
-| 208 | Golondrina Barranquera | *Pygochelidon cyanoleuca* | #857 |
-| 209 | Playero Rojizo | *Calidris canutus* | #234 |
-| 210 | Chorlito Pecho Canela | *Zonibyx modestus* | #214 |
-| 211 | Becasina de Bañado | *Gallinago paraguaiae* | #250 |
-| 212 | Gavilán Ceniciento | *Circus cinereus* | #430 |
-| 213 | Chorlito de Collar | *Anarhynchus collaris* | #217 (como *Charadrius collaris*) |
-| 214 | Playerito Blanco | *Calidris alba* | #239 |
 | 215 | Jote Cabeza Negra | *Coragyps atratus* | #409 |
 | 216 | Pato Real | *Cairina moschata* | #33 |
 | 217 | Loica Pampeana | *Leistes defilippii* | #935 |

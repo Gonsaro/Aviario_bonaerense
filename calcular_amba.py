@@ -24,6 +24,7 @@ BENTEVEO = 'taxonKey=2482755'
 GBIF_ALIAS = {
     'Daptrius chimango': 'verbatimScientificName=Daptrius%20chimango',  # eBird lo publica así y GBIF no lo resuelve
     'Aramides cajaneus': 'scientificName=Aramides%20cajanea',
+    'Charadrius collaris': 'verbatimScientificName=Anarhynchus%20collaris',  # eBird usa el género nuevo
 }
 
 

@@ -10189,6 +10189,396 @@
       "gbif_taxon_key": 2482063,
       "pendientes": [],
       "amba_indice": 0.06
+    },
+    {
+      "id": 209,
+      "num": "#209",
+      "nombre_comun": "Curutié Colorado",
+      "nombre_cientifico": "Certhiaxis cinnamomeus",
+      "familia": "Furnariidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro chico de cola larga y en punta. Corona y dorso pardos con tono canela. Ceja blanquecina; costados de la cabeza y zona entre el pico y el ojo grisáceos. Pico negro con la base de abajo más clara. Ojo rojizo. Alas y cola castañas. Parte alta de la garganta amarillenta; resto de abajo blanquecino. Patas grises. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "humedal",
+        "ribereño"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "14",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Chaco",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "Misiones",
+        "Salta",
+        "Santa Fe",
+        "Santiago del Estero"
+      ],
+      "curiosidades": "Recorre juncales y camalotes, caminando sobre la vegetación flotante, y se mueve desde el suelo hasta unos 3 o 4 metros de altura en los árboles. La pareja canta a dúo un trino fuerte y seco. Arma un nido grande y cerrado de palitos con una entrada en forma de tubo.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the crown and back cinnamon brown, add a whitish eyebrow, make the face and lores greyish, keep the dark bill with a paler base, make the eye reddish, make the wings and the long pointed tail rich chestnut, make the upper throat pale yellow and the rest of the underparts whitish, make the legs grey, keep white background, no shadow, no text"
+      },
+      "recolor_base": {
+        "D": "Limnoctites_sulphuriferus_D.png"
+      },
+      "audio_ebird_code": "yecspi2",
+      "gbif_taxon_key": 2486060,
+      "pendientes": [],
+      "amba_indice": 7.72
+    },
+    {
+      "id": 210,
+      "num": "#210",
+      "nombre_comun": "Golondrina Barranquera",
+      "nombre_cientifico": "Pygochelidon cyanoleuca",
+      "familia": "Hirundinidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Golondrina chica. Cabeza y dorso azul oscuro brillante. Pico negro. Ojo oscuro. Alas y cola negras; la cola apenas ahorquillada. Partes inferiores blancas, con las plumas de debajo de la cola negro azuladas. Patas negras. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "aéreo",
+        "urbano",
+        "ribereño",
+        "humedal"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "11,5",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chubut",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Jujuy",
+        "La Pampa",
+        "La Rioja",
+        "Mendoza",
+        "Misiones",
+        "Neuquén",
+        "Río Negro",
+        "Salta",
+        "San Juan",
+        "San Luis",
+        "Santa Cruz",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tierra del Fuego",
+        "Tucumán"
+      ],
+      "curiosidades": "Su nombre viene de que anida en huecos de barrancas, aunque también usa grietas de edificios, puentes y caños. Anda sola, en pareja o en grupos, y se posa en cables y alambrados. Se distingue de la Golondrina Ceja Blanca por no tener ceja ni rabadilla blanca, y por las plumas negras de debajo de la cola.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the crown, face, nape and back glossy dark blue, remove the white line over the eye and the white rump so the upperparts are uniformly dark blue, make the wings and tail black, keep the throat, breast and belly white, make the undertail feathers black-blue, keep the small black bill, dark eye and dark legs, keep white background, no shadow, no text"
+      },
+      "recolor_base": {
+        "D": "Tachycineta_leucorrhoa_D.png"
+      },
+      "audio_ebird_code": "bawswa1",
+      "gbif_taxon_key": 2489207,
+      "pendientes": [],
+      "amba_indice": 20.59
+    },
+    {
+      "id": 211,
+      "num": "#211",
+      "nombre_comun": "Playero Rojizo",
+      "nombre_cientifico": "Calidris canutus",
+      "familia": "Scolopacidae",
+      "orden": "Charadriiformes",
+      "descripcion": {
+        "D": "Ave playera mediana y robusta, de pico negro recto. Fuera de la época de cría tiene ceja blanca; dorso gris pardusco claro estriado de negruzco. Ojo pardo. Alas pardas con las plumas bordeadas de blanco, que en vuelo forman una banda blanca. Rabadilla blanca grisácea rayada de pardo. Cola gris pardusca. Partes inferiores blancas, con estrías negruzcas en la garganta, el cuello, el pecho y los costados. Patas verdosas. Macho y hembra son iguales.",
+        "R": "En plumaje de cría tiene la cabeza, la garganta, el cuello, el pecho y la parte alta del vientre canelas, y el dorso pardo grisáceo, canela y negro."
+      },
+      "habitat": [
+        "costa"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "25-26",
+      "envergadura_cm": null,
+      "estado_conservacion": "NT",
+      "provincias": [
+        "Buenos Aires",
+        "Chubut",
+        "Río Negro",
+        "Santa Cruz",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "Hace una de las migraciones más largas de las aves: cría en el Ártico y pasa el verano austral en la costa patagónica y fueguina, a unos 15.000 km. Se detiene en pocos sitios clave, como la bahía de San Antonio en Río Negro, para engordar antes de seguir viaje. Su población cayó mucho en las últimas décadas.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the bird look slightly stockier, make the upperparts pale brownish grey finely streaked blackish with whitish feather edges on the wings, add a white eyebrow, keep the straight black bill, brown eye, make the throat, neck, breast and flanks white with fine blackish streaks, white belly, make the legs greenish, keep white background, no shadow, no text"
+      },
+      "recolor_base": {
+        "D": "Calidris_fuscicollis_D.png"
+      },
+      "audio_ebird_code": "redkno",
+      "gbif_taxon_key": 2481765,
+      "pendientes": [],
+      "amba_indice": 0.05
+    },
+    {
+      "id": 212,
+      "num": "#212",
+      "nombre_comun": "Chorlito Pecho Canela",
+      "nombre_cientifico": "Zonibyx modestus",
+      "familia": "Charadriidae",
+      "orden": "Charadriiformes",
+      "descripcion": {
+        "D": "Chorlito mediano. Fuera de la época de cría tiene el cuello y el pecho pardo ceniciento, con la banda negra del pecho poco notable. Frente y ceja blancas; cara grisácea. Pico negro. Ojo pardo. Corona, nuca, dorso y rabadilla pardos. Alas pardas. Cola parda con las plumas de los costados blancas. Vientre blanco. Patas gris verdosas. Macho y hembra son iguales.",
+        "R": "En plumaje de cría tiene el frente del cuello y el pecho canela rojizo, separados del blanco del vientre por una banda negra."
+      },
+      "habitat": [
+        "costa",
+        "pastizal",
+        "laguna"
+      ],
+      "residencia": "invernal",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "19-22",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Chubut",
+        "Córdoba",
+        "Entre Ríos",
+        "La Pampa",
+        "Mendoza",
+        "Neuquén",
+        "Río Negro",
+        "Santa Cruz",
+        "Santa Fe",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "Cría en la Patagonia, Tierra del Fuego y Malvinas, y en otoño viaja al norte, por eso en Buenos Aires se ve de mayo a septiembre. Es bastante manso y confiado. En invierno anda en bandadas por playas, costas de lagunas y pastizales cortos.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: remove both breast bands and instead make the neck and breast plain ashy grey brown with only a faint dark lower edge, make the forehead and a broad eyebrow white, make the face greyish, make the crown, nape and back plain brown, keep the black bill and brown eye, white belly, make the legs greenish grey, keep white background, no shadow, no text"
+      },
+      "recolor_base": {
+        "D": "Charadrius_falklandicus_D.png"
+      },
+      "audio_ebird_code": "rucdot1",
+      "gbif_taxon_key": 2480319,
+      "pendientes": [],
+      "amba_indice": 0.14
+    },
+    {
+      "id": 213,
+      "num": "#213",
+      "nombre_comun": "Becasina de Bañado",
+      "nombre_cientifico": "Gallinago paraguaiae",
+      "familia": "Scolopacidae",
+      "orden": "Charadriiformes",
+      "descripcion": {
+        "D": "Ave playera mediana, de pico muy largo y recto, negro con la base amarilla. Cabeza pardo oscura con una franja central ocrácea; ceja y garganta blanquecinas. Ojo pardo oscuro. Dorso pardo oscuro; plumas del hombro negras con los bordes ocráceos, que forman líneas claras. Cuello y pecho ocráceos jaspeados de pardo. Vientre blanco; costados blanquecinos con barras pardas y canela. Alas pardo oscuras. Cola corta con una banda canela. Patas gris verdosas. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "humedal",
+        "pastizal"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "25-30",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Chaco",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "Mendoza",
+        "Misiones",
+        "Neuquén",
+        "Río Negro",
+        "Salta",
+        "San Luis",
+        "Santa Fe",
+        "Tucumán"
+      ],
+      "curiosidades": "Su plumaje la camufla tan bien entre los pastos del bañado que se la descubre recién cuando sale volando en zigzag. Busca lombrices y larvas hundiendo el pico largo en el barro, que puede abrir solo en la punta. En el cortejo vuela alto y baja en picada haciendo vibrar las plumas de la cola, con un sonido como de balido.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing in short wet grass, white background, 1024x1024 pixels, bird filling 60% of canvas height, stocky snipe with a very long straight bill, dark brown crown with a central ochre stripe, whitish eyebrow, bill blackish with a yellowish base, small dark brown eye, dark brown back with black shoulder feathers boldly edged ochre forming pale stripes, dark brown wings, short tail with a cinnamon band, whitish throat, ochre neck and breast mottled brown, white belly, whitish flanks barred brown and cinnamon, short greenish grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "soasni1",
+      "gbif_taxon_key": 2481829,
+      "pendientes": [],
+      "amba_indice": 0.92
+    },
+    {
+      "id": 214,
+      "num": "#214",
+      "nombre_comun": "Gavilán Ceniciento",
+      "nombre_cientifico": "Circus cinereus",
+      "familia": "Accipitridae",
+      "orden": "Accipitriformes",
+      "descripcion": {
+        "M": "Gavilán mediano, de alas y cola largas. El macho tiene la cabeza y el dorso grises, y un collar gris ceniciento en el cuello y la parte alta del pecho. Pico negro con la cera amarilla. Ojo amarillo. Rabadilla blanca. Alas grises; plumas largas gris oscuras con una mancha blanca. Cola gris con barras pardas y la punta blanca. Resto de abajo, incluidos los muslos, barrado de canela y blanco. Patas amarillas.",
+        "F": "La hembra es más grande y parda: cabeza y dorso pardo oscuros, rabadilla blanca, pecho pardo manchado de blanco y el resto de abajo barrado de pardo y blanco. El inmaduro es parecido a la hembra, pero rayado a lo largo por abajo."
+      },
+      "habitat": [
+        "pastizal",
+        "humedal",
+        "agrícola"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "40-50",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "Catamarca",
+        "Chubut",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Jujuy",
+        "La Pampa",
+        "La Rioja",
+        "Mendoza",
+        "Neuquén",
+        "Río Negro",
+        "Salta",
+        "San Juan",
+        "San Luis",
+        "Santa Cruz",
+        "Santa Fe",
+        "Tierra del Fuego",
+        "Tucumán"
+      ],
+      "curiosidades": "Recorre pastizales y bañados volando bajo, con las alas levantadas en V y un vuelo errático de planeos, para sorprender a sus presas. Se posa en el suelo o en postes. Anda solo o en pareja, pero a la noche varios se juntan a dormir en el suelo, entre los pastos.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "M": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the head, back and upper wings grey, make the neck and upper breast plain ashy grey forming a collar, make the rest of the underparts and thighs finely barred cinnamon and white, keep the white rump, make the long tail grey with brown bars and a white tip, make the long primaries dark grey, keep the black hooked bill with yellow cere, yellow eye and yellow legs, keep white background, no shadow, no text"
+      },
+      "recolor_base": {
+        "M": "Circus_buffoni_M.png"
+      },
+      "audio_ebird_code": "cinhar1",
+      "gbif_taxon_key": 5229170,
+      "pendientes": [],
+      "amba_indice": 0.08
+    },
+    {
+      "id": 215,
+      "num": "#215",
+      "nombre_comun": "Chorlito de Collar",
+      "nombre_cientifico": "Charadrius collaris",
+      "familia": "Charadriidae",
+      "orden": "Charadriiformes",
+      "descripcion": {
+        "D": "Chorlito chico. Frente, garganta, una manchita detrás del ojo y partes inferiores blancas. Parte de adelante de la corona, línea entre el pico y el ojo y una banda en la parte alta del pecho negras. Cara, nuca y parte de atrás del cuello canela rojizo. Pico negro. Ojo pardo oscuro. Dorso pardo con los bordes de las plumas canela. Alas pardas. Cola parda con las plumas de los costados blanquecinas. Patas amarillo naranjas. Macho y hembra son iguales.",
+        "J": "El juvenil es parecido al adulto, pero con la corona y el collar del pecho pardos."
+      },
+      "habitat": [
+        "costa",
+        "laguna",
+        "ribereño"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "14-16",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chaco",
+        "Chubut",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "La Pampa",
+        "Mendoza",
+        "Neuquén",
+        "Río Negro",
+        "Salta",
+        "San Luis",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tucumán"
+      ],
+      "curiosidades": "Es el chorlito más chico de la Argentina. Corre rápido por playas de arena y barro de ríos y lagunas, se frena de golpe y picotea, siempre alternando carreras y paradas. Anda solo, en pareja o en grupos chicos, y pone los huevos en un hueco simple en la arena.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the bird slightly smaller-looking and slimmer, make the forehead white, add a black bar across the front of the crown and a black line from the bill to the eye, make the face, nape and back of the neck rufous cinnamon, make the throat white, keep only one narrow black band across the upper breast and remove any second band, make the back brown with cinnamon feather edges, keep the thin black bill and dark eye, white belly, make the legs yellow orange, keep white background, no shadow, no text"
+      },
+      "recolor_base": {
+        "D": "Charadrius_falklandicus_D.png"
+      },
+      "audio_ebird_code": "colplo1",
+      "gbif_taxon_key": 2480296,
+      "pendientes": [],
+      "amba_indice": 0.48
+    },
+    {
+      "id": 216,
+      "num": "#216",
+      "nombre_comun": "Playerito Blanco",
+      "nombre_cientifico": "Calidris alba",
+      "familia": "Scolopacidae",
+      "orden": "Charadriiformes",
+      "descripcion": {
+        "D": "Ave playera chica, la más pálida de los playeros. Fuera de la época de cría es gris claro por arriba, con la frente, la ceja y las partes inferiores blancas. Pico negro, recto y corto. Ojo pardo. Hombro del ala negro; alas pardo oscuras con una banda blanca que se ve en vuelo. Cola blanca con las plumas del centro pardo oscuras. Patas negras. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "costa"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "18-20",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "Chubut",
+        "Córdoba",
+        "Jujuy",
+        "Mendoza",
+        "Río Negro",
+        "Santa Cruz",
+        "Santa Fe",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "Cría en el Ártico y pasa el verano austral en las playas argentinas. Es famoso por correr detrás de cada ola que se retira para picotear los bichitos de la arena, y escaparse corriendo de la siguiente, como un juguete a cuerda. Anda en grupos chicos y suele descansar parado en una pata.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the crown, back and wing coverts very pale grey with fine white feather edges, make a black patch at the bend of the wing, make the forehead, face, eyebrow, throat, breast and belly pure white, keep the short straight black bill, dark eye, make the legs black, keep white background, no shadow, no text"
+      },
+      "recolor_base": {
+        "D": "Calidris_fuscicollis_D.png"
+      },
+      "audio_ebird_code": "sander",
+      "gbif_taxon_key": 2481748,
+      "pendientes": [],
+      "amba_indice": 0.02
     }
   ]
 }
