@@ -12352,7 +12352,7 @@
       "familia": "Thraupidae",
       "orden": "Passeriformes",
       "descripcion": {
-        "D": "Pájaro chico, de pico corto y ancho y alas largas. Corona y nuca celestes; un antifaz negro ancho cubre la frente, la zona del ojo y las mejillas. Pico negruzco con la mandíbula gris. Ojo rojo oscuro. Dorso azul apagado y rabadilla celeste turquesa. Alas y cola azul oscuro. Garganta, pecho y vientre canela. La hembra es más apagada, con la corona menos celeste y el dorso parduzco."
+        "D": "Pájaro chico, de pico corto y ancho y alas largas. Corona y nuca celestes; un antifaz negro ancho cubre la frente, la zona del ojo y las mejillas. Pico negruzco con la mandíbula gris. Ojo pardo rojizo a rojo. Dorso azul apagado y rabadilla celeste turquesa. Alas y cola azul oscuro. Garganta, pecho y vientre canela. Patas gris pizarra. La hembra es más apagada, con la corona menos celeste y el dorso parduzco."
       },
       "habitat": [
         "arbolado",
@@ -12362,7 +12362,7 @@
       ],
       "residencia": "invernal",
       "tamanio_categoria": "chico",
-      "largo_cm": "14",
+      "largo_cm": "13-15",
       "envergadura_cm": null,
       "estado_conservacion": "LC",
       "provincias": [
@@ -12379,13 +12379,12 @@
       "curiosidades": "En Buenos Aires aparece sobre todo en otoño e invierno, cuando llega desde el norte del país; se la ve en parques, arboledas y jardines. Come frutos y también insectos, que a veces caza al vuelo gracias a su pico ancho, parecido al de una golondrina. Suele andar sola o en pareja.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a short twig, white background, 1024x1024 pixels, bird filling 72% of canvas height, small stocky tanager with a short wide bill and long wings, sky blue crown and nape, broad black mask covering the forehead, eye area and cheeks, short dark bill with a grey lower mandible, small dark red eye with a tiny dark pupil, dull blue back, bright turquoise blue rump, dark blue wings and tail, cinnamon buff throat, breast and belly, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a short twig, white background, 1024x1024 pixels, bird filling 72% of canvas height, small stocky tanager with a short wide bill and long wings, sky blue crown and nape, broad black mask covering the forehead, eye area and cheeks, short dark bill with a grey lower mandible, small dark red eye with a tiny dark pupil, dull blue back, bright turquoise blue rump, dark blue wings and tail, cinnamon buff throat, breast and belly, dark slate grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "fabtan1",
       "gbif_taxon_key": 2488795,
       "pendientes": [
-        "La UNL no tiene ficha de la especie: rasgos tomados de Wikipedia (en/es).",
-        "Color de patas: no se pudo confirmar; se omitió del prompt."
+        "La UNL no tiene ficha de la especie: rasgos verificados con Birds of the World."
       ],
       "amba_indice": 0.81
     },
@@ -12646,7 +12645,7 @@
       ],
       "residencia": "permanente",
       "tamanio_categoria": "mediano",
-      "largo_cm": "34-38",
+      "largo_cm": "31-38",
       "envergadura_cm": null,
       "estado_conservacion": "LC",
       "provincias": [
@@ -12665,8 +12664,8 @@
       "audio_ebird_code": "mitpar",
       "gbif_taxon_key": 7731984,
       "pendientes": [
-        "La UNL no tiene ficha de la especie: rasgos tomados de Wikipedia (en/es).",
-        "Color de iris y patas: no se pudieron confirmar; se omitieron del prompt.",
+        "La UNL no tiene ficha de la especie: rasgos verificados con Birds of the World.",
+        "Color de iris y patas: BOW no los da; se omitieron del prompt.",
         "Registros en Buenos Aires y CABA: aves escapadas o asilvestradas (su área natural es el noroeste)."
       ],
       "amba_indice": 0.61
@@ -12887,7 +12886,7 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), walking on the ground, white background, 1024x1024 pixels, bird filling 62% of canvas height, small plump crake with a short tail, rufous forehead, forecrown, sides of the face and ear area, rest of the crown olive brown, short greenish brown bill, small red eye with a tiny dark pupil, rufous chestnut hind neck and upper back, dark olive brown lower back and tail, brown wings with olive brown and rufous coverts, white throat, foreneck, breast and belly, rufous sides of the neck and breast, flanks boldly barred black and white, white undertail, reddish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "audio_ebird_code": null,
+      "audio_ebird_code": "rawcra1",
       "gbif_taxon_key": 4852342,
       "pendientes": [],
       "amba_indice": 1.29
@@ -12971,8 +12970,8 @@
       "audio_ebird_code": "eurgol",
       "gbif_taxon_key": 2494686,
       "pendientes": [
-        "La UNL no tiene ficha de la especie: rasgos tomados de Wikipedia (en/es).",
-        "Color de patas: no se pudo confirmar; se omitió del prompt."
+        "La UNL no tiene ficha de la especie: rasgos verificados con Birds of the World.",
+        "Color de patas: no confirmado; se omitió del prompt."
       ],
       "amba_indice": 0.04
     },
@@ -12984,8 +12983,8 @@
       "familia": "Thraupidae",
       "orden": "Passeriformes",
       "descripcion": {
-        "M": "Pájaro chico, parecido a un corbatita. El macho es gris plomizo, con la frente y el espacio entre el pico y el ojo negros. Pico amarillo. Vientre blanco y debajo de la cola rufo. En vuelo muestra una franja blanca en el ala y otra en la cola.",
-        "F": "La hembra tiene el dorso pardo y las partes inferiores ocráceas, todo estriado; conserva el pico amarillento y lo rufo debajo de la cola."
+        "M": "Pájaro chico, parecido a un corbatita. El macho es gris plomizo, con la frente y el espacio entre el pico y el ojo negros. Pico amarillento. Ojo oscuro. Dorso gris algo pardusco. Alas negruzcas con una mancha blanca en la base de las plumas largas, que en vuelo es una franja. Cola negruzca con una banda blanca en el centro. Partes inferiores gris claro, con el centro del vientre blanquecino y debajo de la cola castaño intenso. Patas pardo grisáceas.",
+        "F": "La hembra tiene el dorso pardo y las partes inferiores ocráceas, todo estriado, y la misma banda blanca en la cola; conserva el pico amarillento y lo rufo debajo de la cola."
       },
       "habitat": [
         "pastizal",
@@ -12993,7 +12992,7 @@
       ],
       "residencia": "estival",
       "tamanio_categoria": "chico",
-      "largo_cm": "13",
+      "largo_cm": "12-14,5",
       "envergadura_cm": null,
       "estado_conservacion": "LC",
       "provincias": [
@@ -13015,7 +13014,7 @@
       "curiosidades": "Es un semillero de las sierras y la precordillera del oeste, que en Buenos Aires aparece en las sierras del sur. Su nombre viene del pico amarillo, que contrasta con el plumaje gris. Anda en grupos chicos comiendo semillas de pastos, a veces junto a otros semilleros.",
       "sprites": {},
       "prompts_pixelart": {
-        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a short twig, white background, 1024x1024 pixels, bird filling 72% of canvas height, small finch-like seedeater with a short thick conical bill, plain leaden grey plumage, black forehead and lores, bright yellow bill, small dark eye with a tiny dark pupil, grey back, dark grey wings with a small white patch, dark grey tail, grey breast, white belly, rufous undertail coverts, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a short twig, white background, 1024x1024 pixels, bird filling 72% of canvas height, small finch-like seedeater with a short thick conical bill, plain leaden grey plumage, blackish grey around the base of the bill, yellowish bill, small dark brown eye with a tiny dark pupil, grey back tinged brownish, blackish wings with grey edged coverts and a white patch at the base of the primaries, blackish tail with a bold white band across the middle, pale grey breast, whitish center of the belly, deep chestnut undertail coverts, greyish brown legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
         "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the upperparts brown with dark streaks, make the underparts ochre buff with fine dark streaks, remove the black forehead and lores, make the bill pale yellowish, keep the rufous undertail coverts, keep white background, no shadow, no text"
       },
       "recolor_base": {
@@ -13024,8 +13023,7 @@
       "audio_ebird_code": "batsee1",
       "gbif_taxon_key": 2491185,
       "pendientes": [
-        "La UNL no tiene ficha de la especie: rasgos tomados de avespampa.",
-        "Color de ojo y patas: no se pudieron confirmar; se omitieron del prompt."
+        "La UNL no tiene ficha de la especie: rasgos verificados con Birds of the World."
       ],
       "amba_indice": 0.0
     },
@@ -13321,7 +13319,7 @@
       "familia": "Tyrannidae",
       "orden": "Passeriformes",
       "descripcion": {
-        "D": "Pájaro mediano, robusto, de pico ganchudo. Corona y partes de arriba pardo grisáceas, con una línea blanquecina sobre el pico y una ceja cortada. Pico negro, con gancho en la punta. Alas pardo grisáceas oscuras, con las puntas y bordes de las plumas de adentro blanquecinos. Cola mayormente blanca, con el par central negruzco. Garganta blanca con estrías finas negruzcas. Pecho y flancos pardo ceniza; vientre blanquecino. Patas negruzcas. Macho y hembra son iguales."
+        "D": "Pájaro mediano, robusto, de pico ganchudo. Corona y partes de arriba pardo grisáceas, con una línea blanquecina sobre el pico y una ceja cortada. Pico negro, con gancho en la punta. Ojo amarillento a marfil. Alas pardo grisáceas oscuras, con las puntas y bordes de las plumas de adentro blanquecinos. Cola mayormente blanca, con el par central negruzco. Garganta blanca con estrías finas negruzcas. Pecho y flancos pardo ceniza; vientre blanquecino. Patas negruzcas. Macho y hembra son iguales."
       },
       "habitat": [
         "pastizal",
@@ -13351,13 +13349,12 @@
       "curiosidades": "Vive en sierras, quebradas y estepas del oeste; en Buenos Aires aparece en las sierras del sur. Se posa a la vista en piedras, arbustos y postes, y baja al suelo a cazar insectos, lagartijas y hasta ratoncitos con su pico ganchudo. Al volar muestra la cola casi toda blanca.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched upright on a rock, white background, 1024x1024 pixels, bird filling 65% of canvas height, stocky shrike-tyrant with a strong hooked black bill, dark greyish brown crown and back, whitish line above the bill, broken buffy white eyebrow, white cheeks streaked brown, small eye with a tiny dark pupil, dark greyish brown wings with whitish edges on the inner flight feathers, tail mostly white with blackish central feathers, white throat with thin blackish streaks, ashy brown breast and flanks, whitish belly, blackish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched upright on a rock, white background, 1024x1024 pixels, bird filling 65% of canvas height, stocky shrike-tyrant with a strong hooked black bill, dark greyish brown crown and back, whitish line above the bill, broken buffy white eyebrow, white cheeks streaked brown, small pale ivory yellow eye with a tiny dark pupil, dark greyish brown wings with whitish edges on the inner flight feathers, tail mostly white with blackish central feathers, white throat with thin blackish streaks, ashy brown breast and flanks, whitish belly, blackish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "bkbsht1",
       "gbif_taxon_key": 2483480,
       "pendientes": [
-        "La UNL no tiene ficha de la especie: rasgos tomados de Wikipedia (en/es).",
-        "Color del iris: amarillento a marfil según Wikipedia, pero oscuro en aves del sur; se omitió del prompt."
+        "La UNL no tiene ficha de la especie: rasgos verificados con Birds of the World."
       ],
       "amba_indice": 0.0
     },
@@ -13471,7 +13468,7 @@
       "familia": "Procellariidae",
       "orden": "Procellariiformes",
       "descripcion": {
-        "D": "Petrel grande y robusto, de cabeza y cuello pesados. Todo negruzco, que con buena luz se ve pardo oscuro; muchos tienen una mancha blanca en el mentón, difícil de ver en vuelo. Pico claro, verdoso amarillento, con la parte de arriba negra en el centro. Ojo pardo oscuro. Por debajo, las puntas del ala se ven blanquecinas. Patas negras. La hembra suele ser algo más clara."
+        "D": "Petrel grande y robusto, de cabeza y cuello pesados. Todo negruzco, que con buena luz se ve pardo oscuro; muchos tienen una mancha blanca en el mentón, difícil de ver en vuelo. Pico color cuerno pálido o amarillento, con la cresta de arriba negruzca. Ojo pardo oscuro. Por debajo, las puntas del ala se ven blanquecinas. Patas negras. La hembra suele ser algo más clara."
       },
       "habitat": [
         "marino"
@@ -13479,7 +13476,7 @@
       "residencia": "permanente",
       "tamanio_categoria": "mediano",
       "largo_cm": "51-58",
-      "envergadura_cm": null,
+      "envergadura_cm": "132-147",
       "estado_conservacion": "VU",
       "provincias": [
         "Buenos Aires",
@@ -13490,12 +13487,12 @@
       "curiosidades": "Es uno de los petreles más grandes y vive en alta mar; cría en islas subantárticas, en cuevas que cava en el suelo. Sigue a los barcos pesqueros para comer los descartes, y por eso muere enganchado en los anzuelos de los palangres: es una de las aves marinas más afectadas por la pesca. Está considerado Vulnerable.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), gliding in flight with long narrow wings fully spread, white background, 1024x1024 pixels, large heavy petrel with a thick neck, plain blackish brown plumage all over, small white chin patch, stout hooked pale greenish yellow bill with a black central ridge, small dark brown eye with a tiny dark pupil, long narrow blackish wings, short dark tail, black feet tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), gliding in flight with long narrow wings fully spread, white background, 1024x1024 pixels, large heavy petrel with a thick neck, plain blackish brown plumage all over, small white chin patch, stout hooked pale yellowish horn bill with a blackish ridge, small dark brown eye with a tiny dark pupil, long narrow blackish wings, short dark tail, black feet tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "whcpet1",
       "gbif_taxon_key": 2481495,
       "pendientes": [
-        "La UNL no tiene ficha de la especie: rasgos tomados de oiseaux-birds.com."
+        "La UNL no tiene ficha de la especie: rasgos verificados con Birds of the World."
       ],
       "amba_indice": 0.01
     },
@@ -13607,7 +13604,7 @@
       ],
       "residencia": "invernal",
       "tamanio_categoria": "mediano",
-      "largo_cm": "45-52",
+      "largo_cm": "45-52,5",
       "envergadura_cm": null,
       "estado_conservacion": "LC",
       "provincias": [
@@ -13624,7 +13621,7 @@
       "audio_ebird_code": "ruhgoo1",
       "gbif_taxon_key": 5232427,
       "pendientes": [
-        "La UNL no tiene ficha de la especie: rasgos tomados de oiseaux-birds.com."
+        "La UNL no tiene ficha de la especie: rasgos verificados con Birds of the World."
       ],
       "amba_indice": 0.0
     },
@@ -13669,7 +13666,7 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on the ground, white background, 1024x1024 pixels, bird filling 62% of canvas height, tiny slim pipit with a thin bill, dark brown upperparts streaked ochre buff, thin brown bill, small brown eye with a tiny dark pupil, dark brown wings with ochre edges, brown tail with ochre outer feathers, whitish throat, yellowish ochre breast and belly, breast streaked dark brown, long hind claw, pale pinkish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "audio_ebird_code": null,
+      "audio_ebird_code": "yelpip2",
       "gbif_taxon_key": 10884972,
       "pendientes": [],
       "amba_indice": 0.36
@@ -13754,7 +13751,7 @@
       "audio_ebird_code": "ashgoo1",
       "gbif_taxon_key": 5232423,
       "pendientes": [
-        "La UNL no tiene ficha de la especie: rasgos tomados de oiseaux-birds.com."
+        "La UNL no tiene ficha de la especie: rasgos verificados con Birds of the World."
       ],
       "amba_indice": 0.0
     },
@@ -13775,7 +13772,7 @@
       ],
       "residencia": "invernal",
       "tamanio_categoria": "grande",
-      "largo_cm": "60-72",
+      "largo_cm": "60-72,5",
       "envergadura_cm": null,
       "estado_conservacion": "LC",
       "provincias": [
@@ -13802,7 +13799,7 @@
       "audio_ebird_code": "uplgoo1",
       "gbif_taxon_key": 5232428,
       "pendientes": [
-        "La UNL no tiene ficha de la especie: rasgos tomados de oiseaux-birds.com; largo de Wikipedia."
+        "La UNL no tiene ficha de la especie: rasgos verificados con Birds of the World."
       ],
       "amba_indice": 0.0
     },
@@ -14146,7 +14143,7 @@
       "familia": "Scolopacidae",
       "orden": "Charadriiformes",
       "descripcion": {
-        "D": "Playero chico. En nuestro verano, fuera de la época de cría, tiene las partes de arriba pardo oliváceas, una ceja blanca y una línea oscura en el ojo. Pico corto y recto, con la base verdosa o parduzca y la punta oscura. Ojo pardo oscuro. Alas pardo oliváceas, con una banda blanca que se ve en vuelo. Cola con los bordes de afuera blanquecinos. Partes inferiores blancas, con manchas gris parduscas a los costados del pecho. Patas gris oliváceas a amarillentas. En plumaje de cría tiene las partes inferiores blancas con lunares oscuros."
+        "D": "Playero chico. En nuestro verano, fuera de la época de cría, tiene las partes de arriba pardo oliváceas, una ceja blanca y una línea oscura en el ojo. Pico corto y recto, pardo oliva, con la base oliva apagada o grisácea. Ojo pardo oscuro. Alas pardo oliváceas, con una banda blanca que se ve en vuelo. Cola con los bordes de afuera blanquecinos. Partes inferiores blancas, con manchas gris parduscas a los costados del pecho. Patas gris oliváceas a amarillentas. En plumaje de cría tiene las partes inferiores blancas con lunares oscuros."
       },
       "habitat": [
         "ribereño",
@@ -14173,13 +14170,13 @@
       "curiosidades": "Mueve la cola y la parte de atrás del cuerpo arriba y abajo sin parar mientras camina por la orilla, una costumbre que lo delata de lejos. Vuela bajo sobre el agua con aleteos cortos y temblorosos, alternados con planeos. Cría en América del Norte, donde la hembra corteja a varios machos y son ellos los que incuban.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on the ground, white background, 1024x1024 pixels, bird filling 62% of canvas height, small sandpiper with a horizontal posture and a short tail, plain olive brown crown and back, white eyebrow, dark brown eye stripe, short straight bill with a dull greenish base and dark tip, small dark brown eye with a tiny dark pupil, olive brown folded wings, white underparts with grey brown patches on the sides of the breast, dull yellowish olive legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
-        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, small sandpiper with stiff shallow wingbeats, plain olive brown upperparts, white eyebrow, short straight bill with a dull greenish base and dark tip, small dark brown eye with a tiny dark pupil, olive brown upperwings with a narrow white wing bar, short tail with whitish outer edges, white underparts with grey brown breast patches, legs tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on the ground, white background, 1024x1024 pixels, bird filling 62% of canvas height, small sandpiper with a horizontal posture and a short tail, plain olive brown crown and back, white eyebrow, dark brown eye stripe, short straight olive brown bill with a duller greyish olive base, small dark brown eye with a tiny dark pupil, olive brown folded wings, white underparts with grey brown patches on the sides of the breast, dull yellowish olive legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, small sandpiper with stiff shallow wingbeats, plain olive brown upperparts, white eyebrow, short straight olive brown bill, small dark brown eye with a tiny dark pupil, olive brown upperwings with a narrow white wing bar, short tail with whitish outer edges, white underparts with grey brown breast patches, legs tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "sposan",
       "gbif_taxon_key": 2481798,
       "pendientes": [
-        "La UNL no tiene ficha de la especie: rasgos tomados de oiseaux-birds.com."
+        "La UNL no tiene ficha de la especie: rasgos verificados con Birds of the World."
       ],
       "amba_indice": 0.06
     },
@@ -14325,7 +14322,7 @@
       "familia": "Fringillidae",
       "orden": "Passeriformes",
       "descripcion": {
-        "D": "Pájaro chico y robusto, introducido desde Europa. El macho es verde oliváceo lavado de amarillo, con la cabeza verde oliva. Pico cónico y fuerte, color hueso. Ojo pardo oscuro. Alas más oscuras, con plumas grises bordeadas de amarillo vivo que forman una mancha amarilla en el ala cerrada. Cola gris con una mancha amarilla en la base de las plumas de los costados. Partes inferiores verde amarillentas. Patas rosadas. La hembra es más apagada y parda, con menos amarillo en el ala."
+        "D": "Pájaro chico y robusto, introducido desde Europa. El macho es verde oliváceo lavado de amarillo, con la cabeza verde oliva y el espacio entre el pico y el ojo negro. Pico cónico y fuerte, color hueso. Ojo pardo oscuro. Alas más oscuras, con plumas grises bordeadas de amarillo vivo que forman una mancha amarilla en el ala cerrada. Cola con el par central negro y las demás plumas amarillas en la base y negras en la punta. Partes inferiores verde amarillentas. Patas rosadas. La hembra es más apagada y parda, con menos amarillo en el ala."
       },
       "habitat": [
         "urbano",
@@ -14333,7 +14330,7 @@
       ],
       "residencia": "permanente",
       "tamanio_categoria": "chico",
-      "largo_cm": "15",
+      "largo_cm": "14,5-16",
       "envergadura_cm": null,
       "estado_conservacion": "LC",
       "provincias": [
@@ -14342,13 +14339,13 @@
       "curiosidades": "Es un pájaro europeo, traído como ave de jaula, que se estableció en estado silvestre en Uruguay y en la costa bonaerense. Se lo ve en parques, jardines y arboledas de pinos, sobre todo en la costa atlántica. Le encantan las semillas de girasol y sus trinos se parecen a los de un canario.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a short twig, white background, 1024x1024 pixels, bird filling 72% of canvas height, stocky finch with a short notched tail, olive green head, strong conical pale horn colored bill, small dark brown eye with a tiny dark pupil, olive green back washed yellow, darker grey wings with bright yellow edges on the primaries forming a yellow patch, grey tail with yellow patches at the base of the outer feathers, greenish yellow throat, breast and belly, pinkish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a short twig, white background, 1024x1024 pixels, bird filling 72% of canvas height, stocky finch with a short notched tail, olive green head, black lores, strong conical pale horn colored bill, small dark brown eye with a tiny dark pupil, olive green back washed yellow, darker grey wings with bright yellow edges on the primaries forming a yellow patch, notched tail with black central feathers and outer feathers yellow at the base and black at the tip, greenish yellow throat, breast and belly, pinkish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "exotica": true,
       "audio_ebird_code": "eurgre1",
       "gbif_taxon_key": 5845582,
       "pendientes": [
-        "La UNL no tiene ficha de la especie: rasgos tomados de oiseaux-birds.com; largo de Wikipedia."
+        "La UNL no tiene ficha de la especie: rasgos verificados con Birds of the World."
       ],
       "amba_indice": 0.05
     },
@@ -14397,7 +14394,7 @@
       "audio_ebird_code": "tuttyr1",
       "gbif_taxon_key": 2482688,
       "pendientes": [
-        "La UNL no tiene ficha de la especie: rasgos tomados de oiseaux-birds.com."
+        "La UNL no tiene ficha de la especie: rasgos verificados con Birds of the World."
       ],
       "amba_indice": 0.03
     },
@@ -14621,10 +14618,10 @@
       "recolor_base": {
         "F": "Rhopospina_carbonaria_M.png"
       },
-      "audio_ebird_code": null,
+      "audio_ebird_code": "casfin1",
       "gbif_taxon_key": 12059934,
       "pendientes": [
-        "La UNL no tiene ficha de la especie: rasgos tomados de Wikipedia (en)."
+        "La UNL no tiene ficha de la especie: rasgos verificados con Birds of the World."
       ],
       "amba_indice": 0.0
     },
@@ -15014,8 +15011,8 @@
       "audio_ebird_code": "gncpar",
       "gbif_taxon_key": 2479804,
       "pendientes": [
-        "La UNL no tiene ficha de la especie: rasgos tomados de Wikipedia (en) y avespampa.",
-        "Color de pico, iris y patas: no se pudieron confirmar; el pico oscuro del prompt es por los otros Pyrrhura.",
+        "La UNL no tiene ficha de la especie: rasgos verificados con Birds of the World.",
+        "Color de pico, iris y patas: BOW no los da; el pico oscuro del prompt es por los otros Pyrrhura.",
         "Registros en Buenos Aires: aves escapadas de cautiverio (su área natural son las yungas)."
       ],
       "amba_indice": 0.33
@@ -15028,7 +15025,7 @@
       "familia": "Furnariidae",
       "orden": "Passeriformes",
       "descripcion": {
-        "D": "Pájaro chico, de pico largo y recto. Partes de arriba pardas, con una ceja blanca detrás del ojo. Cubiertas del ala rufas. Cola rufa, con las plumas terminadas en punta. Partes inferiores blancuzcas. Macho y hembra son iguales."
+        "D": "Pájaro chico, de pico largo y casi recto. Cabeza y parte de arriba del cuello grises; una ceja blanca corta detrás del ojo, y debajo los oídos pardo oscuros. Pico pardo oscuro a negro arriba y rosado abajo, con la base blanquecina y la punta parda. Dorso pardo claro con tinte castaño; rabadilla castaña. Cubiertas del ala rufas con manchas pardo oscuras; plumas largas pardo grisáceas oscuras con bordes y una banda castaña. Cola rufa brillante, con las puntas de las plumas centrales alargadas formando una horquilla. Partes inferiores blanco sucio. Patas gris oscuras. Macho y hembra son iguales."
       },
       "habitat": [
         "humedal"
@@ -15045,13 +15042,13 @@
       "curiosidades": "Vive casi exclusivamente en los pajonales de caraguatá (una planta de hojas espinosas) de bañados del noreste bonaerense, Entre Ríos, Uruguay y el sur de Brasil. Depende tanto de ese ambiente que su conservación está ligada a la de los pajonales. Se mueve escondida entre las hojas, buscando insectos.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), clinging to a reed stem, white background, 1024x1024 pixels, bird filling 70% of canvas height, slim reedhaunter with a long straight pointed bill and a long tail with spiky pointed feather tips, plain brown crown and back, white stripe behind the eye, small eye with a tiny dark pupil, rufous wing coverts, rufous tail, whitish throat, breast and belly, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), clinging to a reed stem, white background, 1024x1024 pixels, bird filling 70% of canvas height, slim reedhaunter with a long nearly straight bill and a long rufous tail with spiky pointed feather tips, grey head and upper neck, short white stripe behind the eye, dark brown ear patch, long bill dark brown above and pinkish below with a dark tip, small dark eye with a tiny dark pupil, light brown back tinged chestnut, chestnut rump, rufous wing coverts spotted dark brown, dark greyish brown flight feathers with a chestnut band, bright rufous tail, dirty white throat, breast and belly, dark grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "stbree2",
       "gbif_taxon_key": 5788780,
       "pendientes": [
-        "La UNL no tiene ficha de la especie: rasgos tomados de avespampa.",
-        "Colores de pico, iris y patas, y largo exacto: no se pudieron confirmar; se omitieron del prompt."
+        "La UNL no tiene ficha de la especie: rasgos verificados con Birds of the World.",
+        "Largo exacto: no se pudo confirmar."
       ],
       "amba_indice": 0.02
     },
@@ -15071,7 +15068,7 @@
       ],
       "residencia": "invernal",
       "tamanio_categoria": "chico",
-      "largo_cm": "15-17",
+      "largo_cm": "14-18",
       "envergadura_cm": null,
       "estado_conservacion": "LC",
       "provincias": [
@@ -15102,7 +15099,8 @@
       "audio_ebird_code": "pmtspi1",
       "gbif_taxon_key": 2485141,
       "pendientes": [
-        "La UNL no tiene ficha de la especie: rasgos tomados de avespampa y Wikipedia (en)."
+        "La UNL no tiene ficha de la especie: rasgos verificados con Birds of the World.",
+        "BOW describe la forma de Chile; la descripción sigue a avespampa para las formas argentinas."
       ],
       "amba_indice": 0.0
     },
@@ -15444,7 +15442,7 @@
       "recolor_base": {
         "F": "Rhopospina_fruticeti_M.png"
       },
-      "audio_ebird_code": null,
+      "audio_ebird_code": "mosfin1",
       "gbif_taxon_key": 11002466,
       "pendientes": [],
       "amba_indice": 0.1
@@ -15639,14 +15637,14 @@
       "familia": "Thraupidae",
       "orden": "Passeriformes",
       "descripcion": {
-        "D": "Pájaro chico, el más grande de los jilgueros. El macho es amarillo dorado, con tono oliváceo y un estriado poco notable en el dorso. Rabadilla amarilla. Cola negra con los bordes de afuera amarillos. La hembra es amarillo pálido, levemente estriada."
+        "D": "Pájaro chico, el más grande de los jilgueros, de alas muy largas. El macho es casi todo amarillo, con el dorso lavado de oliváceo (finamente estriado cuando el plumaje está gastado) y la rabadilla amarillo vivo. Pico negruzco con la mandíbula más clara y azulada. Ojo pardo oscuro. Alas parduscas con bordes grisáceos. Cola parda con bordes amarillos. Patas rosadas. La hembra es gris parduzca apagada, con poco amarillo, sobre todo en el vientre y la base de la cola."
       },
       "habitat": [
         "pastizal"
       ],
       "residencia": "permanente",
       "tamanio_categoria": "chico",
-      "largo_cm": "14",
+      "largo_cm": "14,5-15",
       "envergadura_cm": null,
       "estado_conservacion": "LC",
       "provincias": [
@@ -15662,13 +15660,12 @@
       "curiosidades": "Es un jilguero de las estepas y valles altoandinos, donde anda en bandadas comiendo semillas en el suelo, a veces cerca de refugios y puestos de montaña. Su amarillo dorado intenso lo hace muy vistoso. En invierno baja a valles más bajos.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a short twig, white background, 1024x1024 pixels, bird filling 72% of canvas height, stocky finch with a short conical bill, bright golden yellow head and underparts, golden yellow back tinged olive with faint streaks, yellow rump, dark wings with yellow edges, black tail with yellow outer edges, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a short twig, white background, 1024x1024 pixels, bird filling 72% of canvas height, large long-winged finch with a conical bill, bright golden yellow head and underparts, blackish bill with a paler bluish lower mandible, small dark brown eye with a tiny dark pupil, golden yellow back tinged olive with faint streaks, yellow rump, brownish wings with greyish edges and an olive yellow shoulder, brown tail with yellow edges, pink legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "gryfin2",
       "gbif_taxon_key": 2491868,
       "pendientes": [
-        "La UNL no tiene ficha de la especie: rasgos tomados de avespampa.",
-        "Colores de pico, ojo y patas, y largo: no se pudieron confirmar; se omitieron del prompt.",
+        "La UNL no tiene ficha de la especie: rasgos verificados con Birds of the World.",
         "Registros en Buenos Aires: llamativos para una especie altoandina; revisar si son identificaciones erróneas."
       ],
       "amba_indice": 0.0
@@ -15689,7 +15686,7 @@
       "residencia": "estival",
       "tamanio_categoria": "grande",
       "largo_cm": "71-82",
-      "envergadura_cm": null,
+      "envergadura_cm": "180-215",
       "estado_conservacion": "EN",
       "provincias": [
         "Buenos Aires",
@@ -15700,10 +15697,10 @@
       "prompts_pixelart": {
         "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), gliding in flight with long narrow wings fully spread, white background, 1024x1024 pixels, slim albatross with very long narrow wings, pale grey head with a white forehead, small black triangular patch in front of the eye, long slender black bill with a narrow yellow stripe along the top and a pinkish red tip, small dark brown eye with a tiny dark pupil, blackish grey upperwings and back, white rump, short dark grey tail, white underparts, white underwings with narrow black leading and trailing edges and black tips, pale pink feet tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
-      "audio_ebird_code": "yenalb",
+      "audio_ebird_code": "yenalb2",
       "gbif_taxon_key": 2481399,
       "pendientes": [
-        "La UNL no tiene ficha de la especie: rasgos tomados de oiseaux-birds.com."
+        "La UNL no tiene ficha de la especie: rasgos verificados con Birds of the World."
       ],
       "amba_indice": 0.0
     },
@@ -15790,7 +15787,7 @@
       "audio_ebird_code": "hubtyr1",
       "gbif_taxon_key": 2483042,
       "pendientes": [
-        "La UNL no tiene ficha de la especie: rasgos tomados de Wikipedia (en) y avespampa."
+        "La UNL no tiene ficha de la especie: rasgos verificados con Birds of the World."
       ],
       "amba_indice": 0.0
     },
@@ -15810,7 +15807,7 @@
       "residencia": "invernal",
       "tamanio_categoria": "mediano",
       "largo_cm": "46-50",
-      "envergadura_cm": null,
+      "envergadura_cm": "114-120",
       "estado_conservacion": "LC",
       "provincias": [
         "Buenos Aires",
@@ -15826,7 +15823,7 @@
       "audio_ebird_code": "souful1",
       "gbif_taxon_key": 2481432,
       "pendientes": [
-        "La UNL no tiene ficha de la especie: rasgos tomados de oiseaux-birds.com."
+        "La UNL no tiene ficha de la especie: rasgos verificados con Birds of the World."
       ],
       "amba_indice": 0.0
     },
@@ -15862,7 +15859,7 @@
       "audio_ebird_code": "parjae",
       "gbif_taxon_key": 2481621,
       "pendientes": [
-        "La UNL no tiene ficha de la especie: rasgos tomados de oiseaux-birds.com y Wikipedia (en)."
+        "La UNL no tiene ficha de la especie: rasgos verificados con Birds of the World."
       ],
       "amba_indice": 0.0
     },
@@ -15998,7 +15995,7 @@
       "audio_ebird_code": "magplo1",
       "gbif_taxon_key": 2482087,
       "pendientes": [
-        "La UNL no tiene ficha de la especie: rasgos tomados de oiseaux-birds.com."
+        "La UNL no tiene ficha de la especie: rasgos verificados con Birds of the World."
       ],
       "amba_indice": 0.0
     },
@@ -16050,7 +16047,7 @@
       "recolor_base": {
         "J": "Astur_bicolor_D.png"
       },
-      "audio_ebird_code": null,
+      "audio_ebird_code": "bichaw1",
       "gbif_taxon_key": 3242735,
       "pendientes": [],
       "amba_indice": 0.0
@@ -16171,7 +16168,7 @@
       "audio_ebird_code": "mawtyr1",
       "gbif_taxon_key": 5229568,
       "pendientes": [
-        "La UNL no tiene ficha de la especie: rasgos tomados de Wikipedia (en).",
+        "La UNL no tiene ficha de la especie: rasgos verificados con Birds of the World.",
         "Registros en Buenos Aires: pocos (menos de 20) y todos en enero; probable ave divagante o escapada."
       ],
       "amba_indice": 0.02
@@ -16191,8 +16188,8 @@
       ],
       "residencia": "permanente",
       "tamanio_categoria": "mediano",
-      "largo_cm": "40-46",
-      "envergadura_cm": null,
+      "largo_cm": "40-51",
+      "envergadura_cm": "94-109",
       "estado_conservacion": "NT",
       "provincias": [
         "Buenos Aires",
@@ -16209,7 +16206,7 @@
       "audio_ebird_code": "sooshe",
       "gbif_taxon_key": 8249990,
       "pendientes": [
-        "La UNL no tiene ficha de la especie: rasgos tomados de oiseaux-birds.com."
+        "La UNL no tiene ficha de la especie: rasgos verificados con Birds of the World."
       ],
       "amba_indice": 0.0
     },
@@ -16371,7 +16368,7 @@
       "familia": "Fregatidae",
       "orden": "Suliformes",
       "descripcion": {
-        "M": "Ave marina grande, de alas muy largas, angostas y en punta, y cola profundamente ahorquillada. El macho es negro brillante con reflejos púrpura, con una bolsa en la garganta anaranjada que en celo se vuelve roja y que infla como un globo. Pico largo, gris y ganchudo. Patas negras.",
+        "M": "Ave marina grande, de alas muy largas, angostas y en punta, y cola profundamente ahorquillada. El macho es negro brillante con reflejos púrpura, con una bolsa en la garganta anaranjada que en celo se vuelve roja y que infla como un globo. Pico largo, gris o córneo oscuro, y ganchudo. Ojo pardo oscuro con anillo negro. Patas grises a negras.",
         "F": "La hembra tiene la cabeza y el cuello negros, el pecho blanco y una banda parda clara en el ala."
       },
       "habitat": [
@@ -16399,7 +16396,7 @@
       "audio_ebird_code": "magfri",
       "gbif_taxon_key": 2480189,
       "pendientes": [
-        "La UNL no tiene ficha de la especie: rasgos tomados de oiseaux-birds.com; largo de Wikipedia."
+        "La UNL no tiene ficha de la especie: rasgos verificados con Birds of the World."
       ],
       "amba_indice": 0.08
     }
