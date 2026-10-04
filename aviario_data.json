@@ -11290,6 +11290,324 @@
       "gbif_taxon_key": 2481240,
       "pendientes": [],
       "amba_indice": 0.0
+    },
+    {
+      "id": 233,
+      "num": "#233",
+      "nombre_comun": "Reinamora Grande",
+      "nombre_cientifico": "Cyanoloxia brissonii",
+      "familia": "Cardinalidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "M": "Pájaro chico y robusto, de pico muy grueso. El macho es azul oscuro, con la frente, la parte de adelante de la corona, la zona alrededor del ojo, el bigote y los hombros celestes. Pico negruzco. Ojo pardo oscuro. Alas y cola negras. Patas grisáceas.",
+        "F": "La hembra es pardo rojiza por arriba y canela por abajo, con las alas y la cola pardas."
+      },
+      "habitat": [
+        "monte",
+        "bosque",
+        "ribereño"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "16,5",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chaco",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "La Rioja",
+        "Mendoza",
+        "Misiones",
+        "Salta",
+        "San Juan",
+        "San Luis",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tucumán"
+      ],
+      "curiosidades": "Con su pico enorme rompe semillas duras, y busca comida desde el suelo hasta unos 5 metros de altura en el monte. El macho canta un trino fuerte y melodioso, y por eso, y por su color, es muy perseguido para tenerlo en jaula. Es más fácil oírlo que verlo, porque anda escondido en la vegetación densa.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, stocky grosbeak with a very large thick conical blackish bill, deep dark blue plumage, bright sky blue forehead, front of the crown, eye area, moustache stripe and shoulder patch, small dark brown eye, black wings and tail, greyish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "ultgro1",
+      "gbif_taxon_key": 9555348,
+      "pendientes": [],
+      "amba_indice": 3.24
+    },
+    {
+      "id": 234,
+      "num": "#234",
+      "nombre_comun": "Viudita Blanca",
+      "nombre_cientifico": "Fluvicola albiventer",
+      "familia": "Tyrannidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro chico, blanco y negro. Frente, cara, rabadilla, partes inferiores y bordes de las plumas de adentro del ala y de las cubiertas blancos. Resto de la cabeza, dorso, alas y cola negros. Pico negro. Ojo pardo. Patas negras. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "humedal",
+        "ribereño",
+        "laguna"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "chico",
+      "largo_cm": "13",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Chaco",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "Misiones",
+        "Salta",
+        "Santa Fe",
+        "Santiago del Estero"
+      ],
+      "curiosidades": "Llega en primavera y vive siempre cerca del agua: se posa en ramas bajas junto a la vegetación acuática, corre sobre las plantas flotantes y caza insectos en vuelos cortos. Es muy inquieta y abre la cola en abanico todo el tiempo. A veces sube casi vertical hasta unos 20 metros para atrapar mosquitos.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a low twig near water, white background, 1024x1024 pixels, bird filling 65% of canvas height, small black and white water tyrant, white forehead and face, black crown and nape, short black bill, small brown eye, black back, black wings with broad white edges on the inner flight feathers and coverts, white rump, black tail, pure white throat, breast and belly, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "bbwtyr1",
+      "gbif_taxon_key": 5229567,
+      "pendientes": [],
+      "amba_indice": 4.19
+    },
+    {
+      "id": 235,
+      "num": "#235",
+      "nombre_comun": "Chorlo Cabezón",
+      "nombre_cientifico": "Oreopholus ruficollis",
+      "familia": "Charadriidae",
+      "orden": "Charadriiformes",
+      "descripcion": {
+        "D": "Chorlo mediano y esbelto, de patas largas, que se para con el cuerpo erguido. Corona, cuello y dorso pardo grisáceos estriados de negro y canela. Frente y ceja ocráceas; una línea oscura cruza el ojo. Pico negro, fino. Ojo pardo oscuro. Garganta y frente del cuello canela; pecho pardo grisáceo; una mancha negra en el vientre; resto de abajo ocráceo. Alas pardas. Cola gris con una franja negra cerca de la punta. Patas naranjas o rosadas. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "pastizal",
+        "agrícola"
+      ],
+      "residencia": "invernal",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "25-29",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "Catamarca",
+        "Chubut",
+        "Córdoba",
+        "Entre Ríos",
+        "Jujuy",
+        "La Pampa",
+        "Mendoza",
+        "Neuquén",
+        "Río Negro",
+        "Salta",
+        "San Juan",
+        "Santa Cruz",
+        "Santa Fe",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "A diferencia de la mayoría de los chorlos, no vive en la orilla del agua sino en estepas y pastizales secos. Cría en la Patagonia y en la Puna, y en otoño llega a los campos de Buenos Aires. Se para muy erguido, como vigilando, y es arisco: sale corriendo o volando ante cualquier movimiento.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing very upright on short dry grass, white background, 1024x1024 pixels, bird filling 70% of canvas height, slender upright dotterel with long legs and a thin black bill, greyish brown crown and back streaked black and cinnamon, ochre forehead and eyebrow, dark line through the eye, small dark brown eye, cinnamon orange throat and front of the neck, greyish brown breast, a small black patch on the belly, ochre buff lower belly, brown wings, grey tail with a black band, orange pink legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "tatdot1",
+      "gbif_taxon_key": 2480254,
+      "pendientes": [],
+      "amba_indice": 0.01
+    },
+    {
+      "id": 236,
+      "num": "#236",
+      "nombre_comun": "Gaviotín Pico Grueso",
+      "nombre_cientifico": "Gelochelidon nilotica",
+      "familia": "Laridae",
+      "orden": "Charadriiformes",
+      "descripcion": {
+        "D": "Gaviotín mediano y robusto, de pico negro, corto y grueso, parecido al de una gaviota. Fuera de la época de cría tiene la frente y la parte de adelante de la corona blancas, el resto de la corona y la nuca grises con rayitas finas negras, y una mancha negra detrás del ojo. Ojo pardo oscuro. Dorso y alas grises; plumas largas grises con parte blanca. Cola gris, apenas ahorquillada. Partes inferiores blancas. Patas negras. Macho y hembra son iguales.",
+        "R": "En época de cría tiene la corona, la nuca y los costados de la cabeza negros."
+      },
+      "habitat": [
+        "laguna",
+        "humedal",
+        "costa",
+        "pastizal"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "33-43",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "Corrientes",
+        "Córdoba",
+        "La Pampa",
+        "Mendoza",
+        "Río Negro",
+        "Santa Fe"
+      ],
+      "curiosidades": "A diferencia de otros gaviotines, casi no se zambulle: caza volando bajo sobre pastizales, campos y lagunas, atrapando insectos, lagartijas y cangrejos en el suelo o en el aire. Su pico grueso, más de gaviota que de gaviotín, le da el nombre. Anda solo o en grupos chicos.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on a small muddy patch, white background, 1024x1024 pixels, bird filling 60% of canvas height, stocky medium tern with a short thick gull-like black bill, white forehead and front of the crown, grey rear crown and nape finely streaked black, black patch behind the eye, small dark brown eye, pale grey back and wings, grey primaries, short slightly forked grey tail, white throat, breast and belly, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "gubter1",
+      "gbif_taxon_key": 2481263,
+      "pendientes": [],
+      "amba_indice": 0.03
+    },
+    {
+      "id": 237,
+      "num": "#237",
+      "nombre_comun": "Curutié Blanco",
+      "nombre_cientifico": "Cranioleuca pyrrhophia",
+      "familia": "Furnariidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro chico. Cabeza parda con estrías oscuras y una ceja blanca bien marcada. Pico con la parte de arriba parda y la de abajo córneo rosada con la punta parda. Ojo pardo anaranjado. Dorso pardo. Alas pardas con las cubiertas castañas. Cola con las plumas del centro pardas y las de los costados castañas. Partes inferiores blancas. Patas pardo grisáceas con tinte oliva. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "monte",
+        "arbolado"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "13",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chaco",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "La Pampa",
+        "La Rioja",
+        "Mendoza",
+        "Neuquén",
+        "Río Negro",
+        "Salta",
+        "San Juan",
+        "San Luis",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tucumán"
+      ],
+      "curiosidades": "Trepa por troncos y ramas de algarrobos, chañares y talas, hurgando en la corteza en busca de insectos, entre los 2 y 5 metros de altura. Además del nido, arma con palitos y materiales blandos una estructura con dos entradas hacia abajo que usa como dormidero. Suele andar en bandadas mixtas con otros pájaros.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), clinging to a branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, small spinetail with a medium graduated pointed tail, brown crown finely streaked dark, bold long white eyebrow, thin pointed bill with a brown upper mandible and a pinkish lower mandible, small orange brown eye, plain brown back, brown wings with chestnut coverts, tail with brown central feathers and chestnut outer feathers, clean white throat, breast and belly, greyish olive legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "stcspi2",
+      "gbif_taxon_key": 2485307,
+      "pendientes": [],
+      "amba_indice": 0.42
+    },
+    {
+      "id": 238,
+      "num": "#238",
+      "nombre_comun": "Chiripepé Cabeza Verde",
+      "nombre_cientifico": "Pyrrhura frontalis",
+      "familia": "Psittacidae",
+      "orden": "Psittaciformes",
+      "descripcion": {
+        "D": "Loro mediano, de cola larga y en punta, de color general verde. Una línea fina roja en la frente. Zona de la oreja gris; zona entre el pico y el ojo negra; mejillas verdes. Pico gris oscuro. Ojo pardo oscuro. Costados y frente del cuello y pecho amarillentos ondeados de pardo. Mancha roja en el vientre. Dorso verde con manchitas rojas abajo. Plumas largas del ala azules por fuera. Cola verde por arriba y roja por abajo. Patas gris oscuras. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "bosque",
+        "monte",
+        "urbano"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "25-28",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Chaco",
+        "Corrientes",
+        "Formosa",
+        "Misiones",
+        "Santa Fe"
+      ],
+      "curiosidades": "Es un loro de la selva misionera que anda en bandadas ruidosas por la copa de los árboles. Los que se ven en Buenos Aires y la Capital probablemente sean aves escapadas o liberadas de cautiverio. Come frutos, semillas y flores.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a branch, white background, 1024x1024 pixels, bird including its long tail filling about 75% of canvas width, medium parakeet with a long pointed tail, mostly green plumage, thin red line on the forehead, greyish ear patch, black lores, green cheeks, short hooked dark grey bill, small dark brown eye, sides of the neck and breast yellowish green scaled with brown, red patch on the belly, green back, blue outer flight feathers, long green tail with dull red tones, dark grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "mabpar",
+      "gbif_taxon_key": 2479840,
+      "pendientes": [
+        "Registros en Buenos Aires y CABA: probables aves escapadas o liberadas de cautiverio (su área natural es el NE)."
+      ],
+      "amba_indice": 6.43
+    },
+    {
+      "id": 239,
+      "num": "#239",
+      "nombre_comun": "Ánade Real",
+      "nombre_cientifico": "Anas platyrhynchos",
+      "familia": "Anatidae",
+      "orden": "Anseriformes",
+      "descripcion": {
+        "M": "Pato grande, de origen doméstico en la Argentina. El macho de tipo silvestre tiene la cabeza y el cuello verde brillante, un collar blanco fino, el pecho castaño, el cuerpo gris claro y las plumas del centro de la cola negras y enruladas. Pico amarillo. Ojo oscuro. Ala con un espejo azul bordeado de blanco. Patas naranjas. Hay muchas variedades domésticas, blancas o manchadas.",
+        "F": "La hembra es parda con manchas oscuras, con una línea oscura en el ojo, el pico naranja con una mancha oscura y el mismo espejo azul en el ala."
+      },
+      "habitat": [
+        "laguna",
+        "urbano",
+        "humedal"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "50-65",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Córdoba",
+        "Neuquén",
+        "Río Negro",
+        "Salta",
+        "Santa Cruz"
+      ],
+      "curiosidades": "Es el antepasado de casi todos los patos domésticos del mundo. En la Argentina no es nativo: los que se ven en lagos de plazas y parques son aves domésticas o asilvestradas, a veces cruzadas con otras especies. El macho es el típico pato de cabeza verde de los cuentos.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "M": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the head and neck glossy bright green, add a thin white collar at the base of the neck, make the breast chestnut brown, make the body pale grey finely vermiculated, make the back greyish brown, add a blue wing patch bordered with white on the folded wing, make the rear end and the curled central tail feathers black, white tail sides, make the bill yellow, keep the dark eye, make the legs orange, keep white background, no shadow, no text"
+      },
+      "recolor_base": {
+        "M": "Anas_georgica_D.png"
+      },
+      "exotica": true,
+      "audio_ebird_code": "mallar3",
+      "gbif_taxon_key": 9761484,
+      "pendientes": [],
+      "amba_indice": 5.49
     }
   ]
 }

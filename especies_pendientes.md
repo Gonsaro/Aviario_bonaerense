@@ -2,21 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (232 cargadas).
+`aviario_data.json` (239 cargadas).
 
 
-**Faltan: 127 especies**
+**Faltan: 120 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 232 | Reinamora Grande | *Cyanoloxia brissonii* | #973 |
-| 233 | Viudita Blanca | *Fluvicola albiventer* | #801 |
-| 234 | Chorlo Cabezón | *Oreopholus ruficollis* | #210 |
-| 235 | Gaviotín Pico Grueso | *Gelochelidon nilotica* | #291 |
-| 236 | Curutié Blanco | *Cranioleuca pyrrhophia* | #680 |
-| 237 | Chiripepé Cabeza Verde | *Pyrrhura frontalis* | #554 |
-| 238 | Ánade Real | *Anas platyrhynchos* | #54.5 (agregado propio, doméstica, marcar exotica: true) |
 | 239 | Dormilona Cara Negra | *Muscisaxicola maclovianus* | #822 |
 | 240 | Pepitero de Collar | *Saltator aurantiirostris* | #1035 |
 | 241 | Aguatero | *Nycticryphes semicollaris* | #267 |
