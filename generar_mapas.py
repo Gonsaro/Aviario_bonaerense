@@ -112,6 +112,7 @@ GBIF_ALIAS = {
     'Ixobrychus involucris': ('verbatimScientificName', 'Botaurus involucris'),  # eBird usa el género nuevo
     'Rufirallus leucopyrrhus': ('taxonKey', '4852342'),  # GBIF no resuelve el nombre, sí el taxonKey
     'Chloris chloris': ('taxonKey', '5845582'),  # el nombre choca con un género de plantas
+    'Astur bicolor': ('taxonKey', '3242735'),  # eBird aún lo publica como Accipiter bicolor
 }
 
 

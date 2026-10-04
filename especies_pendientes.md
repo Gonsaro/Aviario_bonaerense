@@ -2,27 +2,15 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (332 cargadas).
+`aviario_data.json` (345 cargadas).
 
 
-**Faltan: 25 especies**
+**Faltan: 13 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 335 | Salteador Chico | *Stercorarius parasiticus* | #272 |
-| 336 | Garza Azul | *Egretta caerulea* | #397 |
-| 337 | Golondrina Zapadora | *Riparia riparia* | #869 |
-| 338 | Chorlito Ceniciento | *Pluvianellus socialis* | #227 |
-| 339 | Esparvero Variado | *Astur bicolor* | #435 |
-| 340 | Aguilucho Colorado | *Buteogallus meridionalis* | #438 |
 | 341 | Burrito Negruzco | *Laterallus spiloptera* | #199 (como *Porzana spiloptera*) |
-| 342 | Viudita Enmascarada | *Fluvicola nengeta* | #802 |
-| 343 | Pardela Oscura | *Ardenna grisea* | #357 |
-| 344 | Brasita de Fuego | *Coryphospingus cucullatus* | #1009 |
-| 345 | Calandrita | *Stigmatura budytoides* | #735 |
-| 346 | Torcacita Colorada | *Columbina talpacoti* | #103 |
-| 347 | Ave Fragata | *Fregata magnificens* | #369 |
 | 348 | Pepitero Chico | *Saltatricula multicolor* | #1031 |
 | 349 | Diuca | *Diuca diuca* | #1060 |
 | 350 | Parina Grande | *Phoenicoparrus andinus* | #72 |
