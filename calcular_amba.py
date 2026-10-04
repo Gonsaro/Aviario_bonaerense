@@ -27,6 +27,7 @@ GBIF_ALIAS = {
     'Charadrius collaris': 'verbatimScientificName=Anarhynchus%20collaris',  # eBird usa el género nuevo
     'Ixobrychus involucris': 'verbatimScientificName=Botaurus%20involucris',  # eBird usa el género nuevo
     'Rufirallus leucopyrrhus': 'taxonKey=4852342',  # GBIF no resuelve el nombre, sí el taxonKey
+    'Chloris chloris': 'taxonKey=5845582',  # el nombre choca con un género de plantas
 }
 
 

@@ -2,26 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (296 cargadas).
+`aviario_data.json` (308 cargadas).
 
 
-**Faltan: 62 especies**
+**Faltan: 50 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 298 | Pato Fierro | *Nomonyx dominicus* | #58 |
-| 299 | Canastero Coludo | *Asthenes pyrrholeuca* | #676 |
-| 300 | Verderón | *Chloris chloris* | #910 |
-| 301 | Cachudito Pico Negro | *Anairetes parulus* | #760 |
-| 302 | Gaviotín de Río | *Sternula superciliaris* | #289 |
-| 303 | Mosqueta Parda | *Lathrotriccus euleri* | #842 |
-| 304 | Martineta Copetona | *Eudromia elegans* | #16 |
-| 305 | Aguilucho Pampa | *Busarellus nigricollis* | #425 |
-| 306 | Yal Carbonero | *Rhopospina carbonaria* | #996 |
-| 307 | Monterita de Collar | *Microspingus torquatus* | #1052 |
-| 308 | Crespín | *Tapera naevia* | #110 |
-| 309 | Cardenal Amarillo | *Gubernatrix cristata* | #1061 |
 | 310 | Bandurrita Esteparia | *Upucerthia dumetaria* | #637 |
 | 311 | Mascarita Común | *Geothlypis trichas* | — **no figura** |
 | 312 | Doradito Copetón | *Pseudocolopteryx sclateri* | #763 |
