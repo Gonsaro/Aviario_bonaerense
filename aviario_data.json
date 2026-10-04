@@ -16399,6 +16399,542 @@
         "La UNL no tiene ficha de la especie: rasgos verificados con Birds of the World."
       ],
       "amba_indice": 0.08
+    },
+    {
+      "id": 346,
+      "num": "#346",
+      "nombre_comun": "Pepitero Chico",
+      "nombre_cientifico": "Saltatricula multicolor",
+      "familia": "Thraupidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro chico, de pico cónico. Frente y lados del cuello negros, con una ceja blanca detrás del ojo. Pico amarillo. Ojo pardo. Dorso pardo. Alas pardas con las plumas bordeadas de canela. Cola negra, con el tercio de la punta de las plumas de afuera blanco. Garganta blanca, con un collar gris debajo; resto de las partes inferiores canela, con el abdomen blanquecino. Patas pardas. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "monte"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "16",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "Catamarca",
+        "Chaco",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "La Pampa",
+        "La Rioja",
+        "Mendoza",
+        "Salta",
+        "San Juan",
+        "San Luis",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tucumán"
+      ],
+      "curiosidades": "Vive en los montes secos del Chaco y el Espinal; en Buenos Aires aparece en los talares y montes del oeste. Se mueve rápido entre los matorrales y canta muy bien, posado en una rama a la vista o medio escondido. Su pico amarillo y la cara negra lo hacen inconfundible.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a short twig, white background, 1024x1024 pixels, bird filling 72% of canvas height, slim finch with a conical bill and a long tail, black forehead and black sides of the neck, white stripe behind the eye, bright yellow bill, small brown eye with a tiny dark pupil, plain brown crown and back, brown wings with cinnamon edges, black tail with white tips on the outer feathers, white throat, grey collar across the upper breast, cinnamon breast and flanks, whitish belly, brown legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "mccfin1",
+      "gbif_taxon_key": 2491687,
+      "pendientes": [],
+      "amba_indice": 0.04
+    },
+    {
+      "id": 347,
+      "num": "#347",
+      "nombre_comun": "Diuca",
+      "nombre_cientifico": "Diuca diuca",
+      "familia": "Thraupidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro chico, de pico cónico. El macho es gris plomizo por arriba. Pico negruzco, gris azulado en la base y abajo. Ojo pardo. Alas negruzcas con las plumas bordeadas de gris. Cola negruzca, con el tercio de la punta de las plumas de afuera blanco. Garganta blanca; pecho y flancos grises; resto de las partes inferiores blanco; debajo de la cola, castaño. Patas pardo grisáceas a negruzcas. La hembra tiene el dorso con tono ocráceo."
+      },
+      "habitat": [
+        "pastizal",
+        "monte"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "17",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "Catamarca",
+        "Chubut",
+        "Corrientes",
+        "Córdoba",
+        "Jujuy",
+        "La Pampa",
+        "La Rioja",
+        "Mendoza",
+        "Neuquén",
+        "Río Negro",
+        "Salta",
+        "San Juan",
+        "San Luis",
+        "Santa Cruz",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tucumán"
+      ],
+      "curiosidades": "Es un pájaro de la estepa patagónica y los montes del oeste, muy común en Chile, donde se acerca a casas y pueblos. Anda solo, en pareja o en grupos, posado en arbustos o comiendo en el suelo. Canta temprano a la mañana, a veces antes del amanecer, un canto melodioso que en la Patagonia anuncia el día.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a short twig, white background, 1024x1024 pixels, bird filling 72% of canvas height, stocky finch with a conical bill, plain leaden grey crown, nape and back, blackish bill with a bluish grey base and lower mandible, small brown eye with a tiny dark pupil, blackish wings with grey edges, blackish tail with white tips on the outer feathers, white throat, grey breast and flanks, white belly, chestnut undertail coverts, greyish brown legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "codfin1",
+      "gbif_taxon_key": 2491645,
+      "pendientes": [],
+      "amba_indice": 0.0
+    },
+    {
+      "id": 348,
+      "num": "#348",
+      "nombre_comun": "Parina Grande",
+      "nombre_cientifico": "Phoenicoparrus andinus",
+      "familia": "Phoenicopteridae",
+      "orden": "Phoenicopteriformes",
+      "descripcion": {
+        "D": "Flamenco grande. Cabeza, cuello y pecho rosados. Pico amarillo, con la mitad de la punta negra y una banda roja en la base. Ojo anaranjado. Dorso blanco con tonos rosados y algunas plumas alargadas rojas. Plumas largas del ala negras; cubiertas rosado naranja. Cola rosada. Patas amarillas. Se diferencia del Flamenco Austral por el cuello y el pecho rosado rojizos y por las patas amarillas."
+      },
+      "habitat": [
+        "laguna"
+      ],
+      "residencia": "invernal",
+      "tamanio_categoria": "grande",
+      "largo_cm": "102-115",
+      "envergadura_cm": null,
+      "estado_conservacion": "VU",
+      "provincias": [
+        "Buenos Aires",
+        "Catamarca",
+        "Córdoba",
+        "Jujuy",
+        "La Pampa",
+        "La Rioja",
+        "Salta",
+        "Santa Fe"
+      ],
+      "curiosidades": "Es el flamenco más grande de la Puna, donde cría en colonias en lagunas salinas de altura. En invierno, cuando esas lagunas se congelan, muchos bajan a lagunas de llanura como Mar Chiquita, en Córdoba, y algunos llegan a Buenos Aires. Filtra algas diminutas del agua con el pico dado vuelta. Está considerado Vulnerable.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the head, neck and breast deeper rose pink, make the bill yellow with the outer half black and a small red band at the base, make the eye orange, make the back white tinged pink with a few long red plumes, keep black flight feathers, make the wing coverts pinkish orange, make the legs and feet entirely yellow with no red joints, keep white background, no shadow, no text"
+      },
+      "recolor_base": {
+        "D": "Phoenicopterus_chilensis_D.png"
+      },
+      "audio_ebird_code": "andfla2",
+      "gbif_taxon_key": 2481106,
+      "pendientes": [],
+      "amba_indice": 0.0
+    },
+    {
+      "id": 349,
+      "num": "#349",
+      "nombre_comun": "Atajacaminos Chico",
+      "nombre_cientifico": "Setopagis parvula",
+      "familia": "Caprimulgidae",
+      "orden": "Caprimulgiformes",
+      "descripcion": {
+        "D": "Atajacaminos chico. Cabeza punteada de gris, con una franja negra en el centro desde la frente hasta la nuca, y un semicollar canela en la nuca. Pico negruzco. Ojo pardo. Resto de las partes de arriba pardo grisáceas punteadas de blanquecino; escapulares negras bordeadas de ocráceo. Alas pardas con lunares y una banda blancos. Cola pardo grisácea manchada de canela, con la punta blanca. Garganta blanca; pecho pardo grisáceo moteado de blanquecino; abdomen ocráceo barrado de pardo. Patas pardas. La hembra tiene la garganta ocrácea, la mancha del ala canela y la cola sin blanco."
+      },
+      "habitat": [
+        "monte",
+        "pastizal"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "chico",
+      "largo_cm": "19-21",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chaco",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "Misiones",
+        "Salta",
+        "San Luis",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tucumán"
+      ],
+      "curiosidades": "Llega en primavera y canta de noche desde ramas bajas o el suelo un trino rápido y descendente que se oye a mucha distancia. De día duerme quieto en el suelo del monte, camuflado entre las hojas secas. Caza polillas y otros insectos al vuelo, al anochecer.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the bird smaller looking with greyer brown plumage finely spotted whitish, add a black stripe along the center of the crown, make the half collar on the nape cinnamon, make the throat white, add white spots and a white band on the wing, make the tail greyish brown spotted cinnamon with white tips, keep white background, no shadow, no text"
+      },
+      "recolor_base": {
+        "D": "Systellura_longirostris_D.png"
+      },
+      "audio_ebird_code": "litnig1",
+      "gbif_taxon_key": 7822811,
+      "pendientes": [
+        "El recolor usa de base el sprite del Atajacaminos Ñañarca (Systellura_longirostris_D.png): generar ese primero."
+      ],
+      "amba_indice": 0.31
+    },
+    {
+      "id": 350,
+      "num": "#350",
+      "nombre_comun": "Cormorán Imperial",
+      "nombre_cientifico": "Phalacrocorax atriceps",
+      "familia": "Phalacrocoracidae",
+      "orden": "Suliformes",
+      "descripcion": {
+        "D": "Cormorán grande. Corona, nuca, parte de atrás del cuello y dorso negro azulados; en época de cría tiene un copete ondulado y curvado hacia adelante. Parte de abajo de las mejillas, mentón y cuello de adelante blancos, igual que el pecho y el vientre. Pico gris a oliva oscuro. Anillo del ojo azul brillante y carúnculas amarillo azafrán sobre el pico en época de cría. Ojo pardo a verde pálido. Alas y cola negras. Patas rosadas."
+      },
+      "habitat": [
+        "costa",
+        "marino"
+      ],
+      "residencia": "invernal",
+      "tamanio_categoria": "grande",
+      "largo_cm": "72",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "Chubut",
+        "Neuquén",
+        "Río Negro",
+        "Santa Cruz",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "Cría en grandes colonias en la costa patagónica, en islas y acantilados, con nidos de algas y guano. Se zambulle a más de 40 metros de profundidad para pescar en el fondo del mar. En invierno algunos suben hasta la costa bonaerense. En época de cría luce un copete y un anillo azul brillante alrededor del ojo.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing upright on a rock, white background, 1024x1024 pixels, bird filling 70% of canvas height, large cormorant with a long neck and a small curled crest on the forehead, glossy blue black crown, nape, hind neck and back, white lower cheeks, chin, foreneck, breast and belly, long hooked grey olive bill, small orange yellow knob above the base of the bill, bright blue eye ring, small eye with a tiny dark pupil, black wings and tail, pink feet, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "impcor6",
+      "gbif_taxon_key": 7719219,
+      "pendientes": [
+        "La UNL no tiene ficha de la especie: rasgos verificados con Birds of the World.",
+        "Largo: BOW no lo da en la parte consultada; queda el valor aproximado."
+      ],
+      "amba_indice": 0.0
+    },
+    {
+      "id": 351,
+      "num": "#351",
+      "nombre_comun": "Petrel Gigante Oscuro",
+      "nombre_cientifico": "Macronectes halli",
+      "familia": "Procellariidae",
+      "orden": "Procellariiformes",
+      "descripcion": {
+        "D": "Petrel enorme, de pico grande y poderoso. Partes de arriba pardas o pardo grisáceas; partes de abajo jaspeadas de pardo grisáceo y blanquecino, más claras en la cara y la garganta. Pico pardo muy pálido a rosado pálido, con la punta rojiza y más oscura. Ojo pardo o gris, que se aclara con la edad. Patas pardo pálidas a gris oscuras. Los jóvenes son negruzcos como hollín."
+      },
+      "habitat": [
+        "marino"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "grande",
+      "largo_cm": "80-95",
+      "envergadura_cm": "150-210",
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "Chubut",
+        "Río Negro",
+        "Santa Cruz",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "Es casi idéntico al Petrel Gigante Antártico: la mejor diferencia es la punta del pico, rojiza en esta especie y verdosa en la otra. Come carroña de focas y pingüinos, y también caza aves marinas. Sigue a los barcos y se acerca a los puertos de la costa patagónica.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the bill tip reddish brown instead of greenish, make the face and throat slightly paler than the rest, keep the rest unchanged, keep white background, no shadow, no text"
+      },
+      "recolor_base": {
+        "D": "Macronectes_giganteus_D.png"
+      },
+      "audio_ebird_code": "norgip1",
+      "gbif_taxon_key": 2481516,
+      "pendientes": [
+        "La UNL no tiene ficha de la especie: rasgos verificados con Birds of the World."
+      ],
+      "amba_indice": 0.0
+    },
+    {
+      "id": 352,
+      "num": "#352",
+      "nombre_comun": "Capuchino Garganta Café",
+      "nombre_cientifico": "Sporophila ruficollis",
+      "familia": "Thraupidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "M": "Pájaro muy chico, de pico grueso. El macho tiene la corona, la nuca y el dorso grises. Pico negro. Ojo pardo. Garganta, oídos, lados del cuello, rabadilla y partes inferiores castaños. Alas negras con manchas blancas. Cola negra. Patas negras.",
+        "F": "La hembra es pardo olivácea por arriba y ocrácea por abajo."
+      },
+      "habitat": [
+        "pastizal",
+        "humedal"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "chico",
+      "largo_cm": "11",
+      "envergadura_cm": null,
+      "estado_conservacion": "NT",
+      "provincias": [
+        "Buenos Aires",
+        "Chaco",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Salta",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tucumán"
+      ],
+      "curiosidades": "Es uno de los capuchinos de pastizal, un grupo de semilleros migratorios que crían en los pastizales altos del litoral y se van al norte en invierno. Por la captura para jaula y la pérdida de pastizales naturales, varios capuchinos están amenazados; este está casi amenazado. Llega a Buenos Aires en verano.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "M": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the crown, nape and back grey, make the throat, ear area, sides of the neck, rump and all underparts rich chestnut, make the wings black with small white patches, make the tail black, keep the black bill and legs, keep white background, no shadow, no text",
+        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the upperparts plain olive brown, make the underparts buff ochre, make the wings and tail brown, keep the bill, keep white background, no shadow, no text"
+      },
+      "recolor_base": {
+        "M": "Sporophila_caerulescens_M.png",
+        "F": "Sporophila_caerulescens_F.png"
+      },
+      "audio_ebird_code": "datsee1",
+      "gbif_taxon_key": 2491349,
+      "pendientes": [],
+      "amba_indice": 0.03
+    },
+    {
+      "id": 353,
+      "num": "#353",
+      "nombre_comun": "Frutero Negro",
+      "nombre_cientifico": "Tachyphonus rufus",
+      "familia": "Thraupidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "M": "Pájaro chico. El macho es todo negro, con una mancha blanca en los hombros que casi siempre queda escondida y se ve al volar, y blanco debajo del ala. Pico negro con la base de abajo gris plomizo. Ojo pardo. Patas negras o gris oscuras.",
+        "F": "La hembra es toda castaña, con las alas pardo oscuras bordeadas de castaño y la cola castaña."
+      },
+      "habitat": [
+        "bosque",
+        "monte",
+        "arbolado"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "17",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Chaco",
+        "Corrientes",
+        "Entre Ríos",
+        "Formosa",
+        "Misiones",
+        "Santa Fe"
+      ],
+      "curiosidades": "Anda casi siempre en pareja, y el macho negro y la hembra castaña parecen de especies distintas. Come frutos, flores e insectos que caza al vuelo, en bordes de selva y arboledas. En Buenos Aires vive en la selva marginal del Río de la Plata y el Delta, y se lo ve cada vez más en parques arbolados.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a short twig, white background, 1024x1024 pixels, bird filling 72% of canvas height, slim tanager, entirely glossy black plumage, small white patch on the shoulder, pointed black bill with a leaden grey base to the lower mandible, small brown eye with a tiny dark pupil, black wings and tail, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the whole plumage rich rufous chestnut, make the wings dark brown with chestnut edges, make the tail chestnut, remove the white shoulder patch, keep white background, no shadow, no text"
+      },
+      "recolor_base": {
+        "F": "Tachyphonus_rufus_M.png"
+      },
+      "audio_ebird_code": "whltan1",
+      "gbif_taxon_key": 2488583,
+      "pendientes": [],
+      "amba_indice": 3.75
+    },
+    {
+      "id": 354,
+      "num": "#354",
+      "nombre_comun": "Doradito Limón",
+      "nombre_cientifico": "Pseudocolopteryx citreola",
+      "familia": "Tyrannidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro muy chico, muy parecido al Doradito Pampeano, pero con el pico apenas más largo y alto y el amarillo de abajo más intenso, color limón. Partes de arriba pardas, con la corona y la cara más oscuras e intensas; suele tener dos bandas finas canela en el ala. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "monte",
+        "humedal"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "chico",
+      "largo_cm": "9",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Córdoba",
+        "Mendoza",
+        "Neuquén",
+        "Río Negro",
+        "San Juan",
+        "San Luis",
+        "Santa Fe"
+      ],
+      "curiosidades": "Durante mucho tiempo se lo consideró parte del Doradito Pampeano, hasta que estudios de su canto mostraron que eran especies distintas: cada una ignora el canto de la otra. Su canto son notas raspadas espaciadas que se aceleran al final. Cuando canta se posa cerca de la punta de ramas con poco follaje.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the throat, breast and belly brighter lemon yellow, make the crown and face a darker richer brown, add two thin cinnamon wing bars, keep the rest unchanged, keep white background, no shadow, no text"
+      },
+      "recolor_base": {
+        "D": "Pseudocolopteryx_flaviventris_D.png"
+      },
+      "audio_ebird_code": "ticdor1",
+      "gbif_taxon_key": 6087180,
+      "pendientes": [
+        "La UNL solo lo compara con el Doradito Pampeano: rasgos completados con Birds of the World."
+      ],
+      "amba_indice": 0.05
+    },
+    {
+      "id": 355,
+      "num": "#355",
+      "nombre_comun": "Escúa Canela",
+      "nombre_cientifico": "Stercorarius chilensis",
+      "familia": "Stercorariidae",
+      "orden": "Charadriiformes",
+      "descripcion": {
+        "D": "Ave marina grande, robusta, parecida a una gaviota oscura. Partes de arriba pardas. Gorra pardo oscura o negruzca hasta debajo del ojo, que contrasta con un collar estriado color paja en los adultos. Pico celeste pálido con la punta oscura. Partes inferiores canela vivo en muchos individuos; por debajo, las cubiertas del ala también canela. En vuelo muestra una mancha blanca en la base de las plumas largas del ala."
+      },
+      "habitat": [
+        "costa",
+        "marino"
+      ],
+      "residencia": "invernal",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "53-58",
+      "envergadura_cm": "130-138",
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Chubut",
+        "Santa Cruz",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "Cría en las costas de Tierra del Fuego y el sur de Chile, y en invierno sube por la costa atlántica hasta Buenos Aires. Es un pirata y un cazador: roba peces a gaviotas y cormoranes, come carroña y ataca pichones en las colonias. Es la única escúa de pico celeste.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on the ground, white background, 1024x1024 pixels, bird filling 62% of canvas height, heavy gull-like skua with a strong hooked bill, dark blackish brown cap down to below the eye, straw streaked collar on the neck, stout hooked pale blue bill with a dark tip, small dark eye with a tiny dark pupil, brown back and folded wings with a small white patch at the base of the primaries, short brown tail, bright cinnamon breast and belly, dark legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, heavy skua with broad pointed wings, dark blackish brown cap, stout hooked pale blue bill with a dark tip, small dark eye with a tiny dark pupil, brown upperwings with a bold white flash at the base of the primaries, cinnamon underwing coverts, bright cinnamon underparts, short brown tail, legs tucked, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "chisku1",
+      "gbif_taxon_key": 2481610,
+      "pendientes": [
+        "La UNL no tiene ficha de la especie: rasgos verificados con Birds of the World.",
+        "Color de patas: BOW no lo da en la parte consultada; se dejó oscuro como en las otras escúas."
+      ],
+      "amba_indice": 0.11
+    },
+    {
+      "id": 356,
+      "num": "#356",
+      "nombre_comun": "Jote Cabeza Amarilla",
+      "nombre_cientifico": "Cathartes burrovianus",
+      "familia": "Cathartidae",
+      "orden": "Cathartiformes",
+      "descripcion": {
+        "D": "Ave grande, negra. Cabeza sin plumas, amarillo naranja, con la corona azulada. Pico blanquecino. Ojo rojizo. Por debajo, las alas son como las del Jote Cabeza Colorada, con las plumas largas grises plateadas. Patas blanquecinas. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "humedal",
+        "pastizal"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "grande",
+      "largo_cm": "58-69",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chaco",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "Misiones",
+        "Salta",
+        "Santa Fe",
+        "Santiago del Estero"
+      ],
+      "curiosidades": "Es más chico que el Jote Cabeza Colorada y vuela bajo sobre esteros, bañados y pastizales, con las alas en V y balanceándose. Como su pariente, encuentra la carroña por el olfato, algo raro entre las aves. Se posa en árboles, postes o en el suelo.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the bare head bright yellow orange with a bluish crown, make the eye reddish, keep the ivory bill, make the legs whitish, keep the black body, keep white background, no shadow, no text"
+      },
+      "recolor_base": {
+        "D": "Cathartes_aura_D.png"
+      },
+      "audio_ebird_code": "lyhvul1",
+      "gbif_taxon_key": 2481928,
+      "pendientes": [],
+      "amba_indice": 0.06
+    },
+    {
+      "id": 357,
+      "num": "#357",
+      "nombre_comun": "Inambú Pálido",
+      "nombre_cientifico": "Nothura darwinii",
+      "familia": "Tinamidae",
+      "orden": "Tinamiformes",
+      "descripcion": {
+        "D": "Ave de suelo mediana, rechoncha y de cola muy corta. Corona marrón rojiza barrada de negro parduzco con algunas estrías blanquecinas. Ceja y lados de la cabeza beige salpicados de manchitas oscuras. Pico pardo oscuro arriba y blanquecino a amarillento abajo. Ojo amarillo en el macho y naranja a pardo anaranjado en la hembra. Partes de arriba pardo oscuras, con bandas finas pardo claras y rufas y estrías blanquecinas. Alas barradas de beige rojizo y pardo. Garganta blanca. Cuello y pecho marrón rojizos estriados de negro. Vientre y flancos leonados, con los flancos barrados de pardo. Patas amarillo pálidas a pardo grisáceas pálidas."
+      },
+      "habitat": [
+        "pastizal",
+        "monte"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "25-27",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "Catamarca",
+        "Chubut",
+        "Córdoba",
+        "La Pampa",
+        "Mendoza",
+        "Río Negro",
+        "Salta",
+        "San Luis"
+      ],
+      "curiosidades": "Es el pariente de estepa de la Perdiz Chica, más pálido y de lugares más secos: pastizales ralos, estepas y montes abiertos del oeste y el sur. Corre agachado entre las matas y solo vuela cuando está muy cerca, con un aleteo ruidoso. Como en otras perdices, el macho incuba los huevos.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the plumage paler and sandier overall, make the crown rufous brown barred blackish, make the face buff speckled dark, make the neck and breast rufous brown streaked black, make the belly and flanks pale tawny with thin brown bars on the flanks, make the eye yellow, keep white background, no shadow, no text"
+      },
+      "recolor_base": {
+        "D": "Nothura_maculosa_D.png"
+      },
+      "audio_ebird_code": "darnot1",
+      "gbif_taxon_key": 2477610,
+      "pendientes": [
+        "La UNL no tiene ficha de la especie: rasgos verificados con Birds of the World."
+      ],
+      "amba_indice": 0.0
     }
   ]
 }
