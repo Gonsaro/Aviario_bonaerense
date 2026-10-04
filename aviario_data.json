@@ -11281,7 +11281,7 @@
       "curiosidades": "Las poblaciones de Sudamérica tienen el pico todo amarillo y se las conoce también como Gaviotín de Cayena; las del hemisferio norte tienen el pico negro con la punta amarilla. Cría en colonias en la costa patagónica, a menudo junto al Gaviotín Real, y se zambulle en picada para pescar.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the bird look slimmer, make the bill longer and more slender and bright yellow, make the forehead and crown white speckled with black, keep the black band from the eye across the nape ending in a short shaggy crest, make the back and wings pale grey, keep the white tail and white underparts, make the legs black, keep white background, no shadow, no text"
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the bird look slimmer, make the bill longer and more slender and bright yellow, make the forehead and front of the crown clean plain white with no spots, keep the black band from the eye across the nape ending in a short shaggy crest, make the back and wings pale grey, keep the white tail and white underparts, make the legs black, keep white background, no shadow, no text"
       },
       "recolor_base": {
         "D": "Thalasseus_maximus_D.png"
