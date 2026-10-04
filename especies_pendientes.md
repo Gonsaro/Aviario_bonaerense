@@ -2,27 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (319 cargadas).
+`aviario_data.json` (332 cargadas).
 
 
-**Faltan: 38 especies**
+**Faltan: 25 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 322 | Canastero Chaqueño | *Asthenes baeri* | #670 |
-| 323 | Cacholote Castaño | *Pseudoseisura lophotes* | #686 |
-| 324 | Gaucho Chico | *Agriornis murinus* | #839 |
-| 325 | Yal Negro | *Rhopospina fruticeti* | #994 |
-| 326 | Batitú | *Bartramia longicauda* | #228 |
-| 327 | Fiofío Grande | *Elaenia spectabilis* | #740 |
-| 328 | Tijerilla | *Xenopsaris albinucha* | #710 |
-| 329 | Pollona Azul | *Porphyrio martinica* | #181 |
-| 330 | Jilguero Grande | *Sicalis auriventris* | #983 |
-| 331 | Albatros Picofino | *Thalassarche chlororhynchos* | #321 |
-| 332 | Volatinero | *Volatinia jacarina* | #1005 |
-| 333 | Viudita Chica | *Knipolegus hudsoni* | #815 |
-| 334 | Petrel Plateado | *Fulmarus glacialoides* | #337 |
 | 335 | Salteador Chico | *Stercorarius parasiticus* | #272 |
 | 336 | Garza Azul | *Egretta caerulea* | #397 |
 | 337 | Golondrina Zapadora | *Riparia riparia* | #869 |
