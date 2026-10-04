@@ -10625,7 +10625,7 @@
       "curiosidades": "Come carroña y cumple un papel clave limpiando el campo de animales muertos. En vuelo tiene una silueta triangular, por las alas anchas y la cola corta, y alterna aleteos rápidos con planeos. Es muy gregario: se junta en grupos grandes en los dormideros y alrededor de la comida, y suele desplazar al Jote Cabeza Colorada.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched upright on a thick fence post, white background, 1024x1024 pixels, bird filling 65% of canvas height, large stocky vulture, bare wrinkled black skin on the head and upper neck without feathers, hooked grey bill, small dark brown eye, all black body plumage with a ruff of feathers at the base of the neck, broad black folded wings, short square black tail barely reaching past the wingtips, greyish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on the ground on a small patch of dry earth, white background, 1024x1024 pixels, bird filling 65% of canvas height, large stocky vulture, bare wrinkled black skin on the head and upper neck without feathers, hooked grey bill, small dark brown eye, all black body plumage with a ruff of feathers at the base of the neck, broad black folded wings, short square black tail barely reaching past the wingtips, greyish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "blkvul",
       "gbif_taxon_key": 2481942,
@@ -10704,12 +10704,15 @@
       "curiosidades": "Es una de las aves más amenazadas de los pastizales: necesita pastizales naturales altos y no cría en campos agrícolas ni en pasturas implantadas. Antes ocupaba gran parte de la pampa; hoy quedan poblaciones chicas y aisladas, sobre todo en el sudoeste de Buenos Aires y en La Pampa. Se distingue de la Loica por ser más chica y tener las plumas de debajo del ala negras, no blancas.",
       "sprites": {},
       "prompts_pixelart": {
-        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a tall grass stem, white background, 1024x1024 pixels, bird filling 65% of canvas height, stocky chunky meadowlark with a fairly short tail, black head and sides of the neck, long eyebrow that is red in front of the eye and white behind the eye, short white moustache stripe and white lower eyelid, pointed silvery grey bill with a dark ridge and tip, small dark eye, dark dusky brown back and wings with brownish streaks, a small rosy red patch at the bend of the wing, blackish tail with fine olive bars, rosy red chin, throat, breast and center of the belly, black sides of the breast, flanks and undertail, dark brown legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "M": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the head mostly black, with a long eyebrow that is red from the bill to the eye and white behind the eye, add a short white moustache mark, make the bill silvery grey with a dark tip, make the back and wings dark dusky brown with brownish streaks and a small rosy red patch on the wing coverts, make the tail blackish with fine olive bars, make the chin, throat and breast rosy red with black sides, make the belly, flanks and undertail black, make the legs dark brown, keep white background, no shadow, no text"
       },
       "audio_ebird_code": "pammea1",
       "gbif_taxon_key": 9686089,
       "pendientes": [],
-      "amba_indice": 0.01
+      "amba_indice": 0.01,
+      "recolor_base": {
+        "M": "Leistes_loyca_M.png"
+      }
     },
     {
       "id": 220,
@@ -10752,7 +10755,7 @@
       "curiosidades": "Es muy inquieto: recorre ramas y follaje como un herrerillo, a veces colgado cabeza abajo, buscando insectos desde el suelo hasta unos 4 metros de altura. Su cola es más larga que el cuerpo. Anida en huecos de árboles o en nidos viejos de otras aves, como los del Hornero o los Espineros.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thin twig, white background, 1024x1024 pixels, bird including its long tail filling about 75% of canvas width, small slim tit-spinetail with a small pointed crest and a very long graduated pointed tail longer than the body, greyish brown crest streaked ochre, thin pointed dark brown bill with a whitish base on the lower mandible, small dark brown eye, greyish brown back, brown wings with a chestnut band and ochre feather edges, long brown tail with cinnamon outer feathers, whitish throat finely streaked greyish brown, greyish breast and belly, yellowish brown legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a thin twig, white background, 1024x1024 pixels, bird including its long tail filling about 75% of canvas width, small slim tit-spinetail with an erect pointed crest, crest dark brown finely streaked buff, thin whitish eyebrow, short thin pointed dark bill, small dark eye, pale throat and upper breast densely spotted with small dark brown spots, plain greyish brown back, brown wings with a rufous band and buff feather edges, plain buffy grey belly, very long graduated tail longer than the body, its two long narrow central feathers ending in fine bare spiky pointed tips, brown with cinnamon outer feathers, yellowish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "tutspi1",
       "gbif_taxon_key": 2485151,
@@ -10802,7 +10805,7 @@
       "curiosidades": "Es un tiránido discreto, de colores apagados, que anda solo o en pareja en la parte media y alta de los árboles del monte. Recorre ramas y follaje, salta y caza insectos al vuelo. Suele unirse a bandadas mixtas con otros pájaros insectívoros.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a twig, white background, 1024x1024 pixels, bird filling 65% of canvas height, small plain tyrant flycatcher, grey crown and back with an ochre tinge, short black bill, small brown eye with a tiny dark pupil, brown wings with ochre feather edges and two ochre wing bars, dark brown tail, white throat, greyish breast, whitish belly, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a twig, white background, 1024x1024 pixels, bird filling 65% of canvas height, small tyrant flycatcher, pale grey head with a short white eyebrow and a darker grey eye line, short black bill, small dark eye, olive grey back, blackish wings with bold white edges on the flight feathers and two bold white wing bars, long dark grey tail, white throat, very pale grey breast, white belly, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "suifly1",
       "gbif_taxon_key": 2482852,
@@ -10853,7 +10856,7 @@
       "curiosidades": "Llega en primavera a criar y en otoño migra a la Amazonia. Se oye mucho más de lo que se ve: canta fuerte y sin parar, incluso en las horas de calor, frases cortas repetidas como 'chiví, chiví'. Anda solo, muy activo, revisando el follaje entre los 4 y 7 metros de altura en busca de insectos.",
       "sprites": {},
       "prompts_pixelart": {
-        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a leafy twig, white background, 1024x1024 pixels, bird filling 65% of canvas height, small vireo, grey crown, bold white eyebrow bordered above by a thin dark line, dark line through the eye, short stout blackish bill, small red eye with a tiny dark pupil, olive green back, brown wings and tail with olive feather edges, whitish throat, breast and belly, bluish grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a twig, white background, 1024x1024 pixels, bird filling 65% of canvas height, small vireo with a fairly long stout pointed bill, grey crown, bold white eyebrow bordered above by a distinct black line, dark eye line, blackish upper bill and grey lower bill, small red eye with a tiny dark pupil, bright olive green nape, back, wings and tail, pale yellowish olive wash on the sides of the neck, flanks and undertail, whitish throat and center of the belly, bluish grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
       },
       "audio_ebird_code": "chivir1",
       "gbif_taxon_key": 8345406,
