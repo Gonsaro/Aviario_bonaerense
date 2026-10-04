@@ -2,22 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (216 cargadas).
+`aviario_data.json` (224 cargadas).
 
 
-**Faltan: 143 especies**
+**Faltan: 135 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 215 | Jote Cabeza Negra | *Coragyps atratus* | #409 |
-| 216 | Pato Real | *Cairina moschata* | #33 |
-| 217 | Loica Pampeana | *Leistes defilippii* | #935 |
-| 218 | Coludito Copetón | *Leptasthenura platensis* | #658 |
-| 219 | Suirirí Gris | *Suiriri suiriri* | #750 |
-| 220 | Chiví Común | *Vireo chivi* | #853 |
-| 221 | Golondrina Patagónica | *Tachycineta leucopyga* | #868 |
-| 222 | Petrel Gigante Antártico | *Macronectes giganteus* | #335 |
 | 223 | Mirasol Estriado | *Botaurus involucris* | #387 (como *Ixobrychus involucris*) |
 | 224 | Viudita Pico Celeste | *Knipolegus cyanirostris* | #812 |
 | 225 | Atajacaminos Tijera | *Hydropsalis torquata* | #132 |
