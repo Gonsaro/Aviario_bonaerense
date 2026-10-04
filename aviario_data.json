@@ -12715,6 +12715,450 @@
         "Registros en Buenos Aires y CABA: probables aves escapadas de cautiverio (su área natural es el norte)."
       ],
       "amba_indice": 0.57
+    },
+    {
+      "id": 264,
+      "num": "#264",
+      "nombre_comun": "Monjita Gris",
+      "nombre_cientifico": "Nengetus cinereus",
+      "familia": "Tyrannidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro mediano, gris y blanco. Cabeza y dorso grises; el espacio entre el pico y el ojo, una línea debajo del ojo y la garganta son blancos. Pico negro. Ojo rojizo. Alas negras con una banda blanca en las plumas largas y las cubiertas con la punta blanca. Cola negra con la punta blanca. Pecho gris claro; abdomen y debajo de la cola blancos. Patas negras. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "pastizal",
+        "agrícola",
+        "monte"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "22",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Chaco",
+        "Corrientes",
+        "Entre Ríos",
+        "Formosa",
+        "Misiones",
+        "Santa Fe"
+      ],
+      "curiosidades": "Anda sola y se posa a la vista en postes, alambrados, palmeras y ramas altas. Desde ahí sale a cazar insectos al vuelo, con las patas colgando, o baja a correrlos por el suelo. Al volar muestra la banda blanca de las alas sobre el negro.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched upright on a fence post, white background, 1024x1024 pixels, bird filling 65% of canvas height, plain grey crown, nape and back, white lores, thin white line below the eye, short black bill, small reddish eye with a tiny dark pupil, black folded wings with white tips on the coverts and a white band on the flight feathers, black tail with a white tip, white throat, pale grey breast, white belly and undertail, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "grymon1",
+      "gbif_taxon_key": 11362256,
+      "pendientes": [],
+      "amba_indice": 0.47
+    },
+    {
+      "id": 265,
+      "num": "#265",
+      "nombre_comun": "Calancate Cabeza Azul",
+      "nombre_cientifico": "Thectocercus acuticaudatus",
+      "familia": "Psittacidae",
+      "orden": "Psittaciformes",
+      "descripcion": {
+        "D": "Loro mediano, de cola larga y en punta. Color general verde. Frente, corona, cara, oídos y parte de la garganta celeste brillante. Piel desnuda blanco amarillenta alrededor del ojo. Pico blanco con la punta negra arriba y negruzco abajo. Ojo amarillo. Alas verdes con el borde de las plumas largas pardo azulado. Cola larga verde, con rojo en la cara interna de las plumas de afuera. Pecho y vientre amarillo verdosos. Patas rosado amarillentas. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "monte",
+        "bosque",
+        "urbano"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "34-38",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chaco",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "La Pampa",
+        "La Rioja",
+        "Río Negro",
+        "Salta",
+        "San Juan",
+        "San Luis",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tucumán"
+      ],
+      "curiosidades": "Forma bandadas ruidosas que recorren los montes del centro y norte del país buscando frutos y semillas, como las del algarrobo y el chañar. Anida en huecos de árboles y de barrancas. Por su color y por lo fácil que aprende a imitar sonidos fue muy capturado como mascota.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a branch, white background, 1024x1024 pixels, bird including its long tail filling about 75% of canvas width, medium parakeet with a long pointed tail, shiny pale blue forehead, crown, face, ear area and upper throat, bare yellowish white skin around the eye, strong hooked whitish bill with a black tip and a blackish lower mandible, small yellow eye with a tiny dark pupil, green back, green wings with bluish brown edges on the flight feathers, long pointed green tail, yellowish green breast and belly, pinkish yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "bucpar",
+      "gbif_taxon_key": 7826906,
+      "pendientes": [
+        "Registros en CABA y el conurbano: en parte aves escapadas de cautiverio."
+      ],
+      "amba_indice": 0.1
+    },
+    {
+      "id": 266,
+      "num": "#266",
+      "nombre_comun": "Calandria Mora",
+      "nombre_cientifico": "Mimus patagonicus",
+      "familia": "Mimidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro mediano, de cola larga. Partes de arriba gris parduscas lisas, con una ceja blanquecina. Pico negro. Ojo pardo. Alas pardas, con el borde de las plumas blanquecino y las cubiertas con la punta blanca. Cola negra con la punta blanca. Partes inferiores ocráceas. Patas negras. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "monte",
+        "pastizal",
+        "urbano"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "22,5",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chubut",
+        "Córdoba",
+        "Entre Ríos",
+        "Jujuy",
+        "La Pampa",
+        "La Rioja",
+        "Mendoza",
+        "Neuquén",
+        "Río Negro",
+        "Salta",
+        "San Juan",
+        "San Luis",
+        "Santa Cruz",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tucumán"
+      ],
+      "curiosidades": "Es la calandria de la Patagonia y los montes secos del oeste; en otoño e invierno muchas llegan a Buenos Aires desde el sur. Su canto es variado y musical, más suave que el de la Calandria Grande, y también imita voces de otras aves y hasta de mamíferos. Camina y corre por el suelo detrás de insectos.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a short branch, white background, 1024x1024 pixels, bird including its long tail filling about 75% of canvas width, slender mockingbird with a long tail, plain greyish brown head and back, whitish eyebrow, slender slightly curved black bill, small brown eye with a tiny dark pupil, brown wings with whitish edges on the flight feathers and white tips on the coverts, long black tail with a white tip, ochre buff throat, breast and belly, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "patmoc1",
+      "gbif_taxon_key": 5231683,
+      "pendientes": [],
+      "amba_indice": 0.05
+    },
+    {
+      "id": 267,
+      "num": "#267",
+      "nombre_comun": "Burrito Colorado",
+      "nombre_cientifico": "Rufirallus leucopyrrhus",
+      "familia": "Rallidae",
+      "orden": "Gruiformes",
+      "descripcion": {
+        "D": "Ave acuática chica, de pico corto. Frente, parte de adelante de la corona y lados de la cara rojizos; resto de la cabeza pardo oliváceo. Pico pardo verdoso. Ojo rojo. Nuca y parte de arriba del dorso pardo rojizos; parte de abajo del dorso, rabadilla y cola pardo oliváceo oscuro. Alas pardas, con las cubiertas pardo oliváceas y rojizas. Garganta, cuello de adelante, pecho y abdomen blancos; lados del cuello y del pecho rojizos. Flancos barrados de blanco y negro. Debajo de la cola, blanco. Patas rojizas. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "humedal"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "14-16",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Misiones"
+      ],
+      "curiosidades": "Es muy difícil de ver: vive escondido entre juncos y pajonales de bañados, y casi siempre se lo detecta por su canto, un trino gutural largo que la pareja a veces hace a dúo. En la Reserva Ecológica Costanera Sur es uno de los premios para los observadores pacientes.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), walking on the ground, white background, 1024x1024 pixels, bird filling 62% of canvas height, small plump crake with a short tail, rufous forehead, forecrown, sides of the face and ear area, rest of the crown olive brown, short greenish brown bill, small red eye with a tiny dark pupil, rufous chestnut hind neck and upper back, dark olive brown lower back and tail, brown wings with olive brown and rufous coverts, white throat, foreneck, breast and belly, rufous sides of the neck and breast, flanks boldly barred black and white, white undertail, reddish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": null,
+      "gbif_taxon_key": 4852342,
+      "pendientes": [],
+      "amba_indice": 1.29
+    },
+    {
+      "id": 268,
+      "num": "#268",
+      "nombre_comun": "Caminera Estriada",
+      "nombre_cientifico": "Geositta cunicularia",
+      "familia": "Furnariidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro chico, de suelo. Partes de arriba parduscas, con la corona estriada de oscuro y una ceja blanca. Pico gris negruzco, algo curvo, con la base de abajo parda. Ojo pardo oscuro. Alas canela con las puntas pardo oscuras; secundarias y cubiertas bordeadas de ocráceo. Cola negra con la base canela. Partes inferiores ocráceas, con el pecho 'escamado' de pardusco. Patas pardo negruzcas. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "pastizal",
+        "costa"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "16",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "Catamarca",
+        "Chubut",
+        "Córdoba",
+        "Jujuy",
+        "La Pampa",
+        "La Rioja",
+        "Mendoza",
+        "Neuquén",
+        "Río Negro",
+        "Salta",
+        "San Juan",
+        "San Luis",
+        "Santa Cruz",
+        "Santa Fe",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "Vive en el suelo: camina y corre mucho por pastizales cortos, médanos y estepas. Anida al final de un túnel que cava en barrancas o en el suelo, de ahí su nombre científico 'cunicularia' (que hace cuevas, como un conejo). Canta suave, posada o en un vuelo de exhibición.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on the ground, white background, 1024x1024 pixels, bird filling 62% of canvas height, small ground bird with a short tail, brownish crown with fine dark streaks, white eyebrow, slender slightly decurved grey black bill with a brownish base to the lower mandible, small dark brown eye with a tiny dark pupil, plain brownish back, folded wings with cinnamon flight feathers tipped dark brown and ochre edged coverts, black tail with a cinnamon base, ochre buff underparts with the breast scaled brownish, dark brown legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "commin1",
+      "gbif_taxon_key": 2485888,
+      "pendientes": [],
+      "amba_indice": 0.02
+    },
+    {
+      "id": 269,
+      "num": "#269",
+      "nombre_comun": "Cardelino",
+      "nombre_cientifico": "Carduelis carduelis",
+      "familia": "Fringillidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro chico, introducido desde Europa. Cara roja; el resto de la cabeza blanco y negro. Pico cónico, fino y puntiagudo, color marfil. Dorso pardo cálido. Alas negras con una franja amarilla ancha y puntas blancas. Cola negra, escotada, con puntas blancas. Partes inferiores blancas, con el pecho y los flancos pardo ocráceos. Macho y hembra son muy parecidos; en el macho el rojo de la cara pasa un poco detrás del ojo."
+      },
+      "habitat": [
+        "urbano",
+        "arbolado",
+        "pastizal"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "12-13",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires"
+      ],
+      "curiosidades": "Es el jilguero europeo, traído como ave de jaula por su canto. Aves escapadas o liberadas formaron poblaciones silvestres en Uruguay y la costa de Buenos Aires, desde donde se fue expandiendo. Come semillas de cardos y otras plantas, colgándose de los tallos con mucha habilidad.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a short twig, white background, 1024x1024 pixels, bird filling 72% of canvas height, small finch with a forked tail, bright red face, black crown and black stripe behind the face, white cheeks and throat sides, slender pointed ivory bill, small dark eye with a tiny dark pupil, warm brown back, black wings with a broad bright yellow wing bar and small white tips, black notched tail with white spots, white underparts with warm buff breast patches and flanks, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "exotica": true,
+      "audio_ebird_code": "eurgol",
+      "gbif_taxon_key": 2494686,
+      "pendientes": [
+        "La UNL no tiene ficha de la especie: rasgos tomados de Wikipedia (en/es).",
+        "Color de patas: no se pudo confirmar; se omitió del prompt."
+      ],
+      "amba_indice": 0.04
+    },
+    {
+      "id": 270,
+      "num": "#270",
+      "nombre_comun": "Piquitodeoro Chico",
+      "nombre_cientifico": "Catamenia analis",
+      "familia": "Thraupidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "M": "Pájaro chico, parecido a un corbatita. El macho es gris plomizo, con la frente y el espacio entre el pico y el ojo negros. Pico amarillo. Vientre blanco y debajo de la cola rufo. En vuelo muestra una franja blanca en el ala y otra en la cola.",
+        "F": "La hembra tiene el dorso pardo y las partes inferiores ocráceas, todo estriado; conserva el pico amarillento y lo rufo debajo de la cola."
+      },
+      "habitat": [
+        "pastizal",
+        "monte"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "chico",
+      "largo_cm": "13",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "Catamarca",
+        "Córdoba",
+        "Jujuy",
+        "La Pampa",
+        "La Rioja",
+        "Mendoza",
+        "Neuquén",
+        "Río Negro",
+        "Salta",
+        "San Juan",
+        "San Luis",
+        "Santiago del Estero",
+        "Tucumán"
+      ],
+      "curiosidades": "Es un semillero de las sierras y la precordillera del oeste, que en Buenos Aires aparece en las sierras del sur. Su nombre viene del pico amarillo, que contrasta con el plumaje gris. Anda en grupos chicos comiendo semillas de pastos, a veces junto a otros semilleros.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a short twig, white background, 1024x1024 pixels, bird filling 72% of canvas height, small finch-like seedeater with a short thick conical bill, plain leaden grey plumage, black forehead and lores, bright yellow bill, small dark eye with a tiny dark pupil, grey back, dark grey wings with a small white patch, dark grey tail, grey breast, white belly, rufous undertail coverts, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "F": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the upperparts brown with dark streaks, make the underparts ochre buff with fine dark streaks, remove the black forehead and lores, make the bill pale yellowish, keep the rufous undertail coverts, keep white background, no shadow, no text"
+      },
+      "recolor_base": {
+        "F": "Catamenia_analis_M.png"
+      },
+      "audio_ebird_code": "batsee1",
+      "gbif_taxon_key": 2491185,
+      "pendientes": [
+        "La UNL no tiene ficha de la especie: rasgos tomados de avespampa.",
+        "Color de ojo y patas: no se pudieron confirmar; se omitieron del prompt."
+      ],
+      "amba_indice": 0.0
+    },
+    {
+      "id": 271,
+      "num": "#271",
+      "nombre_comun": "Cuclillo Chico",
+      "nombre_cientifico": "Coccycua cinerea",
+      "familia": "Cuculidae",
+      "orden": "Cuculiformes",
+      "descripcion": {
+        "D": "Cuclillo mediano, esbelto y de cola larga. Cabeza gris plomiza. Pico negro. Ojo rojo, con un anillo rojo. Dorso gris pardusco. Alas pardas. Cola gris pardusco oscuro con la punta blanca. Garganta y pecho gris pardusco claros; abdomen blanquecino ocráceo; vientre y debajo de la cola amarillentos. Patas grises. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "monte",
+        "arbolado",
+        "bosque"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "23-25",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "La Pampa",
+        "Salta",
+        "San Luis",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tucumán"
+      ],
+      "curiosidades": "Llega en primavera y se va en otoño. Anda solo y se mueve con calma por la parte media de los árboles, buscando orugas, incluso las peludas que otras aves evitan. A diferencia del cuclillo europeo, no pone huevos en nidos ajenos: arma su propio nido de palitos.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a branch, white background, 1024x1024 pixels, bird including its long tail filling about 75% of canvas width, slender cuckoo with a long graduated tail, plain leaden grey head, slightly decurved black bill, small red eye with a tiny dark pupil, greyish brown back, brown wings, long dark greyish brown tail with white tips, pale greyish brown throat and breast, whitish buff belly, yellowish lower belly and undertail, grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "asccuc1",
+      "gbif_taxon_key": 5788393,
+      "pendientes": [],
+      "amba_indice": 0.75
+    },
+    {
+      "id": 272,
+      "num": "#272",
+      "nombre_comun": "Gallineta Overa",
+      "nombre_cientifico": "Pardirallus maculatus",
+      "familia": "Rallidae",
+      "orden": "Gruiformes",
+      "descripcion": {
+        "D": "Ave acuática mediana, de pico largo. Cabeza parda, con la corona más oscura y los lados de la cara con manchitas blancas. Pico verde con la base roja. Ojo rojo. Dorso y cubiertas del ala pardos, manchados de negro y con estrías blancas. Alas y cola pardas. Garganta blanquecina. Cuello negro jaspeado de blanco. Pecho y abdomen barrados de negro y blanco. Debajo de la cola, blanco. Patas rojizas. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "humedal"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "25-30",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Chaco",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Misiones",
+        "Santa Fe"
+      ],
+      "curiosidades": "Es arisca y vive escondida en juncales y pajonales de bañados, donde camina entre la vegetación tupida. Anda sola o en pareja y se la ve sobre todo al amanecer o al atardecer, cuando sale a los bordes del agua. Su plumaje barrado y manchado la hace única entre las gallinetas.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), walking on the ground, white background, 1024x1024 pixels, bird filling 62% of canvas height, rail with a long straight bill and a short tail, brown head with a darker crown and small white spots on the sides of the face, long green bill with a red base, small red eye with a tiny dark pupil, brown back and wing coverts spotted black and streaked white, brown wings and tail, whitish throat, black neck speckled white, breast and belly boldly barred black and white, white undertail, reddish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "sporai",
+      "gbif_taxon_key": 2474711,
+      "pendientes": [],
+      "amba_indice": 0.49
+    },
+    {
+      "id": 273,
+      "num": "#273",
+      "nombre_comun": "Cachudito Pico Amarillo",
+      "nombre_cientifico": "Anairetes flavirostris",
+      "familia": "Tyrannidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro muy chico, con un copete largo y negro. Cabeza negra con estrías blanquecinas. Pico negro con la base de abajo y la punta amarillas. Ojo pardo. Dorso gris. Alas pardas con dos bandas blanquecinas. Cola parda; las plumas de los costados tienen la punta blanquecina. Garganta y pecho blanquecinos con estrías pardas. Abdomen amarillento. Patas negras. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "monte",
+        "arbolado"
+      ],
+      "residencia": "invernal",
+      "tamanio_categoria": "chico",
+      "largo_cm": "11",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chubut",
+        "Córdoba",
+        "Jujuy",
+        "La Pampa",
+        "La Rioja",
+        "Mendoza",
+        "Neuquén",
+        "Río Negro",
+        "Salta",
+        "San Juan",
+        "San Luis",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tucumán"
+      ],
+      "curiosidades": "Vive en los montes secos del oeste y en invierno algunos llegan hasta Buenos Aires. Es inquieto: salta entre ramas y follaje, revolotea y caza insectos al vuelo. Su copete negro, partido en dos puntas, le da el nombre de 'cachudito' (con cachos o cuernitos).",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a short twig, white background, 1024x1024 pixels, bird filling 72% of canvas height, tiny tit-tyrant with a long thin black crest, black head streaked whitish, short thin black bill with a yellow base to the lower mandible and a yellow tip, small brown eye with a tiny dark pupil, grey back, brown wings with two whitish wing bars, brown tail with whitish outer tips, whitish throat and breast streaked brown, yellowish belly, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "ybttyr1",
+      "gbif_taxon_key": 2482680,
+      "pendientes": [],
+      "amba_indice": 0.15
     }
   ]
 }

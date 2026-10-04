@@ -2,24 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (263 cargadas).
+`aviario_data.json` (273 cargadas).
 
 
-**Faltan: 96 especies**
+**Faltan: 86 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 264 | Monjita Gris | *Nengetus cinereus* | #830 |
-| 265 | Calancate Cabeza Azul | *Thectocercus acuticaudatus* | #566 |
-| 266 | Calandria Mora | *Mimus patagonicus* | #896 |
-| 267 | Burrito Colorado | *Rufirallus leucopyrrhus* | #186 |
-| 268 | Caminera Estriada | *Geositta cunicularia* | #606 |
-| 269 | Cardelino | *Carduelis carduelis* | #911 |
-| 270 | Piquitodeoro Chico | *Catamenia analis* | #1001 |
-| 271 | Cuclillo Chico | *Coccycua cinerea* | #113 |
-| 272 | Gallineta Overa | *Pardirallus maculatus* | #191 |
-| 273 | Cachudito Pico Amarillo | *Anairetes flavirostris* | #759 |
 | 274 | Bandurrita Chaqueña | *Tarphonomus certhioides* | #630 |
 | 275 | Atajacaminos Ñañarca | *Systellura longirostris* | #126 |
 | 276 | Esparvero Estriado | *Accipiter striatus* | #434 |

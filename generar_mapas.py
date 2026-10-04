@@ -110,6 +110,7 @@ GBIF_ALIAS = {
     'Aramides cajaneus': ('scientificName', 'Aramides cajanea'),
     'Charadrius collaris': ('verbatimScientificName', 'Anarhynchus collaris'),  # eBird usa el género nuevo
     'Ixobrychus involucris': ('verbatimScientificName', 'Botaurus involucris'),  # eBird usa el género nuevo
+    'Rufirallus leucopyrrhus': ('taxonKey', '4852342'),  # GBIF no resuelve el nombre, sí el taxonKey
 }
 
 
