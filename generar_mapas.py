@@ -109,6 +109,7 @@ GBIF_ALIAS = {
     'Daptrius chimango': ('verbatimScientificName', 'Daptrius chimango'),  # eBird lo publica así
     'Aramides cajaneus': ('scientificName', 'Aramides cajanea'),
     'Charadrius collaris': ('verbatimScientificName', 'Anarhynchus collaris'),  # eBird usa el género nuevo
+    'Ixobrychus involucris': ('verbatimScientificName', 'Botaurus involucris'),  # eBird usa el género nuevo
 }
 
 

@@ -2,22 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (224 cargadas).
+`aviario_data.json` (232 cargadas).
 
 
-**Faltan: 135 especies**
+**Faltan: 127 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 223 | Mirasol Estriado | *Botaurus involucris* | #387 (como *Ixobrychus involucris*) |
-| 224 | Viudita Pico Celeste | *Knipolegus cyanirostris* | #812 |
-| 225 | Atajacaminos Tijera | *Hydropsalis torquata* | #132 |
-| 226 | Varillero Negro | *Agelasticus cyanopus* | #950 |
-| 227 | Vuelvepiedras | *Arenaria interpres* | #233 |
-| 228 | Playero Zancudo | *Calidris himantopus* | #237 |
-| 229 | Pardela Boreal | *Puffinus puffinus* | #361 |
-| 231 | Gaviotín Pico Amarillo | *Thalasseus sandvicensis* | #299 |
 | 232 | Reinamora Grande | *Cyanoloxia brissonii* | #973 |
 | 233 | Viudita Blanca | *Fluvicola albiventer* | #801 |
 | 234 | Chorlo Cabezón | *Oreopholus ruficollis* | #210 |

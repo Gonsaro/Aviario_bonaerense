@@ -10954,6 +10954,342 @@
       "gbif_taxon_key": 2481515,
       "pendientes": [],
       "amba_indice": 0.01
+    },
+    {
+      "id": 225,
+      "num": "#225",
+      "nombre_comun": "Mirasol Estriado",
+      "nombre_cientifico": "Ixobrychus involucris",
+      "familia": "Ardeidae",
+      "orden": "Pelecaniformes",
+      "descripcion": {
+        "D": "Garza chica y difícil de ver. Corona negra. Costados de la cabeza y parte de atrás del cuello ocráceo amarillentos. Pico amarillo verdoso. Ojo amarillo. Dorso rayado de negro, ocráceo y canela. Alas pardo oscuras con la punta de las plumas largas rojiza; cubiertas ocráceo canela con manchas castañas. Frente del cuello blanquecino jaspeado de canela; abajo pardo y canela, con el vientre blanquecino. Patas amarillo verdosas. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "humedal"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "28-30",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "La Pampa",
+        "Río Negro",
+        "San Luis",
+        "Santa Fe",
+        "Santiago del Estero"
+      ],
+      "curiosidades": "Vive escondido en juncales y totorales densos, donde se mueve despacio y casi nunca levanta vuelo. Cuando se siente observado se queda quieto con el pico apuntando hacia arriba: las rayas del cuello lo camuflan entre los juncos. Anda solo y es mucho más fácil oírlo que verlo.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), clinging to vertical reed stems, white background, 1024x1024 pixels, bird filling 70% of canvas height, small skulking bittern, black crown, ochre yellowish face and hindneck, sharp pointed yellowish green bill, small yellow eye with a dark pupil, back boldly striped black, ochre and cinnamon, ochre cinnamon wing coverts with chestnut spots, dark brown flight feathers with rufous tips, whitish front of the neck streaked cinnamon, brown and cinnamon breast, whitish belly, yellowish green legs gripping the reeds, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "stbbit1",
+      "gbif_taxon_key": 2480851,
+      "pendientes": [],
+      "amba_indice": 1.03
+    },
+    {
+      "id": 226,
+      "num": "#226",
+      "nombre_comun": "Viudita Pico Celeste",
+      "nombre_cientifico": "Knipolegus cyanirostris",
+      "familia": "Tyrannidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "M": "Pájaro chico. El macho es todo negro, con blanco en las plumas de adentro del ala que se ve en vuelo. Pico negruzco con la parte de abajo celeste azulada. Ojo rojo o naranja. Patas negras.",
+        "F": "La hembra tiene la corona y el dorso pardos con tono castaño y estrías finas negruzcas en la frente, la rabadilla castaña, abajo blanquecina muy estriada de pardo, las alas pardas con dos franjas canela y la cola parda y canela."
+      },
+      "habitat": [
+        "monte",
+        "bosque",
+        "ribereño"
+      ],
+      "residencia": "invernal",
+      "tamanio_categoria": "chico",
+      "largo_cm": "15",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Corrientes",
+        "Entre Ríos",
+        "Misiones",
+        "Santa Fe"
+      ],
+      "curiosidades": "Llega a Buenos Aires sobre todo en otoño e invierno, y se la ve en las selvas en galería y montes ribereños. Caza insectos al vuelo desde ramas bajas y semiocultas. El macho todo negro con el ojo rojo es inconfundible; la hembra, parda y muy estriada, es mucho más discreta.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a twig, white background, 1024x1024 pixels, bird filling 65% of canvas height, small all black tyrant flycatcher, glossy black head, body, wings and tail, short bill with a black upper mandible and a pale sky blue lower mandible, small bright red eye with a tiny dark pupil, a thin white edge on the inner flight feathers of the folded wing, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "bbbtyr1",
+      "gbif_taxon_key": 2483052,
+      "pendientes": [],
+      "amba_indice": 1.47
+    },
+    {
+      "id": 227,
+      "num": "#227",
+      "nombre_comun": "Atajacaminos Tijera",
+      "nombre_cientifico": "Hydropsalis torquata",
+      "familia": "Caprimulgidae",
+      "orden": "Caprimulgiformes",
+      "descripcion": {
+        "M": "Ave de hábitos nocturnos, con plumaje que la camufla. Dorso pardo grisáceo moteado de blanquecino, con manchas negras en la cabeza y un collar canela en la nuca. Pico pardusco con la punta negra, muy chico. Ojo pardo. Garganta con manchas canela; abajo blanquecino con barras pardo oscuras, más gruesas en el vientre. Alas pardas con barras ocráceas. Cola grisácea con barras pardo oscuras; el macho tiene las dos plumas de afuera larguísimas, pardo oscuras y blancas, como una tijera. Patas parduscas.",
+        "F": "La hembra tiene tonos más ocráceos, es más barrada por abajo y no tiene las plumas largas de la cola."
+      },
+      "habitat": [
+        "pastizal",
+        "monte",
+        "agrícola"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "30-50",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chaco",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "La Pampa",
+        "La Rioja",
+        "Mendoza",
+        "Misiones",
+        "Neuquén",
+        "Río Negro",
+        "Salta",
+        "San Juan",
+        "San Luis",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tucumán"
+      ],
+      "curiosidades": "Llega en primavera a criar. Es crepuscular y nocturno: de día descansa en el suelo, camuflado entre las hojas, y al atardecer caza insectos en vuelo con un aleteo errático. El macho tiene la cola en tijera más larga que el cuerpo, que mide hasta 50 cm con ella. La hembra finge estar herida para alejar a los intrusos del nido.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "M": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), resting flat on a low bare branch, white background, 1024x1024 pixels, bird including its very long tail filling about 85% of canvas width, nightjar with a flat head, large dark eye, tiny dark bill, cryptic greyish brown plumage finely mottled whitish with black spots on the crown, cinnamon collar on the nape, cinnamon spotted throat, whitish underparts barred dark brown, brown wings barred ochre, grey barred tail with two extremely long outer tail streamers, dark brown edged white, forming a long scissor tail much longer than the body, short brownish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "sctnig2",
+      "gbif_taxon_key": 2497017,
+      "pendientes": [],
+      "amba_indice": 0.73
+    },
+    {
+      "id": 228,
+      "num": "#228",
+      "nombre_comun": "Varillero Negro",
+      "nombre_cientifico": "Agelasticus cyanopus",
+      "familia": "Icteridae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "M": "Pájaro mediano. El macho es todo negro. Pico negro, largo y puntiagudo. Ojo pardo. Patas negras.",
+        "F": "La hembra tiene una ceja ocrácea, la zona de la oreja oscura, el dorso gris pardusco con estrías negruzcas y el lomo castaño, abajo amarillenta con estrías pardas suaves, las alas pardo oscuras con bordes castaños y la cola negruzca."
+      },
+      "habitat": [
+        "humedal",
+        "ribereño"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "22",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Chaco",
+        "Corrientes",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "Misiones",
+        "Salta",
+        "Santa Fe",
+        "Santiago del Estero"
+      ],
+      "curiosidades": "Anda en parejas o grupos chicos en juncales y esteros, y camina con soltura sobre la vegetación flotante buscando insectos. Tiene un canto melodioso. El macho, todo negro, se parece a otros tordos, pero la hembra es muy distinta: parda, estriada y con el pecho amarillento.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "M": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the whole bird plain glossy black, including the head, back, wings, tail, throat, breast and belly, remove any yellow on the shoulder, keep the long pointed black bill, dark eye and black legs, keep white background, no shadow, no text"
+      },
+      "recolor_base": {
+        "M": "Agelasticus_thilius_M.png"
+      },
+      "audio_ebird_code": "unibla2",
+      "gbif_taxon_key": 2484199,
+      "pendientes": [],
+      "amba_indice": 1.2
+    },
+    {
+      "id": 229,
+      "num": "#229",
+      "nombre_comun": "Vuelvepiedras",
+      "nombre_cientifico": "Arenaria interpres",
+      "familia": "Scolopacidae",
+      "orden": "Charadriiformes",
+      "descripcion": {
+        "D": "Ave playera mediana y robusta, de pico corto y algo levantado. Fuera de la época de cría tiene la corona y la nuca pardo grisáceas jaspeadas de negruzco, la cara grisácea blanquecina y la garganta blanca. Pico negro. Ojo pardo oscuro. Espalda parda con los bordes de las plumas blanquecinos. Cuello y pecho pardos con bordes blanquecinos, formando un babero oscuro. Resto de abajo blanco. Alas pardo oscuras con bandas blancas, que en vuelo forman un dibujo llamativo. Cola pardo oscura con la punta blanca. Patas rojas, cortas. Macho y hembra son iguales.",
+        "R": "En plumaje de cría tiene la cara y el pecho con un dibujo negro y blanco muy marcado, la corona blanca con rayitas negras y el dorso castaño y negro."
+      },
+      "habitat": [
+        "costa"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "21-26",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "Mendoza",
+        "Río Negro",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "Su nombre viene de su forma de comer: da vuelta piedras, conchillas y algas con el pico para atrapar los bichitos escondidos debajo. Cría en el Ártico y pasa el verano austral en las costas. Anda en grupos chicos y es bastante arisco.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on a small rocky shore patch, white background, 1024x1024 pixels, bird filling 60% of canvas height, stocky short-legged shorebird with a short slightly upturned wedge-shaped black bill, greyish brown crown and nape mottled blackish, greyish white face, small dark eye, white throat, dark brown back with pale feather edges, dark brown breast band like a bib with pale scaling, clean white belly, dark brown wings with white patches, short bright orange red legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "rudtur",
+      "gbif_taxon_key": 2481776,
+      "pendientes": [],
+      "amba_indice": 0.0
+    },
+    {
+      "id": 230,
+      "num": "#230",
+      "nombre_comun": "Playero Zancudo",
+      "nombre_cientifico": "Calidris himantopus",
+      "familia": "Scolopacidae",
+      "orden": "Charadriiformes",
+      "descripcion": {
+        "D": "Ave playera mediana, esbelta, de patas muy largas y pico largo, negro y algo curvado en la punta. Fuera de la época de cría es gris pardusca por arriba, con el cuello levemente rayado de blanquecino y una ceja blanquecina. Ojo pardo oscuro. Rabadilla gris pardusca y plumas de arriba de la cola blancas. Alas pardo oscuras con las cubiertas bordeadas de blanquecino. Partes inferiores blancas, jaspeadas de gris en el pecho y los costados. Patas verdosas. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "laguna",
+        "humedal",
+        "costa"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "18-23",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Chaco",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "La Pampa",
+        "Mendoza",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "Cría en la tundra del Ártico y pasa el verano austral en lagunas y bañados de la Argentina. Con sus patas largas se mete en el agua hasta el vientre y busca comida hundiendo el pico de arriba abajo, como una máquina de coser. Suele andar junto a los falaropos.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), wading in very shallow water on a small muddy patch, white background, 1024x1024 pixels, bird filling 65% of canvas height, slender long-legged sandpiper with a long black bill slightly drooping at the tip, greyish brown crown and back, whitish eyebrow, faintly streaked neck, small dark eye, dark brown wings with whitish edged coverts, white underparts lightly mottled grey on the breast and flanks, very long greenish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "stisan",
+      "gbif_taxon_key": 5229400,
+      "pendientes": [],
+      "amba_indice": 0.11
+    },
+    {
+      "id": 231,
+      "num": "#231",
+      "nombre_comun": "Pardela Boreal",
+      "nombre_cientifico": "Puffinus puffinus",
+      "familia": "Procellariidae",
+      "orden": "Procellariiformes",
+      "descripcion": {
+        "D": "Ave marina mediana, de alas largas y angostas. Partes de arriba negras, bien contrastadas con las de abajo, blancas. El negro de la cabeza baja hasta debajo del ojo. Pico negro, fino, con la punta en gancho. Ojo oscuro. Por debajo, las alas son blancas con el borde negro. Plumas de debajo de la cola blancas. Patas rosadas con la parte de afuera negra. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "marino"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "30-38",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "Chubut",
+        "Río Negro",
+        "Santa Cruz",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "Cría en islas del Atlántico Norte, como Gran Bretaña e Irlanda, y en el invierno boreal cruza al Atlántico Sur hasta el mar argentino: es uno de los viajeros más largos. Vuela muy bajo sobre las olas, alternando aleteos rápidos y planeos, mostrando el negro de arriba y el blanco de abajo.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the whole upperside, cap and upperwings black, with the black cap reaching down below the eye, make the throat, neck sides and underparts pure white, make the slender hooked bill black, keep the dark eye, remove any pale collar or pale scaling on the back, make the tail black, keep white background, no shadow, no text"
+      },
+      "recolor_base": {
+        "D": "Ardenna_gravis_D.png"
+      },
+      "audio_ebird_code": "manshe",
+      "gbif_taxon_key": 5229380,
+      "pendientes": [],
+      "amba_indice": 0.0
+    },
+    {
+      "id": 232,
+      "num": "#232",
+      "nombre_comun": "Gaviotín Pico Amarillo",
+      "nombre_cientifico": "Thalasseus sandvicensis",
+      "familia": "Laridae",
+      "orden": "Charadriiformes",
+      "descripcion": {
+        "D": "Gaviotín mediano y esbelto, de pico largo y fino. Fuera de la época de cría tiene la frente y la corona blancas con manchas negras, y una banda negra desde el ojo por la nuca. Pico amarillo. Ojo pardo muy oscuro. Dorso y alas gris claro; rabadilla y cola blancas, con la cola apenas ahorquillada. Partes inferiores blancas. Patas negras, a veces con la planta amarilla. Macho y hembra son iguales.",
+        "R": "En época de cría tiene la frente, la corona y la nuca negras, con un copete desgreñado."
+      },
+      "habitat": [
+        "costa",
+        "marino"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "36-46",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "Chubut",
+        "Río Negro",
+        "Santa Cruz"
+      ],
+      "curiosidades": "Las poblaciones de Sudamérica tienen el pico todo amarillo y se las conoce también como Gaviotín de Cayena; las del hemisferio norte tienen el pico negro con la punta amarilla. Cría en colonias en la costa patagónica, a menudo junto al Gaviotín Real, y se zambulle en picada para pescar.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the bird look slimmer, make the bill longer and more slender and bright yellow, make the forehead and crown white speckled with black, keep the black band from the eye across the nape ending in a short shaggy crest, make the back and wings pale grey, keep the white tail and white underparts, make the legs black, keep white background, no shadow, no text"
+      },
+      "recolor_base": {
+        "D": "Thalasseus_maximus_D.png"
+      },
+      "audio_ebird_code": "santer1",
+      "gbif_taxon_key": 2481240,
+      "pendientes": [],
+      "amba_indice": 0.0
     }
   ]
 }
