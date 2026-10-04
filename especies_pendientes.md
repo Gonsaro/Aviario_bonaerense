@@ -2,26 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (285 cargadas).
+`aviario_data.json` (296 cargadas).
 
 
-**Faltan: 74 especies**
+**Faltan: 62 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 286 | Cauquén Real | *Chloephaga poliocephala* | #31 |
-| 287 | Cauquén Común | *Chloephaga picta* | #29 |
-| 288 | Tuquito Gris | *Empidonomus aurantioatrocristatus* | #784 |
-| 289 | Agachona Chica | *Thinocorus rumicivorus* | #265 |
-| 290 | Corbatita Dominó | *Sporophila collaris* | #1030 |
-| 291 | Golondrina Rabadilla Canela | *Petrochelidon pyrrhonota* | #871 |
-| 292 | Pato Híbrido de Collar × Real | *Anas platyrhynchos × Cairina moschata* | — **no figura** |
-| 293 | Ticotico Estriado | *Syndactyla rufosuperciliata* | #650 |
-| 294 | Fiofío Silbón | *Elaenia albiceps* | #741 |
-| 295 | Arañero Silbón | *Myiothlypis leucoblephara* | #961 |
-| 296 | Playero Manchado | *Actitis macularius* | #257 |
-| 297 | Playerito Canela | *Calidris subruficollis* | #244 |
 | 298 | Pato Fierro | *Nomonyx dominicus* | #58 |
 | 299 | Canastero Coludo | *Asthenes pyrrholeuca* | #676 |
 | 300 | Verderón | *Chloris chloris* | #910 |
