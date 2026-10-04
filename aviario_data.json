@@ -11961,6 +11961,372 @@
         "Color del iris: la UNL no lo da y no se pudo confirmar en otra fuente; se omitió del prompt.",
         "Cubiertas del ala: la UNL la describe como la Bandurria Boreal (cubiertas medias e inferiores blancas) salvo diferencias; Wikipedia dice que son blanquecinas y poco contrastantes. Se pidió gris plateado."
       ]
+    },
+    {
+      "id": 248,
+      "num": "#248",
+      "nombre_comun": "Colorada",
+      "nombre_cientifico": "Rhynchotus rufescens",
+      "familia": "Tinamidae",
+      "orden": "Tinamiformes",
+      "descripcion": {
+        "D": "Ave de suelo grande para ser un inambú, rechoncha, de cuello largo, cabeza chica y cola casi invisible. Cabeza pardo oscura con ocre. Pico grisáceo, largo y algo curvo. Ojo amarillo. Cuello canela por delante. Dorso pardo rojizo con barras negras. Cubiertas de las alas pardo rojizas con barras negras y ocráceas; las plumas de vuelo son castaño rojizas y se ven bien cuando vuela. Cola como el dorso. Garganta blanquecina. Pecho y parte de arriba del vientre gris parduscos con ondulaciones claras; parte baja del vientre y muslos gris parduscos con líneas negras transversales. Patas rosado oscuro. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "pastizal",
+        "agrícola"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "40",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "Chaco",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "La Pampa",
+        "Misiones",
+        "San Luis",
+        "Santa Fe"
+      ],
+      "curiosidades": "Es la 'perdiz colorada' o 'martineta' del campo, el inambú más grande de la región pampeana, aunque no es una perdiz verdadera. Anda sola, en pareja o en grupos y es muy caminadora: solo levanta vuelo cuando se la molesta, con un aleteo ruidoso que muestra las plumas rojizas de las alas, y vuelve a bajar a poca distancia. Su silbido aflautado se escucha mucho al atardecer en primavera. Como en todos los inambúes, es el macho el que incuba los huevos y cuida a los pichones.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), walking on the ground with the neck stretched forward, white background, 1024x1024 pixels, bird filling 60% of canvas height, large plump tinamou with a long neck, small head, oval body and almost no visible tail, dark brown crown mixed with ochre, long slightly decurved greyish bill, small yellow eye with a tiny dark pupil, whitish throat, cinnamon foreneck, rufous brown back and wing coverts with black and ochre bars, chestnut rufous flight feathers, greyish brown breast with pale wavy bars, lower belly and thighs greyish brown with black crossbars, dark pinkish legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "rewtin1",
+      "gbif_taxon_key": 2477464,
+      "pendientes": []
+    },
+    {
+      "id": 249,
+      "num": "#249",
+      "nombre_comun": "Halcón Peregrino",
+      "nombre_cientifico": "Falco peregrinus",
+      "familia": "Falconidae",
+      "orden": "Falconiformes",
+      "descripcion": {
+        "D": "Halcón mediano, de alas largas, estrechas y en punta. Corona y nuca pardo oscuras; una bigotera negra ancha y bien marcada baja desde el ojo, y las mejillas son blancas. Pico gris azulado con la cera amarilla. Ojo pardo. Dorso gris azulado con barras oscuras. Alas pardo oscuras. Cola como el dorso, con barras ocráceas tenues y punta blanca. Garganta y parte de arriba del pecho blancas; el resto de las partes inferiores ocráceo con estrías pardas. Patas amarillas. La hembra es bastante más grande, más oscura en la parte baja del dorso y tiene manchas alargadas en la parte de arriba del pecho. Hay también un morfo claro, de cabeza blanquecina estriada y dorso gris claro barrado.",
+        "J": "El inmaduro tiene la cabeza estriada, el dorso pardo y las partes inferiores ocráceas con estrías gruesas pardas."
+      },
+      "habitat": [
+        "urbano",
+        "costa",
+        "humedal",
+        "pastizal"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "34-50",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chaco",
+        "Chubut",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Jujuy",
+        "La Pampa",
+        "La Rioja",
+        "Mendoza",
+        "Misiones",
+        "Neuquén",
+        "Río Negro",
+        "Salta",
+        "San Juan",
+        "San Luis",
+        "Santa Cruz",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tierra del Fuego",
+        "Tucumán"
+      ],
+      "curiosidades": "Es el ave más rápida del mundo: en picada, para atrapar aves en el aire, supera los 300 km/h. En la Argentina hay peregrinos que crían aquí y otros que llegan en nuestro verano desde el Ártico de Norteamérica. En Buenos Aires se adaptó a la ciudad: se posa con el cuerpo bien erguido en torres, cornisas, puentes y edificios altos, desde donde caza palomas y otras aves. Suele andar solo.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched upright on a post, white background, 1024x1024 pixels, bird filling 65% of canvas height, medium falcon with long narrow pointed wings, dark brown crown and nape, broad bold black moustache stripe below the eye, white cheeks, short hooked bluish grey bill with a yellow cere, small dark brown eye with a tiny dark pupil, bluish grey back barred dark, dark brown folded wings reaching near the tail tip, bluish grey tail with faint buff bars and a white tip, white throat and upper breast, rest of the underparts ochre buff with fine brown streaks, yellow legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "J": "recolor this exact sprite, keep the same pose, outline, size and composition unchanged, only change the colors: make the head buff heavily streaked with dark brown while keeping the broad black moustache stripe, make the back, wings and tail plain dark brown, make the underparts ochre buff with heavy dark brown streaks, keep the bill, cere, eye and yellow legs unchanged, keep white background, no shadow, no text",
+        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, medium falcon with long narrow pointed wings, legs tucked, dark brown crown, broad black moustache stripe, white cheeks, short hooked bluish grey bill with a yellow cere, small dark brown eye with a tiny dark pupil, bluish grey back barred dark, dark brown upperwings, whitish and brown underwing coverts, grey flight feathers barred with white, bluish grey tail with a white tip, white throat and upper breast, ochre buff underparts with fine brown streaks, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "recolor_base": {
+        "J": "Falco_peregrinus_D.png"
+      },
+      "audio_ebird_code": "perfal",
+      "gbif_taxon_key": 2481047,
+      "pendientes": []
+    },
+    {
+      "id": 250,
+      "num": "#250",
+      "nombre_comun": "Cachirla Uña Corta",
+      "nombre_cientifico": "Anthus furcatus",
+      "familia": "Motacillidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro chico, esbelto, de pico fino. Ceja blanquecina y una bigotera oscura. Pico pardo. Ojo pardo. Dorso ocre jaspeado de oscuro. Alas pardas. Cola parda con las plumas ribeteadas de ocre; las plumas de los costados son ocráceas. Garganta y pecho ocráceos jaspeados de pardo oscuro; vientre blanquecino. Patas rosadas. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "pastizal",
+        "agrícola"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "15",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "Chubut",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Jujuy",
+        "La Pampa",
+        "Neuquén",
+        "Río Negro",
+        "Salta",
+        "Santa Fe",
+        "Tucumán"
+      ],
+      "curiosidades": "Su nombre viene de la uña del dedo de atrás, más corta que en las otras cachirlas, un detalle que solo se ve con el ave en la mano. Vive en pastizales de pasto corto y campos ganaderos, donde camina y corre por el suelo buscando insectos. Como otras cachirlas, el macho canta en vuelo: sube alto y luego baja planeando mientras canta.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on the ground, white background, 1024x1024 pixels, bird filling 72% of canvas height, slender pipit with a thin short brown bill, ochre crown and back mottled with dark brown, whitish eyebrow, dark moustache stripe, small brown eye with a tiny dark pupil, brown wings with ochre feather edges, brown tail with ochre edges and ochre outer tail feathers, ochre throat and breast streaked with dark brown, whitish belly, pink legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "shbpip1",
+      "gbif_taxon_key": 2490278,
+      "pendientes": []
+    },
+    {
+      "id": 251,
+      "num": "#251",
+      "nombre_comun": "Chorlo Ártico",
+      "nombre_cientifico": "Pluvialis squatarola",
+      "familia": "Charadriidae",
+      "orden": "Charadriiformes",
+      "descripcion": {
+        "D": "Chorlo mediano y robusto, de cabeza grande y pico corto y grueso. Frente, ceja y cara blanquecinas. Pico negro. Ojo pardo oscuro. Dorso pardo grisáceo con las plumas bordeadas de blanquecino; cubiertas de las alas pardo oscuras orilladas de blanquecino y plumas de vuelo pardo oscuras con la base blanca. Rabadilla blanca y cola blanca barrada de pardo, con la punta parda. Cuello por delante, pecho y costados blanquecinos. Patas negras. En vuelo muestra una mancha negra debajo del ala, en la 'axila'. Es el plumaje que se ve en la Argentina durante nuestro verano; en plumaje reproductivo tiene la cara, el pecho y el vientre negros."
+      },
+      "habitat": [
+        "costa",
+        "humedal"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "27-31",
+      "envergadura_cm": null,
+      "estado_conservacion": "VU",
+      "provincias": [
+        "Buenos Aires",
+        "Chubut",
+        "Mendoza",
+        "Río Negro",
+        "Santa Cruz",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "Cría en la tundra del Ártico y llega a nuestras costas en el verano austral; algunos jóvenes se quedan todo el año sin volver al norte, por eso se lo puede ver también en invierno. En la Argentina vive casi solo en la costa marina: playas, restingas y marismas. Se parece al Chorlo Pampa, pero en vuelo se lo distingue por las 'axilas' negras, la rabadilla blanca y la banda blanca del ala. Por la caída de su población mundial, en 2024 pasó a la categoría Vulnerable.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing, white background, 1024x1024 pixels, bird filling 60% of canvas height, medium stout plover with a large rounded head and a short thick black bill, greyish brown crown, whitish forehead, eyebrow and face, small dark brown eye with a tiny dark pupil, greyish brown back and wing coverts with whitish feather edges giving a scaled look, dark brown flight feathers, whitish foreneck, breast and flanks, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, medium stout plover with long pointed wings, neck extended, legs tucked, greyish brown crown, whitish face, short thick black bill, small dark brown eye with a tiny dark pupil, greyish brown back with whitish feather edges, dark brown upperwings with a white wing stripe at the base of the flight feathers, black patch at the base of the underwing, white rump, white tail barred with brown, whitish breast and belly, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "bkbplo",
+      "gbif_taxon_key": 2480327,
+      "pendientes": []
+    },
+    {
+      "id": 252,
+      "num": "#252",
+      "nombre_comun": "Loro Hablador",
+      "nombre_cientifico": "Amazona aestiva",
+      "familia": "Psittacidae",
+      "orden": "Psittaciformes",
+      "descripcion": {
+        "D": "Loro grande y robusto, de cola corta y cuadrada, de color general verde. Frente celeste. Corona y lados de la cara amarillos (la cantidad de celeste y amarillo cambia mucho de un individuo a otro). Piel desnuda rosada alrededor del ojo. Pico pardo negruzco. Ojo anaranjado. Plumas de la nuca y el dorso con un borde negro, que le da un aspecto escamado. Borde de adelante del ala amarillo; mancha roja en el ala; plumas largas del ala con azul y negro. Cola verde con la punta amarillo verdosa y algo de rojo en la base. Plumas de los muslos amarillas. Patas pardo negruzcas. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "bosque",
+        "monte",
+        "urbano"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "37-38",
+      "envergadura_cm": null,
+      "estado_conservacion": "NT",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chaco",
+        "Corrientes",
+        "Córdoba",
+        "Formosa",
+        "Jujuy",
+        "Misiones",
+        "Salta",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tucumán"
+      ],
+      "curiosidades": "Es el loro más buscado como mascota en la Argentina por su habilidad para imitar la voz humana, y por eso fue capturado en enormes cantidades en los bosques del Chaco. Anda en pareja o en grupos y anida en huecos de árboles. Los que se ven en Buenos Aires y la Capital probablemente sean aves escapadas o liberadas de cautiverio.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, stocky parrot with a large head and a short square tail, mostly green plumage, pale blue forehead, yellow crown and sides of the face, small pinkish bare patch around the eye, heavy hooked blackish brown bill, small orange eye with a tiny dark pupil, green nape and back feathers edged black giving a scaled look, yellow bend of the wing, red patch on the folded wing, blue and black flight feathers, short green tail with a yellowish green tip, yellow thigh feathers, blackish brown legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "bufpar",
+      "gbif_taxon_key": 2479662,
+      "pendientes": [
+        "Registros en Buenos Aires y CABA: probables aves escapadas o liberadas de cautiverio (su área natural es el norte del país)."
+      ]
+    },
+    {
+      "id": 253,
+      "num": "#253",
+      "nombre_comun": "Doradito Oliváceo",
+      "nombre_cientifico": "Pseudocolopteryx acutipennis",
+      "familia": "Tyrannidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro muy chico, con un copetito corto. Corona y dorso oliváceos. Pico negro y fino. Ojo castaño o pardo rojizo. Alas pardas, con los bordes de las plumas internas y dos bandas amarillentas. Cola parda olivácea. Partes inferiores amarillas. Patas negras. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "humedal",
+        "pastizal"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "chico",
+      "largo_cm": "11-12,5",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "Catamarca",
+        "Córdoba",
+        "Formosa",
+        "Jujuy",
+        "La Pampa",
+        "Mendoza",
+        "Salta",
+        "San Luis",
+        "Santa Fe",
+        "Tucumán"
+      ],
+      "curiosidades": "Es un pájaro muy chico e inquieto de pajonales, juncales y pastizales altos cerca del agua. Anda solo o en pareja. Llega a Buenos Aires en primavera para criar y es escaso y fácil de pasar por alto. Los machos tienen tres plumas del ala muy angostas y en punta, y de ahí viene su nombre científico: 'acutipennis' quiere decir 'de plumas agudas'.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a reed stem, white background, 1024x1024 pixels, bird filling 72% of canvas height, tiny tyrannulet with a short shaggy crest, olive crown and back, thin pointed black bill, small dark chestnut eye with a tiny dark pupil, brown wings with yellowish edges on the inner flight feathers and two yellowish wing bars, olive brown tail, bright yellow throat, breast and belly, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "subdor1",
+      "gbif_taxon_key": 2482649,
+      "pendientes": []
+    },
+    {
+      "id": 254,
+      "num": "#254",
+      "nombre_comun": "Golondrina Cabeza Rojiza",
+      "nombre_cientifico": "Alopochelidon fucata",
+      "familia": "Hirundinidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Golondrina chica, de cola casi cuadrada. Frente, ceja y nuca canelas; corona parda oscura. Pico negro. Ojo pardo. Dorso pardo. Alas y cola pardo oscuras. Garganta y pecho acanelados; el resto de las partes inferiores es blanco. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "aéreo",
+        "pastizal",
+        "humedal"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "12",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "Catamarca",
+        "Chaco",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "La Pampa",
+        "La Rioja",
+        "Mendoza",
+        "Misiones",
+        "Río Negro",
+        "Salta",
+        "San Luis",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tucumán"
+      ],
+      "curiosidades": "Anda en pareja o en grupos, vuela bajo sobre pastizales y bañados cazando insectos y se posa en cables y alambrados. Anida en túneles en barrancas de ríos y arroyos o en cortes de caminos, por eso también la llaman 'golondrina de las barrancas'.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a wire, white background, 1024x1024 pixels, bird filling 72% of canvas height, small swallow with long pointed wings and a nearly square tail, dark brown crown, cinnamon rufous forehead, eyebrow and nape, tiny black bill, small brown eye with a tiny dark pupil, plain brown back, dark brown wings and tail, cinnamon buff throat and breast, white belly, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, small swallow with long pointed wings and a nearly square tail, dark brown crown, cinnamon rufous forehead, eyebrow and nape, tiny black bill, small brown eye with a tiny dark pupil, plain brown back, dark brown wings and tail, cinnamon buff throat and breast, white belly, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "tahswa2",
+      "gbif_taxon_key": 4352334,
+      "pendientes": [
+        "Color de las patas: la UNL no lo da y no se pudo confirmar; se omitió del prompt."
+      ]
+    },
+    {
+      "id": 255,
+      "num": "#255",
+      "nombre_comun": "Golondrina Ribereña",
+      "nombre_cientifico": "Stelgidopteryx ruficollis",
+      "familia": "Hirundinidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Golondrina chica, de cola cuadrada. Cabeza y dorso pardos; rabadilla algo más clara. Alas y cola pardo oscuras. Garganta canela clara. Pecho grisáceo. Vientre ocre amarillento. Debajo de la cola, plumas blancas, las más largas con una banda ancha pardo oscura en la punta. Macho y hembra son casi iguales."
+      },
+      "habitat": [
+        "aéreo",
+        "ribereño",
+        "humedal"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "chico",
+      "largo_cm": "13",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chaco",
+        "Corrientes",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "Misiones",
+        "Salta",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tucumán"
+      ],
+      "curiosidades": "En inglés la llaman 'golondrina de alas ásperas' porque los machos tienen en el borde de las primeras plumas del ala unos ganchitos rígidos que se sienten ásperos al tacto. Anda sola, en pareja o en grupos y, a diferencia de otras golondrinas, se posa seguido en ramas. Anida en huecos de barrancas, cerca de ríos y arroyos. Llega a Buenos Aires en primavera y se va al norte en otoño.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a short twig, white background, 1024x1024 pixels, bird filling 72% of canvas height, small swallow with long pointed wings and a square tail, plain dark greyish brown head and back, slightly paler rump, tiny bill, small eye with a tiny dark pupil, dark brown wings and tail, pale cinnamon throat, greyish breast, yellowish ochre belly, white undertail coverts, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, small swallow with long pointed wings and a square tail, plain dark greyish brown head and back, slightly paler rump, tiny bill, small eye with a tiny dark pupil, dark brown wings and tail, pale cinnamon throat, greyish breast, yellowish ochre belly, white undertail coverts, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "srwswa1",
+      "gbif_taxon_key": 2489203,
+      "pendientes": [
+        "Colores de pico, ojo y patas: la UNL no los da y no se pudieron confirmar; se omitieron del prompt."
+      ]
     }
   ]
 }

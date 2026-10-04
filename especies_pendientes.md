@@ -2,22 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (247 cargadas).
+`aviario_data.json` (255 cargadas).
 
 
-**Faltan: 112 especies**
+**Faltan: 104 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 247 | Colorada | *Rhynchotus rufescens* | #8 |
-| 248 | Halcón Peregrino | *Falco peregrinus* | #540 |
-| 249 | Cachirla Uña Corta | *Anthus furcatus* | #904 |
-| 250 | Chorlo Ártico | *Pluvialis squatarola* | #209 |
-| 251 | Loro Hablador | *Amazona aestiva* | #551 |
-| 252 | Doradito Oliváceo | *Pseudocolopteryx acutipennis* | #764 |
-| 253 | Golondrina Cabeza Rojiza | *Alopochelidon fucata* | #859 |
-| 254 | Golondrina Ribereña | *Stelgidopteryx ruficollis* | #861 |
 | 255 | Saíra de Antifaz | *Pipraeidea melanonota* | #1066 |
 | 256 | Espinero Grande | *Phacellodomus ruber* | #666 |
 | 257 | Monjita Chocolate | *Neoxolmis rufiventris* | #834 |
