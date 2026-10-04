@@ -896,6 +896,7 @@ const TROPHIES=[
   {id:'obs_urbano',name:'Observador urbano',cond:'5 aves urbanas',img:'obs_urbano.jpg'},
   {id:'orilla',name:'Orilla del agua',cond:'5 aves acuáticas',img:'orilla.jpg'},
   {id:'rapaz',name:'Ojo del rapaz',cond:'Primera rapaz',img:'rapaz.jpg'},
+  {id:'noche',name:'Ojos de la noche',cond:'Primera lechuza o búho',img:'noche.jpg'},
   {id:'pastizalero',name:'Pastizalero',cond:'5 aves de pastizal',img:'pastizalero.jpg'},
   {id:'en_peligro',name:'En peligro',cond:'Primera especie NT/VU/EN',img:'en_peligro.jpg'},
   {id:'bandada',name:'Bandada',cond:'10 especies vistas',img:'bandada.jpg'},
@@ -914,6 +915,7 @@ function getUnlockedTrophies(){
   if(seenBirds.filter(b=>b.habitat.includes('urbano')).length>=HAB_MIN)u.add('obs_urbano');
   if(seenBirds.filter(b=>['humedal','ribereño','costa','laguna','marino'].some(h=>b.habitat.includes(h))).length>=HAB_MIN)u.add('orilla');
   if(seenBirds.some(b=>['Falconiformes','Accipitriformes'].includes(b.orden)))u.add('rapaz');
+  if(seenBirds.some(b=>b.orden==='Strigiformes'))u.add('noche');
   if(seenBirds.filter(b=>b.habitat.includes('pastizal')).length>=HAB_MIN)u.add('pastizalero');
   if(seenBirds.some(b=>['NT','VU','EN','CR'].includes(b.estado)))u.add('en_peligro');
   if(seenBirds.length>=10)u.add('bandada');
