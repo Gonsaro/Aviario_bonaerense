@@ -2,26 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (308 cargadas).
+`aviario_data.json` (319 cargadas).
 
 
-**Faltan: 50 especies**
+**Faltan: 38 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 310 | Bandurrita Esteparia | *Upucerthia dumetaria* | #637 |
-| 311 | Mascarita Común | *Geothlypis trichas* | — **no figura** |
-| 312 | Doradito Copetón | *Pseudocolopteryx sclateri* | #763 |
-| 313 | Tingazú | *Piaya cayana* | #114 |
-| 314 | Bandurria Mora | *Theristicus caerulescens* | #402 |
-| 315 | Gallito Copetón | *Rhinocrypta lanceolata* | #592 |
-| 316 | Chiripepé Cabeza Parda | *Pyrrhura molinae* | #555 |
-| 317 | Pajonalera Pico Recto | *Limnoctites rectirostris* | #678 |
-| 318 | Coludito Cola Negra | *Leptasthenura aegithaloides* | #659 |
-| 319 | Ñacundá | *Chordeiles nacunda* | #121 |
-| 320 | Aninga | *Anhinga anhinga* | #373 |
-| 321 | Águila Negra | *Buteogallus urubitinga* | #439 |
 | 322 | Canastero Chaqueño | *Asthenes baeri* | #670 |
 | 323 | Cacholote Castaño | *Pseudoseisura lophotes* | #686 |
 | 324 | Gaucho Chico | *Agriornis murinus* | #839 |
