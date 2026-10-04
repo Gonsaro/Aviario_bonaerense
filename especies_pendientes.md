@@ -2,26 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (273 cargadas).
+`aviario_data.json` (285 cargadas).
 
 
-**Faltan: 86 especies**
+**Faltan: 74 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 274 | Bandurrita Chaqueña | *Tarphonomus certhioides* | #630 |
-| 275 | Atajacaminos Ñañarca | *Systellura longirostris* | #126 |
-| 276 | Esparvero Estriado | *Accipiter striatus* | #434 |
-| 277 | Gaucho Serrano | *Agriornis montanus* | #835 |
-| 278 | Gaucho Pardo | *Agriornis micropterus* | #838 |
-| 279 | Piojito Trinador | *Serpophaga griseicapilla* | #770 |
-| 280 | Petrel Barba Blanca | *Procellaria aequinoctialis* | #352 |
-| 281 | Reinamora Chica | *Cyanoloxia glaucocaerulea* | #972 |
-| 282 | Atí | *Phaetusa simplex* | #290 |
-| 283 | Cauquén Colorado | *Chloephaga rubidiceps* | #32 |
-| 284 | Cachirla Chica | *Anthus chii* | #903 |
-| 285 | Sirirí Vientre Negro | *Dendrocygna autumnalis* | #23 |
 | 286 | Cauquén Real | *Chloephaga poliocephala* | #31 |
 | 287 | Cauquén Común | *Chloephaga picta* | #29 |
 | 288 | Tuquito Gris | *Empidonomus aurantioatrocristatus* | #784 |
