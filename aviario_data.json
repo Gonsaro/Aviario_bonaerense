@@ -7254,15 +7254,19 @@
         "humedal",
         "laguna"
       ],
-      "residencia": "invernal",
+      "residencia": "permanente",
       "tamanio_categoria": "chico",
       "largo_cm": "18-19",
       "provincias": [
         "Buenos Aires",
         "Chubut",
+        "Córdoba",
+        "La Pampa",
+        "Mendoza",
         "Neuquén",
         "Río Negro",
         "Santa Cruz",
+        "Santa Fe",
         "Tierra del Fuego"
       ],
       "curiosidades": "Cría en la Patagonia y en Malvinas, en pastizales inundados y orillas de lagunas, y en otoño e invierno muchos viajan hacia el norte para pasar la temporada fría en playas y estuarios de Buenos Aires, Uruguay y el sur de Brasil. Corre rápido por la arena o el barro, se detiene de golpe y picotea pequeños invertebrados.",
@@ -7283,7 +7287,7 @@
       "recolor_base": {
         "D": "Charadrius_falklandicus_R.png"
       },
-      "amba_indice": 0.0
+      "amba_indice": 0.05
     },
     {
       "nombre_comun": "Cachilo Canela",
