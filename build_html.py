@@ -48,6 +48,15 @@ if faltan:
     raise SystemExit(f'Especies que no están en la lista oficial: {faltan}')
 especies_ordenadas = sorted(data['especies'], key=lambda e: N_LISTA[e['nombre_cientifico']])
 
+# Las fichas sin ningún sprite quedan ocultas hasta que tengan al menos una imagen
+def tiene_sprite(e):
+    g, s = e['nombre_cientifico'].split()[:2]
+    return any(f'{g}_{s.lower()}_{c}' in sp for c in VARIANT_LABEL)
+ocultas = [e['nombre_comun'] for e in especies_ordenadas if not tiene_sprite(e)]
+especies_ordenadas = [e for e in especies_ordenadas if tiene_sprite(e)]
+if ocultas:
+    print(f'Ocultas por no tener sprite ({len(ocultas)}): {", ".join(ocultas)}')
+
 birds_js_parts = []
 for pos, bird in enumerate(especies_ordenadas, start=1):
     parts = bird['nombre_cientifico'].split()
@@ -160,4 +169,4 @@ new_html = (
 with open('index.html', 'w', encoding='utf-8') as f:
     f.write(new_html)
 
-print(f'HTML regenerado: {len(sp)} sprites, {len(data["especies"])} especies')
+print(f'HTML regenerado: {len(sp)} sprites, {len(especies_ordenadas)} especies visibles de {len(data["especies"])}')
