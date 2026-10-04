@@ -11651,7 +11651,8 @@
       },
       "audio_ebird_code": "dafgrt1",
       "gbif_taxon_key": 2483725,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 2.71
     },
     {
       "id": 241,
@@ -11701,7 +11702,8 @@
       },
       "audio_ebird_code": "gobsal1",
       "gbif_taxon_key": 5230903,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 18.61
     },
     {
       "id": 242,
@@ -11743,7 +11745,8 @@
       "gbif_taxon_key": 2482027,
       "pendientes": [
         "Color de las dos bandas a los lados del pecho: la UNL no lo dice; en el prompt se pidieron claras."
-      ]
+      ],
+      "amba_indice": 0.48
     },
     {
       "id": 243,
@@ -11775,7 +11778,8 @@
       },
       "audio_ebird_code": "hudcan1",
       "gbif_taxon_key": 5230053,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.04
     },
     {
       "id": 244,
@@ -11811,7 +11815,8 @@
       },
       "audio_ebird_code": "semplo",
       "gbif_taxon_key": 2480295,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.01
     },
     {
       "id": 245,
@@ -11860,7 +11865,8 @@
       },
       "audio_ebird_code": "sobtyr1",
       "gbif_taxon_key": 2483511,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 3.7
     },
     {
       "id": 246,
@@ -11915,7 +11921,8 @@
       },
       "audio_ebird_code": "rebhaw2",
       "gbif_taxon_key": 8033105,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.01
     },
     {
       "id": 247,
@@ -11960,7 +11967,8 @@
       "pendientes": [
         "Color del iris: la UNL no lo da y no se pudo confirmar en otra fuente; se omitió del prompt.",
         "Cubiertas del ala: la UNL la describe como la Bandurria Boreal (cubiertas medias e inferiores blancas) salvo diferencias; Wikipedia dice que son blanquecinas y poco contrastantes. Se pidió gris plateado."
-      ]
+      ],
+      "amba_indice": 0.01
     },
     {
       "id": 248,
@@ -12000,7 +12008,8 @@
       },
       "audio_ebird_code": "rewtin1",
       "gbif_taxon_key": 2477464,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.04
     },
     {
       "id": 249,
@@ -12061,7 +12070,8 @@
       },
       "audio_ebird_code": "perfal",
       "gbif_taxon_key": 2481047,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 2.5
     },
     {
       "id": 250,
@@ -12103,7 +12113,8 @@
       },
       "audio_ebird_code": "shbpip1",
       "gbif_taxon_key": 2490278,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.08
     },
     {
       "id": 251,
@@ -12140,7 +12151,8 @@
       },
       "audio_ebird_code": "bkbplo",
       "gbif_taxon_key": 2480327,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.0
     },
     {
       "id": 252,
@@ -12186,7 +12198,8 @@
       "gbif_taxon_key": 2479662,
       "pendientes": [
         "Registros en Buenos Aires y CABA: probables aves escapadas o liberadas de cautiverio (su área natural es el norte del país)."
-      ]
+      ],
+      "amba_indice": 6.28
     },
     {
       "id": 253,
@@ -12227,7 +12240,8 @@
       },
       "audio_ebird_code": "subdor1",
       "gbif_taxon_key": 2482649,
-      "pendientes": []
+      "pendientes": [],
+      "amba_indice": 0.0
     },
     {
       "id": 254,
@@ -12279,7 +12293,8 @@
       "gbif_taxon_key": 4352334,
       "pendientes": [
         "Color de las patas: la UNL no lo da y no se pudo confirmar; se omitió del prompt."
-      ]
+      ],
+      "amba_indice": 0.28
     },
     {
       "id": 255,
@@ -12326,7 +12341,380 @@
       "gbif_taxon_key": 2489203,
       "pendientes": [
         "Colores de pico, ojo y patas: la UNL no los da y no se pudieron confirmar; se omitieron del prompt."
-      ]
+      ],
+      "amba_indice": 1.51
+    },
+    {
+      "id": 256,
+      "num": "#256",
+      "nombre_comun": "Saíra de Antifaz",
+      "nombre_cientifico": "Pipraeidea melanonota",
+      "familia": "Thraupidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro chico, de pico corto y ancho y alas largas. Corona y nuca celestes; un antifaz negro ancho cubre la frente, la zona del ojo y las mejillas. Pico negruzco con la mandíbula gris. Ojo rojo oscuro. Dorso azul apagado y rabadilla celeste turquesa. Alas y cola azul oscuro. Garganta, pecho y vientre canela. La hembra es más apagada, con la corona menos celeste y el dorso parduzco."
+      },
+      "habitat": [
+        "arbolado",
+        "monte",
+        "bosque",
+        "urbano"
+      ],
+      "residencia": "invernal",
+      "tamanio_categoria": "chico",
+      "largo_cm": "14",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Corrientes",
+        "Entre Ríos",
+        "Jujuy",
+        "Misiones",
+        "Salta",
+        "Tucumán"
+      ],
+      "curiosidades": "En Buenos Aires aparece sobre todo en otoño e invierno, cuando llega desde el norte del país; se la ve en parques, arboledas y jardines. Come frutos y también insectos, que a veces caza al vuelo gracias a su pico ancho, parecido al de una golondrina. Suele andar sola o en pareja.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a short twig, white background, 1024x1024 pixels, bird filling 72% of canvas height, small stocky tanager with a short wide bill and long wings, sky blue crown and nape, broad black mask covering the forehead, eye area and cheeks, short dark bill with a grey lower mandible, small dark red eye with a tiny dark pupil, dull blue back, bright turquoise blue rump, dark blue wings and tail, cinnamon buff throat, breast and belly, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "fabtan1",
+      "gbif_taxon_key": 2488795,
+      "pendientes": [
+        "La UNL no tiene ficha de la especie: rasgos tomados de Wikipedia (en/es).",
+        "Color de patas: no se pudo confirmar; se omitió del prompt."
+      ],
+      "amba_indice": 0.81
+    },
+    {
+      "id": 257,
+      "num": "#257",
+      "nombre_comun": "Espinero Grande",
+      "nombre_cientifico": "Phacellodomus ruber",
+      "familia": "Furnariidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro chico, de cola larga. Corona, dorso, alas y cola castaños. Pico negruzco con la mandíbula gris. Ojo amarillo. Garganta, pecho y vientre blanquecinos. Patas gris celeste. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "humedal",
+        "ribereño",
+        "monte"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "chico",
+      "largo_cm": "20",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "Chaco",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "Misiones",
+        "Salta",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tucumán"
+      ],
+      "curiosidades": "Arma nidos enormes de palitos espinosos, colgados de ramas bajas de arbustos o árboles cerca del agua, que usa y agranda año tras año. La pareja canta a dúo un trino fuerte que se acelera. Busca insectos en el suelo y en las hierbas bajas, casi siempre escondido en la vegetación densa.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a short twig, white background, 1024x1024 pixels, bird filling 70% of canvas height, sturdy ovenbird with a long tail, rufous chestnut crown, slender pointed blackish bill with a grey lower mandible, small yellow eye with a tiny dark pupil, rufous chestnut back, wings and tail, whitish throat, breast and belly, pale bluish grey legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "gretho2",
+      "gbif_taxon_key": 2485136,
+      "pendientes": [],
+      "amba_indice": 0.18
+    },
+    {
+      "id": 258,
+      "num": "#258",
+      "nombre_comun": "Monjita Chocolate",
+      "nombre_cientifico": "Neoxolmis rufiventris",
+      "familia": "Tyrannidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro mediano. Cabeza y dorso grises. Pico negro. Ojo pardo. Alas negras con una mancha castaña y blanca, y las cubiertas claras. Cola negra con una línea blanca fina en las plumas de afuera y en la punta. Garganta y pecho gris plomizo; el resto de las partes inferiores canela. Patas negras. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "pastizal",
+        "agrícola"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "23",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "Chubut",
+        "Córdoba",
+        "Entre Ríos",
+        "Río Negro",
+        "Santa Cruz",
+        "Santa Fe",
+        "Tierra del Fuego"
+      ],
+      "curiosidades": "Cría en la Patagonia y en el sur de Buenos Aires; en otoño e invierno muchas suben hacia el norte en bandadas que pueden llegar al centenar. Es bastante terrícola: corre por el suelo en pastizales y campos arados, y se posa erguida en postes y alambrados. Debe su nombre al color canela del vientre.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing upright on the ground, white background, 1024x1024 pixels, bird filling 65% of canvas height, plain grey head and back, short black bill, small dark brown eye with a tiny dark pupil, black wings with a chestnut and white patch and pale grey wing coverts, black tail with thin white outer edges and a thin white tip, leaden grey throat and breast, cinnamon belly and undertail, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "chvtyr2",
+      "gbif_taxon_key": 2483147,
+      "pendientes": [],
+      "amba_indice": 0.01
+    },
+    {
+      "id": 259,
+      "num": "#259",
+      "nombre_comun": "Playerito Unicolor",
+      "nombre_cientifico": "Calidris bairdii",
+      "familia": "Scolopacidae",
+      "orden": "Charadriiformes",
+      "descripcion": {
+        "D": "Playero chico y esbelto, de alas largas que pasan la punta de la cola. Corona y dorso pardo oscuros, con las plumas bordeadas de pardo claro; ceja blanca. Pico negro, corto y fino. Ojo pardo. Alas pardas, con las puntas de las cubiertas blanquecinas que forman una banda tenue. Cola parda con las plumas de los costados pardo claras. Cara y pecho pardo canela jaspeados de pardo. Garganta y resto de las partes inferiores blancas. Patas negras. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "costa",
+        "laguna",
+        "humedal",
+        "pastizal"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "chico",
+      "largo_cm": "17-18",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chaco",
+        "Chubut",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "La Pampa",
+        "La Rioja",
+        "Mendoza",
+        "Neuquén",
+        "Río Negro",
+        "Salta",
+        "San Juan",
+        "San Luis",
+        "Santa Cruz",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tierra del Fuego",
+        "Tucumán"
+      ],
+      "curiosidades": "Cría en la tundra del Ártico y llega al sur de Sudamérica en nuestro verano, uno de los viajes más largos entre los playeros. Anda en grupos y, a diferencia de otros playeritos, prefiere el pasto corto y los bordes secos de las lagunas más que el barro. En la cordillera también se lo ve en lagunas de altura.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on the ground, white background, 1024x1024 pixels, bird filling 62% of canvas height, small slender sandpiper with long wings extending past the tail tip, dark brown crown and back with feathers neatly edged pale buff giving a scaly look, thin white eyebrow, short thin straight black bill, small dark brown eye with a tiny dark pupil, brown folded wings, brown tail, buff brown face and breast finely mottled brown, white throat, white belly, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, small slender sandpiper with long pointed wings, neck extended and legs tucked, dark brown crown and back with feathers edged pale buff, short thin straight black bill, small dark brown eye with a tiny dark pupil, brown upperwings with a faint thin pale wing bar, brown tail with paler brown sides, buff brown breast finely mottled brown, white belly, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "baisan",
+      "gbif_taxon_key": 2481770,
+      "pendientes": [],
+      "amba_indice": 0.09
+    },
+    {
+      "id": 260,
+      "num": "#260",
+      "nombre_comun": "Pitotoy Solitario",
+      "nombre_cientifico": "Tringa solitaria",
+      "familia": "Scolopacidae",
+      "orden": "Charadriiformes",
+      "descripcion": {
+        "D": "Playero chico. Partes de arriba gris parduscas con un suave rayado y manchado gris y pardo oscuro; círculo blanco alrededor del ojo. Pico negro. Ojo pardo oscuro. Alas pardo oscuras. Cola con las plumas centrales pardas y las de afuera blancas con barras pardas. Lados de la cabeza, cuello y pecho blanquecinos estriados de pardo; flancos blanquecinos barrados de pardo; vientre blanco. Patas oliváceas. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "humedal",
+        "laguna",
+        "ribereño"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "chico",
+      "largo_cm": "18-22",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Chaco",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "La Pampa",
+        "Misiones",
+        "Salta",
+        "San Luis",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tucumán"
+      ],
+      "curiosidades": "Como dice su nombre, casi siempre anda solo, en charcos, zanjas y bordes de lagunas, a veces dentro del monte. Cría en los bosques de Canadá y Alaska y, cosa rara entre los playeros, pone los huevos en nidos viejos de otras aves, arriba de los árboles. Cuando algo lo inquieta mueve la cabeza y el cuerpo arriba y abajo.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), standing on the ground, white background, 1024x1024 pixels, bird filling 62% of canvas height, slim sandpiper, greyish brown head and back with soft fine dark brown streaks and grey spots, straight thin black bill, small dark brown eye with a tiny dark pupil, dark brown folded wings, dark brown central tail, whitish sides of the head, neck and breast streaked brown, whitish flanks barred brown, white belly, olive green legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right",
+        "V": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), in flight with wings raised mid-flap, white background, 1024x1024 pixels, slim sandpiper, neck extended and legs tucked, greyish brown head and back with fine dark brown streaks, straight thin black bill, small dark brown eye with a tiny dark pupil, plain dark brown upperwings without a wing bar, dark brown central tail feathers and white outer tail feathers boldly barred dark brown, whitish breast streaked brown, white belly, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "solsan",
+      "gbif_taxon_key": 2481710,
+      "pendientes": [],
+      "amba_indice": 0.31
+    },
+    {
+      "id": 261,
+      "num": "#261",
+      "nombre_comun": "Pijuí Cola Parda",
+      "nombre_cientifico": "Synallaxis albescens",
+      "familia": "Furnariidae",
+      "orden": "Passeriformes",
+      "descripcion": {
+        "D": "Pájaro chico, de cola larga y escalonada. Frente gris y corona castaña. Pico negro arriba y gris oscuro abajo. Ojo pardo. Dorso pardo. Cubiertas del ala castañas; plumas del ala pardas y castañas. Cola parda. Garganta con una mancha negra poco notable. Partes inferiores grisáceas. Patas pardo oliváceas. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "pastizal",
+        "monte",
+        "humedal"
+      ],
+      "residencia": "estival",
+      "tamanio_categoria": "chico",
+      "largo_cm": "15",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chaco",
+        "Corrientes",
+        "Córdoba",
+        "Entre Ríos",
+        "Formosa",
+        "Jujuy",
+        "La Pampa",
+        "La Rioja",
+        "Mendoza",
+        "Misiones",
+        "Río Negro",
+        "Salta",
+        "San Juan",
+        "San Luis",
+        "Santa Fe",
+        "Santiago del Estero",
+        "Tucumán"
+      ],
+      "curiosidades": "Repite sin parar un canto de dos notas que suena como su nombre, 'pi-juí'. Es difícil de ver porque anda escondido en pastizales altos y arbustos, buscando insectos y arañas en el follaje. Construye un nido grande y cerrado de palitos, con un tubo de entrada al costado.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a short grass stem, white background, 1024x1024 pixels, bird including its long tail filling about 75% of canvas width, small slim spinetail with a long graduated pointed tail, grey forehead, rufous chestnut crown, short thin pointed bill with black upper mandible and dark grey lower mandible, small brown eye with a tiny dark pupil, plain brown back, rufous chestnut wing coverts, brown and rufous flight feathers, long brown tail with narrow pointed feather tips, pale grey throat with a small faint black patch, pale greyish breast and belly, olive brown legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "pabspi1",
+      "gbif_taxon_key": 2484936,
+      "pendientes": [],
+      "amba_indice": 0.16
+    },
+    {
+      "id": 262,
+      "num": "#262",
+      "nombre_comun": "Calancate Cara Roja",
+      "nombre_cientifico": "Psittacara mitratus",
+      "familia": "Psittacidae",
+      "orden": "Psittaciformes",
+      "descripcion": {
+        "D": "Loro mediano, de cola larga y en punta. Casi todo verde, con la frente y la parte de adelante de la corona rojas; el rojo llega delante del ojo y a veces baja por las mejillas en manchitas. Piel desnuda blanca alrededor del ojo. Pico fuerte, color hueso. Macho y hembra son iguales; los jóvenes tienen poco o nada de rojo."
+      },
+      "habitat": [
+        "bosque",
+        "monte",
+        "urbano"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "34-38",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Jujuy",
+        "Salta",
+        "Tucumán"
+      ],
+      "curiosidades": "Vive en las yungas y bosques serranos del noroeste, donde forma bandadas ruidosas que bajan a comer frutos y semillas. En la ciudad de Buenos Aires hay grupos de calancates escapados de jaula que se adaptaron a parques y arboledas. Duerme en grupo y anida en huecos de árboles y barrancas.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a branch, white background, 1024x1024 pixels, bird including its long tail filling about 75% of canvas width, medium parakeet with a long pointed tail, mostly bright green plumage, red forehead and forecrown, red in front of the eye with a few small red flecks on the cheek, bare white skin around the eye, strong hooked pale horn colored bill, small eye with a tiny dark pupil, green back and wings, long pointed green tail, green breast and belly, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "mitpar",
+      "gbif_taxon_key": 7731984,
+      "pendientes": [
+        "La UNL no tiene ficha de la especie: rasgos tomados de Wikipedia (en/es).",
+        "Color de iris y patas: no se pudieron confirmar; se omitieron del prompt.",
+        "Registros en Buenos Aires y CABA: aves escapadas o asilvestradas (su área natural es el noroeste)."
+      ],
+      "amba_indice": 0.61
+    },
+    {
+      "id": 263,
+      "num": "#263",
+      "nombre_comun": "Loro Maitaca",
+      "nombre_cientifico": "Pionus maximiliani",
+      "familia": "Psittacidae",
+      "orden": "Psittaciformes",
+      "descripcion": {
+        "D": "Loro mediano y robusto, de cola corta y cuadrada. Color general verde; frente, corona, nuca, mejillas y lados del cuello teñidos de azul lila. Piel desnuda blanca alrededor del ojo. Pico amarillento con negro en la base. Ojo pardo oscuro. Alas verdes. Cola verde con las plumas de afuera azul violáceo. Debajo de la cola, plumas rojas. Patas negras. Macho y hembra son iguales."
+      },
+      "habitat": [
+        "bosque",
+        "monte",
+        "urbano"
+      ],
+      "residencia": "permanente",
+      "tamanio_categoria": "mediano",
+      "largo_cm": "25-29",
+      "envergadura_cm": null,
+      "estado_conservacion": "LC",
+      "provincias": [
+        "Buenos Aires",
+        "CABA",
+        "Catamarca",
+        "Chaco",
+        "Corrientes",
+        "Formosa",
+        "Jujuy",
+        "Misiones",
+        "Salta",
+        "Santa Fe",
+        "Tucumán"
+      ],
+      "curiosidades": "Vive en selvas y bosques del norte. Vuela con aleteos profundos, bajando mucho las alas por debajo del cuerpo, y avisa su paso con gritos fuertes. Cuando se asusta abre la cola y deja ver las plumas rojas de abajo. Come frutos, semillas y flores en la copa de los árboles.",
+      "sprites": {},
+      "prompts_pixelart": {
+        "D": "pixel art bird sprite, side profile, bird facing LEFT (beak pointing to the LEFT side of canvas), perched on a branch, white background, 1024x1024 pixels, bird filling 65% of canvas height, stocky parrot with a short square tail, forehead, crown, nape, cheeks and sides of the neck washed lilac blue, bare white skin around the eye, hooked yellowish bill with black at the base of the upper mandible, small dark brown eye with a tiny dark pupil, green back and wings, short square green tail with violet blue outer feathers, green breast and belly, red undertail coverts, black legs, detailed feather texture with dithering, clean outline, no shadow, no text — IMPORTANT: bird must face LEFT, mirror horizontally if facing right"
+      },
+      "audio_ebird_code": "schpar1",
+      "gbif_taxon_key": 2479907,
+      "pendientes": [
+        "Registros en Buenos Aires y CABA: probables aves escapadas de cautiverio (su área natural es el norte)."
+      ],
+      "amba_indice": 0.57
     }
   ]
 }

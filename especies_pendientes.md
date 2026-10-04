@@ -2,22 +2,14 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (255 cargadas).
+`aviario_data.json` (263 cargadas).
 
 
-**Faltan: 104 especies**
+**Faltan: 96 especies**
 
 
 | Rango MVP | Nombre común | Nombre científico | N° lista oficial |
 |---|---|---|---|
-| 255 | Saíra de Antifaz | *Pipraeidea melanonota* | #1066 |
-| 256 | Espinero Grande | *Phacellodomus ruber* | #666 |
-| 257 | Monjita Chocolate | *Neoxolmis rufiventris* | #834 |
-| 258 | Playerito Unicolor | *Calidris bairdii* | #240 |
-| 259 | Pitotoy Solitario | *Tringa solitaria* | #258 |
-| 260 | Pijuí Cola Parda | *Synallaxis albescens* | #694 |
-| 261 | Calancate Cara Roja | *Psittacara mitratus* | #567 |
-| 262 | Loro Maitaca | *Pionus maximiliani* | #547 |
 | 264 | Monjita Gris | *Nengetus cinereus* | #830 |
 | 265 | Calancate Cabeza Azul | *Thectocercus acuticaudatus* | #566 |
 | 266 | Calandria Mora | *Mimus patagonicus* | #896 |
