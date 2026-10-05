@@ -16485,7 +16485,9 @@
       },
       "audio_ebird_code": "bichaw1",
       "gbif_taxon_key": 3242735,
-      "pendientes": [],
+      "pendientes": [
+        "Excepción a la regla de GBIF: en Buenos Aires tiene 18 registros (menos de 20), repartidos en 7 años; se deja en la guía por decisión del usuario."
+      ],
       "amba_indice": 0.0
     },
     {

@@ -11,12 +11,15 @@ Uso:
       Recorta al ave, centra y guarda en Sprites/Genus_species_V.png
       (1024x1024, vuelo 1536x1024). Borra la marca de agua de Gemini (esquina
       inferior derecha) salvo con --con-marca. Si ya existía, la copia va a Sprites/backup/.
+      Después corre build_html.py y sube la versión de la caché en sw.js: solo queda
+      commitear y pushear.
 
 <especie> acepta id, nombre común o científico (igual que generar_sprites.py).
 """
 import argparse
 import base64
 import json
+import os
 import re
 import shutil
 import subprocess
@@ -133,8 +136,22 @@ def cmd_importar(a):
         shutil.copy(dest, SPRITES / 'backup' / f'{dest.stem}_{n}.png')
         print(f'Backup del anterior: Sprites/backup/{dest.stem}_{n}.png')
     out.save(dest, 'PNG')
-    print(f'Guardado {dest.relative_to(ROOT)} ({out.width}x{out.height}). '
-          'Después: python build_html.py y bumpear la caché en sw.js')
+    print(f'Guardado {dest.relative_to(ROOT)} ({out.width}x{out.height}).')
+    publicar()
+
+
+def publicar():
+    """Regenera index.html y sube la versión de la caché en sw.js."""
+    r = subprocess.run([sys.executable, 'build_html.py'], cwd=ROOT, capture_output=True, text=True,
+                       encoding='utf-8', env={**os.environ, 'PYTHONIOENCODING': 'utf-8'})
+    if r.returncode:
+        sys.exit('Falló build_html.py:\n' + r.stdout + r.stderr)
+    print(r.stdout.strip().splitlines()[-1])
+    sw = ROOT / 'sw.js'
+    s = sw.read_text(encoding='utf-8')
+    m = re.search(r"aviario-v(\d+)", s)
+    sw.write_text(s.replace(m.group(0), f'aviario-v{int(m.group(1)) + 1}', 1), encoding='utf-8', newline='')
+    print(f'Caché: aviario-v{int(m.group(1)) + 1}. Falta commitear y pushear (Sprites, index.html, sw.js).')
 
 
 def main():
