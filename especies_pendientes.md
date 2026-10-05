@@ -2,7 +2,7 @@
 
 
 Cruce de la lista MVP (359 especies ordenadas por cantidad de observaciones) contra
-`aviario_data.json` (357 cargadas).
+`aviario_data.json` (355 cargadas).
 
 
 **Faltan: 0 especies**
